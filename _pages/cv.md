@@ -67,7 +67,7 @@ redirect_from:
 ## Policy 
 
 * As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry | 経済産業省：産業構造審議会, 2018-present. 
-  * Ministry of the Environment | 環境省：中央環境審議会, 2018-19, 2021-present.
-  * Financial Services Agency | 金融庁：金融審議会専門委員, 2014-16. 
-  * Cabinet Office | 内閣府：行政改革推進本部, 2013-14. 
+  * Ministry of Economy, Trade and Industry, 経済産業省：産業構造審議会, 2018-present. 
+  * Ministry of the Environment, 環境省：中央環境審議会, 2018-19, 2021-present.
+  * Financial Services Agency, 金融庁：金融審議会専門委員, 2014-16. 
+  * Cabinet Office, 内閣府：行政改革推進本部, 2013-14. 
