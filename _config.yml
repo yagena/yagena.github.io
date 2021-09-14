@@ -86,7 +86,7 @@ author:
   # location         : "Osaka - Osaka U."
   location         : "Lisbon - ISEG"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=NeL3SoQAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yosuke-Yasuda-2"
@@ -95,22 +95,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/yosuke.yasuda.7"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yagena"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/yyasuda0220/"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6366-6200"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/yagena"
   vine             :
   weibo            :
   xing             :
