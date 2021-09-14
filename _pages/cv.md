@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [Detailed PDF Version](files/CV_20201211.pdf)
+## [Detailed PDF Version](CV_20201211.pdf)
 
 ------
 
