@@ -12,7 +12,7 @@ I am an Associate Professor at the [Department of Economics](https://www.econ.os
 
 My Research
 ------ 
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
+I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
 
 What's New?
 ------
