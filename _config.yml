@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=NeL3SoQAAAAJ"
-  email            :
+  email            : "yosuke.yasuda [at] gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yosuke-Yasuda-2"
   uri              :
   bitbucket        :
@@ -114,8 +114,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : 
+  wikipedia        : "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90"
 
 
 # Reading Files
