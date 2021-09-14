@@ -49,24 +49,3 @@ My research focuses on Game Theory, Industrial Organization, and Market Design. 
 12. The 40% Handicap Auction, 2006 (last revised 2008).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922996)
 13. The Theory of Collusion under Financial Constraints, 2006 (last revised 2007).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922902)
 
-## Research Articles in Japanese | 日本語論文
-1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
-2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
-3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.
-4. 持続可能性と資本主義の未来　格差・技術・環境から考える, **財政と公共政策**, Vol. 66: 2-20, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
-  * 対談および質疑応答, **財政と公共政策**, Vol. 66: 21-36, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
-5. 5つの「なぜ？」でわかるノーベル経済学賞, **一橋ビジネスレビュー**, Vol.65, [No.1](https://www.iir.hit-u.ac.jp/blog/2017/06/13/2017-vol-65-no-1/): 86-99, 2017. 
-  * 縮約版を[こちら](https://note.com/yagena/n/nb4119b82726d)に公開しました。
-6. 地域制約の下での戦略的操作不可能なマッチングメカニズム（with 橋本直幸, 後藤誠大, 上田俊, 岩崎敦, 横尾真氏）, **電子情報通信学会論文誌**，J97-D(8), 1336-1346, 2014.
-  * IEEE Computer Society Japan Chapter JAWS Young Researcher Award
-  * 第12回情報科学技術フォーラムFIT2013 論文賞
-7. マッチング・マーケットデザインの理論と実践, **第25回RAMPシンポジウム予稿集**, pp.1-16, 2013.
-8. 学校選択問題のマッチング理論分析, **日本経済学会2013年度秋季大会**, 2013.
-  * 『現代経済学の潮流2014』（東洋経済新報社, 2014）に掲載．　
-9. マーケットデザインの理論とビジネスへの実践, **一橋ビジネスレビュー**, Vol.61, [No.1](https://www.iir.hit-u.ac.jp/blog/2013/06/07/2013-vol-61-no-1/): 6-21, 2013.
-10. マーケットデザインの進展と学校選択制への応用, **新世代法政策学研究**, [Vol.15 (Open Access)](https://lex.juris.hokudai.ac.jp/gcoe/journal/lpg15.html): 345-384, 2012.
-11. 財政と金融の連動 ― 経済・金融・国債の見方, **ジュリスト**, [No.1431（10月15日号）](http://www.yuhikaku.co.jp/jurist/detail/018465): 50-55, 2011. 　
-12. 電子マネーとポイントカードのスイッチングコスト分析, **オペレーションズ・リサーチ**, vol.55, no.1: 19-24, 2010.
-13. オークションによる最適参入規制：最適参入オークションの理論, **社会科学研究**, vol.55, no.3-4: 121-138, 2004
-14. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002. 
-
