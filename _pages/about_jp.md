@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "日本語"
+title: "日本語のページ"
 permalink: /about_jp/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
