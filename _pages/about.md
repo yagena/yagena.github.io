@@ -12,15 +12,13 @@ I am an Associate Professor at the [Department of Economics](https://www.econ.os
 
 My Research
 ------ 
-I am a theoretical economist with strong interests in applications. My research focuses on Microeconomic Theory, especially on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
+I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
 
 What's New?
 ------
-- \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. You can download them for free! 
-- 1. Matching with Subjective and Objective Evaluations:
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551
-- 1. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742
+- \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
+-  1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
+-  2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
 Example: editing a markdown file for a talk
