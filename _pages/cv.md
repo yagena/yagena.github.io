@@ -55,7 +55,7 @@ redirect_from:
 
 ## Media
 
-* As an editor or co-author, I have published 30 books. I have also contributed 250 articles to newspapers and economic magazines. As a commentator or navigator, I have appeared on TV programs more than 500 times. The programs that I have appeared on more than 10 times are as follows.
+* As an editor or co-author, I have published about 30 books. I have also contributed around 250 articles to newspapers, economic magazines, and online media. As a commentator or navigator, I have appeared on TV programs more than 500 times. The programs that I have appeared on more than 10 times are as follows.
   * 関西テレビ「報道ランナー」 (177 times)
   * フジテレビ「とくダネ！」 (128)
   * 読売テレビ「ミヤネ屋」 (65)
@@ -66,5 +66,8 @@ redirect_from:
 
 ## Policy 
 
-* As a member, I have participated in many government and public sector committees. 
-
+* As a member, I have participated in several government and public sector committees. 
+  * Ministry of Economy, Trade and Industry, 2016-17, 2018-present. 
+  * Ministry of the Environment, 2018-19, 2021-present.
+  * Financial Services Agency, 2014-16. 
+  * Cabinet Office, 2013-14. 
