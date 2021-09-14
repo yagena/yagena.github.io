@@ -28,7 +28,7 @@ I am a theoretical economist with strong interests in applications. My research 
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Matching with Subjective and Objective Evaluations (with Yuanju Fang), SSRN #3914551, 2021.
+1. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021. [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), SSRN #3914742, 2021.
 3. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, SSRN #2620861, 2021. 
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
