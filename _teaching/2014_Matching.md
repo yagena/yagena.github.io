@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/2014_Matching
 venue: "Osaka U., Econ"
-date: 2014 Spring
+date: 2014 Apr-Jul
 location: "Osaka, Japan"
 ---
 
