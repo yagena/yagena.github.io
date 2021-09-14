@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-# Refereed Research Articles
+I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports.
+
+------
+
+## Refereed Research Articles
 1. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), RAND Journal of Economics, Vol.51, Issue.1, pp.279-300, 2020. WP version 
 2. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), Artificial Intelligence, Vol.235, pp.49-57, 2016.
 3. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), American Economic Journal: Microeconomics, Vol.7, No.1, pp.1-42, 2015. WP version
