@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -84,7 +82,7 @@ redirect_from:
   * 2017: EEA-ESEM (Lisbon)
   * 2016: EEA-ESEM (Geneva)
   * 2015: IGDP Workshop (Barcelona)
-  * 
+  * 2014: ... 
 * Program Comittee
   * Japanese Economic Association: Spring Meeting, June 9-10, 2018.　
   * Japanese Economic Association: Fall Meeting, October 11-12, 2014. 
