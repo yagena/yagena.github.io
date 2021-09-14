@@ -11,8 +11,8 @@ redirect_from:
 I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I am also a co-founder of [Economics Design Inc.](https://econ.news/) I was born in Tokyo and speak English and Japanese. I have been staying at [ISEG University of Lisbon](https://www.iseg.ulisboa.pt/) (sabbatical leave) since April 2021.
 
 My Research
-======
-My research focuses on Game Theory and Industrial Organization with a primary interest in Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as leading journals in other related fields such as AAMAS , Artificial Intelligence, and Scientific Reports. 
+------ 
+I am a theoretical economist with strong interests in applications. My research focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
 
 
 Getting started
