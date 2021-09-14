@@ -83,12 +83,13 @@ author:
   name             : "Yosuke Yasuda"
   avatar           : "profile.png"
   bio              : "Associate Professor (Economics) | Co-founder of Economics Design Inc."
-  location         : "Location"
+  location         : "Osaka - Osaka U."
+  location         : "Lisbon - ISEG"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=NeL3SoQAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Yosuke-Yasuda-2"
   uri              :
   bitbucket        :
   codepen          :
