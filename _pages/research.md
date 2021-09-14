@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review , American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports.
+My research focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including American Economic Review, American Economic Journal, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports.
 
 ------
 
@@ -53,7 +53,7 @@ I am a theoretical economist with strong interests in applications. My research 
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
 2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
 3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.
-4. 持続可能性と資本主義の未来　格差・技術・環境から考える, **財政と公共政策**, Vol. 66: 2-20, 2019. / [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
+4. 持続可能性と資本主義の未来　格差・技術・環境から考える, **財政と公共政策**, Vol. 66: 2-20, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
   * 対談および質疑応答, **財政と公共政策**, Vol. 66: 21-36, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
 5. 5つの「なぜ？」でわかるノーベル経済学賞, **一橋ビジネスレビュー**, Vol.65, [No.1](https://www.iir.hit-u.ac.jp/blog/2017/06/13/2017-vol-65-no-1/): 86-99, 2017. 
   * 縮約版を[こちら](https://note.com/yagena/n/nb4119b82726d)に公開しました。
