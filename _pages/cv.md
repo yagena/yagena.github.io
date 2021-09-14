@@ -75,8 +75,8 @@ author_profile: true
   * 15th DC Congerence, August 2, 2009.
   * GRIPS international workshop, Frontiers of Game Theory: Global Games, June 7-8, 2008.   
 * Conference Presentations
-  * 2021: GAMES2020 (Budapest, Virtual)
-  * 2020: ESWC2020 (Milan, Virtual)
+  * 2021: GAMES2020 (Budapest, virtual)
+  * 2020: ESWC2020 (Milan, virtual)
   * 2019: NASMES (Seattle)
   * 2018: China Meeting of Econometric Society (Shanghai)
   * 2017: EEA-ESEM (Lisbon)
@@ -96,5 +96,4 @@ author_profile: true
   * Japanese Economic Association: Fall Meeting, October 11-12, 2014. 
   * Japanese Economic Association: Spring Meeting, June 23-24, 2012. 
   * 15th DC Congerence, August 2, 2010. 
-
 
