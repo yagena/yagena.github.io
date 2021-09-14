@@ -20,7 +20,7 @@ redirect_from:
 * Language: English (fluent), Japanese (Native) 
 
 
-## Research Interest
+## Research Interests
 
 * Game Theory
 * Industrial Organization
@@ -29,7 +29,7 @@ redirect_from:
 
 ## Current Positions
 
-* Associate Professor, Department of Economics, University of Osaka, 2014-present.
+* **Associate Professor**, Department of Economics, University of Osaka, 2014-present.
 * Visiting Reseacher, ISEG, University of Lisbon, 2021 April-present.
 * Co-founder, Economics Design Inc., 2020-present.
 
@@ -37,8 +37,9 @@ redirect_from:
 ## Previous Positions
 
 * Visiting Scholar, University of New South Wales (UNSW), 2016 April-May.
+* Guest Lecturer, Ministory of Finance, 2011-15.
 * Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014-15.
-* Assistant Professor, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
+* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
 * Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008-2011.
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
@@ -52,48 +53,18 @@ redirect_from:
 * B.A. in Economics, the University of Tokyo, 2002 
 
 
+## Media
+
+* As an editor or co-author, I have published 30 books. I have also contributed 250 articles to newspapers and economic magazines. As a commentator or navigator, I have appeared on TV programs more than 500 times. The programs that I have appeared on more than 10 times are as follows.
+  * 関西テレビ「報道ランナー」 (177 times)
+  * フジテレビ「とくダネ！」 (128)
+  * 読売テレビ「ミヤネ屋」 (65)
+  * NHK総合「NEWS WEB」 (52) 
+  * テレビ東京「ワールドビジネスサテライト」 （47）
+  * Eテレ「オイコノミア」 (19)
 
 
+## Policy 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* As a member, I have participated in many government and public sector committees. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
