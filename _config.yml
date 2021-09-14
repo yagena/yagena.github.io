@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yosuke Yasuda"
-  avatar           : "https://github.com/yagena/yagena.github.io/blob/4b6cc5ce0cda945c718dbe93820c119d308da15c/images/Handai.jpg"
+  avatar           : "/images/Handai.jpg"
   bio              : "Associate Professor (Economics) | Co-founder of Economics Design Inc."
   # location         : "Osaka - Osaka U."
   location         : "Lisbon - ISEG"
