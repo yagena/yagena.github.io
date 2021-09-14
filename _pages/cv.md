@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [Detailed PDF Version]
+## [Detailed PDF Version](files/CV_20201211.pdf)
 
 ------
 
@@ -36,10 +36,10 @@ redirect_from:
 
 ## Previous Positions
 
+* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
 * Visiting Scholar, University of New South Wales (UNSW), 2016 April-May.
 * Guest Lecturer, Ministory of Finance, 2011-15.
 * Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014-15.
-* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
 * Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008-2011.
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
@@ -67,7 +67,7 @@ redirect_from:
 ## Policy 
 
 * As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry, 2016-17, 2018-present. 
-  * Ministry of the Environment, 2018-19, 2021-present.
-  * Financial Services Agency, 2014-16. 
-  * Cabinet Office, 2013-14. 
+  * Ministry of Economy, Trade and Industry (経済産業省：産業構造審議会), 2018-present. 
+  * Ministry of the Environment (環境省：中央環境審議会), 2018-19, 2021-present.
+  * Financial Services Agency (金融庁：金融審議会専門委員), 2014-16. 
+  * Cabinet Office (内閣府：行政改革推進本部), 2013-14. 
