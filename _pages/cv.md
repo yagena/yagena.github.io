@@ -53,7 +53,7 @@ author_profile: true
 
 ## Media
 
-* As an editor or co-author, I have published about 30 books. I have also contributed around 250 articles to newspapers, economic magazines, and online media. As a commentator or navigator, I have appeared on TV programs more than 500 times. 
+* As an editor or co-author, I have published about **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media. As a commentator or navigator, I have appeared on TV programs more than **500** times. 
 
 
 ## Policy 
@@ -82,7 +82,15 @@ author_profile: true
   * 2017: EEA-ESEM (Lisbon)
   * 2016: EEA-ESEM (Geneva)
   * 2015: IGDP Workshop (Barcelona)
-  * 2014: ... 
+  * 2014: EARIE (Milan) 
+  * 2013: AMES (Taipei), JEA (Kanagawa, invited), Economic Science Association (Tokyo)
+  * 2012: GAMES2012 (Istanbul), SAET (Australia)
+  * 2011: EARIE (Stockholm), EEA-ESEM (Oslo), IIOC (Boston)
+  * 2010: Japanese-German Frontiers of Science Symposium (Potsdam), SAET (Singapore), 2nd Brazilian Workshop of the Game Theory Society (Sao paulo), JEA (Chiba, invited)
+  * 2009: EARIE (Ljubljana), EEA-ESEM (Barcelona), FESAMES (Tokyo), IIOC (Boston), SGPE Peebles PhD Conference (Edinburgh)
+  * 2008: EARIE (Toulouse), EEA-ESEM (Milan), GAMES2008 (Chicago), IIOC (Washington DC)
+  * 2007: EEA-ESEM (Budapest), KES/Yonsei mini conference (Seoul), FEMES (Taipei), NASMES (Durham)
+  * 2006: EEA-ESEM (Vienna) 
 * Program Comittee
   * Japanese Economic Association: Spring Meeting, June 9-10, 2018.　
   * Japanese Economic Association: Fall Meeting, October 11-12, 2014. 
