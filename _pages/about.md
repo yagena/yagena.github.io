@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was a faculty member at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and Ph.D. from Princeton University. Currently, I am taking a sabbatical and will be staying as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.  
-Osaka University, Department of Economics
-1-7 Machikaneyama, Toyonaka, Osaka, 560-0043 JAPAN
-E-mail: yosuke.yasuda <at> gmail.com
 
 
 ## My Research
@@ -24,7 +21,7 @@ I am a theoretical economist with strong interests in applications. My research 
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
-## Outsite Academia 
+## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
 * As a commentator or navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker or moderator, I have attended over **100** seminars and lectures.
