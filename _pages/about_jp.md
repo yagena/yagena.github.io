@@ -14,7 +14,7 @@ author_profile: true
 
 関西テレビ「報道ランナー」、フジテレビ「とくダネ！」、読売テレビ「情報ライブ ミヤネ屋」、テレビ東京「ワールドビジネスサテライト」などの番組にコメンテーター、NHK「ニュースウェブ」、NHK「欲望の資本主義」シリーズにナビゲーターとして出演。財務省「理論研修」講師、環境省「中央環境審議会」・金融庁「金融審議会」・経済産業省「産業構造審議会」専門委員、経済産業省「長期地球温暖化対策プラットフォーム」・内閣府「国・行政のあり方に関する懇談会」メンバー、自民党「未来戦略研究会」アドバイザーを務める。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
 
-* より詳細な情報については[個人ウェブサイト](https://sites.google.com/site/yosukeyasuda/jp)を参照ください。
+* より詳細な情報については[個人ウェブサイト](https://sites.google.com/site/yosukeyasuda/jp)をご覧ください。
 * [主要研究業績一覧（pdfファイル）](https://yagena.github.io/files/CV_jp_20170514.pdf) 
 
 ------ 
@@ -34,7 +34,7 @@ author_profile: true
 ### メディア出演
 * 2021年度はリスボン大学で在外研究を行うため不在です。しばらくメディア出演はお休みさせて頂きます。一番お世話になったテレビ出演の回数は、のべ「534回」でした。番組をご覧いただいた視聴者の皆さま、関係者の方々に改めてお礼申し上げます。
 * 出演回数が10回以上の番組は以下でした（カッコ内は出演回数）：
-  * 報道ランナー（177）、とくダネ！（128）、ミヤネ屋（65）、NEWS WEB（52）、WBS（47）、オイコノミア（19）
+  * 報道ランナー（177）、とくダネ！（128）、ミヤネ屋（65）、NEWS WEB（52）、ワールドビジネスサテライト（47）、オイコノミア（19）
 
 ### 過去のお知らせは[こちら](https://sites.google.com/site/yosukeyasuda/jp/info)をご覧ください。
 
@@ -137,7 +137,7 @@ author_profile: true
 
 ## 学外活動
 
-* メディア活動についてはこちらをご覧ください。
+* メディア活動については[メディア](https://yagena.github.io/about_jp/)をご覧ください。
 
 ### 動画 
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
@@ -218,13 +218,16 @@ author_profile: true
   * Japan-IMF Macroeconomics Seminar, 2月24日, 2012.
 
 ### 所属学会
-* American Economics Association
-* Econometric Society
-* European Association for Research in Industrial Economics (EARIE)
-* 日本経済学会
-* 日本オペレーションズ・リサーチ学会
-* 日本ソーシャルデータサイエンス学会
-* 経営情報学会 
+* 海外
+　　* American Economics Association
+　　* Econometric Society
+　　* * European Association for Research in Industrial Economics (EARIE)
+*　国内
+　* 日本経済学会
+　* Econometric Society
+　* 日本オペレーションズ・リサーチ学会
+　* 日本ソーシャルデータサイエンス学会
+　* 経営情報学会 
 
 ### 査読
 * 英語論文
