@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## [Summary (pdf)](http://yagena.github.io/files/CV_20201211.pdf)
+### [Summary (pdf)](http://yagena.github.io/files/CV_20201211.pdf)
 
 ------
 
@@ -23,6 +23,13 @@ author_profile: true
 * Game Theory
 * Industrial Organization
 * Market Design
+
+
+## Education
+
+* Ph.D. in Economics, Princeton University, 2007 
+* M.A. in Economics, the University of Tokyo, 2005 
+* B.A. in Economics, the University of Tokyo, 2002 
 
 
 ## Current Positions
@@ -42,13 +49,6 @@ author_profile: true
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
 * Visiting Student (Exchange Scholar Program), Columbia University, 2005-2006.
-
-
-## Education
-
-* Ph.D. in Economics, Princeton University, 2007 
-* M.A. in Economics, the University of Tokyo, 2005 
-* B.A. in Economics, the University of Tokyo, 2002 
 
 
 ## Professional Activities
