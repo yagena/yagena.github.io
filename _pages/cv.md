@@ -52,6 +52,13 @@ author_profile: true
 * Language: English (fluent), Japanese (Native) 
 
 
+## Selected Publications
+
+* Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.
+* Expanding “Choice” in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.
+* Resolving Conflicting Preferences in School Choice: The “Boston Mechanism” Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.
+
+
 ## Professional Activities
 
 * Referee 
