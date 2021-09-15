@@ -18,7 +18,7 @@ author_profile: true
 * 経済学者リスト（通称「安田リスト」）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
 * ブログなど：  [note](https://note.com/yagena/)  [Livedoor Blog](http://blog.livedoor.jp/yagena/)  [Blogspot](http://yyasuda.blogspot.com/) 
 * 旧ウェブサイト：  [Googlesite](https://sites.google.com/site/yosukeyasuda/jp)
-* [主要研究業績一覧（pdfファイル）](https://yagena.github.io/files/CV_jp_20170514.pdf) 
+* 主要研究業績一覧： [PDF](https://yagena.github.io/files/CV_jp_20170514.pdf) 
 
 ------ 
 
