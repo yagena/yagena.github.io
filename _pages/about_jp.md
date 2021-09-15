@@ -17,6 +17,7 @@ author_profile: true
 * より詳細な情報については[個人ウェブサイト](https://sites.google.com/site/yosukeyasuda/jp)を参照ください。
 * 研究業績一覧（pdfファイル）は[こちら](https://yagena.github.io/files/CV_jp_20170514.pdf)です。
 
+------ 
 
 ## お知らせ
 
@@ -40,6 +41,15 @@ author_profile: true
 ------ 
 
 ## 出版物
+
+### 英語論文（査読付き）
+1. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
+2. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
+3. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
+4. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
+5. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
+6. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
+7. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ### 日本語論文
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
@@ -123,20 +133,60 @@ author_profile: true
   * 第二部「理論編」を中心とした監修を担当.　
 10. 経済学で出る数学　ワークブックでじっくり攻める, 日本評論社, 2014.　
 
-### 英語論文（査読付き）
-1. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
-2. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
-3. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
-4. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
-5. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
-6. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
-7. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
-
+------ 
 
 ## 学外活動
 
-### 委員活動
+### 動画 
+* 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」 
+  * 第2回｜技術革新による新しいお金の流れと社会課題解決への新たなチャレンジ, 2021年1月29日.
+* Innovative City Forum 2020 
+  * 分科会【B2】｜価値観の変容（藤沢久美、村上由美子、佐藤純一の三氏と共演）, 2020年11月30日. 　YouTube 
+  * 同時通訳による英語版（English Translation）はこちらです。
+* 金融庁, 金融と意思決定の経済学, 2020年11月9日.　 YouTube
+* Rethink JAPAN, 【経済をRethinkせよ】安田洋祐と波頭亮が、日本の未来を見つめ直す, 2020年11月1日.　 YouTube  NewsPicks 
+* 金融庁, オンラインシンポジウム 「金融経済教育と資産形成の未来 ～新型コロナウイルスの影響を踏まえて～」, 2020年8月11日.
+  * 【基調対談】金融経済教育と資産形成の未来 　YouTube 
+* Biotalk #2: 「新常態の経済学を考える」（BIOTOPE代表佐宗邦威氏との対談）, 2020年8月3日.
+* Amazon Japan, 「第3回 Amazon Academy」
+  * 基調講演｜経済学者安田洋祐氏, 2019年10月29日.　 YouTube 
+  * パネルディスカッション, 2019年11月1日.　 YouTube 
+* 尾原和啓, ITビジネスの原理実践編
+  * 資本主義のUpdate：次のゲームルｰルは何か？, 2019年8月1日.  YouTube 
+* Amazon Japan, 「第2回 Amazon Academy」
+  * 第1部｜基調講演, 2019年7月25日.  YouTube 
+  * 第2部｜パネルディスカッション, 2019年7月25日.  YouTube 
+* JPIC YOUTH, 「経済学は役に立つのか？」佐々木紀彦さん(NewsPicks)×安田洋祐さん(経済学者)
+  * YouTube（前編 2018年9月28日 ｜ 後編 2018年10月3日）
 
+### 講演回
+* Zoomで経済学, 2021年2月.　
+* NewsPicks「【安田洋祐×波頭亮】経済をRethinkせよ！」, 2020年10月. 
+* アップル学園前カレッジ「トライアル講座」（オンライン）, 2020年10月.
+* University of Creativity「Mandala」（オンライン）, 2020年9月. 
+* サントリー文化財団「2020年代の日本と世界研究会」, 2020年9月.
+* 立命館西園寺塾, 2020年9月.
+* 日本NI「Executive Summit」, 2020年8月. 
+* 竹村眞一未来経営研究会, 2020年8月. 
+* めばえ適塾メンター講演会（オンライン）, 2020年8月. 
+* 浜名湖国際頭脳センター「問題解決と意思決定」特別講座（オンライン）, 2020年8月.
+* University of Creativity「Mandala」, 2020年6月.
+* 「人の資本主義」研究プロジェクト, 2020年6月.
+* 宇沢国際学館「宇沢弘文を読む」（京都・法然院）, 2020年1月.
+* 自治大学：特別講演会, 2020年1月.
+
+### イベント登壇　
+* 近未来金融システム創造プログラム（オンライン総括討議）, 2021年2月.
+* 内閣府「企業×女性起業家の取引促進イベント」（東京）, 2020年12月.
+* 多摩大学社会的投資研究所「コロナショック・サバイバル 日本経済復興計画2」（オンライン）, 2020年6月. 
+* 金融庁「金融経済教育と資産形成の未来 ～新型コロナウイルスの影響を踏まえて～」, 2020年6月.
+* 多摩大学社会的投資研究所「コロナショック・サバイバル 日本経済復興計画」（オンライン） , 2020年5月.
+* 内閣府「企業×女性起業家の取引促進イベント」（大阪）, 2020年2月.
+* ONE JAPAN CONFERENCE 2019, 2019年9月. 
+* ナレッジキャピタル「特別講演会」（成田さんとの対談）, 2019年8月.
+* 第30回資本主義の教養学講演会, 2019年8月.
+
+### 委員活動
 * 政府系委員会・審議会
   * 経済産業省：産業構造審議会, 2018-現在. 
   * 環境省：中央環境審議会, 2018-19, 2021-現在.
