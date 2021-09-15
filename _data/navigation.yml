@@ -10,6 +10,9 @@ main:
   - title: "日本語"
     url: /about_jp/
 
+  - title: "メディア"
+    url: /media/
+
   - title: "Teaching"
     url: /teaching/    
 
