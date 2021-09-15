@@ -41,9 +41,6 @@ author_profile: true
 
 ## 出版物
 
-### 英語論文（査読付き）
-
-
 ### 日本語論文
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
 2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
@@ -125,6 +122,15 @@ author_profile: true
 9. 日経ビジネス 日本経済入門（共監修）, 日経BP, 2014.　
   * 第二部「理論編」を中心とした監修を担当.　
 10. 経済学で出る数学　ワークブックでじっくり攻める, 日本評論社, 2014.　
+
+### 英語論文（査読付き）
+1. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
+2. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
+3. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
+4. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
+5. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
+6. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
+7. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 
 ## 学外活動
