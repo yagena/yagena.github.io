@@ -13,19 +13,16 @@ I am an Associate Professor at the [Department of Economics](https://www.econ.os
 ------
 
 ## My Research
-
 I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as great journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor or co-author, I have published about **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
 
 
 ## What's New?
-
 * \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
 ## Outsite Academia 
-
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
 * As a commentator or navigator, I have appeared on TV programs more than **500** times. 
 * As a member, I have participated in several government and public sector committees. 
