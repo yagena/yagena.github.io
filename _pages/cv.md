@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## [Detailed PDF Version](http://yagena.github.io/files/CV_20201211.pdf)
+## [Summary (pdf)](http://yagena.github.io/files/CV_20201211.pdf)
 
 ------
 
