@@ -15,6 +15,11 @@ I am an **Associate Professor** at the [Department of Economics](https://www.eco
 I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
 
 
+## Teaching 
+Below is the link to the courses I have taught. By going to each page you can download lecture notes, past exams, solutions, etc.
+* [2014 - 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
+* [2007 - 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
+
 ## What's New?
 * **August 2021** --- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
