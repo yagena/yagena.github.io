@@ -23,14 +23,13 @@ I am a theoretical economist with strong interests in applications. My research 
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
-* My twitter account has over 30k followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
+* My twitter account has over **30,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker/paneslist/moderator, I have attended over **100** lectures and symposium.
 * As a member, I have participated in several government and public sector committees. 
   * Ministry of Economy, Trade and Industry, 2018-present. 
   * Ministry of the Environment, 2018-19, 2021-present.
   * Financial Services Agency, 2014-16. 
-  * Cabinet Office, 2013-14. 
 
 ------
 
