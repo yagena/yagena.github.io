@@ -10,16 +10,35 @@ author_profile: true
 
 ### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 准教授
 
-1980年東京都生まれ。2002年に東京大学経済学部を卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.を取得（経済学）。政策研究大学院大学助教授を経て、2014年4月から現職。専門は戦略的な状況を分析するゲーム理論。主な研究テーマは、現実の市場や制度を設計するマーケットデザイン。「American Economic Review」など国際的な経済学術誌に論文を多数発表。学術研究の傍らマスメディアを通した一般向けの情報発信や政府での委員活動、経済学のビジネス活用にも積極的に取り組んでいる。
+1980年東京都生まれ。2002年に東京大学経済学部を卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.を取得（経済学）。政策研究大学院大学助教授を経て、2014年4月から現職。専門は戦略的な状況を分析するゲーム理論。主な研究テーマは、企業間の競争を扱う産業組織論や現実の市場や制度を設計するマーケットデザイン。「American Economic Review」など国際的な経済学術誌に論文を多数発表。学術研究の傍らマスメディアを通した一般向けの情報発信や政府での委員活動、経済学のビジネス活用にも積極的に取り組んでいる。
 
 関西テレビ「報道ランナー」、フジテレビ「とくダネ！」、読売テレビ「情報ライブ ミヤネ屋」、テレビ東京「ワールドビジネスサテライト」などの番組にコメンテーター、NHK「ニュースウェブ」、NHK「欲望の資本主義」シリーズにナビゲーターとして出演。財務省「理論研修」講師、環境省「中央環境審議会」・金融庁「金融審議会」・経済産業省「産業構造審議会」専門委員、経済産業省「長期地球温暖化対策プラットフォーム」・内閣府「国・行政のあり方に関する懇談会」メンバー、自民党「未来戦略研究会」アドバイザーを務める。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
 
+より詳細な情報については[個人ウェブサイト(公開準備中)]を参照ください。
 
-# 出版物
+
+## お知らせ
+
+### 研究・講演など
+* 大学院の指導学生である方元驹さんとのマッチングに関する共同研究を2本、SSRNにアップロードしました。どちらも自信作です。ご関心のある方はぜひリンク先から論文をご覧ください。
+1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
+2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
+* 7月28日（水）に発売された『Mart』（21年9月号）の「最近気になるNEWSな言葉」に「男性の育児休暇」と題するコラム記事が掲載されました。
+
+### メディア出演
+* 2021年度はリスボン大学で在外研究を行うため不在です。しばらくメディア出演はお休みさせて頂きます。一番お世話になったテレビ出演は、（確認したかぎり）のべ「534回」でした。番組をご覧いただいた視聴者の皆さま、関係者の方々に改めてお礼申し上げますm(_ _)m
+* 出演回数が10回以上の番組は以下でした（カッコ内は出演回数）：
+  * 報道ランナー（177）、とくダネ！（128）、ミヤネ屋（65）、NEWS WEB（52）、WBS（47）、オイコノミア（19）
+
+### [研究業績一覧(pdf)]
 
 
-## 日本語論文
+## 出版物
 
+### 英語論文
+
+
+### 日本語論文
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
 2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
 3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.
@@ -40,16 +59,13 @@ author_profile: true
 13. オークションによる最適参入規制：最適参入オークションの理論, **社会科学研究**, vol.55, no.3-4: 121-138, 2004
 14. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002. 
 
-## 書籍：編著
-
+### 書籍：編著
 1. 改訂版　経済学で出る数学（共編著）, 日本評論社, 2013.　amazonリンク 正誤表
   * 編集および1章と2章を担当． はしがきをこちらに掲載しました．
 2. 学校選択制のデザイン：ゲーム理論アプローチ（編著）, NTT出版, 2010.　出版社サイト 正誤表 
   * 書評：江口匡太筑波大学准教授, 東洋経済（リンク）, 2010/5/27.
 
-
-## 書籍：共著
-
+### 書籍：共著
 1. 共鳴する未来　データ革命で生み出すこれからの世界, 河出新書, 2020.  amazonリンク 
   * 第三章「多元化するデータ・エコノミー」の対談記事を執筆. 
 2. 人は明日どう生きるのか ― 未来像の更新, NTT出版, 2020.  amazonリンク  
@@ -80,9 +96,7 @@ author_profile: true
 15. 経済セミナー増刊：経済学で出る数学, 日本評論社, 2008.　出版社サイト 正誤表
 16. モバイルバリュー・ビジネス：電子マネー、企業ポイント、仮想通貨の見方・考え方, 中央経済社, 2008.　
 
-
-## 書籍：監訳
-
+### 書籍：監訳
 1. ラディカル・マーケット　脱・私有財産の世紀, 東洋経済新報社, 2019.  kindle版  
   * 日本語版解説（東洋経済オンラインに転載）も担当.    
 2. レヴィット ミクロ経済学 発展編, 東洋経済新報社, 2018.　kindle版 
@@ -91,9 +105,7 @@ author_profile: true
 4. 入門 オークション：市場をデザインする経済学, NTT出版, 2017.　amazonリンク
   * 監訳者解説をこちらに公開しました. 
 
-
-## 書籍：監修など
-
+### 書籍：監修など
 1. 未来を実装する―テクノロジーで社会を変革する４つの原則, 英治出版, 2021.  
   * 本書の土台となったプロジェクト「社会実装」（一般財団法人API主催）にメンバーとして参加. 
 2. 欲望の資本主義４ - 不確実性への挑戦：コロナ危機の本質, 東洋経済新報社, 2020.  
@@ -109,111 +121,63 @@ author_profile: true
 10. 経済学で出る数学　ワークブックでじっくり攻める, 日本評論社, 2014.　
 
 
-## What's New?
-- \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
-1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
-2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
+## 学外活動
+
+### 委員活動
+
+* 政府系委員会・審議会
+  * 経済産業省：産業構造審議会, 2018-present. 
+  * 環境省：中央環境審議会, 2018-19, 2021-present.
+  * 金融庁：金融審議会専門委員, 2014-16. 
+  * 内閣府：行政改革推進本部, 2013-14. 
 
 
-## [Detailed PDF Version](http://yagena.github.io/files/CV_20201211.pdf)
+## 学会活動
 
-
-------
-
-## Personal Information
-
-* Place of birth: Tokyo, JAPAN 
-* Citizenship: Japanese
-* Language: English (fluent), Japanese (Native) 
-
-
-## Research Interests
-
-* Game Theory
-* Industrial Organization
-* Market Design
-
-
-## Current Positions
-
-* **Associate Professor**, Department of Economics, University of Osaka, 2014-present.
-* Visiting Reseacher, ISEG, University of Lisbon, 2021 April-present.
-* Co-founder, Economics Design Inc., 2020-present.
-
-
-## Previous Positions
-
-* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
-* Visiting Scholar, University of New South Wales (UNSW), 2016 April-May.
-* Guest Lecturer, Ministory of Finance, 2011-15.
-* Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014-15.
-* Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008-2011.
-* Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
-* Visiting Scholar, University of Edinburgh, 2009 January.
-* Visiting Student (Exchange Scholar Program), Columbia University, 2005-2006.
-
-
-## Education
-
-* Ph.D. in Economics, Princeton University, 2007 
-* M.A. in Economics, the University of Tokyo, 2005 
-* B.A. in Economics, the University of Tokyo, 2002 
-
-
-## Media
-
-* As an editor or co-author, I have published about 30 books. I have also contributed around 250 articles to newspapers, economic magazines, and online media. As a commentator or navigator, I have appeared on TV programs more than 500 times. The programs that I have appeared on more than 10 times are as follows.
-  * 関西テレビ「報道ランナー」 (177 times)
-  * フジテレビ「とくダネ！」 (128)
-  * 読売テレビ「ミヤネ屋」 (65)
-  * NHK総合「NEWS WEB」 (52) 
-  * テレビ東京「ワールドビジネスサテライト」 （47）
-  * Eテレ「オイコノミア」 (19)
-
-
-## Policy 
-
-* As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry, 経済産業省：産業構造審議会, 2018-present. 
-  * Ministry of the Environment, 環境省：中央環境審議会, 2018-19, 2021-present.
-  * Financial Services Agency, 金融庁：金融審議会専門委員, 2014-16. 
-  * Cabinet Office, 内閣府：行政改革推進本部, 2013-14. 
-
-
-## Professional Activities
-
-* Referee 
-  * English Journals: American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare , Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
-  * 日本語論文誌: 応用地域学研究, 現代経済学の潮流, 社会技術研究論文集, 日本ソーシャルデータサイエンス学会論文誌, レヴァイアサン, InfoCom REVIEW.  
-* Conference Organizor
+### コンファレンス
+* オーガナイザー
   * 第1回 GRIPSマーケットデザイン・ワークショップ, 12月29日, 2012.　
   * 第4回日本台湾契約理論ワークショップ, 12月4日, 2010.
   * 第15回DCコンファレンス, 8月2日, 2009.
-  * GRIPS international workshop, Frontiers of Game Theory: Global Games, 6月7-8日, 2008.   
-* Program Comittee
-  * 日本経済学会春期大会, 6月9-10日, 2018.　
+  * GRIPS international workshop, Frontiers of Game Theory: Global Games, 6月7-8日, 2008.
+* プログラム委員
+  * 日本経済学会春期大会, 6月9-10日, 2018.　 
   * 日本経済学会秋期大会, 10月11-12日, 2014. 
   * 日本経済学会春期大会, 6月23-24日, 2012. 
   * 第16回DCコンファレンス, 8月2日, 2010. 
-* Presentations
-  * 2021: GAMES 2020 (ヴァーチャル開催) 
-  * 2020: 第2回「マーケットデザインの実践」コンファレンス, ESWC2020 ミラノ （ヴァーチャル開催）
-  * 2019: マーケットデザイン研究会：中之島ワークショップ, 日本OR学会関西支部シンポジウム, CTW Summer Camp 弘前大学, 早稲田大学, NASMES シアトル, 京都大学財政学研究会, 台湾大学, 
-  * 2018: 京都大学, 大阪大学（BBLセミナー）, 2018 China Meeting of Econometric Society 上海, 近畿大学
-  * 2017: The 10th Pan Pacific Game Theory Conference and TGU Empirical Analyses of Political Economy Symposium,　EEA-ESEM リスボン 
-  * 2016: 実験社会科学カンファレンス, 同志社大学, 日本経済学会 早稲田大学, EEA-ESEM ジュネーブ, 東京大学, ニューサウスルウェールズ大学, 　オーストラリア国立大学, 大阪大学社会経済研究所
-  * 2015: 東北大学, 北海道大学, 筑波大学, 神戸大学 夏期集中講義, SWET, ISER Seminar, Osaka University, IGDP Workshop Universitat Autonoma de Barcelona, Yokohama National University,
-  * 2014: ... 
+* 座長
+  * 日本経済学会春期大会, 6月9-10日, 2018.
+  * 日本経済学会秋期大会, 10月11-12日, 2014. 
+  * Japan-IMF Macroeconomics Seminar, 3月12日, 2014.　
+  * Japan-IMF Macroeconomics Seminar, 2月27日, 2013.
+  * 日本経済学会春期大会, 6月23-24日, 2012.
+  * Japan-IMF Macroeconomics Seminar, 2月24日, 2012.
+
+### 所属学会
+* American Economics Association
+* Econometric Society
+* European Association for Research in Industrial Economics (EARIE)
+* 日本経済学会
+* 日本オペレーションズ・リサーチ学会
+* 日本ソーシャルデータサイエンス学会
+* 経営情報学会 
+
+### 査読
+* 英語論文
+  * American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare , Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
+* 日本語論文
+  * 応用地域学研究, 現代経済学の潮流, 社会技術研究論文集, 日本ソーシャルデータサイエンス学会論文誌, レヴァイアサン, InfoCom REVIEW. 
 
 
 ## 研究助成
 
-* Kakenhi, 科学研究費補助金 - 研究代表者
+### 科学研究費補助金（日本学術振興会）
+* 研究代表者
   * 国際共同研究強化（A）, 再分配制約を考慮に入れた資源配分メカニズムのミクロ経済理論分析, 令和1-3年度（1547万円）.
   * 若手研究（B）, 再分配制約を考慮に入れた資源配分メカニズムのミクロ経済理論分析, 平成29-31年度（299万円）.
   * 若手研究（A）, オークションを通じた市場競争のミクロ経済理論分析, 平成23-25年度（728万円）.
   * 若手研究（スタートアップ）, 望ましい学校選択制度設計：マッチング理論によるアプローチ, 平成20-21年度（334万円）.
-* Kakenhi, 科学研究費補助金 - 研究分担者
+* 研究分担者
   * 基盤研究（A）, 近未来デジタル経済学のための制度設計（研究代表者：松島斉）, 令和2年度-5年度. 
   * 基盤研究（A）, マーケットデザインの実践的理論の構築（研究代表者：横尾真）, 平成29-31年度.
   * 基盤研究（B）, ゲーム理論的資源配分メカニズムの定量的評価基盤の構築（研究代表者：岩崎敦）, 平成29-31年度.
@@ -223,3 +187,11 @@ author_profile: true
   * 基盤研究（B）, 学校選択制度メカニズムのゲーム理論分析及び実験研究（研究代表者：川越敏司）, 平成23-25年度.
   * 基盤研究（B）, 交通ネットワークの整備・運用と都市集積の相互作用（研究代表者：岡本亮介）, 平成20-23年度.
 
+### その他
+* 大阪大学 経済学研究科：教員研究助成記念事業基金, 平成26年度第1期（45万円）.　
+  * 学校選択制のマッチング理論および実験研究
+* 公益財団法人 清明会
+  * 環境変化がカルテルや協調行動に及ぼす影響の理論分析, 平成24年（50万円）.
+
+
+*最終更新 - 2021年9月*
