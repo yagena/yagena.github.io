@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Before joining Osaka U., I had been on the faculty at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and Ph.D. from Princeton University. Currently, I am taking a sabbatical and will be staying as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.
+I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was a faculty member at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and Ph.D. from Princeton University. Currently, I am taking a sabbatical and will be staying as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.  
+Osaka University, Department of Economics
+1-7 Machikaneyama, Toyonaka, Osaka, 560-0043 JAPAN
+E-mail: yosuke.yasuda <at> gmail.com
 
-------
 
 ## My Research
 I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as great journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor or co-author, I have published about **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
@@ -25,6 +27,7 @@ I am a theoretical economist with strong interests in applications. My research 
 ## Outsite Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
 * As a commentator or navigator, I have appeared on TV programs more than **500** times. 
+* As a speaker or moderator, I have attended over **100** seminars and lectures.
 * As a member, I have participated in several government and public sector committees. 
   * Ministry of Economy, Trade and Industry, 2018-present. 
   * Ministry of the Environment, 2018-19, 2021-present.
