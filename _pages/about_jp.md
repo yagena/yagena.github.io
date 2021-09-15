@@ -38,7 +38,7 @@ author_profile: true
 * 出演回数が10回以上の番組は以下でした（カッコ内は出演回数）：
   * 報道ランナー（177）、とくダネ！（128）、ミヤネ屋（65）、NEWS WEB（52）、ワールドビジネスサテライト（47）、オイコノミア（19）
 
-### 過去のお知らせは[こちら](https://sites.google.com/site/yosukeyasuda/jp/info)をご覧ください。
+### 過去のお知らせは[こちら](https://yagena.github.io/about_past/)をご覧ください。
 
 ------ 
 
