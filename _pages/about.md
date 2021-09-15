@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. Before joining Osaka U., I have been on the faculty at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. I received my B.A. from the University of Tokyo, and received my Ph.D. from Princeton University. I was born in Tokyo in 1980 and speak English and Japanese. I will stay as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.
+I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Before joining Osaka U., I had been on the faculty at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and Ph.D. from Princeton University. Currently, I am taking a sabbatical and will be staying as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.
 
 ------
 
@@ -26,7 +26,7 @@ I am a theoretical economist with strong interests in applications. My research 
 
 ## Outsite Academia 
 
-* I am also a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
+* I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
 * As a commentator or navigator, I have appeared on TV programs more than **500** times. 
 * As a member, I have participated in several government and public sector committees. 
   * Ministry of Economy, Trade and Industry, 2018-present. 
@@ -35,4 +35,4 @@ I am a theoretical economist with strong interests in applications. My research 
   * Cabinet Office, 2013-14. 
 
 
-*Last update: September 2021
+*Last update: September 2021*
