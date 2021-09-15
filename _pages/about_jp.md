@@ -287,15 +287,15 @@ author_profile: true
 
 ### 所属学会
 * 海外
-　　 * American Economics Association
-　　 * Econometric Society
-　　 * European Association for Research in Industrial Economics (EARIE)
-*　国内
-　 * 日本経済学会
+　 * American Economics Association
 　 * Econometric Society
-　 * 日本オペレーションズ・リサーチ学会
-　 * 日本ソーシャルデータサイエンス学会
-　 * 経営情報学会 
+　 * European Association for Research in Industrial Economics (EARIE)
+*　国内
+  *　日本経済学会
+  * Econometric Society
+  * 日本オペレーションズ・リサーチ学会
+  * 日本ソーシャルデータサイエンス学会
+  * 経営情報学会 
 
 ### 査読
 * 英語論文
