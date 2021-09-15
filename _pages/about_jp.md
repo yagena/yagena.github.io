@@ -8,9 +8,18 @@ author_profile: true
 
 {% include base_path %}
 
-ここに文章を挿入。
+### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 准教授
 
-## 日本語論文
+1980年東京都生まれ。2002年に東京大学経済学部を卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.を取得（経済学）。政策研究大学院大学助教授を経て、2014年4月から現職。専門は戦略的な状況を分析するゲーム理論。主な研究テーマは、現実の市場や制度を設計するマーケットデザイン。「American Economic Review」など国際的な経済学術誌に論文を多数発表。学術研究の傍らマスメディアを通した一般向けの情報発信や政府での委員活動、経済学のビジネス活用にも積極的に取り組んでいる。
+
+関西テレビ「報道ランナー」、フジテレビ「とくダネ！」、読売テレビ「情報ライブ ミヤネ屋」、テレビ東京「ワールドビジネスサテライト」などの番組にコメンテーター、NHK「ニュースウェブ」、NHK「欲望の資本主義」シリーズにナビゲーターとして出演。財務省「理論研修」講師、環境省「中央環境審議会」・金融庁「金融審議会」・経済産業省「産業構造審議会」専門委員、経済産業省「長期地球温暖化対策プラットフォーム」・内閣府「国・行政のあり方に関する懇談会」メンバー、自民党「未来戦略研究会」アドバイザーを務める。2020年6月に[Economics Design Inc.](https://econ.news/)を共同創業。
+
+編著に『改訂版 経済学で出る数学 高校数学からきちんと攻める』（日本評論社、2013年）、『学校選択制のデザイン ゲーム理論アプローチ』（NTT出版、2010年）。監訳に『オークション・デザイン：ものの値段はこう決める』（早川書房、近刊予定）、『ラディカル・マーケット　脱・私有財産の世紀』（東洋経済新報社, 2019年）、『レヴィット ミクロ経済学　発展編』（東洋経済新報社、2018年）、『入門 オークション：市場をデザインする経済学』（NTT出版、2017年）。共著に『資本主義はどこに向かうのか―資本主義と人間の未来』（日本評論社、2019年）など。
+
+
+## 出版物
+
+* 日本語論文
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
 2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
 3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.
@@ -31,22 +40,27 @@ author_profile: true
 13. オークションによる最適参入規制：最適参入オークションの理論, **社会科学研究**, vol.55, no.3-4: 121-138, 2004
 14. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002. 
 
+* 書籍：編著
+
+* 書籍：共著
+
+* 書籍：監訳
+
+* 書籍：監修
 
 
-I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I am also a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business. I was born in Tokyo in 1980 and speak English and Japanese. I will stay as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.
 
-My Research
------- 
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and RAND Journal of Economics, as well as great journals in other fields such as AAMAS, Artificial Intelligence, and Scientific Reports. 
 
-What's New?
-------
+
+
+## What's New?
 - \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
 ## [Detailed PDF Version](http://yagena.github.io/files/CV_20201211.pdf)
+
 
 ------
 
