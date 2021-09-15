@@ -13,9 +13,6 @@ main:
   - title: "メディア"
     url: /media/
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Blog"
     url: /year-archive/    
      
