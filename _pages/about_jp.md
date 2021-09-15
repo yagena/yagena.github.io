@@ -290,7 +290,7 @@ author_profile: true
   * American Economics Association
   * Econometric Society
   * European Association for Research in Industrial Economics (EARIE)
-*　国内
+* 国内
   * 日本経済学会
   * Econometric Society
   * 日本オペレーションズ・リサーチ学会
