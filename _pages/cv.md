@@ -83,3 +83,6 @@ author_profile: true
   * Japanese Economic Association: Spring Meeting, June 23-24, 2012. 
   * 15th DC Congerence, August 2, 2010. 
 
+------ 
+
+*Go back to the [top page](https://yagena.github.io/).*
