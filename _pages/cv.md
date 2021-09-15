@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+
 ---
 
 {% include base_path %}
@@ -11,11 +12,11 @@ author_profile: true
 
 ------
 
-## Personal Information
+## Education
 
-* Place of birth: Tokyo, JAPAN 
-* Citizenship: Japanese
-* Language: English (fluent), Japanese (Native) 
+* Ph.D. in Economics, Princeton University, 2007 
+* M.A. in Economics, the University of Tokyo, 2005 
+* B.A. in Economics, the University of Tokyo, 2002 
 
 
 ## Research Interests
@@ -23,13 +24,6 @@ author_profile: true
 * Game Theory
 * Industrial Organization
 * Market Design
-
-
-## Education
-
-* Ph.D. in Economics, Princeton University, 2007 
-* M.A. in Economics, the University of Tokyo, 2005 
-* B.A. in Economics, the University of Tokyo, 2002 
 
 
 ## Current Positions
@@ -49,6 +43,13 @@ author_profile: true
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
 * Visiting Student (Exchange Scholar Program), Columbia University, 2005-2006.
+
+
+## Personal Information
+
+* Date of birth: February 20, 1980  
+* Nationality: Japan 
+* Language: English (fluent), Japanese (Native) 
 
 
 ## Professional Activities
