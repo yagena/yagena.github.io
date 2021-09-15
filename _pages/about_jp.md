@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "日本語のページ"
+title: "安田洋祐 のページ"
 permalink: /about_jp/
 author_profile: true
 
