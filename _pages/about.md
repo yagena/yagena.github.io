@@ -23,8 +23,8 @@ I am a theoretical economist with strong interests in applications. My research 
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
-* As a commentator or navigator, I have appeared on TV programs more than **500** times. 
-* As a speaker or moderator, I have attended over **100** seminars and lectures.
+* As a commentator/navigator, I have appeared on TV programs more than **500** times. 
+* As a speaker/paneslist/moderator, I have attended over **100** lectures and symposium.
 * As a member, I have participated in several government and public sector committees. 
   * Ministry of Economy, Trade and Industry, 2018-present. 
   * Ministry of the Environment, 2018-19, 2021-present.
