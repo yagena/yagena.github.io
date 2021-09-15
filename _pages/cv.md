@@ -16,7 +16,7 @@ author_profile: true
 
 * Ph.D. in Economics, Princeton University, 2007 
 * M.A. in Economics, the University of Tokyo, 2005 
-* B.A. in Economics, the University of Tokyo, 2002 
+* B.A. in Economics, *Summa cum Laude*, the University of Tokyo, 2002 
 
 
 ## Research Interests
@@ -28,21 +28,21 @@ author_profile: true
 
 ## Current Positions
 
-* **Associate Professor**, Department of Economics, University of Osaka, 2014-present.
-* Visiting Reseacher, ISEG, University of Lisbon, 2021 April-present.
-* Co-founder, Economics Design Inc., 2020-present.
+* **Associate Professor**, Department of Economics, University of Osaka, 2014 April - present.
+* Visiting Reseacher, ISEG, University of Lisbon, 2021 April - present.
+* Co-founder, Economics Design Inc., 2020 June - present.
 
 
 ## Previous Positions
 
-* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007-2014.
-* Visiting Scholar, University of New South Wales (UNSW), 2016 April-May.
-* Guest Lecturer, Ministory of Finance, 2011-15.
-* Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014-15.
-* Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008-2011.
+* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007 - 14.
+* Visiting Scholar, University of New South Wales (UNSW), 2016 April - May.
+* Guest Lecturer, Ministory of Finance, 2011 - 15.
+* Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014 - 15.
+* Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008 - 11.
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
-* Visiting Student (Exchange Scholar Program), Columbia University, 2005-2006.
+* Visiting Student (Exchange Scholar Program), Columbia University, 2005 - 06.
 
 
 ## Personal Information
