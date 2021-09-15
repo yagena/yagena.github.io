@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was a faculty member at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and Ph.D. from Princeton University. Currently, I am taking a sabbatical and will be staying as a visiting researcher at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.  
+I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was a faculty member at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and **Ph.D.** from Princeton University. Currently, I am taking a sabbatical and will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon, as a **visiting researcher**, until the summer of 2022.  
 
 
 ## My Research
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and Market Design. I have published papers in leading economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as great journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor/co-author/supervisor, I have published **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
+I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor/co-author/supervisor, I have published **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
 
 
 ## What's New?
@@ -31,5 +31,6 @@ I am a theoretical economist with strong interests in applications. My research 
   * Financial Services Agency, 2014-16. 
   * Cabinet Office, 2013-14. 
 
+------
 
-*Last update: September 2021*
+<span style="color: red; ">Last update: September 2021</span>
