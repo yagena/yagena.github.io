@@ -16,7 +16,7 @@ I am a theoretical economist with strong interests in applications. My research 
 
 
 ## What's New?
-* \[August 2021\] I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
+* **August 2021** --- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
@@ -27,9 +27,9 @@ I am a theoretical economist with strong interests in applications. My research 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker/paneslist/moderator, I have attended over **100** lectures and symposium.
 * As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry, 2018-present. 
-  * Ministry of the Environment, 2018-19, 2021-present.
-  * Financial Services Agency, 2014-16. 
+  * Ministry of Economy, Trade and Industry, 2018 - present. 
+  * Ministry of the Environment, 2018 - 19, 2021 - present.
+  * Financial Services Agency, 2014 - 16. 
 
 ------
 
