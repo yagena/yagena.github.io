@@ -6,13 +6,13 @@ main:
 
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Blog"
+    url: /year-archive/    
+
   - title: "日本語"
     url: /about_jp/
 
   - title: "メディア"
     url: /media/
-
-  - title: "Blog"
-    url: /year-archive/    
-     
+  
