@@ -33,9 +33,9 @@ Below is the link to the courses that I have taught. By going to each page you c
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker/paneslist/moderator, I have attended over **100** lectures and seminars.
 * As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry, 2018 - present. 
-  * Ministry of the Environment, 2018 - 19, 2021 - present.
-  * Financial Services Agency, 2014 - 16. 
+  * Ministry of Economy, Trade and Industry, 2018 -- present. 
+  * Ministry of the Environment, 2018 -- 19, 2021 -- present.
+  * Financial Services Agency, 2014 -- 16. 
 
 ------
 
