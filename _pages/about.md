@@ -21,7 +21,7 @@ Below is the link to the courses that I have taught. By going to each page you c
 * [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
 
 ## What's New?
-* **August 2021** --- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
+* **August 2021** -- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
