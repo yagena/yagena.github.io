@@ -34,7 +34,7 @@ author_profile: true
 ## Education
 
 * **Ph.D.** in Economics, Princeton University, 2007 
-* **MA** in Economics, the University of Tokyo, 2005 
+* **MA** in Economics, Princeton University, 2005 
 * **BA** in Economics, *Summa cum Laude*, the University of Tokyo, 2002 
 
 
