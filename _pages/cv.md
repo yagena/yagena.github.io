@@ -12,13 +12,6 @@ author_profile: true
 
 ------
 
-## Education
-
-* Ph.D. in Economics, Princeton University, 2007 
-* M.A. in Economics, the University of Tokyo, 2005 
-* B.A. in Economics, *Summa cum Laude*, the University of Tokyo, 2002 
-
-
 ## Current Positions
 
 * **Associate Professor**, Department of Economics, University of Osaka, 2014 April - present.
@@ -36,6 +29,13 @@ author_profile: true
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
 * Visiting Student (Exchange Scholar Program), Columbia University, 2005 - 06.
+
+
+## Education
+
+* **Ph.D.** in Economics, Princeton University, 2007 
+* **MA** in Economics, the University of Tokyo, 2005 
+* **BA** in Economics, *Summa cum Laude*, the University of Tokyo, 2002 
 
 
 ## Personal Information
