@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have my BA from the University of Tokyo and **Ph.D.** from Princeton University. As a **Visiting Researcher**, I will be staying at ISEG in Lisbon until the summer of 2022.
+I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have my BA from the University of Tokyo and **Ph.D.** from Princeton University. As a **Visiting Researcher**, I will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon until the summer of 2022.
 
 
 ## What's New?
