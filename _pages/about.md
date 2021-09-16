@@ -24,7 +24,7 @@ I am a theoretical economist with strong interests in applications. My research 
 ## Teaching 
 Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
 * [2014 -- 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
-* [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
+* [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/home/teaching) at GRIPS. 
 
 
 ## Beyond Academia 
