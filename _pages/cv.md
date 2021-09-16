@@ -14,21 +14,21 @@ author_profile: true
 
 ## Current Positions
 
-* **Associate Professor**, Department of Economics, University of Osaka, 2014 April - present.
-* Visiting Reseacher, ISEG, University of Lisbon, 2021 April - present.
-* Co-founder, Economics Design Inc., 2020 June - present.
+* **Associate Professor**, Department of Economics, University of Osaka, 2014 April -- present.
+* Visiting Reseacher, ISEG, University of Lisbon, 2021 April -- present.
+* Co-founder, [Economics Design Inc.](https://econ.news/), 2020 June -- present.
 
 
 ## Previous Positions
 
-* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007 - 14.
-* Visiting Scholar, University of New South Wales (UNSW), 2016 April - May.
-* Guest Lecturer, Ministory of Finance, 2011 - 15.
-* Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014 - 15.
-* Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008 - 11.
+* **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007 -- 14.
+* Visiting Scholar, University of New South Wales (UNSW), 2016 April -- May.
+* Guest Lecturer, Ministory of Finance, 2011 -- 15.
+* Visiting Lecturer, National Graduate Institute for Policy Studies (GRIPS), 2014 -- 15.
+* Fellow, Virtual Center for Advanced Studies in Institution (VCASI), 2008 -- 11.
 * Visiting Lecturer, Kyoto Institute of Economic Research (KIER), Kyoto University, 2009.
 * Visiting Scholar, University of Edinburgh, 2009 January.
-* Visiting Student (Exchange Scholar Program), Columbia University, 2005 - 06.
+* Visiting Student (Exchange Scholar Program), Columbia University, 2005 -- 06.
 
 
 ## Education
