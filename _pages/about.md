@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was an **Assistant Professor**  at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and **Ph.D.** from Princeton University. Currently, I am taking a sabbatical and will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon, as a **visiting researcher**, until the summer of 2022.  
+I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have a bachelor's degree from the University of Tokyo and **Ph.D.** from Princeton University. Currently, I am taking a sabbatical and will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon, as a **visiting researcher**, until the summer of 2022.  
+
+
+## What's New?
+* **August 2021** -- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
+1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
+2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
 ## My Research
@@ -19,11 +25,6 @@ I am a theoretical economist with strong interests in applications. My research 
 Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
 * [2014 -- 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
 * [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
-
-## What's New?
-* **August 2021** -- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
-1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
-2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
 
 ## Beyond Academia 
