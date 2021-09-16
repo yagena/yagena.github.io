@@ -19,13 +19,6 @@ author_profile: true
 * B.A. in Economics, *Summa cum Laude*, the University of Tokyo, 2002 
 
 
-## Research Interests
-
-* Game Theory
-* Industrial Organization
-* Market Design
-
-
 ## Current Positions
 
 * **Associate Professor**, Department of Economics, University of Osaka, 2014 April - present.
@@ -50,6 +43,13 @@ author_profile: true
 * Date of birth: February 20, 1980  
 * Nationality: Japan 
 * Language: English (fluent), Japanese (Native) 
+
+
+## Research Interests
+
+* Game Theory
+* Industrial Organization
+* Market Design
 
 
 ## Selected Publications
