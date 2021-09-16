@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was a faculty member at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and **Ph.D.** from Princeton University. Currently, I am taking a sabbatical and will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon, as a **visiting researcher**, until the summer of 2022.  
+I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I was born in Tokyo in 1980 and speak English and Japanese. Prior to working at Osaka U., I was an **Assistant Professor**  at the National Graduate Institute for Policy Studies ([GRIPS](https://www.grips.ac.jp/en/)) from 2007 to 2014. As for my academic background, I have a bachelor's degree from the University of Tokyo and **Ph.D.** from Princeton University. Currently, I am taking a sabbatical and will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in Lisbon, as a **visiting researcher**, until the summer of 2022.  
 
 
 ## My Research
@@ -16,9 +16,9 @@ I am a theoretical economist with strong interests in applications. My research 
 
 
 ## Teaching 
-Below is the link to the courses I have taught. By going to each page you can download lecture notes, past exams, solutions, etc.
-* [2014 - 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
-* [2007 - 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
+Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
+* [2014 -- 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
+* [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/top-page/teaching) at GRIPS. 
 
 ## What's New?
 * **August 2021** --- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The link for SSRN is below. 
@@ -30,7 +30,7 @@ Below is the link to the courses I have taught. By going to each page you can do
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
 * My twitter account has over **30,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
-* As a speaker/paneslist/moderator, I have attended over **100** lectures and symposium.
+* As a speaker/paneslist/moderator, I have attended over **100** lectures and seminars.
 * As a member, I have participated in several government and public sector committees. 
   * Ministry of Economy, Trade and Industry, 2018 - present. 
   * Ministry of the Environment, 2018 - 19, 2021 - present.
