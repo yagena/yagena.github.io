@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "過去のお知らせ"
-permalink: /about_past/
+permalink: /past/
 author_profile: true
 
 ---
