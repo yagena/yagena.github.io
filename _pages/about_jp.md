@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "安田洋祐 のページ"
-permalink: /jp
+permalink: /jp/
 author_profile: true
 
 ---
