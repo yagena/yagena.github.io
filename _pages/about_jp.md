@@ -214,6 +214,7 @@ author_profile: true
 ## 学外活動
 
 * メディア活動については[メディア](https://yagena.github.io/media/)をご覧ください。
+* 講演のスライド資料や寄稿原稿の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
