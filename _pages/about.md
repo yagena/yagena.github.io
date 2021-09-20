@@ -25,6 +25,10 @@ I am a theoretical economist with strong interests in applications. My research 
 Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
 * [2014 -- 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
 * [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/home/teaching) at GRIPS. 
+* **Lecture Slides** (in English)
+  * [Introduction to Auction Theory](https://www.slideshare.net/YosukeYasuda1/introduction-to-auction-theory) -- 2017 
+  * [Introduction to Decision Making Theory](https://www.slideshare.net/YosukeYasuda1/introduction-to-decision-making-theory) -- 2015 
+  * [Theory of Repeated Games](https://www.slideshare.net/YosukeYasuda1/theory-of-repeated-games) -- 2015
 
 
 ## Beyond Academia 
