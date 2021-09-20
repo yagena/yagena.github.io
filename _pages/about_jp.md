@@ -240,9 +240,10 @@ author_profile: true
   * YouTube （[前編](https://www.youtube.com/watch?v=-iD_wb4PCLM) 2018年9月28日 ｜ [後編](https://www.youtube.com/watch?v=p4mCKaBosXw) 2018年10月3日）
 
 ### 講演会（2020年以降）
-* 立命館西園寺塾（オンライン）, 2021年7月.
+* 立命館西園寺塾（オンライン）, 2021年7月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/2021-249822481)
 * 買い占め論文ミニワークショップ（オンライン）, 2021年4月. 
-* Zoomで経済学（オンライン）, 2021年2月.　 [Web](http://ykamada.com/japanese/zoom/)
+* 近未来金融システム創造プログラム（オンライン）, 2021年4月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/2021-247044548)
+* Zoomで経済学（オンライン）, 2021年2月.　 [Web](http://ykamada.com/japanese/zoom/)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-242174084)
 * 公立はこだて未来大学（オンライン）, 2021年2月. 
 * NewsPicks「【安田洋祐×波頭亮】経済をRethinkせよ！」（東京）, 2020年10月.  [Web](https://newspicks.com/movie-series/45?movieId=934)
 * アップル学園前カレッジ「トライアル講座」（オンライン）, 2020年10月.
@@ -251,10 +252,10 @@ author_profile: true
 * 立命館西園寺塾（東京）, 2020年9月.
 * 日本NI「Executive Summit」（東京）, 2020年8月. 
 * 竹村眞一未来経営研究会（東京）, 2020年8月. 
-* めばえ適塾メンター講演会（オンライン）, 2020年8月. 
+* めばえ適塾メンター講演会（オンライン）, 2020年8月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-238145710)
 * 浜名湖国際頭脳センター「問題解決と意思決定」特別講座（オンライン）, 2020年8月.  [pdf](https://www.hamanako.jp/info/upload/20200718_mondaikaiketsu_onlineseminar_annai.pdf)
 * University of Creativity「Mandala」（東京）, 2020年6月.  [Web](https://uoc.world/now/detail/?id=9oceyzzet)
-* 宇沢国際学館「宇沢弘文を読む」（京都・法然院）, 2020年1月.
+* 宇沢国際学館「宇沢弘文を読む」（京都・法然院）, 2020年1月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-225529217)
 * 自治大学：特別講演会（東京）, 2020年1月.
 
 ### 研究報告
@@ -302,6 +303,7 @@ author_profile: true
 * 信託協会「信託経済コンファレンス」（オンライン）, 2020年12月. 
 * 内閣府「企業×女性起業家の取引促進イベント」（東京）, 2020年12月.  [Web](http://joseishacho.net/news/entry17153/) 
 * 日経ビジネスLIVE「入山章栄＆安田洋祐氏に学ぶ『最高峰の経営教室』, 2020年12月. 
+* Innovative City Forum, 2020年11月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/icf2020-242707056)
 * 日本経済学会秋季大会：サテライトイベント「経済学について知ろう！」（オンライン）, 2020年10月.  [Web](https://sites.google.com/view/jea-outrearch-2020/)
 * 多摩大学社会的投資研究所「コロナショック・サバイバル 日本経済復興計画2」（オンライン）, 2020年6月. 
 * 金融庁「金融経済教育と資産形成の未来 ～新型コロナウイルスの影響を踏まえて～」, 2020年6月.  [Web](https://www.fsa.go.jp/news/r1/sonota/20200620/20200620.html)
@@ -388,7 +390,7 @@ author_profile: true
   * 日本経済学会春期大会, 6月23-24日, 2012.
   * Japan-IMF Macroeconomics Seminar, 2月24日, 2012.
 * 国際学会報告
-  * GAMES2020,　ブダペスト（ヴァーチャル開催）, 2021年7月　
+  * GAMES2020,　ブダペスト（ヴァーチャル開催）, 2021年7月  [SlideShare](https://www.slideshare.net/YosukeYasuda1/optimization-approach-to-nash-euilibria-with-applications-to-interchangeability)
   * ESWC2020, ミラノ（ヴァーチャル開催）, 2020年8月 
   * NASMES, シアトル, 2019年6月 
   * China Meeting of Econometric Society, 上海, 2018年6月 
