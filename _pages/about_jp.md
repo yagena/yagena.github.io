@@ -213,7 +213,7 @@ author_profile: true
 ## 学外活動
 
 * メディア活動については[メディア](https://yagena.github.io/media/)をご覧ください。
-* 講演のスライド資料や寄稿原稿の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
+* スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
@@ -255,7 +255,7 @@ author_profile: true
 * 宇沢国際学館「宇沢弘文を読む」（京都・法然院）, 2020年1月.
 * 自治大学：特別講演会（東京）, 2020年1月.
 
-### 研究報告（2011年以降）
+### 研究報告
 * 2021
   * 第2回「マーケットデザインの実践」コンファレンス, 2021年2月
 * 2019
