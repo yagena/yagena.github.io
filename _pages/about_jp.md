@@ -412,7 +412,7 @@ author_profile: true
   * IIOC, ボストン, 2009年4月
   * EARIE, トゥールーズ, 2008年9月 
   * EEA-ESEM, ミラノ, 2008年8月
-  * GAMES2008, シカゴ（North Western University）, 2008年7月
+  * GAMES2008, シカゴ（ノースウェスタン大学）, 2008年7月
   * IIOC, ワシントンDC, 2008年5月
   * EEA-ESEM, ブダペスト, 2007年8月
   * KES/Yonseiミニコンファレンス,　ソウル, 2007年8月 
