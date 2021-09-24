@@ -239,6 +239,17 @@ author_profile: true
 * JPIC YOUTH, 「経済学は役に立つのか？」佐々木紀彦さん（NewsPicks） × 安田洋祐さん（経済学者）
   * YouTube （[前編](https://www.youtube.com/watch?v=-iD_wb4PCLM) 2018年9月28日 ｜ [後編](https://www.youtube.com/watch?v=p4mCKaBosXw) 2018年10月3日）
 
+### 講演・講義スライド（の一部）
+* [目からウロコのモラルハザード解決法](https://www.slideshare.net/YosukeYasuda1/ss-242174084) -- 2021年2月
+* [宇沢弘文を読む](https://www.slideshare.net/YosukeYasuda1/ss-225529217) -- 2020年1月 
+* [オークションの仕組み](https://www.slideshare.net/YosukeYasuda1/ss-198857941) -- 2019年11月
+* [マッチングの仕組み](https://www.slideshare.net/YosukeYasuda1/ss-136887803) -- 2019年5月 
+* [ゼロから学ぶゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-100006444) -- 2018年6月 
+* [資本主義と金融 2018](https://www.slideshare.net/YosukeYasuda1/2018-96052661) -- 2018年5月 
+* [契約理論って何だろう？](https://www.slideshare.net/YosukeYasuda1/ss-71773522) -- 2017年2月 
+* [スポーツに潜む戦略的思考](https://www.slideshare.net/YosukeYasuda1/ss-64774780) -- 2016年8月 
+  * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
+
 ### 講演会（2020年以降）
 * 立命館西園寺塾（オンライン）, 2021年7月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/2021-249822481)
 * 買い占め論文ミニワークショップ（オンライン）, 2021年4月. 
