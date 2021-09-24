@@ -180,13 +180,13 @@ author_profile: true
 * 神戸大学：夏期集中講義,　2015. 
   * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
 * 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
-  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro) 
+  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/advanced-microeconomics-lecture-slides)
 * 政策研究大学院大学,　2014.
   * Advanced Microeconomic Theory I 
   * Advanced Microeconomic Theory I 
   * Game Theory 
 * 早稲田大学オープンカレッジ,　2013.
-  * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)
+  * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
 
 ### 委員・研究員（継続中）
 * NTTドコモ：モバイルビジネス研究会,　2019 -- 
