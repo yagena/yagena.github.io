@@ -62,7 +62,7 @@ author_profile: true
 ### 日本語論文
 1. キャンセル料とインセンティブ設計の経済学, **現代消費者法**, [No.51](http://www.minjiho.com/shopdetail/000000001274/029/007/Y/page1/): 36-42, 2021. 
 2. 経済学で考える市場を通じた分配の可能性, **法律時報**, [No.1163（5月号）](https://www.nippyo.co.jp/shop/magazine/8540.html): 9-15, 2021.  
-3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.
+3. 「イノベーターのジレンマ」のゲーム理論的解明, **オペレーションズ・リサーチ**, Vol.65, No.5: 266-270.  [PDF](http://www.orsj.or.jp/archive2/or65-5/or65_5_266.pdf)
 4. 持続可能性と資本主義の未来　格差・技術・環境から考える, **財政と公共政策**, Vol. 66: 2-20, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
   * 対談および質疑応答, **財政と公共政策**, Vol. 66: 21-36, 2019.  [Link](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/244479)
 5. 5つの「なぜ？」でわかるノーベル経済学賞, **一橋ビジネスレビュー**, Vol.65, [No.1](https://www.iir.hit-u.ac.jp/blog/2017/06/13/2017-vol-65-no-1/): 86-99, 2017. 
@@ -76,7 +76,7 @@ author_profile: true
 9. マーケットデザインの理論とビジネスへの実践, **一橋ビジネスレビュー**, Vol.61, [No.1](https://www.iir.hit-u.ac.jp/blog/2013/06/07/2013-vol-61-no-1/): 6-21, 2013.
 10. マーケットデザインの進展と学校選択制への応用, **新世代法政策学研究**, [Vol.15 (Open Access)](https://lex.juris.hokudai.ac.jp/gcoe/journal/lpg15.html): 345-384, 2012.
 11. 財政と金融の連動 ― 経済・金融・国債の見方, **ジュリスト**, [No.1431（10月15日号）](http://www.yuhikaku.co.jp/jurist/detail/018465): 50-55, 2011. 　
-12. 電子マネーとポイントカードのスイッチングコスト分析, **オペレーションズ・リサーチ**, vol.55, no.1: 19-24, 2010.
+12. 電子マネーとポイントカードのスイッチングコスト分析, **オペレーションズ・リサーチ**, vol.55, no.1: 19-24, 2010.  [PDF](http://www.orsj.or.jp/archive2/or55-1/or55-1_19.pdf)
 13. オークションによる最適参入規制：最適参入オークションの理論, **社会科学研究**, vol.55, no.3-4: 121-138, 2004
 14. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002.  [pdf](https://yagena.github.io/files/Senior_thesis.pdf)
 
