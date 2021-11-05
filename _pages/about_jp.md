@@ -30,10 +30,11 @@ author_profile: true
 * 2021年3月末にポルトガルのリスボンに移動しました。2022年の夏まで、リスボン大学[ISEG](https://www.iseg.ulisboa.pt/)に客員研究員として滞在する予定です。日本学術振興会の助成金「国際共同研究強化（A）」に深く感謝します。
 
 ### 研究・講演など
+* 11月19日（金）に環境省：中央環境審議会「カーボンプライシング小委員会」（第18回・リモート開催）に委員として出席します。
 * 11月15日（月）に情報通信政策研究所「情報通信経済研究会」（第2回・オンライン開催）に委員として出席します。
 * 11月1日（月）に信託協会「地方創生に向けた信託・金融サービスの在り方～「新たな日常」の構築に向けて～」（第6回・オンライン開催）に委員として出席します。
 * 10月28日（木）に発売された『[Mart](https://mart-magazine.com/magazine/mart/mart122021/)』（21年12月号）の「最近気になるNEWSな言葉」に「てまえどり」と題するコラム記事が掲載されました。
-* 10月21日（木）に公立はこだて未来大学の川越敏司さんの講義にゲスト登壇し、大学院の指導学生である方元驹さんとの共同研究（以下の2本）について報告しました。
+* 10月21日（木）に公立はこだて未来大学の[川越敏司](https://www.fun.ac.jp/faculty/kawagoe-toshiji)教授の講義にゲスト登壇し、大学院の指導学生である方元驹さんとの共同研究（以下の2本）について報告しました。
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
@@ -187,6 +188,7 @@ author_profile: true
   * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
 
 ### 委員・研究員（継続中）
+* 国際経済交流財団：進化型産業政策研究会, 2021 -- 
 * NTTドコモ：モバイルビジネス研究会,　2019 -- 
 * NTT西日本：メディア融合研究会,　2019 -- 
 * 日本学術会議：経済学委員会「持続的発展のための制度設計」分科会,　2018 --　
@@ -194,7 +196,7 @@ author_profile: true
 * スカパーJSAT株式会社：番組審議会,　2018 -- 
 * サントリー文化財団：「2020年代の日本と世界」研究会,　2017 --  
 * 東京大学公共政策大学院：金融資本市場のあり方に関する産官学フォーラム,　2017 -- 
-* 信託協会,　2017 --
+* 信託協会,　2017 -- 
 * NTT東日本：データ主導経済における通信事業戦略に関する研究会,　2016 --　
 * NTT持株会社：各産業分野における競争戦略の在り方に関する研究会,　2012 -- 
 * オークション・マーケットデザインフォーラム（AMF）, 2012 --　
@@ -216,6 +218,8 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* 戦略とゲーム理論, 2021年4月1日.  [YouTube](https://www.youtube.com/watch?v=146wxipn_I8)
+  * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の講義「戦略とゲーム理論」（第1回）のダイジェスト版です。
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
   * 第2回｜技術革新による新しいお金の流れと社会課題解決への新たなチャレンジ, 2021年1月29日.  [Movie](https://webcast.net-ir.ne.jp/0202okkii2102/index.html)
 * Innovative City Forum 2020 
@@ -269,7 +273,7 @@ author_profile: true
 
 ### 研究報告
 * 2021
-  * 第2回「マーケットデザインの実践」コンファレンス, 2021年2月
+  * 公立はこだて未来大学 -- 10月, 第2回「マーケットデザインの実践」コンファレンス -- 2月
 * 2019
   * マーケットデザイン研究会：中之島ワークショップ -- 12月, 日本OR学会関西支部シンポジウム -- 11月, 早稲田大学 -- 10月, CTW（弘前大学） -- 8月, 京都大学財政学研究会 -- 4月, 台湾大学 -- 3月 
 * 2018
