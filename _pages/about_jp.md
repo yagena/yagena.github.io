@@ -30,15 +30,10 @@ author_profile: true
 * 2021年3月末にポルトガルのリスボンに移動しました。2022年の夏まで、リスボン大学[ISEG](https://www.iseg.ulisboa.pt/)に客員研究員として滞在する予定です。日本学術振興会の助成金「国際共同研究強化（A）」に深く感謝します。
 
 ### 研究・講演など
-* 10月9日（土）に日本経済学会［非公式］オンライン懇親会を開催します。詳細や登録方法については[note](https://note.com/yagena/n/n20530bbabed4)をご覧ください。
-* 10月9日（土）の10時から、日本経済学会秋季大会の企画セッション[「経済学のビジネス活用をめぐって」](https://confit.atlas.jp/guide/event/jeaf2021/session/1G01-01/tables?lOvtqYANOR)に座長としてオンライン登壇します。
-* 10月8日（金）にオンライン開催される日本経済学会サテライトイベント[「経済学の学び方・活かし方」](https://sites.google.com/view/jea-outrearch-2021/)にモデレーターとして登壇します。
-  * 当日は[YouTube](https://www.youtube.com/watch?v=uz-zKzLzrqk)にてライブストリーミングを行います。（事前登録なしで視聴できます）
-* 10月7日（木）にオンライン開催される日本学術会議：経済学委員会「持続的発展のための制度設計分科会」に連携会員として参加します。
-* 10月4日（月）にエコノミクスデザインとデロイトトーマツファイナンシャルアドバイザリーが共同開催するウェビナー「ESGと企業価値～最新のファイナンスと経済学の知見に基づく ESG 取り組みと企業価値の関係～」にモデレーターとしてオンライン登壇します。
-* 9月30日（木）にエコノミクスデザインが開催する特別ウェビナー（無料公開）にモデレーターとしてオンライン登壇します。詳細は[ウェブサイト](https://econ.news/night-school/)をご確認ください。
-* 先端研究ウェブメディア[esse_sense](https://esse-sense.com/)に[「経済格差を解決する糸口は、“平均からブレた分析”から見つかるかもしれない」](https://esse-sense.com/articles/20)という長文のインタビュー記事が掲載されました。
-* 大学院の指導学生である方元驹さんとのマッチングに関する共同研究を2本、SSRNにアップロードしました。どちらも自信作です。ご関心のある方はぜひリンク先から論文をご覧ください。
+* 11月15日（月）に情報通信政策研究所「情報通信経済研究会」（第2回・オンライン開催）に委員として出席します。
+* 11月1日（月）に信託協会「地方創生に向けた信託・金融サービスの在り方～「新たな日常」の構築に向けて～」（第6回・オンライン開催）に委員として出席します。
+* 10月28日（木）に発売された『[Mart](https://mart-magazine.com/magazine/mart/mart122021/)』（21年12月号）の「最近気になるNEWSな言葉」に「てまえどり」と題するコラム記事が掲載されました。
+* 10月21日（木）に公立はこだて未来大学の川越敏司さんの講義にゲスト登壇し、大学院の指導学生である方元驹さんとの共同研究（以下の2本）について報告しました。
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
