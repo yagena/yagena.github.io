@@ -37,6 +37,9 @@ author_profile: true
 ------ 
 
 ### 2021年
+* 10月21日（木）に公立はこだて未来大学の[川越敏司](https://www.fun.ac.jp/faculty/kawagoe-toshiji)教授の講義にゲスト登壇し、大学院の指導学生である方元驹さんとの共同研究（以下の2本）について報告しました。
+1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
+2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 * 10月9日（土）に日本経済学会［非公式］オンライン懇親会を開催します。詳細や登録方法については[note](https://note.com/yagena/n/n20530bbabed4)をご覧ください。
 * 10月9日（土）の10時から、日本経済学会秋季大会の企画セッション[「経済学のビジネス活用をめぐって」](https://confit.atlas.jp/guide/event/jeaf2021/session/1G01-01/tables?lOvtqYANOR)に座長としてオンライン登壇します。
 * 10月8日（金）にオンライン開催される日本経済学会サテライトイベント[「経済学の学び方・活かし方」](https://sites.google.com/view/jea-outrearch-2021/)にモデレーターとして登壇します。
