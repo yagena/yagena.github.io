@@ -37,6 +37,17 @@ author_profile: true
 ------ 
 
 ### 2021年
+* 11月30日（火）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第2回・オンライン開催）に委員として出席します。
+* 11月27日（土）に信託協会が主催する信託経済コンファレンスにコメンテーターとしてオンライン登壇します。
+* 11月22日（月）に国際経済交流財団「進化型産業政策研究会」（第1回・オンライン開催）に委員として出席します。
+* 11月20日（土）に近未来金融研究会で「新しい資本主義」というタイトルで講演（オンライン）します。
+* 11月19日（金）に環境省：中央環境審議会「カーボンプライシング小委員会」（第18回・リモート開催）に委員として出席します。
+* 11月15日（月）に情報通信政策研究所「情報通信経済研究会」（第2回・オンライン開催）に委員として出席します。
+* 大学院の指導学生である方元驹さんとのマッチング理論に関する共著論文（以下の2本）を改訂しました。中国の入試制度に触発された研究です。1で分析に必要な基礎理論を確立し、2でその理論を使いつつ現実の制度変更／設計を提案する、という内容になります。無料でダウンロードできますので、ご関心のある方はぜひ眺めてみてください！
+1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
+2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
+* 11月1日（月）に信託協会「地方創生に向けた信託・金融サービスの在り方～「新たな日常」の構築に向けて～」（第6回・オンライン開催）に委員として出席します。
+* 10月28日（木）に発売された『[Mart](https://mart-magazine.com/magazine/mart/mart122021/)』（21年12月号）の「最近気になるNEWSな言葉」に「てまえどり」と題するコラム記事が掲載されました。
 * 10月21日（木）に公立はこだて未来大学の[川越敏司](https://www.fun.ac.jp/faculty/kawagoe-toshiji)教授の講義にゲスト登壇し、大学院の指導学生である方元驹さんとの共同研究（以下の2本）について報告しました。
 1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
 2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
