@@ -19,7 +19,7 @@ author_profile: true
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ｜ [Github](https://yagena.github.io/year-archive/)
 * SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/)
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
-* 講義ページ： [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) ｜ [2014 -- 現在](https://sites.google.com/site/yosukeyasuda/jp/lectures) 
+* 講義ページ： [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) ｜ [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) 
 * 主要研究業績一覧： [PDF](https://yagena.github.io/files/CV_jp_20170514.pdf) 
 
 ------ 
