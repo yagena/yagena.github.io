@@ -12,9 +12,9 @@ I am an **Associate Professor** at the [Department of Economics](https://www.eco
 
 
 ## What's New?
-* **January 2022** -- I substantially revised and uploaded the following paper, co-authored with Takako Fujiwara-Greve, at the SSRN.
+* **January 2022** -- I substantially revised the following paper on repeated games co-authored with Takako Fujiwara-Greve (Keio U.).
   * [On The Folk Theorem in Self-Sustained Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
-* **November 2021** -- The following paper on contract theory (moral hazard problem) co-authored with Shingo Ishiguro (my colleague at Osaka U.) becomes R&R at the **Journal of Economic Theory**. The SSRN link for thepaper is below.
+* **November 2021** -- The following paper on moral hazard problems co-authored with Shingo Ishiguro (my colleague at Osaka U.) becomes R&R at the **Journal of Economic Theory**.
   * [Moral Hazard and Subjective Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
 * **August 2021** -- I completed two manuscripts on matching theory, both co-authored with Yuanju Fang (my Ph.D. student at Osaka U.). The SSRN link for each paper is below. 
   1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
