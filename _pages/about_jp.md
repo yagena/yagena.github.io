@@ -21,6 +21,7 @@ author_profile: true
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
 * 講義ページ： [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) ｜ [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) 
 * 主要研究業績一覧： [PDF](https://yagena.github.io/files/CV_jp_20170514.pdf) 
+* ビジネス向け履歴書： [google document](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)
 
 ------ 
 
@@ -483,4 +484,4 @@ author_profile: true
 
 *Go back to the [top page](https://yagena.github.io/).*
 
-<span style="color: red; ">最終更新日：2021年9月</span>
+<span style="color: red; ">最終更新日：2022年1月</span>
