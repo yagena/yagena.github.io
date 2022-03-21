@@ -12,6 +12,8 @@ I am an **Associate Professor** at the [Department of Economics](https://www.eco
 
 
 ## What's New?
+* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.).
+  * [Inspecting Cartels over Time: with and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)
 * **January 2022** -- I substantially revised the following paper on repeated games co-authored with Takako Fujiwara-Greve (Keio U.).
   * [On The Folk Theorem in Self-Sustained Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
 * **November 2021** -- The following paper on moral hazard problems co-authored with Shingo Ishiguro (at Osaka U.) becomes *R&R* at the **Journal of Economic Theory**.
