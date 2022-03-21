@@ -28,26 +28,27 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)  <span style="color: blue;">New!</span> 
-2. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  <span style="color: blue;">New!</span>
-3. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) -- *under review*
+1. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) <span style="color: blue;">New!</span>
+2. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
+3. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  <span style="color: blue;">New!</span>
+4. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) -- *under review*
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
-4. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295) -- *R&R at Journal of Economic Theory*
+5. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295) -- *R&R at Journal of Economic Theory*
   * Old version: Moral Hazard and Target Budgets (with Shingo Ishiguro), Osaka University [DP1803](http://www2.econ.osaka-u.ac.jp/library/global/dp/1803.pdf), 2018. 
-5. On The Folk Theorem in Self-Sustained Communities (with Takako Fujiwara-Greve), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767) -- *under review*
+6. On The Folk Theorem in Self-Sustained Communities (with Takako Fujiwara-Greve), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767) -- *under review*
   * Old version: The Folk Theorem in Repeated Games with Endogenous Termination, 2018.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267427)
-6. A Simple Economics of Inequality: Market Design Approach, 2017.
+7. A Simple Economics of Inequality: Market Design Approach, 2017.
   * Old version: Competitive Market Achieves the Greatest Happiness of the Minimum Number, 2016.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893) 
-7. Exit Option Can Make Cooperation Easier (with Takako Fujiwara-Greve), 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2558661)
-8. Efficiency and Stability in Strategy-proof Matching Mechanisms under Regional Constraints (with Masahiro Goto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), 2015.
+8. Exit Option Can Make Cooperation Easier (with Takako Fujiwara-Greve), 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2558661)
+9. Efficiency and Stability in Strategy-proof Matching Mechanisms under Regional Constraints (with Masahiro Goto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), 2015.
   * Old version: Improving fairness and efficiency in matching markets with regional caps: priority-list based deferred acceptance mechanism, 2014.  [WP](https://mpra.ub.uni-muenchen.de/53409/)
-9. Selective Cooperation under Payoff Fluctuations (with Takako Fujiwara-Greve), 2013.
+10. Selective Cooperation under Payoff Fluctuations (with Takako Fujiwara-Greve), 2013.
   * Old version: Collusion under Payoff Fluctuations, 2009.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1420822)
-10. Repeated Cooperation with Outside Options (with Takako Fujiwara-Greve), 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1092359)
+11. Repeated Cooperation with Outside Options (with Takako Fujiwara-Greve), 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1092359)
   * Old version: Cooperation in Repeated Prisoner's Dilemma with Outside Options, 2008.
-11. Understanding Stable Matchings: A Non-Cooperative Approach, (with Michihiro Kandori and Fuhito Kojima), 2008.
-12. The 40% Handicap Auction, 2006 (last revised 2008).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922996)
-13. The Theory of Collusion under Financial Constraints, 2006 (last revised 2007).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922902)
+12. Understanding Stable Matchings: A Non-Cooperative Approach, (with Michihiro Kandori and Fuhito Kojima), 2008.
+13. The 40% Handicap Auction, 2006 (last revised 2008).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922996)
+14. The Theory of Collusion under Financial Constraints, 2006 (last revised 2007).  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=922902)
 
 ------ 
 
