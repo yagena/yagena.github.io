@@ -30,7 +30,7 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ## Working Papers
 1. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) <span style="color: blue;">New!</span>
 2. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
-3. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  <span style="color: blue;">New!</span>
+3. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
 4. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) -- *under review*
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
 5. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295) -- *R&R at Journal of Economic Theory*
