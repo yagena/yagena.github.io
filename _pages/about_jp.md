@@ -247,6 +247,8 @@ author_profile: true
   * YouTube （[前編](https://www.youtube.com/watch?v=-iD_wb4PCLM) 2018年9月28日 ｜ [後編](https://www.youtube.com/watch?v=p4mCKaBosXw) 2018年10月3日）
 
 ### 講演・講義スライド（の一部）
+* [社会的共通資本と資本主義](https://www.slideshare.net/YosukeYasuda1/ss-251160835) -- 2022年2月
+* [「戦略的思考」で読み解くビジネスと社会](https://www.slideshare.net/YosukeYasuda1/ss-250885525) -- 2021年12月 
 * [目からウロコのモラルハザード解決法](https://www.slideshare.net/YosukeYasuda1/ss-242174084) -- 2021年2月
 * [宇沢弘文を読む](https://www.slideshare.net/YosukeYasuda1/ss-225529217) -- 2020年1月 
 * [オークションの仕組み](https://www.slideshare.net/YosukeYasuda1/ss-198857941) -- 2019年11月
@@ -258,6 +260,7 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* ピーチコーポレーション「Peach Women's Business School」, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-250885525)から閲覧できます。
 * 立命館西園寺塾（オンライン）, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/20212-250885497)
 * 立命館西園寺塾（オンライン）, 2021年7月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/2021-249822481)
 * 買い占め論文ミニワークショップ（オンライン）, 2021年4月. 
