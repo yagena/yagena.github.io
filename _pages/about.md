@@ -12,7 +12,7 @@ I am an **Associate Professor** at the [Department of Economics](https://www.eco
 
 
 ## What's New?
-* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.).
+* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.).  <span style="color: blue;">New!</span> 
   * [Inspecting Cartels over Time: with and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)
 * **January 2022** -- I substantially revised the following paper on repeated games co-authored with Takako Fujiwara-Greve (Keio U.).
   * [On The Folk Theorem in Self-Sustained Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
@@ -29,7 +29,7 @@ I am a theoretical economist with strong interests in applications. My research 
 
 ## Teaching 
 Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
-* [2014 -- 2021](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
+* [2014 -- Now](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
 * [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/home/teaching) at GRIPS. 
 * **Lecture Slides** (in English)
   * [Introduction to Auction Theory](https://www.slideshare.net/YosukeYasuda1/introduction-to-auction-theory) -- 2017 
