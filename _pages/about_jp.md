@@ -30,9 +30,10 @@ author_profile: true
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
-### 登壇予定の学会
-* 2022/07 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/)
-* 2022/06 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22)
+### 登壇・参加予定の学会
+* 6月9-11日 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), パドヴァ, イタリア. 
+* 6月22-24日 --- [Asian Meeting of the Econometric Society in China](https://ames2022.koushare.com/pcIndex#/pcIndex), ヴァーチャル開催. 
+* 7月8-9日 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/),アゾーレス｜ポルトガル. 
 
 ### 研究・講演・学外業務など
 * 4月12日（火）にグラスゴー大学で開催されるMicrotheory Seminarにて研究報告を行います。報告論文は「Squid Voting Game: Rational Indecisiveness in Sequential Voting」（Yuichiro Kamada氏との共著）。
