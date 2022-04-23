@@ -26,12 +26,19 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
-* 2022/04 --- 4月21日（木）に、私が共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！ 新しいオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書を通じて、現在進行形で浸透・拡大している「経済学のビジネス活用」に関するイメージを少しでも掴みとっていただければ幸いです。
+* 2022/04 --- 4月21日（木）に『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！2020年に共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書で、同社が提供するオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書が、「経済学のビジネス活用」を広める一助となれば幸いです。
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
 * 2022/04 --- 慶應義塾大学のグレーヴァ香子氏との共著「Inspecting Cartels over Time: with and without Leniency Program」を[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)に公開しました。
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
+### 登壇予定の学会
+* 2022/07 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/)
+* 2022/06 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22)
+
 ### 研究・講演・学外業務など
+* 4月12日（火）にグラスゴー大学で開催されるMicrotheory Seminarにて研究報告を行います。報告論文は「Squid Voting Game: Rational Indecisiveness in Sequential Voting」（Yuichiro Kamada氏との共著）。
+* 4月1日（金）にNOVAで開催されるSeminar on Economics of Educationにて研究報告を行います。報告論文は「[Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)」（Yuanju Fang氏との共著）。
+* 3月29日（火）にリスボン大学で開催されるLisbon Micro Groupにて研究報告を行います。報告論文は「[Competitive Market Achieves the Greatest Happiness of the Minimum Number](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893)」。
 * 『[経済セミナー](https://www.nippyo.co.jp/shop/magazine/8755.html)』2022年4・5月号が出版されました。司会を担当した「日本経済学会サテライトイベント2021年秋 経済学の学び方・活かし方」が15ページにわたって掲載されています！ 
 * 3月に出版された日本OR学会の機関誌『[オペレーションズ・リサーチ](https://orsj.org/?p=4146)』（67巻3号）の特集「メカニズムデザインの実践と応用」の編者を務めました。以下の2論文を執筆しました。
   * 「特集にあたって」
