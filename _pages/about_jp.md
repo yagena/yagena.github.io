@@ -26,7 +26,9 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
-* 2022/10 --- 慶應義塾大学のグレーヴァ香子氏との共著「Inspecting Cartels over Time: with and without Leniency Program」を[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)に公開しました。
+* 2022/04 --- 4月21日（木）に、私が共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！ 新しいオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書を通じて、現在進行形で浸透・拡大している「経済学のビジネス活用」に関するイメージを少しでも掴みとっていただければ幸いです。
+  * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
+* 2022/04 --- 慶應義塾大学のグレーヴァ香子氏との共著「Inspecting Cartels over Time: with and without Leniency Program」を[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)に公開しました。
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
 ### 研究・講演・学外業務など
@@ -81,7 +83,9 @@ author_profile: true
 17. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002.  [pdf](https://yagena.github.io/files/Senior_thesis.pdf)
 
 ### 書籍：編著・共著 
-1. 経済セミナー 2022年4・5月号, 日本評論社, 2022. 
+1. [そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』, 日経BP, 2022. 
+  * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆. 
+2. 経済セミナー 2022年4・5月号, 日本評論社, 2022. 
   * 「日本経済学会サテライトイベント2021年秋 経済学の学び方・活かし方」の司会を担当. 
 2. 現代経済学の潮流 2021, 東洋経済新報社, 2021. 
   * 第６章「経済学を伝える」の座長・司会を担当. 
