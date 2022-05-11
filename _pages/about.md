@@ -12,8 +12,11 @@ I am an **Associate Professor** at the [Department of Economics](https://www.eco
 
 ## Upcoming Conference Talks (by me or co-author)
 * June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
-* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual.
+* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual. (by co-author)
 * July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal.  
+* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia], Tokyo, Japan. (by co-author)
+* August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
+* August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
 
 ## My Research
 I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
