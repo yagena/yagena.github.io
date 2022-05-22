@@ -11,8 +11,9 @@ redirect_from:
 I am an **Associate Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have my BA from the University of Tokyo and **Ph.D.** from Princeton University. Taking a sabbatical leave, I will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** until the summer of 2022.
 
 ## Upcoming Conference Talks (by me or co-author)
+* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author)  
 * June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
-* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual. (by co-author)
+* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
 * July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal.  
 * August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
 * August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
