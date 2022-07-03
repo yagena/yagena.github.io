@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have my BA from the University of Tokyo and **Ph.D.** from Princeton University. Taking a sabbatical leave, I will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** until the summer of 2022.
+I am a **Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have my BA from the University of Tokyo and **Ph.D.** from Princeton University. Taking a sabbatical leave, I will be staying at [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** until the summer of 2022.
 
 ## Upcoming Conference Talks (by me or co-author)
 * May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author)  
