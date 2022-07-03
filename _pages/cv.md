@@ -70,6 +70,7 @@ author_profile: true
   * 15th DC Congerence, August 2, 2009.
   * GRIPS international workshop, Frontiers of Game Theory: Global Games, June 7-8, 2008.   
 * Conference Presentations
+  * 2022: Economic Design (Padova), PEJ (Azores), EEA-ESEM (Milan), EARIE (Viena)
   * 2021: GAMES2020 (Budapest, virtual)
   * 2020: ESWC2020 (Milan, virtual)
   * 2019: NASMES (Seattle)
