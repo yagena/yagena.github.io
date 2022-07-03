@@ -33,7 +33,7 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
-* My twitter account has over **30,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
+* My [twitter](https://twitter.com/yagena) account has over **32,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker/paneslist/moderator, I have attended over **100** lectures and seminars.
 * As a member, I have participated in several government and public sector committees. 
