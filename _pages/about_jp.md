@@ -8,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 准教授
+### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 教授
 
-2002年に東京大学経済学部卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.（経済学）を取得。政策研究大学院大学助教授を経て、2014年より大阪大学准教授。専門はマーケットデザイン、ゲーム理論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。新聞・雑誌・オンライン媒体への寄稿（計250本以上）やテレビ番組への出演（計500回以上）を通じて情報発信に取り組む。朝日新聞論壇委員会、政府系審議会（環境省・経済産業省・財務省など計15委員会）の委員などを歴任。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
+2002年に東京大学経済学部卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.（経済学）を取得。政策研究大学院大学助教授を経て、2014年4月より大阪大学准教授、2022年7月より同大学教授。専門はマーケットデザイン、ゲーム理論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。新聞・雑誌・オンライン媒体への寄稿（計250本以上）やテレビ番組への出演（計500回以上）を通じて情報発信に取り組む。朝日新聞論壇委員会、政府系審議会（環境省・経済産業省・財務省など計15委員会）の委員などを歴任。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
 
 ### リンク
 * 経済学者リスト（通称「安田リスト」）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
@@ -18,7 +18,7 @@ author_profile: true
 * SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/)
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
 * 講義ページ： [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) ｜ [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) 
-* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP.pdf) ｜ [英語](https://yagena.github.io/files/CV_20201211.pdf)
+* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP.pdf) ｜ [英語](https://yagena.github.io/files/CV_20220703.pdf)
 * 履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)
 
 ------ 
