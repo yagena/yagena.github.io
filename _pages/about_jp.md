@@ -177,9 +177,10 @@ author_profile: true
 
 ### 仕事
 * 主な職歴
-  * 2014年4月 -- 現在 ｜ **大阪大学経済学部准教授**
-  * 2021年3月 -- 2022年8月（予定） ｜ 在外研究（リスボン大学）　
-  * 2016年4月 -- 5月 ｜ 在外研究（ニューサウスウェールズ大学）
+  * 2022年7月 -- 現在 ｜ **大阪大学経済学部教授**
+  * 2021年4月 -- 2022年8月（予定） ｜ 在外研究・長期（リスボン大学）　
+  * 2014年4月 -- 2022年6月 ｜ **大阪大学経済学部准教授**
+  * 2016年4月 -- 5月 ｜ 在外研究・短期（ニューサウスウェールズ大学）
   * 2014年 -- 15年 ｜ 政策研究大学院大学非常勤講師
   * 2007年8月 -- 14年3月 ｜ **政策研究大学院大学助教授**
   * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
@@ -238,6 +239,9 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* 日経テレ東大学, まったりFUKABORI
+  * 2022年5月24日（前半）.  [YouTube](https://www.youtube.com/watch?v=WPfOYmxFBoc)
+  * 2022年5月31日（後半）.  [YouTube](https://www.youtube.com/watch?v=HU7aE8DtM20)
 * 戦略とゲーム理論, 2021年4月1日.  [YouTube](https://www.youtube.com/watch?v=146wxipn_I8)
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の講義「戦略とゲーム理論」（第1回）のダイジェスト版です。
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
