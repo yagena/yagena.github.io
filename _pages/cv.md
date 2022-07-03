@@ -8,19 +8,20 @@ author_profile: true
 
 {% include base_path %}
 
-### [Summary (pdf)](http://yagena.github.io/files/CV_20201211.pdf)
+### [Summary (pdf)](http://yagena.github.io/files/CV_20220703.pdf)
 
 ------
 
 ## Current Positions
 
-* **Associate Professor**, Department of Economics, University of Osaka, 2014 April -- present.
+* **Professor**, Department of Economics, University of Osaka, 2022 July -- present.
 * Visiting Reseacher, ISEG, University of Lisbon, 2021 April -- present.
 * Co-founder, [Economics Design Inc.](https://econ.news/), 2020 June -- present.
 
 
 ## Previous Positions
 
+* **Associate Professor**, Department of Economics, University of Osaka, 2014 April -- 2022 June.
 * **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007 -- 14.
 * Visiting Scholar, University of New South Wales (UNSW), 2016 April -- May.
 * Guest Lecturer, Ministory of Finance, 2011 -- 15.
