@@ -34,7 +34,7 @@ author_profile: true
 * 6月9-11日 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), パドヴァ, イタリア. 
 * 7月8-9日 --- [The 15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/),アゾーレス｜ポルトガル. 
 * 8月22-26日 --- [The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/), ミラノ, イタリア. 
-* 8月25-27日 --- [The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/), ウィーン, オーストリア. 
+* 8月25-27日 --- [The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/), ウィーン, オーストリア. 
 
 ### お知らせ
 * TBA 
