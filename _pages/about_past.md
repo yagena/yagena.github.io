@@ -36,6 +36,13 @@ author_profile: true
 ------ 
 
 ### 2022年
+* 4月12日（火）にグラスゴー大学で開催されるMicrotheory Seminarにて研究報告を行います。報告論文は「Squid Voting Game: Rational Indecisiveness in Sequential Voting」（Yuichiro Kamada氏との共著）。
+* 4月1日（金）にNOVAで開催されるSeminar on Economics of Educationにて研究報告を行います。報告論文は「[Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)」（Yuanju Fang氏との共著）。
+* 3月29日（火）にリスボン大学で開催されるLisbon Micro Groupにて研究報告を行います。報告論文は「[Competitive Market Achieves the Greatest Happiness of the Minimum Number](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893)」。
+* 『[経済セミナー](https://www.nippyo.co.jp/shop/magazine/8755.html)』2022年4・5月号が出版されました。司会を担当した「日本経済学会サテライトイベント2021年秋 経済学の学び方・活かし方」が15ページにわたって掲載されています！ 
+* 3月に出版された日本OR学会の機関誌『[オペレーションズ・リサーチ](https://orsj.org/?p=4146)』（67巻3号）の特集「メカニズムデザインの実践と応用」の編者を務めました。以下の2論文を執筆しました。
+  * 「特集にあたって」
+  * 「二種類の順位が混在するマッチング問題 中国大学入試制度の分析と改革」（方元駒さんとの共著)。
 * 慶應義塾大学のグレーヴァ香子氏との共著「Inspecting Cartels over Time: with and without Leniency Program」を[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)に公開しました。
 * 3月28日（月）に環境省：中央環境審議会「カーボンプライシング小委員会」（第20回・リモート開催）に委員として出席します。
 * 3月20日（日）にグランフロント大阪で開催される「第9回ナレッジイノベーションアワード」最終選考会に選考委員としてリモート参加します。
