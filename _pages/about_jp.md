@@ -30,21 +30,25 @@ author_profile: true
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
-### 今夏に登壇予定の学会
+### お知らせ
+* 9月15日（木）に開催されるウェビナー「ノーベル経済学賞のゆくえ」（坂井豊貴さんとの緊急対談）に登壇します。
+* 9月15日（木）にスカパーJSAT株式会社「番組審議会」（オンライン開催）に委員として出席します。
+* 9月14日（水）に開催されるオンラインセミナー（ウェビナー）～「[先端経済学で読み解く財務／非財務連関～ ESG・コーポレートブランド戦略は 企業価値にどのような影響を与えるか!?](https://www.nks.co.jp/news/news-seminar/220826.html)」にコーディネーターとして登壇します。
+* 9月12日（月）にNTT西日本「メディア融合研究会」（第1回・オンライン開催）に委員・報告者として出席します。
+* 9月9日（金）にNTTドコモ「ＩＣＴビジネス研究会」（第1回・オンライン開催）に委員として出席します。
+* 9月8日（木）に内閣府「国家戦略特区ワーキンググループ」定例会（オンライン開催）に委員として出席します。
+* 9月6日（火）に経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」（ハイブリッド開催）に委員としてリモート出席します。
+* 2021年3月末からの約1年半にわたるポルトガル（リスボン大学）での在外研究を終えて帰国しました。
+* 内閣府「[国家戦略特区ワーキンググループ](https://www.chisou.go.jp/tiiki/kokusentoc_wg/index.html)」のメンバーに就任しました。
+* 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
+
+### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
+
+### 2022年夏に登壇した学会
 * 6月9-11日 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), パドヴァ, イタリア. 
 * 7月8-9日 --- [The 15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/),アゾーレス｜ポルトガル. 
 * 8月22-26日 --- [The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/), ミラノ, イタリア. 
 * 8月25-27日 --- [The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/), ウィーン, オーストリア. 
-
-### お知らせ
-* TBA 
-
-### メディア出演
-* 2021年度はリスボン大学で在外研究を行うため不在です。しばらくメディア出演はお休みさせて頂きます。2021年3月末までのテレビ出演の回数はのべ「534回」でした。番組をご覧いただいた視聴者の皆さま、関係者の方々に改めてお礼申し上げます。
-* 出演回数が10回以上の番組は以下でした（カッコ内は出演回数）：
-  * 報道ランナー（177）, とくダネ！（128）, ミヤネ屋（65）, NEWS WEB（52）, ワールドビジネスサテライト（47）, オイコノミア（19）
-
-### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
 ------ 
 
