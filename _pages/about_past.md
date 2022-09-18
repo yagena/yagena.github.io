@@ -36,6 +36,15 @@ author_profile: true
 ------ 
 
 ### 2022年
+* 5月31日（火）に日経テレ東大学「まったりFUKABORI」というYouTube番組への出演動画が公開されました。
+  * 【成田悠輔と研究】危険！経済学のワナを暴露【無職へらす理論とは？】  [YouTube](https://www.youtube.com/watch?v=HU7aE8DtM20) 
+* 5月26日（火）に日経BOOKプラスにて「グーグルよりもアマゾンよりも「選ばれる会社」はつくれるか」（星野崇宏氏との対談、[記事リンク](https://bookplus.nikkei.com/atcl/column/041100041/051300005/)）が公開されました。  
+* 5月25日（水）に日経BOOKプラスにて「財布のひもを緩ませる「事前販売のカラクリ」を読み解く」（星野崇宏氏との対談、[記事リンク](https://bookplus.nikkei.com/atcl/column/041100041/051300004/)）が公開されました。  
+* 5月24日（火）に日経BOOKプラスにて「「なぜ利益を最優先しない？」経済学者が見た現場のリアル」（星野崇宏氏との対談、[記事リンク](https://bookplus.nikkei.com/atcl/column/041100041/051200003/)）が公開されました。  
+* 5月24日（火）に日経テレ東大学「まったりFUKABORI」というYouTube番組への出演動画が公開されました。
+  * 【成田悠輔の師匠】経済学で「日常生活見てみよう」【ゲーム理論を楽しく】  [YouTube](https://www.youtube.com/watch?v=WPfOYmxFBoc)
+* 4月26日（火）に日経BOOKプラスにて「アマゾンが経済学の博士を100人雇う理由」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041100041/041100002/)）が公開されました。  
+* 4月25日（月）に日経BOOKプラスにて「ビジネススクールでも教えてくれない、武器としての経済学」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041100041/041100001/)）が公開されました。
 * 4月12日（火）にグラスゴー大学で開催されるMicrotheory Seminarにて研究報告を行います。報告論文は「Squid Voting Game: Rational Indecisiveness in Sequential Voting」（Yuichiro Kamada氏との共著）。
 * 4月1日（金）にNOVAで開催されるSeminar on Economics of Educationにて研究報告を行います。報告論文は「[Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)」（Yuanju Fang氏との共著）。
 * 3月29日（火）にリスボン大学で開催されるLisbon Micro Groupにて研究報告を行います。報告論文は「[Competitive Market Achieves the Greatest Happiness of the Minimum Number](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893)」。
@@ -47,6 +56,7 @@ author_profile: true
 * 3月28日（月）に環境省：中央環境審議会「カーボンプライシング小委員会」（第20回・リモート開催）に委員として出席します。
 * 3月20日（日）にグランフロント大阪で開催される「第9回ナレッジイノベーションアワード」最終選考会に選考委員としてリモート参加します。
 * 3月18日（金）に情報通信政策研究所「情報通信経済研究会」（第4回・オンライン開催）に委員として出席します。
+* 3月13日（日）の日経ヴェリタスに「福利の仕組み理解、欠かせず」（インタビュー記事）が掲載されました。
 * 3月10日（木）にスカパーJSAT株式会社「番組審議会」（オンライン開催）に委員として出席します。
 * 3月7日（月）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第4回・オンライン開催）に委員として出席します。
 * 3月2日（水）にNTTドコモ「モバイルビジネス研究会」（第3回）に委員として出席します。
@@ -90,6 +100,7 @@ author_profile: true
 * 9月30日（木）にエコノミクスデザインが開催する特別ウェビナー（無料公開）にモデレーターとしてオンライン登壇します。詳細は[ウェブサイト](https://econ.news/night-school/)をご確認ください。
 * 先端研究ウェブメディア[esse_sense](https://esse-sense.com/)に[「経済格差を解決する糸口は、“平均からブレた分析”から見つかるかもしれない」](https://esse-sense.com/articles/20)という長文のインタビュー記事が掲載されました。
 * 9月28日（火）に信託協会「地方創生に向けた信託・金融サービスの在り方～「新たな日常」の構築に向けて～」（第4回・オンライン開催）に委員として出席します。
+* 9月26日（日）に「経済格差を解決する糸口は、“平均からブレた分析”から見つかるかもしれない」（[記事リンク](https://esse-sense.com/articles/20)）という記事が[esse-sense](https://esse-sense.com/)にて公開されました。
 * 9月22日（水）にスカパーJSAT株式会社「番組審議会」（オンライン開催）に委員として出席します。
 * 9月21日（水）に開催される[i2Lab](https://www.i2lab.info/)研究会に講師としてオンライン登壇します。
 * 9月3（金）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第1回・オンライン開催）に委員として出席します。
