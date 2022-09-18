@@ -48,14 +48,12 @@ author_profile: true
 * 7月19日（火）に日経BOOKプラスにて「臓器提供や学校選択に活用　経済学で考える「交換」の仕組み」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500022/)）が公開されました。
 * 7月15日（金）に日経BOOKプラスにて「ノーベル経済学賞「オークション」方式は大失敗から生まれた」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500021/)）が公開されました。
 * 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
+* [グレーヴァ香子](https://web.econ.keio.ac.jp/staff/takakofg/)氏との共同研究「Inspecting Cartels over Time: with and without Leniency Program」が[The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/)（8月25-27日にオーストリアのウィーンにて開催）に採択されました。
+* 方元駒氏との共同研究「Improving Matching under Information Constraint: Chinese College Admission Reconsidered」が[The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/)（8月22-26日にイタリアのミラノにて開催）に採択されました。 
+* 「Competitive Market Achieves the Greatest Happiness of the Minimum Number」が[The 15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/)（7月8-9日にポルトガルのアゾーレスにて開催）に採択されました。 
+* [Joana Pais](https://www.iseg.ulisboa.pt/faculty/joana-pais/)氏との共同研究「Matching with Existing Partners」が[The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22)（6月9-11日にイタリアのパドヴァにて開催）に採択されました。 
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
-
-### 2022年夏に登壇した学会
-* 6月9-11日 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), パドヴァ, イタリア. 
-* 7月8-9日 --- [The 15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/),アゾーレス｜ポルトガル. 
-* 8月22-26日 --- [The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/), ミラノ, イタリア. 
-* 8月25-27日 --- [The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/), ウィーン, オーストリア. 
 
 ------ 
 
