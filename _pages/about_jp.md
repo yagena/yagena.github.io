@@ -42,7 +42,11 @@ author_profile: true
 * 内閣府「[国家戦略特区ワーキンググループ](https://www.chisou.go.jp/tiiki/kokusentoc_wg/index.html)」のメンバーに就任しました。
 * 経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」のメンバーに就任しました。
 * 8月18日（木）に日経ビジネスオンラインにて「成田悠輔氏と安田洋祐氏が激論、「ビジネスに役立つ経済学」とは」（[記事リンク](https://business.nikkei.com/atcl/gen/19/00087/081200310/)）が公開されました。
+* 8月8日（月）にPMI Bureaucrat Community主催のオンラインイベント「市場とルールメイキングを考える」にゲスト講師として登壇しました。  [Web](https://note.com/pmi/n/nbc021476edf2)
 * 7月20日（水）にYouTube番組「西村ひろゆかないチャンネル」に出演しました。  [動画](https://www.youtube.com/watch?v=PYQMcFklklE) 
+* 7月19日（火）に日経ビジネスLIVE「気鋭の学者が激論『ビジネス＋経済学』」にオンライン登壇しました。  [Web](https://www.nikkeibp.co.jp/seminar/nb/nblive220719/)
+* 7月19日（火）に日経BOOKプラスにて「臓器提供や学校選択に活用　経済学で考える「交換」の仕組み」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500022/)）が公開されました。
+* 7月15日（金）に日経BOOKプラスにて「ノーベル経済学賞「オークション」方式は大失敗から生まれた」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500021/)）が公開されました。
 * 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
@@ -188,9 +192,10 @@ author_profile: true
   * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
   * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
 * アドバイザーなど
-  * Economics Design Inc.（共同創業者）,　2020 -- 現在.
+  * esse-sense(顧問), 2022 -- 現在.  [Web](https://esse-sense.com/)
+  * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
   * Finatext（顧問）,　2019 -- 現在. 
-  * Public Meets Innovation（Big Picture Board）,　2018 -- 現在. 
+  * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
   * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在. 
   * 西村あさひ法律事務所,　2010.
   * シノドス,　2009 -- 不明. 
