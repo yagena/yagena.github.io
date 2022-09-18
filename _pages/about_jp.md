@@ -42,6 +42,7 @@ author_profile: true
 * 内閣府「[国家戦略特区ワーキンググループ](https://www.chisou.go.jp/tiiki/kokusentoc_wg/index.html)」のメンバーに就任しました。
 * 経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」のメンバーに就任しました。
 * 8月18日（木）に日経ビジネスオンラインにて「成田悠輔氏と安田洋祐氏が激論、「ビジネスに役立つ経済学」とは」（[記事リンク](https://business.nikkei.com/atcl/gen/19/00087/081200310/)）が公開されました。
+* 7月20日（水）にYouTube番組「西村ひろゆかないチャンネル」に出演しました。  [動画](https://www.youtube.com/watch?v=PYQMcFklklE) 
 * 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
@@ -242,9 +243,16 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* GTO専門家に聞く、ポーカーとゲーム理論, 2022年9月14日.  [YouTube](https://www.youtube.com/watch?v=5ICz1_i2qRI)
+  * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。
+* 入山章栄氏に聞くマンガ×経営・経済学」, 2022年8月3日.  [YouTube](https://www.youtube.com/watch?v=gwkZMdFLuSY)
+  * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別ウェビナーの動画です。
+* 西村ひろゆかないチャンネル, 2022年7月20日.  [YouTube](https://www.youtube.com/watch?v=PYQMcFklklE)
 * 日経テレ東大学, まったりFUKABORI
   * 2022年5月24日（前半）.  [YouTube](https://www.youtube.com/watch?v=WPfOYmxFBoc)
   * 2022年5月31日（後半）.  [YouTube](https://www.youtube.com/watch?v=HU7aE8DtM20)
+* 小島武仁氏に聞く 産官学マーケットデザイン, 2022年4月7日.  [YouTube](https://www.youtube.com/watch?v=inCLviBnIfM)
+  * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別ウェビナーの動画です。
 * 戦略とゲーム理論, 2021年4月1日.  [YouTube](https://www.youtube.com/watch?v=146wxipn_I8)
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の講義「戦略とゲーム理論」（第1回）のダイジェスト版です。
 * 野村アセットマネジメント株式会社, オンラインセミナー「野村アセットマネジメント オープン研究会」   [Web](https://www.nomuraholdings.com/jp/news/nr/etc/20210126/nam20210126.html)
