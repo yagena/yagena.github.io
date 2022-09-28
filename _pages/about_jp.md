@@ -10,7 +10,7 @@ author_profile: true
 
 ### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 教授
 
-1980年東京都生まれ。2002年に東京大学経済学部卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.（経済学）を取得。政策研究大学院大学助教授、大阪大学准教授を経て、2022年7月より現職。専門はマーケットデザイン、ゲーム理論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。新聞・雑誌への寄稿やテレビ番組出演などを通じて情報発信にも取り組む。朝日新聞論壇委員会、政府系審議会の委員などを歴任。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
+1980年東京都生まれ。2002年に東京大学経済学部卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して2007年にPh.D.（経済学）を取得。政策研究大学院大学助教授、大阪大学准教授、リスボン大学客員研究員などを経て、2022年7月より現職。専門はマーケットデザイン、ゲーム理論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。新聞・雑誌への寄稿やテレビ番組出演などを通じて情報発信にも取り組む。朝日新聞論壇委員会、政府系審議会の委員などを歴任。2020年6月に[Economics Design Inc.](https://econ.news/)を共同で創業。
 
 ### リンク
 * 経済学者リスト（通称「安田リスト」）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
@@ -31,6 +31,12 @@ author_profile: true
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
 ### お知らせ
+* 9月27日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 9月26日（月）に信託協会「家計の資産形成促進と信託」（第5回・オンライン開催）に委員として出席します。
+* 9月26日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 9月26日（月）にesse-sense役員会に顧問としてオンライン出席します。
+* 9月22日（木）に内閣府「国家戦略特区ワーキンググループ」定例会（オンライン開催）に委員として出席します。
+* 9月20日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 9月15日（木）に開催されるウェビナー「ノーベル経済学賞のゆくえ」（[ナイトスクール](https://econ.news/night-school/)主催、坂井豊貴さんとの緊急対談）に登壇します。
 * 9月15日（木）にスカパーJSAT株式会社「番組審議会」（オンライン開催）に委員として出席します。
 * 9月14日（水）に開催されるオンラインセミナー（ウェビナー）～「[先端経済学で読み解く財務／非財務連関～ ESG・コーポレートブランド戦略は 企業価値にどのような影響を与えるか!?](https://www.nks.co.jp/news/news-seminar/220826.html)」にコーディネーターとして登壇します。
@@ -43,11 +49,13 @@ author_profile: true
 * 内閣府「[国家戦略特区ワーキンググループ](https://www.chisou.go.jp/tiiki/kokusentoc_wg/index.html)」のメンバーに就任しました。
 * 経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」のメンバーに就任しました。
 * 8月18日（木）に日経ビジネスオンラインにて「成田悠輔氏と安田洋祐氏が激論、「ビジネスに役立つ経済学」とは」（[記事リンク](https://business.nikkei.com/atcl/gen/19/00087/081200310/)）が公開されました。
+* 8月10日（水）に信託協会「家計の資産形成促進と信託」（第4回・オンライン開催）に委員として出席します。
 * 8月8日（月）にPMI Bureaucrat Community主催のオンラインイベント「市場とルールメイキングを考える」にゲスト講師として登壇しました。  [Web](https://note.com/pmi/n/nbc021476edf2)
 * 7月20日（水）にYouTube番組「西村ひろゆかないチャンネル」に出演しました。  [動画](https://www.youtube.com/watch?v=PYQMcFklklE) 
 * 7月19日（火）に日経ビジネスLIVE「気鋭の学者が激論『ビジネス＋経済学』」にオンライン登壇しました。  [Web](https://www.nikkeibp.co.jp/seminar/nb/nblive220719/)
 * 7月19日（火）に日経BOOKプラスにて「臓器提供や学校選択に活用　経済学で考える「交換」の仕組み」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500022/)）が公開されました。
 * 7月15日（金）に日経BOOKプラスにて「ノーベル経済学賞「オークション」方式は大失敗から生まれた」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500021/)）が公開されました。
+* 7月4日（月）に信託協会「家計の資産形成促進と信託」（第3回・オンライン開催）に委員として出席します。
 * 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
 * [グレーヴァ香子](https://web.econ.keio.ac.jp/staff/takakofg/)氏との共同研究「Inspecting Cartels over Time: with and without Leniency Program」が[The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/)（8月25-27日にオーストリアのウィーンにて開催）に採択されました。
 * 方元駒氏との共同研究「Improving Matching under Information Constraint: Chinese College Admission Reconsidered」が[The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/)（8月22-26日にイタリアのミラノにて開催）に採択されました。 
@@ -191,7 +199,7 @@ author_profile: true
   * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
   * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
 * アドバイザーなど
-  * esse-sense(顧問), 2022 -- 現在.  [Web](https://esse-sense.com/)
+  * esse-sense（顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
   * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
   * Finatext（顧問）,　2019 -- 現在. 
   * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
