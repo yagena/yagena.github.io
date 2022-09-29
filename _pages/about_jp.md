@@ -31,6 +31,10 @@ author_profile: true
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
 ### お知らせ
+* 10月6日（木）に開催される特別ウェビナー「レーティングの経済学」（[ナイトスクール](https://econ.news/night-school/)主催、[株式会社マイベスト](https://my-best.com/company)×エコノミクスデザイン）に登壇します。
+* 10月4日（火）に関西テレビ「報道ランナー」にコメンテーターとして出演します。
+* 10月4日（火）に内閣府「国家戦略特区ワーキンググループ」定例会（オンライン開催）に委員として出席します。
+* 10月3日（月）から大阪大学経済学部「ミクロ経済」（4単位）を担当します。講義ウェブサイトは[こちら](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2022_micro)です。
 * 9月30日（金）に信託協会「家計の資産形成促進と信託」（第6回・オンライン開催）に委員として出席します。
 * 9月27日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 9月26日（月）に信託協会「家計の資産形成促進と信託」（第5回・オンライン開催）に委員として出席します。
@@ -48,20 +52,7 @@ author_profile: true
 * 9月6日（火）に経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」（ハイブリッド開催）に委員としてリモート出席します。
 * 2021年3月末からの約1年半にわたるポルトガル（リスボン大学）での在外研究を終えて帰国しました。
 * 内閣府「[国家戦略特区ワーキンググループ](https://www.chisou.go.jp/tiiki/kokusentoc_wg/index.html)」のメンバーに就任しました。
-* 経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」のメンバーに就任しました。
-* 8月18日（木）に日経ビジネスオンラインにて「成田悠輔氏と安田洋祐氏が激論、「ビジネスに役立つ経済学」とは」（[記事リンク](https://business.nikkei.com/atcl/gen/19/00087/081200310/)）が公開されました。
-* 8月10日（水）に信託協会「家計の資産形成促進と信託」（第4回・オンライン開催）に委員として出席します。
-* 8月8日（月）にPMI Bureaucrat Community主催のオンラインイベント「市場とルールメイキングを考える」にゲスト講師として登壇しました。  [Web](https://note.com/pmi/n/nbc021476edf2)
-* 7月20日（水）にYouTube番組「西村ひろゆかないチャンネル」に出演しました。  [動画](https://www.youtube.com/watch?v=PYQMcFklklE) 
-* 7月19日（火）に日経ビジネスLIVE「気鋭の学者が激論『ビジネス＋経済学』」にオンライン登壇しました。  [Web](https://www.nikkeibp.co.jp/seminar/nb/nblive220719/)
-* 7月19日（火）に日経BOOKプラスにて「臓器提供や学校選択に活用　経済学で考える「交換」の仕組み」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500022/)）が公開されました。
-* 7月15日（金）に日経BOOKプラスにて「ノーベル経済学賞「オークション」方式は大失敗から生まれた」（[記事リンク](https://bookplus.nikkei.com/atcl/column/041500053/070500021/)）が公開されました。
-* 7月4日（月）に信託協会「家計の資産形成促進と信託」（第3回・オンライン開催）に委員として出席します。
-* 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付)。
-* [グレーヴァ香子](https://web.econ.keio.ac.jp/staff/takakofg/)氏との共同研究「Inspecting Cartels over Time: with and without Leniency Program」が[The 49th Annual Conference of The European Association for Research in Industrial Economics](https://earie2022.univie.ac.at/earie-2022-home/)（8月25-27日にオーストリアのウィーンにて開催）に採択されました。
-* 方元駒氏との共同研究「Improving Matching under Information Constraint: Chinese College Admission Reconsidered」が[The 37th meeting of the European Economic Association and the 74th European meeting of the Econometric Society](https://www.eea-esem-congresses.org/)（8月22-26日にイタリアのミラノにて開催）に採択されました。 
-* 「Competitive Market Achieves the Greatest Happiness of the Minimum Number」が[The 15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/)（7月8-9日にポルトガルのアゾーレスにて開催）に採択されました。 
-* [Joana Pais](https://www.iseg.ulisboa.pt/faculty/joana-pais/)氏との共同研究「Matching with Existing Partners」が[The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22)（6月9-11日にイタリアのパドヴァにて開催）に採択されました。 
+* 経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」のメンバーに就任しました。 
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
