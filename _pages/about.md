@@ -50,7 +50,7 @@ Below is the link to the courses that I have taught. By going to each page you c
   * [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 * **March 2022** -- I will present the following paper at ISEG University of Lisbon ([Lisbon Micro Gropup](https://sites.google.com/view/lisbonmicrogroup/accueil)) on March 29.
   * [Competitive Market Achieves the Greatest Happiness of the Minimum Number](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893) 
-* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.).  <span style="color: blue;">New!</span> 
+* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.). 
   * [Inspecting Cartels over Time: with and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)
 * **January 2022** -- I substantially revised the following paper on repeated games co-authored with Takako Fujiwara-Greve (Keio U.).
   * [On The Folk Theorem in Self-Sustained Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
