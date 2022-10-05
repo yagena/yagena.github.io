@@ -62,4 +62,4 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ------
 
-<span style="color: red; ">Last update: July 2022</span>
+<span style="color: red; ">Last update: October 2022</span>
