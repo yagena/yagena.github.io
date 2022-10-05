@@ -35,6 +35,7 @@ author_profile: true
 * 10月18日（火）に関西テレビ「[報道ランナー](https://www.ktv.jp/news/)」にコメンテーターとして出演します。
 * 10月10日（月・祝）に東京大学にて開催されるシンポジウム 「[これからの社会的共通資本 (Future of SCC)](https://www.carf.e.u-tokyo.ac.jp/events/scc221010/)」にパネリストとして登壇します。
 * 10月8日（土）にオンライン開催される日本経済学会サテライトイベント「[経済学実践のフロントランナーに聞く キャリアとビジネスの創り方](https://sites.google.com/view/jea-outrearch-2022/)」にファシリテーターとして登壇します。
+* カリフォルニア大学バークレー校の[鎌田雄一郎](http://ykamada.com/)さんとの共同研究「Squid Voting Game: Rational Indecisiveness in Sequential Voting」を[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134)に公開しました。去年世界的に大ブームとなったNetflixドラマ「イカゲーム」の投票シーンから着想を得た理論研究です。
 * 10月6日（木）に開催される特別ウェビナー「レーティングの経済学」（[ナイトスクール](https://econ.news/night-school/)主催、[株式会社マイベスト](https://my-best.com/company)×エコノミクスデザイン）に登壇します。
 * 10月6日（木）に情報通信政策研究所「Ｗｅｂ３時代に向けたメタバース等の利活用に関する研究会」（第3回）に委員としてオンライン出席します。
 * 10月6日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
