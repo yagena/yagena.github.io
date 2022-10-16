@@ -213,9 +213,10 @@ author_profile: true
   * シノドス,　2009 -- 不明. 
 
 ### 非常勤講師など 
-* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021. 
+* ピーチコーポレーション：[Peach Women's Business School](https://www.peach-corporation.co.jp/peach-womens-business-school/), 2021 -- 現在. 
+* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在.  
 * 東京大学：近未来金融システム創造プログラム, 2017 -- 現在.
-* 立命館大学西園寺塾,　2018 -- 現在. 
+* [立命館西園寺塾](https://www.ritsumei.ac.jp/saionji-juku/),　2018 -- 現在. 
 * 神戸大学：夏期集中講義,　2015. 
   * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
 * 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
