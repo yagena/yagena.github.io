@@ -275,6 +275,8 @@ author_profile: true
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。 
 * 21A16 持続可能な未来をつくる意思決定の仕組み, 2022年11月14日. [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
   * 企画・司会を務めたサイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」の収録動画です。
+* 今年のノーベル経済学賞は誰が受賞する？！ノーベル経済学賞の説明や歴代受賞者についても解説！, 2022年10月7日. [YouTube](https://www.youtube.com/watch?v=j9Ct2BbZLVw)
+* ～先端経済学で読み解く財務／非財務連関～　 ESG・コーポレートブランド戦略は 企業価値にどのような影響を与えるか, 2022年9月21日. [YouTube](https://www.youtube.com/watch?v=OpYl6CQVJTo)
 * GTO専門家に聞く、ポーカーとゲーム理論, 2022年9月14日.  [YouTube](https://www.youtube.com/watch?v=5ICz1_i2qRI)
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。
 * 入山章栄氏に聞くマンガ×経営・経済学」, 2022年8月3日.  [YouTube](https://www.youtube.com/watch?v=gwkZMdFLuSY)
