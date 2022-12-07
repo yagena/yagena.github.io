@@ -273,6 +273,8 @@ author_profile: true
 ### 動画 
 * 【大学教授が解く】ポーカーで勝ち組になる GTO理論講座 /ブラフの打ち方, 2022年11月18日. [YouTube](https://www.youtube.com/watch?v=jnQc-PKCXQg)
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。 
+* 21A16 持続可能な未来をつくる意思決定の仕組み, 2022年11月14日. [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
+  * 企画・司会を務めたサイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」の収録動画です。
 * GTO専門家に聞く、ポーカーとゲーム理論, 2022年9月14日.  [YouTube](https://www.youtube.com/watch?v=5ICz1_i2qRI)
   * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。
 * 入山章栄氏に聞くマンガ×経営・経済学」, 2022年8月3日.  [YouTube](https://www.youtube.com/watch?v=gwkZMdFLuSY)
@@ -326,6 +328,7 @@ author_profile: true
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2022年12月. 
 * FPフェアin金沢（金沢）, 2022年12月.  [Web](https://www.jafp.or.jp/kojin/app/fair/)
 * 電機連合 家電部会・音響部会 労使懇談会（横浜）, 2022年12月. 
+* 一流塾士会勉強会, 2022年11月. 
 * 立命館西園寺塾（オンライン）, 2022年6月.
 * ピーチコーポレーション「Peach Women's Business School」（大阪）, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-250885525)から閲覧できます。
 * 立命館西園寺塾（オンライン）, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/20212-250885497)
@@ -350,9 +353,10 @@ author_profile: true
 
 ### イベント登壇　
 * 第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム, 2022年12月.  [Web](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)
-* エンジン01 in 岐阜, 2022年10月. 
+* エンジン01 in 岐阜, 2022年10月.  [Web](https://enjin01.gifu.jp/)
 * サイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」（オンライン）, 2022年10月.  [Web](https://www.jst.go.jp/sis/scienceagora/2022/online/21-a16.html) [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
 * 社会的共通資本寄付講座キックオフシンポジウム（東京）, 2022年10月.  [Web](https://www.carf.e.u-tokyo.ac.jp/events/scc221010/)
+* 日本経済学会サテライトイベント「経済学実践のフロントランナーに聞く キャリアとビジネスの創り方」, 2022年10月.  [Web](https://sites.google.com/view/jea-outrearch-2022/)
 * エコノミクスデザイン：緊急対談「坂井豊貴 x 安田洋祐」（オンライン）, 2022年9月. 
 * 第9回ナレッジイノベーションアワード：最終選考会（オンライン参加）, 2022年3月.
 * エコノミクスデザイン：緊急特別ウェビナー「三浦瑠麗 x EDI」（オンライン）, 2022年3月. 
@@ -595,4 +599,4 @@ author_profile: true
 
 *Go back to the [top page](https://yagena.github.io/).*
 
-<span style="color: red; ">最終更新日：2022年9月</span>
+<span style="color: red; ">最終更新日：2022年12月</span>
