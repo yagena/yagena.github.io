@@ -353,11 +353,14 @@ author_profile: true
 
 ### イベント登壇　
 * 第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム, 2022年12月.  [Web](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)
+* 金融リテラシー：現在・過去・未来, 名古屋市立大学, 2022年11月, 2022.  [Web](https://www.econ.nagoya-cu.ac.jp/archives/7940)
 * エンジン01 in 岐阜, 2022年10月.  [Web](https://enjin01.gifu.jp/)
 * サイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」（オンライン）, 2022年10月.  [Web](https://www.jst.go.jp/sis/scienceagora/2022/online/21-a16.html) [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
 * 社会的共通資本寄付講座キックオフシンポジウム（東京）, 2022年10月.  [Web](https://www.carf.e.u-tokyo.ac.jp/events/scc221010/)
 * 日本経済学会サテライトイベント「経済学実践のフロントランナーに聞く キャリアとビジネスの創り方」, 2022年10月.  [Web](https://sites.google.com/view/jea-outrearch-2022/)
+* エコノミクスデザイン：特別ウェビナー「レーティングの経済学」（オンライン）, 2021年10月. 
 * エコノミクスデザイン：緊急対談「坂井豊貴 x 安田洋祐」（オンライン）, 2022年9月. 
+* エコノミクスデザイン・日経リサーチ・日本経済社共催「先端経済学で読み解く財務／非財務連関」, 2022年9月.  [Web](https://www.nks.co.jp/information/seminar/%e3%80%90%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e5%8b%95%e7%94%bb%e3%81%94%e6%a1%88%e5%86%85%e3%80%91%e3%80%8c%ef%bd%9e%e5%85%88%e7%ab%af%e7%b5%8c%e6%b8%88%e5%ad%a6%e3%81%a7%e8%aa%ad%e3%81%bf/) [YouTube](https://www.youtube.com/watch?v=OpYl6CQVJTo)
 * 第9回ナレッジイノベーションアワード：最終選考会（オンライン参加）, 2022年3月.
 * エコノミクスデザイン：緊急特別ウェビナー「三浦瑠麗 x EDI」（オンライン）, 2022年3月. 
 * エコノミクスデザイン：特別ウェビナー「入山章栄 x EDI」（オンライン）, 2021年9月.  
