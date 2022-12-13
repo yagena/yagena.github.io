@@ -31,7 +31,9 @@ author_profile: true
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
 ### お知らせ
+* 12月14日（水）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月13日（火）に関西テレビ「[報道ランナー](https://www.ktv.jp/news/)」にコメンテーターとして出演します。
+* 12月13日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 12月10日（土）にFPフェアin金沢に講師として登壇します。講演タイトルは「[FPが知っておきたいゲーム理論](https://www.jafp.or.jp/kojin/app/fair/)」です。
 * 12月7日（水）に第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム「[岸田政権誕生から1年－「新しい資本主義」の評価－](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)」にパネリストとして登壇します。
 * 12月6日（火）に電機連合家電部会・音響部会が主催する労使懇談会に講師として登壇します。講演タイトルは「DX と人材活用が変える日本経済：これからの資本主義の課題とチャンス」です。
