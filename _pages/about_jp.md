@@ -31,6 +31,8 @@ author_profile: true
 * 2022/02 --- 2月16日（水）に監修および解説記事を担当した『[オークション・デザイン　ものの値段はこう決める](https://www.amazon.co.jp/dp/B09RZVG1XC)』が早川書房より出版されました！
 
 ### お知らせ
+* 12月23日（金）に[ミラツク年次フォーラム2022](https://emerging-future.org/news/3328/?fbclid=IwAR0ZWDSa9PGx_IGYTReFboS6Ft0a6TsoshwaFi4d-bpi_vQxDKl3e2mJNYA)にパネリストとしてオンライン登壇します。
+* 12月21日（水）に尾原和啓さんが運営する「[尾原のオンラインサロンハック](https://salon.jp/obara)」にゲストとしてオンライン登壇します。
 * 12月14日（水）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月13日（火）に関西テレビ「[報道ランナー](https://www.ktv.jp/news/)」にコメンテーターとして出演します。
 * 12月13日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
@@ -273,8 +275,8 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* 株式会社マイベスト合同ウェビナー【レーティングの経済学】, 2022年12月18日.  [YouTube](https://www.youtube.com/watch?v=PfPSXAoN7OM)
 * 【大学教授が解く】ポーカーで勝ち組になる GTO理論講座 /ブラフの打ち方, 2022年11月18日. [YouTube](https://www.youtube.com/watch?v=jnQc-PKCXQg)
-  * Economics Design Inc.が運営するオンラインスクール「[The Night School](https://econ.news/night-school/)」の特別動画です。 
 * 21A16 持続可能な未来をつくる意思決定の仕組み, 2022年11月14日. [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
   * 企画・司会を務めたサイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」の収録動画です。
 * 今年のノーベル経済学賞は誰が受賞する？！ノーベル経済学賞の説明や歴代受賞者についても解説！, 2022年10月7日. [YouTube](https://www.youtube.com/watch?v=j9Ct2BbZLVw)
