@@ -26,7 +26,7 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
-* 2022/12 --- 慶應大学のグレーヴァ香子氏との共同研究「Inspecting Cartels over Time: With and without Leniency Program」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)）が、Asia-Pacific Industrial Organization Societyがシドニーで開催したコンファレンス[APIOS2022](https://apios.org.au/about/)でGraeme Woodbrigde Prize（反トラストに関する最も優れた論文に送られる賞）を受賞しました。
+* 2022/12 --- 慶應大学のグレーヴァ香子氏との共同研究「Inspecting Cartels over Time: With and without Leniency Program」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)）が、Asia-Pacific Industrial Organization Societyがシドニーで開催したコンファレンス[APIOS2022](https://apios.org.au/about/)でGraeme Woodbrigde Prize（反トラストに関する最も優れた論文に贈られる賞）を受賞しました。
 * 2022/07 --- 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付）。
 * 2022/04 --- 4月21日（木）に『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！2020年に共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書で、同社が提供するオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書が、「経済学のビジネス活用」を広める一助となれば幸いです。
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
@@ -47,6 +47,66 @@ author_profile: true
 「DX と人材活用が変える日本経済：これからの資本主義の課題とチャンス」というタイトルで90分間の講演を行いました。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
+
+------ 
+
+## パーソナル
+
+### 簡易プロフィール
+経済学者。1980年東京生まれ。東京大学経済学部卒業後、米国プリンストン大学へ留学しPh.D.を取得。政策研究大学院大学助教授を経て、2014年4月から大阪大学大学院経済学研究科准教授。専門は戦略的な状況を分析するゲーム理論で、主な研究テーマは現実の市場や制度を設計するマーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府での委員活動、経済学のビジネス活用にも積極的に取に取り組んでいる。
+
+### 略歴
+* 1980年2月    　東京都に生まれる
+* 1986年4月    　渋谷区立西原小学校入学
+* 1992年3月    　小平市立小平第三小学校卒業
+* 1995年3月    　筑波大学附属駒場中学校卒業
+* 1998年3月    　筑波大学附属駒場高等学校卒業
+* 2002年3月    　東京大学経済学部卒業（卒業生総代, 大内兵衛賞）
+* 2005年1月    　プリンストン大学経済学部より修士号（MA）取得
+* 2007年9月    　プリンストン大学経済学部より博士号（Ph.D.）取得
+  * [経済学Ph.D.留学と就職活動](https://www.slideshare.net/YosukeYasuda1/phd-84913354)（スライド資料, 2017年） 
+
+### 仕事
+* 主な職歴
+  * 2022年7月 -- 現在 ｜ **大阪大学経済学部教授**
+  * 2021年4月 -- 2022年8月（予定） ｜ 在外研究・長期（リスボン大学）　
+  * 2014年4月 -- 2022年6月 ｜ **大阪大学経済学部准教授**
+  * 2016年4月 -- 5月 ｜ 在外研究・短期（ニューサウスウェールズ大学）
+  * 2014年 -- 15年 ｜ 政策研究大学院大学非常勤講師
+  * 2007年8月 -- 14年3月 ｜ **政策研究大学院大学助教授**
+  * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
+  * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
+* アドバイザーなど
+  * esse-sense（顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
+  * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
+  * Finatext（顧問）,　2019 -- 現在. 
+  * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
+  * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在. 
+  * 西村あさひ法律事務所,　2010.
+  * シノドス,　2009 -- 不明. 
+
+### 非常勤講師など 
+* ピーチコーポレーション：[Peach Women's Business School](https://www.peach-corporation.co.jp/peach-womens-business-school/), 2021 -- 現在. 
+* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在.  
+* 東京大学：近未来金融システム創造プログラム, 2017 -- 現在.
+* [立命館西園寺塾](https://www.ritsumei.ac.jp/saionji-juku/),　2018 -- 現在. 
+* 神戸大学：夏期集中講義,　2015. 
+  * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
+* 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
+  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/advanced-microeconomics-lecture-slides)
+* 政策研究大学院大学,　2014.
+  * Advanced Microeconomic Theory I 
+  * Advanced Microeconomic Theory I 
+  * Game Theory 
+* 早稲田大学オープンカレッジ,　2013.
+  * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
+
+### 受賞など
+* 2022年12月　　　　　Graeme Woodbrigde Prize（APIOS2022）
+* 2018年11月　　　　　平成30年大阪大学賞：教育貢献部門（大阪大学）
+* 2002年 -- 2006年　　　Princeton University Fellowship（プリンストン大学）
+* 2002年3月　　　　　 経済学部卒業生総代（東京大学）
+* 2002年3月　　　　　 大内兵衛賞（東京大学）
 
 ------ 
 
@@ -156,65 +216,6 @@ author_profile: true
   * 第二部「理論編」を中心とした監修を担当.　
 10. 経済学で出る数学　ワークブックでじっくり攻める, 日本評論社, 2014.　
 
------- 
-
-## パーソナル
-
-### 簡易プロフィール
-経済学者。1980年東京生まれ。東京大学経済学部卒業後、米国プリンストン大学へ留学しPh.D.を取得。政策研究大学院大学助教授を経て、2014年4月から大阪大学大学院経済学研究科准教授。専門は戦略的な状況を分析するゲーム理論で、主な研究テーマは現実の市場や制度を設計するマーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府での委員活動、経済学のビジネス活用にも積極的に取に取り組んでいる。
-
-### 略歴
-* 1980年2月    　東京都に生まれる
-* 1986年4月    　渋谷区立西原小学校入学
-* 1992年3月    　小平市立小平第三小学校卒業
-* 1995年3月    　筑波大学附属駒場中学校卒業
-* 1998年3月    　筑波大学附属駒場高等学校卒業
-* 2002年3月    　東京大学経済学部卒業（卒業生総代, 大内兵衛賞）
-* 2005年1月    　プリンストン大学経済学部より修士号（MA）取得
-* 2007年9月    　プリンストン大学経済学部より博士号（Ph.D.）取得
-  * [経済学Ph.D.留学と就職活動](https://www.slideshare.net/YosukeYasuda1/phd-84913354)（スライド資料, 2017年） 
-
-### 仕事
-* 主な職歴
-  * 2022年7月 -- 現在 ｜ **大阪大学経済学部教授**
-  * 2021年4月 -- 2022年8月（予定） ｜ 在外研究・長期（リスボン大学）　
-  * 2014年4月 -- 2022年6月 ｜ **大阪大学経済学部准教授**
-  * 2016年4月 -- 5月 ｜ 在外研究・短期（ニューサウスウェールズ大学）
-  * 2014年 -- 15年 ｜ 政策研究大学院大学非常勤講師
-  * 2007年8月 -- 14年3月 ｜ **政策研究大学院大学助教授**
-  * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
-  * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
-* アドバイザーなど
-  * esse-sense（顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
-  * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
-  * Finatext（顧問）,　2019 -- 現在. 
-  * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
-  * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在. 
-  * 西村あさひ法律事務所,　2010.
-  * シノドス,　2009 -- 不明. 
-
-### 非常勤講師など 
-* ピーチコーポレーション：[Peach Women's Business School](https://www.peach-corporation.co.jp/peach-womens-business-school/), 2021 -- 現在. 
-* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在.  
-* 東京大学：近未来金融システム創造プログラム, 2017 -- 現在.
-* [立命館西園寺塾](https://www.ritsumei.ac.jp/saionji-juku/),　2018 -- 現在. 
-* 神戸大学：夏期集中講義,　2015. 
-  * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
-* 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
-  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/advanced-microeconomics-lecture-slides)
-* 政策研究大学院大学,　2014.
-  * Advanced Microeconomic Theory I 
-  * Advanced Microeconomic Theory I 
-  * Game Theory 
-* 早稲田大学オープンカレッジ,　2013.
-  * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
-
-### 受賞など
-* 2022年12月　　　　　Graeme Woodbrigde Prize（APIOS2022）
-* 2018年11月　　　　　平成30年大阪大学賞：教育貢献部門（大阪大学）
-* 2002年 -- 2006年　　Princeton University Fellowship（プリンストン大学）
-* 2002年3月　　　　　 経済学部卒業生総代（東京大学）
-* 2002年3月　　　　　 大内兵衛賞（東京大学）
 ------ 
 
 ## 学外活動
