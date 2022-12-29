@@ -30,7 +30,7 @@ Below is the link to the courses that I have taught. By going to each page you c
 * August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
 * August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
 * August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
-* December 9-11 --- [APIOC](https://apios.org.au/about/), Sydney, Australia. 
+* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia. 
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
@@ -43,8 +43,8 @@ Below is the link to the courses that I have taught. By going to each page you c
   * Financial Services Agency, 2014 -- 16. 
 
 ## What's New?
-* **December 2022** -- My paper "[Inspecting Cartels over Time: With and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)" (co-authored with [Takako Fujiwara-Greve](https://web.econ.keio.ac.jp/staff/takakofg/takakohp_e.html)) received **Graeme Woodbrigde Prize** (the best antitrust paper) from the [APIOC 2022](https://apios.org.au/about/) conference.
-* **October 2022** -- I just uploaded the following new paper on sequential voting (motivated by "Squid Game") with [Yuichiro Kamada](http://ykamada.com/) (UC Berkeley).  <span style="color: blue;">New!</span> 
+* **December 2022** -- My paper "[Inspecting Cartels over Time: With and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)" (co-authored with [Takako Fujiwara-Greve](https://web.econ.keio.ac.jp/staff/takakofg/takakohp_e.html)) received **Graeme Woodbrigde Prize** (the best antitrust paper) from the [APIOC 2022](https://apios.org.au/about/) conference.  <span style="color: blue;">New!</span>
+* **October 2022** -- I just uploaded the following new paper on sequential voting (motivated by "Squid Game") with [Yuichiro Kamada](http://ykamada.com/) (UC Berkeley). 
   * [Squid Voting Game: Rational Indecisiveness in Sequential Voting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134)
 * **April 2022** -- I will present the following paper at University of Glasgow ([Microtheory Seminar](https://www.gla.ac.uk/schools/business/research/events/headline_841425_en.html)) on April 12.
   * Squid Voting Game: Rational Indecisiveness in Sequential Voting' (co-authored with Yuichiro Kamada (UC Berkeley))
