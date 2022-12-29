@@ -30,7 +30,7 @@ Below is the link to the courses that I have taught. By going to each page you c
 * August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
 * August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
 * August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
-* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia. 
+* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia.  <span style="color: blue;">New!</span> 
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
@@ -64,4 +64,4 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ------
 
-<span style="color: red; ">Last update: October 2022</span>
+<span style="color: red; ">Last update: December 2022</span>
