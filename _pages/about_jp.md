@@ -26,6 +26,7 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
+* 2022/12 --- 慶應大学のグレーヴァ香子氏との共同研究「Inspecting Cartels over Time: With and without Leniency Program」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)）が、Asia-Pacific Industrial Organization Societyがシドニーで開催したコンファレンス[APIOS2022](https://apios.org.au/about/)でGraeme Woodbrigde Prize（反トラストに関する最も優れた論文に送られる賞）を受賞しました。
 * 2022/07 --- 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付）。
 * 2022/04 --- 4月21日（木）に『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！2020年に共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書で、同社が提供するオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書が、「経済学のビジネス活用」を広める一助となれば幸いです。
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆。
@@ -208,6 +209,12 @@ author_profile: true
 * 早稲田大学オープンカレッジ,　2013.
   * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
 
+### 受賞など
+* 2022年12月　　　　　Graeme Woodbrigde Prize（APIOS2022）
+* 2018年11月　　　　　平成30年大阪大学賞：教育貢献部門（大阪大学）
+* 2002年 -- 2006年　　Princeton University Fellowship（プリンストン大学）
+* 2002年3月　　　　　 経済学部卒業生総代（東京大学）
+* 2002年3月　　　　　 大内兵衛賞（東京大学）
 ------ 
 
 ## 学外活動
