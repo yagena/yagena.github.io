@@ -35,7 +35,20 @@ author_profile: true
 
 ------ 
 
+### 2023年
+* To be written ... 
+
 ### 2022年
+* 12月26日（月）に経済産業省「GXリーグにおける排出量取引に関する学識有識者検討会」（第3回、ハイブリッド開催）に委員としてオンライン出席します。
+* 12月23日（金）に[ミラツク年次フォーラム2022](https://emerging-future.org/news/3328/?fbclid=IwAR0ZWDSa9PGx_IGYTReFboS6Ft0a6TsoshwaFi4d-bpi_vQxDKl3e2mJNYA)にパネリストとしてオンライン登壇します。
+* 12月21日（水）に尾原和啓さんが運営する「[尾原のオンラインサロンハック](https://salon.jp/obara)」にゲストとしてオンライン登壇します。
+* 12月14日（水）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
+* 12月13日（火）に関西テレビ「[報道ランナー](https://www.ktv.jp/news/)」にコメンテーターとして出演します。
+* 12月13日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 12月10日（土）にFPフェアin金沢に講師として登壇します。講演タイトルは「[FPが知っておきたいゲーム理論](https://www.jafp.or.jp/kojin/app/fair/)」です。
+* 12月7日（水）に第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム「[岸田政権誕生から1年－「新しい資本主義」の評価－](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)」にパネリストとして登壇します。
+* 12月6日（火）に電機連合家電部会・音響部会が主催する労使懇談会に講師として登壇します。講演タイトルは「DX と人材活用が変える日本経済：これからの資本主義の課題とチャンス」です。
+「DX と人材活用が変える日本経済：これからの資本主義の課題とチャンス」というタイトルで90分間の講演を行いました。
 * 11月30日（水）に日経ビジネス電子版Specialに「[気鋭の経済学者・安田洋祐氏が語る　オンとオフの切り替えがパフォーマンス維持の秘訣](https://special.nikkeibp.co.jp/atclh/ONB/22/panasonic1130/index.html)」が掲載されました。
 * 11月30日（水）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 11月29日（火）に関西テレビ「[報道ランナー](https://www.ktv.jp/news/)」にコメンテーターとして出演します。
