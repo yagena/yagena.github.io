@@ -34,7 +34,6 @@ author_profile: true
 
 ### お知らせ
 
-* 2月27日（月）に総務省「情報通信経済研究会」（第3回・オンライン開催）に委員として出席します。
 * 2月22日（水）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
 * 2月22日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 2月21日（火）に「近未来金融システム創造プログラム」（第15回・オンライン総括討議）にパネリストとして登壇します。
@@ -51,6 +50,7 @@ author_profile: true
 * 1月31日（火）に中部産業連盟が主催する[会員懇話会](https://www.chusanren.or.jp/whatsnew/no620/index.html)に講師として登壇します。講演タイトルは「ゲーム理論で読み解く日本経済の課題 失われた20年に陥った“罠”からの脱出」です。
 * 1月25日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 1月24日（火）に[SCS（Startup City Sapporo）](https://startup-city-sapporo.com/)が主催する「スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜」にモデレーターとして登壇します。オンラインでも配信します。お申込みは[こちら](https://scs-startuptalk2301.peatix.com/)になります。
+  * イベントの様子が[YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)で公開されました。 
 * 1月24日（火）に総務省「5Gビジネスデザインワーキンググループ」（第1回）に委員としてオンライン出席します。
 * 1月24日（火）に環境省：中央環境審議会「カーボンプライシング小委員会」（第22回・リモート開催）に委員として出席します。
 * 1月23日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
@@ -240,6 +240,7 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2022年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
 * 株式会社マイベスト合同ウェビナー【レーティングの経済学】, 2022年12月18日.  [YouTube](https://www.youtube.com/watch?v=PfPSXAoN7OM)
 * 【大学教授が解く】ポーカーで勝ち組になる GTO理論講座 /ブラフの打ち方, 2022年11月18日. [YouTube](https://www.youtube.com/watch?v=jnQc-PKCXQg)
 * 21A16 持続可能な未来をつくる意思決定の仕組み, 2022年11月14日. [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
