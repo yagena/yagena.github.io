@@ -26,6 +26,7 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
+* 2023/02 --- 大阪大学の石黒真吾氏との共同研究「Moral Hazard and Subjective Evaluation」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)）がJournal of Economic Theory誌に採択されました。
 * 2022/12 --- 慶應大学のグレーヴァ香子氏との共同研究「Inspecting Cartels over Time: With and without Leniency Program」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)）が、Asia-Pacific Industrial Organization Societyがシドニーで開催したコンファレンス[APIOS2022](https://apios.org.au/about/)でGraeme Woodbridge Prize（反トラストに関する最も優れた論文に贈られる賞）を受賞しました。
 * 2022/07 --- 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付）。
 * 2022/04 --- 4月21日（木）に『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！2020年に共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書で、同社が提供するオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書が、「経済学のビジネス活用」を広める一助となれば幸いです。
