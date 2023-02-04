@@ -43,7 +43,8 @@ Below is the link to the courses that I have taught. By going to each page you c
   * Financial Services Agency, 2014 -- 16. 
 
 ## What's New?
-* **December 2022** -- My paper "[Inspecting Cartels over Time: With and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)" (co-authored with [Takako Fujiwara-Greve](https://web.econ.keio.ac.jp/staff/takakofg/takakohp_e.html)) received **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022](https://apios.org.au/about/) conference.  <span style="color: blue;">New!</span>
+* **February 2023** -- My paper "[Moral Hazard and Subjective Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)" (co-authored with [Shingo Ishiguro](https://sites.google.com/view/ishiguro/)) got accepted by the **Journal of Economic Theory**.  <span style="color: blue;">New!</span>
+* **December 2022** -- My paper "[Inspecting Cartels over Time: With and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)" (co-authored with [Takako Fujiwara-Greve](https://web.econ.keio.ac.jp/staff/takakofg/takakohp_e.html)) received **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022](https://apios.org.au/about/) conference.  
 * **October 2022** -- I just uploaded the following new paper on sequential voting (motivated by "Squid Game") with [Yuichiro Kamada](http://ykamada.com/) (UC Berkeley). 
   * [Squid Voting Game: Rational Indecisiveness in Sequential Voting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134)
 * **April 2022** -- I will present the following paper at University of Glasgow ([Microtheory Seminar](https://www.gla.ac.uk/schools/business/research/events/headline_841425_en.html)) on April 12.
