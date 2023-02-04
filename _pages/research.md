@@ -14,7 +14,7 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ------
 
 ## Peer-Reviewed Journal Publications
-1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)" 
+1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
 2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 3. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 4. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
@@ -29,7 +29,7 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) <span style="color: blue;">New!</span>
+1. Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
 2. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
 3. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
 4. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
