@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research interests are Game Theory, Industrial Organization, and Market Design. I have published papers in top economics journals, including **American Economic Review**, **American Economic Journal: Microeconomics**, **Jourunal of Economic Theory**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS**, **Artificial Intelligence**, and **Scientific Reports**.
+My research interests are Game Theory, Industrial Organization, and Market Design. I have published papers in top economics journals, including **American Economic Review**, **AEJ: Microeconomics**, **Jourunal of Economic Theory**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS**, **Artificial Intelligence**, and **Scientific Reports**.
 
 ------
 
