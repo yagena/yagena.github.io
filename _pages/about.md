@@ -11,7 +11,7 @@ redirect_from:
 I am a **Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have a BA from the University of Tokyo and a **Ph.D.** from Princeton University. Taking a sabbatical leave, I have been staying at the [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** from April 2021 to August 2022.
 
 ## My Research
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), American Economic Journal: Microeconomics, and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), Artificial Intelligence, and Scientific Reports. As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
+I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
 
 ## Teaching 
 Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
@@ -21,16 +21,6 @@ Below is the link to the courses that I have taught. By going to each page you c
   * [Introduction to Auction Theory](https://www.slideshare.net/YosukeYasuda1/introduction-to-auction-theory) -- 2017 
   * [Introduction to Decision Making Theory](https://www.slideshare.net/YosukeYasuda1/introduction-to-decision-making-theory) -- 2015 
   * [Theory of Repeated Games](https://www.slideshare.net/YosukeYasuda1/theory-of-repeated-games) -- 2015
-
-## Conference Talks in 2022 (by me or co-author)
-* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author)  
-* June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
-* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
-* July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal.  
-* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
-* August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
-* August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
-* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia.  <span style="color: blue;">New!</span> 
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
@@ -63,6 +53,16 @@ Below is the link to the courses that I have taught. By going to each page you c
   1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
   2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
+## Conference Talks in 2022 (by me or co-author)
+* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author)  
+* June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
+* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
+* July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal.  
+* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
+* August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
+* August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
+* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia.  <span style="color: blue;">New!</span> 
+
 ------
 
-<span style="color: red; ">Last update: December 2022</span>
+<span style="color: red; ">Last update: February 2023</span>
