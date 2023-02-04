@@ -131,13 +131,14 @@ author_profile: true
 ## 出版物
 
 ### 英語論文（査読付き）
-1. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
-2. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
-3. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
-4. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
-5. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
-6. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
-7. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
+1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
+2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
+3. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
+4. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
+5. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
+6. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
+7. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
+8. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ### 日本語論文
 1. 二種類の順位が混在するマッチング問題 中国大学入試制度の分析と改革（方元駒さんとの共著), **オペレーションズ・リサーチ**, Vol.67, No.3: 121-127.  [Link](https://orsj.org/?p=4146)
