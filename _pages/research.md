@@ -14,7 +14,7 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ------
 
 ## Peer-Reviewed Journal Publications
-1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
+1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
 2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 3. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 4. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
