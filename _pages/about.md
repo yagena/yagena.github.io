@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Professor** at the [Department of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have a BA from the University of Tokyo and a **Ph.D.** from Princeton University. Taking a sabbatical leave, I have been staying at the [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** from April 2021 to August 2022.
+I am a **Professor** at the [Graduate School of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have a BA from the University of Tokyo and a **Ph.D.** from Princeton University. Taking a sabbatical leave, I have been staying at the [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** from April 2021 to August 2022.
 
 ## My Research
 I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
@@ -65,4 +65,4 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ------
 
-<span style="color: red; ">Last update: February 2023</span>
+<span style="color: red; ">Last update: March 2023</span>
