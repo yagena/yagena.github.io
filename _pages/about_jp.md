@@ -36,6 +36,7 @@ author_profile: true
 * 3月25日（土）に[esse-sense](https://esse-sense.com/)株主総会に出席します。
 * 3月24日（金）に株式会社[エコノミクスデザイン](https://econ.news/)と株式会社[esse-sense](https://esse-sense.com/company)共催によるイベント／無料ウェビナー「[スタートアップエコシステムのグロース](https://startup-growth.peatix.com/)」にパネリストとして登壇します。
 * 3月22日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 3月21日（火・祝）にグランフロント大阪で開催される「[第10回ナレッジイノベーションアワード](https://kc-i.jp/activity/award/innovation/2022/)」最終選考会に選考委員として参加します。
 * 3月20日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 3月17日（金）にNTT西日本「メディア融合研究会」（第5回・オンライン開催）に委員・報告者として出席します。
 * 3月17日（金）に衆議院第二議員会館にて開催される「情報通信インフラ関連有志勉強会」にゲスト討論者として登壇します。
