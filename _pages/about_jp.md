@@ -33,6 +33,14 @@ author_profile: true
 * 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 
 ### お知らせ
+* 4月17日（月）から[研究セミナー（学部ゼミ）](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_seminar)を開講します。副題は「社会を変える戦略とデータの力」です。
+* 4月17日（月）から大学院講義「[Cooperative Game Theory: Introduction and Practice](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_cooperative)」を開講します。
+* 4月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 4月14日（金）に総務省「割当方式検討タスクフォース」（第3回）に委員としてオンライン出席します。
+* 4月12日（水）から大学院講義「[Matching Theory](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_matching)」を開講します。
+* 4月11日（火）に総務省「5Gビジネスデザインワーキンググループ」（第6回）に委員としてオンライン出席します。
+* 4月8日（土）に上智大学「知のエグゼクティブサロン」（第1回）にリソースパーソンとして登壇します。テーマは「資本主義／経済／経営」です。
+* 4月4日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月27日（月）に発売された『経済セミナー』（[4・5月号](https://www.nippyo.co.jp/shop/magazine/9017.html)）に以下の2つの記事が掲載されました：
   * 【座談会】経済学実践のフロントランナーに聞くキャリアとビジネスの創り方
   * レーティングの仕組みは経済理論で創る ― エコノミクスデザインの実践
