@@ -233,7 +233,10 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
-* スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2022年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
+* 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
+* 【日銀総裁】元教え子が語る植田和男氏の素顔「実務経験と学者のキャリア両方持つ人」｜アベヒル, 2023年2月16日.  [YouTube](https://www.youtube.com/watch?v=xNrKANhRLtw)
+* スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2023年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
+* ＜2023年大展望＞【経済大展望2023】今年は賃金上昇の転換点｜PIVOT, 2023年1月8日.  [YouTube](https://www.youtube.com/watch?v=5fhNArCQAUA)
 * 株式会社マイベスト合同ウェビナー【レーティングの経済学】, 2022年12月18日.  [YouTube](https://www.youtube.com/watch?v=PfPSXAoN7OM)
 * 【大学教授が解く】ポーカーで勝ち組になる GTO理論講座 /ブラフの打ち方, 2022年11月18日. [YouTube](https://www.youtube.com/watch?v=jnQc-PKCXQg)
 * 21A16 持続可能な未来をつくる意思決定の仕組み, 2022年11月14日. [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
@@ -272,6 +275,7 @@ author_profile: true
   * 第2部｜パネルディスカッション, 2019年7月25日.  [YouTube](https://www.youtube.com/watch?v=xmSoj7Z8aoQ) 
 * JPIC YOUTH, 「経済学は役に立つのか？」佐々木紀彦さん（NewsPicks） × 安田洋祐さん（経済学者）
   * YouTube （[前編](https://www.youtube.com/watch?v=-iD_wb4PCLM) 2018年9月28日 ｜ [後編](https://www.youtube.com/watch?v=p4mCKaBosXw) 2018年10月3日）
+* 第4回学校選択制デザイン研究会　安田洋祐氏, 2009年1月29日.  [YouTube](https://www.youtube.com/watch?v=ETWGH40sgtA) 
 
 ### 講演・講義スライド（の一部）
 * [社会的共通資本と資本主義](https://www.slideshare.net/YosukeYasuda1/ss-251160835) -- 2022年2月
