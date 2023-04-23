@@ -33,10 +33,15 @@ author_profile: true
 * 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 
 ### お知らせ
+* 5月10日（水）にゲンロンカフェにて開催されるトークイベント「『ほんの明日』を語り合う──『「2030年日本」のストーリー』をめぐって」にゲスト出演します（牧原出さん、西田亮介さんとの共演）。詳しくは[こちら](https://peatix.com/event/3563275)をご覧ください。
+* 5月2日（火・祝）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月26日（水）に総務省「5Gビジネスデザインワーキンググループ」（第7回）に委員としてオンライン出席します。
 * 4月25日（火）に東京大学「[近未来金融システム創造プログラム](https://todaifinanceinnovation.com/)」 第2回講義に講師として登壇します。テーマは「資本主義と金融 2023」です。
 * 4月25日（火）にオンライン開催される文藝春秋カンファレンス「[Essense of DX](https://bunshun.jp/articles/-/61060)」にて特別講演の講師を務めます。テーマは「DXの本質に迫る、武器としての経済学の活用 専門家と非専門家が交差する点で生まれるゲームチェンジ」です。
 * 4月24日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 4月21日（金）に東京大学「学術フロンティア講義－30年後の世界へ」（[第3講](https://www.eaa.c.u-tokyo.ac.jp/events/frontier3-2023/)）に講師として登壇します。テーマは「資本主義と空気の価値 市場・国家・社会的共通資本」です。
+* 4月20日（木）に総務省「Ｗｅｂ３時代に向けたメタバース等の利活用に関する研究会」（第9回）に委員としてオンライン出席します。
+* 4月18日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月17日（月）から[研究セミナー（学部ゼミ）](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_seminar)を開講します。副題は「社会を変える戦略とデータの力」です。
 * 4月17日（月）から大学院講義「[Cooperative Game Theory: Introduction and Practice](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_cooperative)」を開講します。
 * 4月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
