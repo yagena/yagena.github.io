@@ -17,8 +17,8 @@ author_profile: true
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ｜ [Github](https://yagena.github.io/year-archive/)
 * SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/)
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
-* 講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) | [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
-* スライド資料： [Docswell](https://www.docswell.com/user/2322473805) | [SlideShare](https://www.slideshare.net/YosukeYasuda1)
+* 講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
+* スライド資料： [Docswell](https://www.docswell.com/user/2322473805) ｜ [SlideShare](https://www.slideshare.net/YosukeYasuda1)
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP.pdf) ｜ [英語](https://yagena.github.io/files/CV_20220703.pdf)
 * 履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)
 
