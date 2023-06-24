@@ -34,7 +34,7 @@ author_profile: true
 * 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 
 ### お知らせ
-* 
+* 7月1日（土）に発行される日本FP協会の会報「FPジャーナル2023年7月号」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
 * 6月28日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月27日（火）にエコノミクスデザイン・電通共催ウェビナー「[今さら聞けないESGと株価の関係](https://www.d-sol.jp/webinar-20230627)」に登壇します。
@@ -49,6 +49,7 @@ author_profile: true
 * 6月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月10日（土）に上智大学「知のエグゼクティブサロン」（第3回）にメンバーとして参加します。テーマは「国家／政治／社会」です。
 * 6月6日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.1](https://twitter.com/i/spaces/1zqKVPEBlwXJB)」に登壇します。隔週ペースで、火曜日のお昼に経済／経済学に関する話題を気軽に発信していく予定です。
+* 6月1日（木）に発行される日本FP協会の会報「[FPジャーナル2023年6月号](https://www.jafp.or.jp/kojin/support/journal/jnl281/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第1回」が掲載されます。
 * 5月31日（水）～6月2日（金）にリスボン大学で開催される [The Lisbon Meetings in Game Theory and Applications #12](https://www.lisbonmeetings.com/) にて研究報告を行います。報告論文は「[Squid Voting Game: Rational Indecisiveness in Sequential Voting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134)」（鎌田雄一郎氏との共著）です。
 * 5月30日（火）に総務省「5Gビジネスデザインワーキンググループ」（第9回）に委員としてオンライン出席します。
 * 5月26日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
