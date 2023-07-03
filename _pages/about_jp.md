@@ -15,7 +15,7 @@ author_profile: true
 ### リンク
 * 経済学者リスト（通称「安田リスト」）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ｜ [Github](https://yagena.github.io/year-archive/)
-* SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/)
+* SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) ｜ [Mastodon](https://mstdn.jp/@yagena)
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
 * 講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
 * スライド資料： [Docswell](https://www.docswell.com/user/2322473805) ｜ [SlideShare](https://www.slideshare.net/YosukeYasuda1)
@@ -34,7 +34,10 @@ author_profile: true
 * 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 
 ### お知らせ
+* 7月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 7月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月1日（土）に発行される日本FP協会の会報「FPジャーナル2023年7月号」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
+* 6月29日（木）に開催される特別ウェビナー「[いまさら聞けないESGと株価の関係　アフタートーク〜ESGとビジネスをつなぐには？〜](https://econ.news/blog/20230602/)」（エコノミクスデザイン主催）に登壇します。
 * 6月28日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月27日（火）にエコノミクスデザイン・電通共催ウェビナー「[今さら聞けないESGと株価の関係](https://www.d-sol.jp/webinar-20230627)」に登壇します。
@@ -43,6 +46,7 @@ author_profile: true
 * 6月22日（木）にABEMA NEWS「[ABEMAヒルズ](https://news-keyaki.abema.tv/)」にゲストとしてオンライン出演します。
 * 6月20日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.2](https://twitter.com/i/spaces/1vOxwMorVpNGB)」に登壇します。
 * 6月19日（月）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
+* 6月19日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 6月17日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「資本主義とルールデザイン」、スライド資料は[ドクセル](https://www.docswell.com/s/2322473805/538E88-2023-06-24-101211)から閲覧できます。
 * 6月14日（水）に総務省「Ｗｅｂ３時代に向けたメタバース等の利活用に関する研究会」（第11回）に委員としてオンライン出席します。
 * 6月14日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
@@ -55,6 +59,7 @@ author_profile: true
 * 5月26日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月24日（水）に総務省「割当方式検討タスクフォース」（第5回）に委員としてオンライン出席します。
 * 5月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 5月16日（火）に東京大学ENEOSホール（駒場Ⅱキャンパス）で開催されるサントリー文化財団主催イベント 『「2030年日本」のストーリー』刊行記念オーサー＆ゲスト超異分野トーク に登壇しました。
 * 5月10日（水）にゲンロンカフェにて開催されるトークイベント「『ほんの明日』を語り合う──『「2030年日本」のストーリー』をめぐって」にゲスト出演します（牧原出さん、西田亮介さんとの共演）。詳しくは[こちら](https://peatix.com/event/3563275)をご覧ください。
 * エコノミクスデザインが運営するTwitterスペース「しゃべらナイトスクール」[第5回](https://twitter.com/EconDesignInc/status/1656134076955521027)にスピーカーとして登壇しました。
