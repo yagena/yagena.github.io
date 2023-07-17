@@ -36,10 +36,9 @@ author_profile: true
 ### お知らせ
 * 7月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月24日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 7月18日（火）の12時15分～45分にTwitterスペース「お昼の経済学 by The Night School Vol.4」に登壇します。
+* 7月18日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.4](https://twitter.com/i/spaces/1yoJMZWMeENxQ?s=20)」に登壇します。
 * 7月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月10日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 7月4日（火）にDe-Silo主催の座談会の様子が「[いまこそ「時代」と「社会」に応答する人文・社会科学の研究を──デサイロ アカデミックインキュベーター・プログラム審査員の目線](https://desilo.substack.com/p/academic-incubator-program-discussion)」というオンライン記事として公開されました。
 * 7月4日（火）の12時15分～45分にTwitterスペース「お昼の経済学 by The Night School Vol.3」に登壇しました。途中で通信トラブルがあり中断してしまいましたが、[こちら](https://twitter.com/i/spaces/1lPKqBXebwYGb)と[こちら](https://twitter.com/i/spaces/1dRKZMlRkomxB)からリプレイ再生することができます。
 * 7月1日（土）に発行される日本FP協会の会報「FPジャーナル2023年7月号」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
@@ -122,14 +121,14 @@ author_profile: true
 ## 出版物
 
 ### 英語論文（査読付き）
-1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
-2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
+1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157),  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
+2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1756-2171.12313), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 3. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 4. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
-5. Expanding "Choice" in School Choice (with with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
+5. Expanding "Choice" in School Choice (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015. [Link](https://www.aeaweb.org/articles?id=10.1257/mic.20120027),  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
 6. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
 7. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
-8. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
+8. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011. [Link](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ### 日本語論文
 1. 二種類の順位が混在するマッチング問題 中国大学入試制度の分析と改革（方元駒さんとの共著), **オペレーションズ・リサーチ**, Vol.67, No.3: 121-127.  [Link](https://orsj.org/?p=4146)
