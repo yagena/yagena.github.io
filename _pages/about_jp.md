@@ -34,6 +34,7 @@ author_profile: true
 * 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 
 ### お知らせ
+<!-- コメントアウトの方法 -->
 
 * 8月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月15日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
