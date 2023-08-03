@@ -39,6 +39,7 @@ author_profile: true
 * 8月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月15日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月1日（火）に発行される日本FP協会の会報「[FPジャーナル2023年8月号](https://www.jafp.or.jp/kojin/support/journal/jnl283/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第3回」が掲載されます。
 * 7月28日（金） に大阪大学・行動経済学研究センター主催のオンラインシンポジウム「[ビジネスに使える行動経済学](https://www.iser.osaka-u.ac.jp/iser-rcbe/2023symp.html)」に登壇します。
 * 7月28日（金） にFNNプライムオンラインとエコノミクスデザイン社による共同イベント「[お昼の経済学 in お台場冒険王2023](https://www.fujitv-view.jp/article/post-929673/)」に登壇します。
 <!-- * 7月27日（木）に開催される「人の資本主義」研究プロジェクトの研究会に、委員として参加します。-->
@@ -52,7 +53,7 @@ author_profile: true
 * 7月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月4日（火）にDe-Silo主催の座談会の様子が「[いまこそ「時代」と「社会」に応答する人文・社会科学の研究を──デサイロ アカデミックインキュベーター・プログラム審査員の目線](https://desilo.substack.com/p/academic-incubator-program-discussion)」というオンライン記事として公開されました。
 * 7月4日（火）の12時15分～45分にTwitterスペース「お昼の経済学 by The Night School Vol.3」に登壇しました。途中で通信トラブルがあり中断してしまいましたが、[こちら](https://twitter.com/i/spaces/1lPKqBXebwYGb)と[こちら](https://twitter.com/i/spaces/1dRKZMlRkomxB)からリプレイ再生することができます。
-* 7月1日（土）に発行される日本FP協会の会報「FPジャーナル2023年7月号」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
+* 7月1日（土）に発行される日本FP協会の会報「[FPジャーナル2023年7月号](https://www.jafp.or.jp/kojin/support/journal/jnl282/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
 * 6月29日（木）に開催される特別ウェビナー「[いまさら聞けないESGと株価の関係　アフタートーク〜ESGとビジネスをつなぐには？〜](https://econ.news/blog/20230602/)」（エコノミクスデザイン主催）に登壇します。
 * 6月28日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
