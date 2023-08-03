@@ -49,22 +49,6 @@ author_profile: true
 * 7月24日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 7月21日（金）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
 * 7月18日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.4](https://twitter.com/i/spaces/1yoJMZWMeENxQ?s=20)」に登壇します。
-* 7月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 7月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月4日（火）にDe-Silo主催の座談会の様子が「[いまこそ「時代」と「社会」に応答する人文・社会科学の研究を──デサイロ アカデミックインキュベーター・プログラム審査員の目線](https://desilo.substack.com/p/academic-incubator-program-discussion)」というオンライン記事として公開されました。
-* 7月4日（火）の12時15分～45分にTwitterスペース「お昼の経済学 by The Night School Vol.3」に登壇しました。途中で通信トラブルがあり中断してしまいましたが、[こちら](https://twitter.com/i/spaces/1lPKqBXebwYGb)と[こちら](https://twitter.com/i/spaces/1dRKZMlRkomxB)からリプレイ再生することができます。
-* 7月1日（土）に発行される日本FP協会の会報「[FPジャーナル2023年7月号](https://www.jafp.or.jp/kojin/support/journal/jnl282/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第2回」が掲載されます。
-* 6月29日（木）に開催される特別ウェビナー「[いまさら聞けないESGと株価の関係　アフタートーク〜ESGとビジネスをつなぐには？〜](https://econ.news/blog/20230602/)」（エコノミクスデザイン主催）に登壇します。
-* 6月28日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 6月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 6月27日（火）にエコノミクスデザイン・電通共催ウェビナー「[今さら聞けないESGと株価の関係](https://www.d-sol.jp/webinar-20230627)」に登壇します。
-* 6月27日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 6月23日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
-* 6月22日（木）にABEMA NEWS「[ABEMAヒルズ](https://news-keyaki.abema.tv/)」にゲストとしてオンライン出演します。
-* 6月20日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.2](https://twitter.com/i/spaces/1vOxwMorVpNGB)」に登壇します。
-* 6月19日（月）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
-* 6月19日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 6月17日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「資本主義とルールデザイン」、スライド資料は[ドクセル](https://www.docswell.com/s/2322473805/538E88-2023-06-24-101211)から閲覧できます。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
