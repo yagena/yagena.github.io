@@ -39,7 +39,9 @@ author_profile: true
 * 8月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月15日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月1日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.5](https://twitter.com/i/spaces/1mrGmkMXoYzxy?s=20)」に登壇します。
 * 8月1日（火）に発行される日本FP協会の会報「[FPジャーナル2023年8月号](https://www.jafp.or.jp/kojin/support/journal/jnl283/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第3回」が掲載されます。
+* 8月7日（月）発売の『週刊東洋経済』8月12-19日号に「[Book Review『信頼の経済学 人類の繁栄を支えるメカニズム』（ベンジャミン・ホー・著）](https://toyokeizai.net/articles/-/692052)」が掲載されました。
 * 7月28日（金） に大阪大学・行動経済学研究センター主催のオンラインシンポジウム「[ビジネスに使える行動経済学](https://www.iser.osaka-u.ac.jp/iser-rcbe/2023symp.html)」に登壇します。
 * 7月28日（金） にFNNプライムオンラインとエコノミクスデザイン社による共同イベント「[お昼の経済学 in お台場冒険王2023](https://www.fujitv-view.jp/article/post-929673/)」に登壇します。
 <!-- * 7月27日（木）に開催される「人の資本主義」研究プロジェクトの研究会に、委員として参加します。-->
@@ -48,7 +50,7 @@ author_profile: true
 * 7月25日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 7月24日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 7月21日（金）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
-* 7月18日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.4](https://twitter.com/i/spaces/1yoJMZWMeENxQ?s=20)」に登壇します。
+* 7月18日（火）の12時15分～55分にTwitterスペース「[お昼の経済学 by The Night School Vol.4](https://twitter.com/i/spaces/1yoJMZWMeENxQ?s=20)」に登壇します。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
