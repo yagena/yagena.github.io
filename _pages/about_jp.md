@@ -214,9 +214,9 @@ author_profile: true
 ### 書籍：監修など
 1. 未来を実装する―テクノロジーで社会を変革する４つの原則, 英治出版, 2021.  [Web](http://www.eijipress.co.jp/book/book.php?epcode=2304)
   * 本書の土台となったプロジェクト「[社会実装](https://apinitiative.org/project/social-implementation/)」（一般財団法人API主催）にメンバーとして参加. 
-2. 欲望の資本主義４ - 不確実性への挑戦：コロナ危機の本質, 東洋経済新報社, 2020.  
+2. 欲望の資本主義4 - 不確実性への挑戦：コロナ危機の本質, 東洋経済新報社, 2020.  
 3. 日経ビジネス 日本経済入門 第２版, 日経BP, 2019. 
-4. 欲望の資本主義３―偽りの個人主義を越えて, 東洋経済新報社, 2019.   
+4. 欲望の資本主義3―偽りの個人主義を越えて, 東洋経済新報社, 2019.   
 5. これからのビジネスマンに絶対必要な教養 テクノロジー見るだけノート, 2019.  
   * 「はじめに」を[note](https://note.com/yagena/n/n920816024351)に公開.　
 6. 欲望の資本主義2：闇の力が目覚める時, 東洋経済新報社, 2018.
@@ -234,6 +234,7 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* “負け組”をつくらない、新しい市場とは？ / 安田 洋祐 氏｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
 * 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
 * 【日銀総裁】元教え子が語る植田和男氏の素顔「実務経験と学者のキャリア両方持つ人」｜アベヒル, 2023年2月16日.  [YouTube](https://www.youtube.com/watch?v=xNrKANhRLtw)
 * スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2023年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
@@ -292,6 +293,10 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2022年12月.　＜予定＞
+* 京都府不動産コンサルティング協会, 2023年8月. 
+* 九州・アジア経営塾, 2023年7月. 
+* 立命館西園寺塾, 2023年6月.
 * DXPO大阪（大阪）, 2023年3月. 
 * 中部産業連盟会員懇話会（名古屋）, 2023年1月. 
 * 筑駒アカデメイア講演会（東京）, 2023年1月. 
@@ -546,7 +551,7 @@ author_profile: true
 
 ### 査読
 * 英語論文
-  * American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare , Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
+  * American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare, Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
 * 日本語論文
   * 応用地域学研究, 現代経済学の潮流, 社会技術研究論文集, 日本ソーシャルデータサイエンス学会論文誌, レヴァイアサン, InfoCom REVIEW. 
 
@@ -557,6 +562,7 @@ author_profile: true
   * 若手研究（A）, オークションを通じた市場競争のミクロ経済理論分析, 平成23-25年度（728万円）.
   * 若手研究（スタートアップ）, 望ましい学校選択制度設計：マッチング理論によるアプローチ, 平成20-21年度（334万円）.
 * 科学研究費補助金：研究分担者
+  * 基盤研究（A）, 持続可能性、品質維持、競争適正化のための公共調達制度設計（研究代表者：花薗誠）, 令和5-9年度. 
   * 基盤研究（A）, 近未来デジタル経済学のための制度設計（研究代表者：松島斉）, 令和2年度-5年度. 
   * 基盤研究（A）, マーケットデザインの実践的理論の構築（研究代表者：横尾真）, 平成29-31年度.
   * 基盤研究（B）, ゲーム理論的資源配分メカニズムの定量的評価基盤の構築（研究代表者：岩崎敦）, 平成29-31年度.
