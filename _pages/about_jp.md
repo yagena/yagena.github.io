@@ -43,6 +43,8 @@ author_profile: true
 * 8月7日（月）発売の『週刊東洋経済』8月12-19日号に「[Book Review『信頼の経済学 人類の繁栄を支えるメカニズム』（ベンジャミン・ホー・著）](https://toyokeizai.net/articles/-/692052)」が掲載されました。
 * 8月1日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.5](https://twitter.com/i/spaces/1mrGmkMXoYzxy?s=20)」に登壇します。
 * 8月1日（火）に発行される日本FP協会の会報「[FPジャーナル2023年8月号](https://www.jafp.or.jp/kojin/support/journal/jnl283/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第3回」が掲載されます。
+* 7月30日（日） にNHK BS1「[欲望の資本主義 2023夏 特別編 スティグリッツからの挑戦状](https://www.nhk.jp/p/ts/8ZK942JRQ7/episode/te/BKLQ75NKK5/)」にスティグリッツ教授へのインタビュアーとして出演します。
+　　* 8月10日（木）の23:30から再放送される予定です。
 * 7月28日（金） に大阪大学・行動経済学研究センター主催のオンラインシンポジウム「[ビジネスに使える行動経済学](https://www.iser.osaka-u.ac.jp/iser-rcbe/2023symp.html)」に登壇します。
 * 7月28日（金） にFNNプライムオンラインとエコノミクスデザイン社による共同イベント「[お昼の経済学 in お台場冒険王2023](https://www.fujitv-view.jp/article/post-929673/)」に登壇します。
 * 7月27日（木）に開催される「人の資本主義」研究プロジェクトの研究会に、委員として参加します。
@@ -327,6 +329,7 @@ author_profile: true
 
 
 ### イベント登壇　
+* FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
 * ミラツク年次フォーラム2022（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3328/)
 * 第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム（オンライン）, 2022年12月.  [Web](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)
 * 金融リテラシー：現在・過去・未来（オンライン）, 名古屋市立大学, 2022年11月, 2022.  [Web](https://www.econ.nagoya-cu.ac.jp/archives/7940)
