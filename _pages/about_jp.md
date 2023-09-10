@@ -242,7 +242,8 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
-* “負け組”をつくらない、新しい市場とは？ / 安田 洋祐 氏｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
+* ゲーム理論で解く 隣り合うカフェの謎｜大阪大学経済学部公式YouTubeチャンネル, 2023年8月21日.  [YouTube](https://www.youtube.com/watch?v=88VNiXka9BM)」
+* “負け組”をつくらない、新しい市場とは？｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
 * 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
 * 【日銀総裁】元教え子が語る植田和男氏の素顔「実務経験と学者のキャリア両方持つ人」｜アベヒル, 2023年2月16日.  [YouTube](https://www.youtube.com/watch?v=xNrKANhRLtw)
 * スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2023年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
