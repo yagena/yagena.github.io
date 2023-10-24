@@ -9,6 +9,11 @@ author_profile: true
 {% include base_path %}
 
 ### 重要なお知らせ
+* 2023/02 --- 2月23日に東洋経済新報社から『[「2030年日本」のストーリー: 武器としての社会科学・歴史・イベント](https://str.toyokeizai.net/books/9784492503416/)』が出版されます。私は第1章「新しい経済圏の出現は可能か── 市場・利他・社会規範」を執筆しました。
+* 2023/02 --- 大阪大学の石黒真吾氏との共同研究「Moral Hazard and Subjective Evaluation」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)）が学術論文誌 **Journal of Economic Theory** に採択されました。
+* 2023/02 --- 2023年2月から、東京大学「[マーケットデザインセンター](https://www.mdc.e.u-tokyo.ac.jp/member/)」のメンバーに就任しました。
+* 2023/01 --- 中央公論社から[一般財団法人国際経済交流団体（JEF）](https://www.jef.or.jp/)編著による『広義の経済安全保障を実現する進化型産業政策の必要性』が出版されました。私は第3章「DX推進と規制改革、エビデンスに基づく政策決定の重要性」を執筆しました。
+* 2023/01 --- 2023年1月から、大阪大学社会経済研究所「[行動経済学研究センター](https://www.iser.osaka-u.ac.jp/iser-rcbe/rcbe-member.html)」のメンバーに就任しました。（経済学研究科との兼任）
 * 2022/12 --- 慶應大学のグレーヴァ香子氏との共同研究「Inspecting Cartels over Time: With and without Leniency Program」（草稿は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)）が、Asia-Pacific Industrial Organization Societyがシドニーで開催したコンファレンス[APIOS2022](https://apios.org.au/about/)でGraeme Woodbridge Prize（反トラストに関する最も優れた論文に贈られる賞）を受賞しました。
 * 2022/07 --- 大阪大学経済学研究科の教授に昇任しました（2022年7月1日付）。
 * 2022/04 --- 4月21日（木）に『[そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』（日経BP）が出版されました！2020年に共同創業した[エコノミクスデザイン](https://econ.news/)による初めてのビジネス書で、同社が提供するオンライン教育サービス「[ナイトスクール](https://econ.news/night-school/)」の講義内容（+α）が元になっています。本書が、「経済学のビジネス活用」を広める一助となれば幸いです。
