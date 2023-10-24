@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-<style>"font-size: 50%;"
+<font size="2"> 
 
 ### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 教授
 
 1980年東京都生まれ。2002年東京大学卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して07年Ph.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て、22年7月より現職。専門はゲーム理論、マーケットデザイン、産業組織論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。20年6月に[株式会社エコノミクスデザイン](https://econ.news/)を共同で創業し、コンサルタント業務やオンライン教育サービス「[ナイトスクール](https://econ.news/school/)」を運営する。政府の委員やテレビのコメンテーターとしても活動。主な著書に『学校選択制のデザイン　ゲーム理論アプローチ』（編著）、『そのビジネス課題、最新の経済学で「すでに解決」しています。』（共著）、『オークション・デザイン　ものの値段はこう決める』（監修）など。
 
-</style>
+</font>
 
 ### リンク
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ，SNS： [X (Twitter)](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) 
