@@ -42,6 +42,17 @@ author_profile: true
 ------ 
 
 ### 2023年
+* 9月29日（金）に信託経済研究会（第5回目）に委員としてオンライン出席します。
+* 9月28日（木）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
+* 9月27日（水）に名古屋で開催された科研費基盤研究（A）「[持続可能性、品質維持、競争適正化のための公共調達制度設計](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00051/)」研究会（第1回）に参加しました。
+* 9月22日（金）にミッドタウン八重洲にて開催される「[エッセンスフォーラム2023](https://esse-sense.com/forum2023)」に登壇します。
+* 9月20日（水）、21日（木）に[学部ゼミ](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_seminar)合宿に参加します。
+* 9月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月19日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.8](https://twitter.com/i/spaces/1DXGyjmBogPJM?s=20)」に登壇します。
+* 9月15日（金）に大阪大学豊中キャンパスにて開催される「[第29回　DCコンファレンス](https://www.dc.kier.kyoto-u.ac.jp/29thDCConference.html)」にローカルオーガナイザーとして参加します。
+* 9月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月5日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.7](https://twitter.com/i/spaces/1rmxPkvjQZbJN?s=20)」に登壇します。
+* 9月1日（金）に発行される日本FP協会の会報「[FPジャーナル2023年9月号](https://www.jafp.or.jp/kojin/support/journal/jnl284/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第4回」が掲載されます。
 * 8月28日（月）から9月1日（金）にバルセロナで開催される[「EEA-ESEM」](https://eea-esem-2023.org/)に報告者として参加します。
 * 8月21日（月）に大阪大学経済学部公式YouTubeチャンネルにて、私が出演する動画「[ゲーム理論で解く 隣り合うカフェの謎](https://www.youtube.com/watch?v=88VNiXka9BM)」が公開されました。
 * 8月16日（水）に信託経済研究会（第3回目）に委員としてオンライン出席します。
