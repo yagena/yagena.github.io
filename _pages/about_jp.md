@@ -36,20 +36,27 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
-* 11月1日（水）に発行される日本FP協会の会報「[FPジャーナル2023年11月号](https://www.jafp.or.jp/kojin/support/journal/jnl286/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第6回」が掲載されます。これで全六回にわたる連載も終了です。読んでくださったみなさま、どうもありがとうございました！
 * 11月17日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 11月11日（土）に上智大学「知のエグゼクティブサロン」（第6回）にメンバーとして参加します。テーマは「人生／教育／芸術」です。
+* 11月1日（水）に発行される日本FP協会の会報「[FPジャーナル2023年11月号](https://www.jafp.or.jp/kojin/support/journal/jnl286/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第6回」が掲載されます。これで全六回にわたる連載も終了です。目を通してくださった読者のみなさまに感謝いたします。どうもありがとうございましたm(__)m
 * 10月31日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月24日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.10](https://twitter.com/i/spaces/1djGXNBOLEjxZ?s=20)」に登壇します。
+* 10月18日（水）に公開されるPIVOTの新番組【EXTREME ECONOMICS】の第1回「[経済学はビジネスに役立つのか？〈前編〉](https://www.youtube.com/watch?v=umhIcGxpnl8)」にナビゲーターとして出演します。
 * 10月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月14日（土）に上智大学「知のエグゼクティブサロン」（第5回）にメンバーとして参加します。テーマは「自然／科学」です。
+* 10月11日（水）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
 * 10月10日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.9](https://twitter.com/i/spaces/1mnxepLvmdLJX?s=20)」に登壇します。
+* 10月9日（月）に公開されるPIVOT「[経済学者が解説＆大予測　ノーベル経済学賞](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s)」にゲストとして出演します。
 * 10月6日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 10月4日（水）に信託経済研究会（第6回目）に委員としてオンライン出席します。
+* 10月4日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 10月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月2日（月）に発売される『週刊東洋経済｜10月7日号』に「[Book Review『戦争と交渉の経済学』（クリストファー・ブラットマン 著）](https://toyokeizai.net/articles/-/704905)」が掲載されました。 
 * 10月2日（月）から、秋学期の学部生向け担当講義「[応用ミクロ経済](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_appmicro)」が始まります。
 * 10月1日（日）に発行される日本FP協会の会報「[FPジャーナル2023年10月号](https://www.jafp.or.jp/kojin/support/journal/jnl285/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第5回」が掲載されます。
 * 9月29日（金）に信託経済研究会（第5回目）に委員としてオンライン出席します。
 * 9月28日（木）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
+* 9月27日（水）に名古屋で開催された科研費基盤研究（A）「[持続可能性、品質維持、競争適正化のための公共調達制度設計](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00051/)」研究会（第1回）に参加しました。
 * 9月22日（金）にミッドタウン八重洲にて開催される「[エッセンスフォーラム2023](https://esse-sense.com/forum2023)」に登壇します。
 * 9月20日（水）、21日（木）に[学部ゼミ](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_seminar)合宿に参加します。
 * 9月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -90,7 +97,7 @@ author_profile: true
   * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
   * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
 * アドバイザーなど
-  * esse-sense（顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
+  * esse-sense（戦略顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
   * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
   * Finatext（顧問）,　2019 -- 現在. 
   * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
@@ -240,6 +247,8 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
+* PIVOT【EXTREME ECONOMICS】第1回「経済学はビジネスに役立つのか？〈前編〉」, 2023年10月18日.   [YouTube](https://www.youtube.com/watch?v=umhIcGxpnl8)
+* PIVOT「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 * ゲーム理論で解く 隣り合うカフェの謎｜大阪大学経済学部公式YouTubeチャンネル, 2023年8月21日.  [YouTube](https://www.youtube.com/watch?v=88VNiXka9BM)」
 * “負け組”をつくらない、新しい市場とは？｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
 * 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
