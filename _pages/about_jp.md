@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<style>"font-size: 80%;"
+<style>"font-size: 50%;"
 
 ### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 教授
 
