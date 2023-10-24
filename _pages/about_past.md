@@ -44,6 +44,7 @@ author_profile: true
 ### 2023年
 * 8月28日（月）から9月1日（金）にバルセロナで開催される[「EEA-ESEM」](https://eea-esem-2023.org/)に報告者として参加します。
 * 8月21日（月）に大阪大学経済学部公式YouTubeチャンネルにて、私が出演する動画「[ゲーム理論で解く 隣り合うカフェの謎](https://www.youtube.com/watch?v=88VNiXka9BM)」が公開されました。
+* 8月16日（水）に信託経済研究会（第3回目）に委員としてオンライン出席します。
 * 8月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月15日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月9日（水）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
@@ -63,6 +64,7 @@ author_profile: true
 * 7月21日（金）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
 * 7月18日（火）の12時15分～55分にTwitterスペース「[お昼の経済学 by The Night School Vol.4](https://twitter.com/i/spaces/1yoJMZWMeENxQ?s=20)」に登壇します。
 * 7月14日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 7月12日（水）に信託経済研究会（第2回目）に委員としてオンライン出席します。
 * 7月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月4日（火）にDe-Silo主催の座談会の様子が「[いまこそ「時代」と「社会」に応答する人文・社会科学の研究を──デサイロ アカデミックインキュベーター・プログラム審査員の目線](https://desilo.substack.com/p/academic-incubator-program-discussion)」というオンライン記事として公開されました。
 * 7月4日（火）の12時15分～45分にTwitterスペース「お昼の経済学 by The Night School Vol.3」に登壇しました。途中で通信トラブルがあり中断してしまいましたが、[こちら](https://twitter.com/i/spaces/1lPKqBXebwYGb)と[こちら](https://twitter.com/i/spaces/1dRKZMlRkomxB)からリプレイ再生することができます。
@@ -75,6 +77,7 @@ author_profile: true
 * 6月23日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 6月22日（木）にABEMA NEWS「[ABEMAヒルズ](https://news-keyaki.abema.tv/)」にゲストとしてオンライン出演します。
 * 6月20日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.2](https://twitter.com/i/spaces/1vOxwMorVpNGB)」に登壇します。
+* 6月19日（月）に信託経済研究会（第1回目）に委員としてオンライン出席します。
 * 6月19日（月）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
 * 6月19日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 6月17日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「資本主義とルールデザイン」、スライド資料は[ドクセル](https://www.docswell.com/s/2322473805/538E88-2023-06-24-101211)から閲覧できます。
