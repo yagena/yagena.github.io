@@ -13,14 +13,13 @@ author_profile: true
 1980年東京都生まれ。2002年東京大学卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して07年Ph.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て、22年7月より現職。専門はゲーム理論、マーケットデザイン、産業組織論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。20年6月に[株式会社エコノミクスデザイン](https://econ.news/)を共同で創業し、コンサルタント業務やオンライン教育サービス「[ナイトスクール](https://econ.news/school/)」を運営する。政府の委員やテレビのコメンテーターとしても活動。主な著書に『学校選択制のデザイン　ゲーム理論アプローチ』（編著）、『そのビジネス課題、最新の経済学で「すでに解決」しています。』（共著）、『オークション・デザイン　ものの値段はこう決める』（監修）など。
 
 ### リンク
-* 経済学者リスト（通称「安田リスト」）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
-* ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ｜ [Github](https://yagena.github.io/year-archive/)
-* SNS： [Twitter](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Instagram](https://instagram.com/yyasuda0220) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) ｜ [Mastodon](https://mstdn.jp/@yagena)
+* 経済学者リスト（通称「安田リスト」、更新を一時停止中…）：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) 
+* ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ，SNS： [X (Twitter)](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) 
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
-* 講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
-* スライド資料： [Docswell](https://www.docswell.com/user/2322473805) ｜ [SlideShare](https://www.slideshare.net/YosukeYasuda1)
-* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP.pdf) ｜ [英語](https://yagena.github.io/files/CV_20220703.pdf)
-* 履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)
+，講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
+* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP.pdf) ｜ [英語](https://yagena.github.io/files/CV_20220703.pdf)，履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)
+
+<!-- スライド資料： [Docswell](https://www.docswell.com/user/2322473805) ｜ [SlideShare](https://www.slideshare.net/YosukeYasuda1) -->
 
 ------ 
 
