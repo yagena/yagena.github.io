@@ -36,17 +36,24 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 11月1日（水）に発行される日本FP協会の会報「[FPジャーナル2023年11月号](https://www.jafp.or.jp/kojin/support/journal/jnl286/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第6回」が掲載されます。これで全六回にわたる連載も終了です。読んでくださったみなさま、どうもありがとうございました！
+* 11月17日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月31日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月24日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.10](https://twitter.com/i/spaces/1djGXNBOLEjxZ?s=20)」に登壇します。
 * 10月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月10日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.9](https://twitter.com/i/spaces/1mnxepLvmdLJX?s=20)」に登壇します。
 * 10月6日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月4日（水）に信託経済研究会（第6回目）に委員としてオンライン出席します。
 * 10月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月2日（月）に発売される『週刊東洋経済｜10月7日号』に「[Book Review『戦争と交渉の経済学』（クリストファー・ブラットマン 著）](https://toyokeizai.net/articles/-/704905)」が掲載されました。 
 * 10月2日（月）から、秋学期の学部生向け担当講義「[応用ミクロ経済](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_appmicro)」が始まります。
 * 10月1日（日）に発行される日本FP協会の会報「[FPジャーナル2023年10月号](https://www.jafp.or.jp/kojin/support/journal/jnl285/)」に、私が監修した記事「FP課外ぜみなーる　一緒に学ぶ ゲーム理論入門講座　第5回」が掲載されます。
+* 9月29日（金）に信託経済研究会（第5回目）に委員としてオンライン出席します。
 * 9月28日（木）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
 * 9月22日（金）にミッドタウン八重洲にて開催される「[エッセンスフォーラム2023](https://esse-sense.com/forum2023)」に登壇します。
 * 9月20日（水）、21日（木）に[学部ゼミ](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2023_seminar)合宿に参加します。
 * 9月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 9月19日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.7](https://twitter.com/i/spaces/1DXGyjmBogPJM?s=20)」に登壇します。
+* 9月19日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.8](https://twitter.com/i/spaces/1DXGyjmBogPJM?s=20)」に登壇します。
 * 9月15日（金）に大阪大学豊中キャンパスにて開催される「[第29回　DCコンファレンス](https://www.dc.kier.kyoto-u.ac.jp/29thDCConference.html)」にローカルオーガナイザーとして参加します。
 * 9月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月5日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.7](https://twitter.com/i/spaces/1rmxPkvjQZbJN?s=20)」に登壇します。
