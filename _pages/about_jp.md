@@ -241,8 +241,14 @@ author_profile: true
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
 ### 動画 
-* PIVOT【EXTREME ECONOMICS】第1回「経済学はビジネスに役立つのか？〈前編〉」, 2023年10月18日.   [YouTube](https://www.youtube.com/watch?v=umhIcGxpnl8)
-* PIVOT「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
+
+**PIVOT【EXTREME ECONOMICS】**
+* 第3回「メカニズムデザインを70分で解説」, 2023年11月1日.   [YouTube](https://www.youtube.com/watch?v=nSOH8StJghs)
+* 第2回「ルービンシュタインの交渉モデル」, 2023年10月25日.   [YouTube](https://www.youtube.com/watch?v=7xSPm1gGEs0)
+* 第1回「経済学はビジネスに役立つのか？」, 2023年10月18日.   [YouTube](https://www.youtube.com/watch?v=umhIcGxpnl8)
+* 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
+
+**その他の動画**
 * ゲーム理論で解く 隣り合うカフェの謎｜大阪大学経済学部公式YouTubeチャンネル, 2023年8月21日.  [YouTube](https://www.youtube.com/watch?v=88VNiXka9BM)」
 * “負け組”をつくらない、新しい市場とは？｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
 * 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
