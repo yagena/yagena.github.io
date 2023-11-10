@@ -92,12 +92,12 @@ author_profile: true
   * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
 * 起業
   * Economics Design Inc.（共同創業者、プリンシパル）,　2020 -- 現在.  [Web](https://econ.news/)
-* アドバイザーなど  
+* 顧問など  
   * De-Silo アカデミックインキュベーター・プログラム, 2023 -- 現在.  [Web](https://prtimes.jp/main/html/rd/p/000000003.000109034.html)　
   * esse-sense（戦略顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
-  * Finatext（顧問）,　2019 -- 現在. 
   * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
-  * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在. 
+  * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在.
+  * Finatext（顧問）,　2019 -- 2020. 
   * 西村あさひ法律事務所,　2010.
   * シノドス,　2009 -- 不明. 
 
