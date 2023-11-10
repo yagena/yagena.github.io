@@ -90,9 +90,11 @@ author_profile: true
   * 2007年8月 -- 14年3月 ｜ **政策研究大学院大学助教授**
   * 2008年9月 -- 11年3月 ｜ 東京財団VCASIフェロー
   * 2009年 -- 10年 ｜ 京都大学経済研究所非常勤講師
-* アドバイザーなど
+* 起業
+  * Economics Design Inc.（共同創業者、プリンシパル）,　2020 -- 現在.  [Web](https://econ.news/)
+* アドバイザーなど  
+  * De-Silo アカデミックインキュベーター・プログラム, 2023 -- 現在.  [Web](https://prtimes.jp/main/html/rd/p/000000003.000109034.html)　
   * esse-sense（戦略顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
-  * Economics Design Inc.（共同創業者）,　2020 -- 現在.  [Web](https://econ.news/)
   * Finatext（顧問）,　2019 -- 現在. 
   * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
   * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在. 
