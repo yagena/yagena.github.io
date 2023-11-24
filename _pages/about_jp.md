@@ -35,8 +35,12 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 12月22日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 12月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月27日（月）にスリール株式会社が主催するウェビナー「[ジェンダー格差研究で受賞！2023ノーベル経済学賞から読み解く、組織改革のヒント](https://sourire231127.peatix.com/)」にゲストとして登壇します。
+* 11月23日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第5回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=YaiphAtmuCA)）が配信されました。テーマは「【多数決の欠点】を乗り越える投票理論」です。
 * 11月21日（火）に日本の人事部「[HRカンファレンス2023](https://jinjibu.jp/hr-conference/202311/program.php?d=5#T)」に登壇し、基調講演を行います。テーマは「経済学が人事のジレンマを解消する従業員と組織の強みをいかに引き出すのか」です。
 * 11月18日（土）に信託協会が主催する「信託経済コンファレンス」にコメンテーターとしてオンライン登壇します。
 * 11月17日（金）に河出新書から『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』が出版されました。第2章「経済学者と「戦略」を遊ぶ『ナショナル エコノミー』経営者になりきって経済のしくみを実感」を執筆しています。
@@ -242,6 +246,8 @@ author_profile: true
 ### 動画 
 
 **PIVOT【EXTREME ECONOMICS】**
+* 第5回「多数決の欠点を乗り越える投票理論」, 2023年11月23日.   [YouTube](https://www.youtube.com/watch?v=YaiphAtmuCA) 
+* 第4回「エビデンスからみるジェンダー格差」, 2023年11月16日.   [YouTube](https://www.youtube.com/watch?v=VIjQ46UHUyg)
 * 第3回「メカニズムデザインを70分で解説」, 2023年11月1日.   [YouTube](https://www.youtube.com/watch?v=nSOH8StJghs)
 * 第2回「ルービンシュタインの交渉モデル」, 2023年10月25日.   [YouTube](https://www.youtube.com/watch?v=7xSPm1gGEs0)
 * 第1回「経済学はビジネスに役立つのか？」, 2023年10月18日.   [YouTube](https://www.youtube.com/watch?v=umhIcGxpnl8)
