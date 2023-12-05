@@ -37,7 +37,10 @@ author_profile: true
 
 * 12月22日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月18日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 12月15日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月2日（土）に台湾の中央研究院で開催されたContract Theory Workshopに参加しました。
 * 11月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月27日（月）にスリール株式会社が主催するウェビナー「[ジェンダー格差研究で受賞！2023ノーベル経済学賞から読み解く、組織改革のヒント](https://sourire231127.peatix.com/)」にゲストとして登壇します。
 * 11月23日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第5回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=YaiphAtmuCA)）が配信されました。テーマは「【多数決の欠点】を乗り越える投票理論」です。
