@@ -41,8 +41,8 @@ author_profile: true
 * 12月15日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月12日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.13](https://twitter.com/i/spaces/1kvJpvzEMooKE?s=20)」に登壇します。 
-* 12月7日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第6回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=IrF_2r0fSA8)）が配信されました。テーマは「【多数決の欠点】を乗り越える投票理論」です。
-* 12月6日（水）に発売された『Voice』2024年1月号の【特集２：「男女の格差」の死角】に「なぜ市場は不平等を生むのか　マーケットデザインから結婚格差を分析する」という記事を寄稿しました。
+* 12月7日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第6回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=IrF_2r0fSA8)）が配信されました。テーマは「現役最強の経済学者による警鐘」です。
+* 12月6日（水）に発売された[『Voice』2024年1月号](https://www.php.co.jp/magazine/voice/?unique_issue_id=12553)の【特集２：「男女の格差」の死角】に「なぜ市場は不平等を生むのか　マーケットデザインから結婚格差を分析する」という記事を寄稿しました。
 * 12月2日（土）に台湾の中央研究院で開催されたContract Theory Workshopに参加しました。
 * 11月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月28日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.12](https://twitter.com/i/spaces/1zqKVqZMNaXxB?s=20)」に登壇します。 
