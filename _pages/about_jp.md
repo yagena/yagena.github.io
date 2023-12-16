@@ -38,6 +38,7 @@ author_profile: true
 * 12月22日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月18日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 12月15日（金）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第7回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=JnN3G-vpxeQ)）が配信されました。テーマは「現役大学院生が語るMITと研究生活」です。
 * 12月15日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月12日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.13](https://twitter.com/i/spaces/1kvJpvzEMooKE?s=20)」に登壇します。 
@@ -243,6 +244,8 @@ author_profile: true
 ### 動画 
 
 **PIVOT【EXTREME ECONOMICS】**
+* 第7回「現役大学院生が語るMITと研究生活」, 2023年12月15日.   [YouTube](https://www.youtube.com/watch?v=JnN3G-vpxeQ)
+* 第6回「世界最強の経済学者に聞くAIと経済」, 2023年12月7日.   [YouTube](https://www.youtube.com/watch?v=IrF_2r0fSA8)
 * 第5回「多数決の欠点を乗り越える投票理論」, 2023年11月23日.   [YouTube](https://www.youtube.com/watch?v=YaiphAtmuCA) 
 * 第4回「エビデンスからみるジェンダー格差」, 2023年11月16日.   [YouTube](https://www.youtube.com/watch?v=VIjQ46UHUyg)
 * 第3回「メカニズムデザインを70分で解説」, 2023年11月1日.   [YouTube](https://www.youtube.com/watch?v=nSOH8StJghs)
