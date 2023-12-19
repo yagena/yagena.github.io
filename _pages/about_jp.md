@@ -41,6 +41,7 @@ author_profile: true
 * 12月22日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月22日（金）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第2回・オンライン開催）に委員として出席します。
 * 12月19日（火）に東京大学公共政策大学院「金融資本市場のあり方に関する産官学フォーラム」（第9回）に委員として出席します。
+* 12月18日（月）に総務省「情報通信経済研究会」（第3回・オンライン開催）に委員として出席します。
 * 12月18日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 12月16日（土）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第8回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=_O2hWCPX-mk)）が配信されました。テーマは「現役大学院生と語る経済学の魅力」です。
 * 12月15日（金）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第7回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=JnN3G-vpxeQ)）が配信されました。テーマは「現役大学院生が語るMITと研究生活」です。
@@ -48,6 +49,8 @@ author_profile: true
 * 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月12日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.13](https://twitter.com/i/spaces/1kvJpvzEMooKE?s=20)」に登壇します。 
 * 12月7日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第6回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=IrF_2r0fSA8)）が配信されました。テーマは「現役最強の経済学者による警鐘」です。
+* 12月7日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 12月6日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 12月6日（水）に発売された[『Voice』2024年1月号](https://www.php.co.jp/magazine/voice/?unique_issue_id=12553)の【特集２：「男女の格差」の死角】に「なぜ市場は不平等を生むのか　マーケットデザインから結婚格差を分析する」という記事を寄稿しました。
 * 12月2日（土）に台湾の中央研究院で開催されたContract Theory Workshopに参加しました。
 
