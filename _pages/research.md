@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research interests are Game Theory, Industrial Organization, and Market Design. I have published papers in top economics journals, including **American Economic Review**, **AEJ: Microeconomics**, **Jourunal of Economic Theory**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS**, **Artificial Intelligence**, and **Scientific Reports**.
+My research interests are Game Theory, Industrial Organization, and Market Design. I have published papers in top economics journals, including **American Economic Review**, **AEJ: Microeconomics**, **Journal of Economic Theory**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS**, **Artificial Intelligence**, and **Scientific Reports**.
 
 ------
 
@@ -29,11 +29,13 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
-2. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
-3. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
-4. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
-5. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) -- *under review*
+1. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) -- *under review*
+  * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
+2. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166) -- *under review*
+3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
+4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
+5. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
+6. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) 
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
 6. Moral Hazard and Target Budgets (with Shingo Ishiguro), Osaka University [DP1803](http://www2.econ.osaka-u.ac.jp/library/global/dp/1803.pdf), 2018. 
   * New version: Moral Hazard and Subjective Evaluation [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295) is forthcoming at the **Journal of Economic Theory**
