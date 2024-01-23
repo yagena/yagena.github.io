@@ -45,8 +45,17 @@ author_profile: true
 
 
 ------ 
+### 2024年
+To be written ... 
 
 ### 2023年
+* 12月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月12日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.13](https://twitter.com/i/spaces/1kvJpvzEMooKE?s=20)」に登壇します。 
+* 12月7日（木）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第6回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=IrF_2r0fSA8)）が配信されました。テーマは「現役最強の経済学者による警鐘」です。
+* 12月7日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 12月6日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 12月6日（水）に発売された[『Voice』2024年1月号](https://www.php.co.jp/magazine/voice/?unique_issue_id=12553)の【特集２：「男女の格差」の死角】に「なぜ市場は不平等を生むのか　マーケットデザインから結婚格差を分析する」という記事を寄稿しました。
+* 12月2日（土）に台湾の中央研究院で開催されたContract Theory Workshopに参加しました。
 * 11月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月28日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.12](https://twitter.com/i/spaces/1zqKVqZMNaXxB?s=20)」に登壇します。 
 * 11月27日（月）にスリール株式会社が主催するウェビナー「[ジェンダー格差研究で受賞！2023ノーベル経済学賞から読み解く、組織改革のヒント](https://sourire231127.peatix.com/)」にゲストとして登壇します。
