@@ -48,20 +48,6 @@ author_profile: true
 * 1月16日（火）の12時15分～45分にTwitterスペース「[お昼の経済学 by The Night School Vol.15](https://twitter.com/i/spaces/1nAKEawVMalKL?s=20)」に登壇します。
 * 1月12日（金）にNTTドコモ「ICTビジネス研究会」（第2回）に委員としてオンライン出席します。
 * 2024年1月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 12月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 12月26日（火）の12時15分～50分にTwitterスペース「[お昼の経済学 by The Night School Vol.14](https://twitter.com/i/spaces/1ZkKzjgmLggKv?s=20)」に登壇します。
-* 12月25日（月）にNTT西日本「メディア融合研究会」（第2回・オンライン開催）に委員として出席します。
-* 12月23日（土）に[ミラツク年次フォーラム2023](https://emerging-future.org/news/3366/)「ランチセッション」にオンライン登壇します。
-* 12月22日（金）にエッセンスパトロン交流会『ダイアログBAR八重洲』に参加します。
-* 12月22日（金）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第3回）に委員としてオンライン参加します。
-* 12月22日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 12月22日（金）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第2回・オンライン開催）に委員として出席します。
-* 12月19日（火）に東京大学公共政策大学院「金融資本市場のあり方に関する産官学フォーラム」（第9回）に委員として出席します。
-* 12月18日（月）に総務省「情報通信経済研究会」（第3回・オンライン開催）に委員として出席します。
-* 12月18日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 12月16日（土）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第8回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=_O2hWCPX-mk)）が配信されました。テーマは「現役大学院生と語る経済学の魅力」です。
-* 12月15日（金）にナビゲーターとして出演するPIVOTの新番組【EXTREME ECONOMICS】第7回（YouTubeリンクは[こちら](https://www.youtube.com/watch?v=JnN3G-vpxeQ)）が配信されました。テーマは「現役大学院生が語るMITと研究生活」です。
-* 12月15日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
