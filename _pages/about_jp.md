@@ -141,6 +141,16 @@ author_profile: true
 7. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
 8. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011. [Link](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
+### 英語論文草稿（最近のもの）
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166) -- *R&R (Journal of Mathematical Economics)*
+2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
+  * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
+3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
+4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551) 
+5. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
+6. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) 
+  * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
+
 ### 日本語論文
 1. 二種類の順位が混在するマッチング問題 中国大学入試制度の分析と改革（方元駒さんとの共著), **オペレーションズ・リサーチ**, Vol.67, No.3: 121-127.  [Link](https://orsj.org/?p=4146)
   * 特集「メカニズムデザインの実践と応用」の編者として「特集にあたって」も執筆
