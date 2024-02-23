@@ -38,6 +38,7 @@ author_profile: true
 * 3月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2月23日（金・祝）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 2月20日（火）に株式会社ゼブラアンドカンパニーで行ったインタビュー記事「[経済学者 安田洋祐さんに聞く。ゼブラ企業を経済学から紐解く2つの視点と、より良い社会を作るためのヒント。](https://www.zebrasand.co.jp/2443)」が公開されました。
 * 2月20日（火）に「近未来金融システム創造プログラム」（第15回・総括討議）にパネリストとして登壇します。
 * 2月19日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 2月15日（木）にSMBC経営者研究会（東京）に講師として登壇します。
@@ -264,6 +265,8 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+* 【対談02】安田洋祐さん、『面識経済』ってどう思います？, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube(https://www.youtube.com/watch?v=LQ1meLVVUJY)] 
+* 【対談01】安田洋祐さん、経済の基本について教えてください。, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube(https://www.youtube.com/watch?v=_nKavBldaes)]
 * 【今年「値上がり」の1年でした】日本の経済、来年はどうなる？, 関西テレビnews, 2023年12月26日.  [YouTube](https://www.youtube.com/watch?v=uE1Qyr_69wE)
 * 【大学無償化】3人以上扶養の壁　5人兄弟の家族で試算, 関西テレビnews, 2023年12月12日.  [YouTube](https://www.youtube.com/watch?v=joArHs8BTes)
 * ゲーム理論で解く 隣り合うカフェの謎｜大阪大学経済学部公式YouTubeチャンネル, 2023年8月21日.  [YouTube](https://www.youtube.com/watch?v=88VNiXka9BM)」
@@ -329,17 +332,25 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
-* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2022年12月.　＜予定＞
-* 京都府不動産コンサルティング協会, 2023年8月. 
-* 九州・アジア経営塾, 2023年7月. 
-* 立命館西園寺塾, 2023年6月.
+* SMBC経営者研究会（東京）, 2024年2月.
+* SMBC経営者研究会（大阪）, 2024年2月. 
+* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2023年12月.
+* HRカンファレンス2023（オンライン）, 2023年11月.  [Web](https://jinjibu.jp/hr-conference/report/r202311/report.php?sid=3462)
+* 東京都立大学経済学プログラムMEc（東京）, 2023年11月. 
+* 日本生産性本部「経済情勢懇話会」（東京）, 2023年10月.
+* 京都府不動産コンサルティング協会（京都）, 2023年8月. 
+* 大阪大学社会経済研究所（オンライン）, 2023年7月.  [Web](https://www.iser.osaka-u.ac.jp/iser-rcbe/2023symp.html)
+* 九州・アジア経営塾（福岡）, 2023年7月. 
+* 立命館西園寺塾（東京）, 2023年6月.
+* 東京大学「学術フロンティア講義－30年後の世界へ」, 2023年4月. 
+* 知のエグゼクティブサロン（東京・上智大学）, 2023年4月. 
 * DXPO大阪（大阪）, 2023年3月. 
 * 中部産業連盟会員懇話会（名古屋）, 2023年1月. 
 * 筑駒アカデメイア講演会（東京）, 2023年1月. 
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2022年12月. 
 * FPフェアin金沢（金沢）, 2022年12月.  [Web](https://www.jafp.or.jp/kojin/app/fair/)
 * 電機連合 家電部会・音響部会 労使懇談会（横浜）, 2022年12月. 
-* 一流塾士会勉強会, 2022年11月. 
+* 一流塾士会勉強会（オンライン）, 2022年11月. 
 * 立命館西園寺塾（オンライン）, 2022年6月.
 * ピーチコーポレーション「Peach Women's Business School」（大阪）, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/ss-250885525)から閲覧できます。
 * 立命館西園寺塾（オンライン）, 2021年12月.  [SlideShare](https://www.slideshare.net/YosukeYasuda1/20212-250885497)
@@ -363,19 +374,24 @@ author_profile: true
 
 
 ### イベント登壇　
+* ミラツク年次フォーラム2023（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3366/)
+* エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
+* SCS: Startup City Sapporo（札幌）, 2023年1月.  [Peatix](https://scs-startuptalk2301.peatix.com/)
 * ミラツク年次フォーラム2022（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3328/)
 * 第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム（オンライン）, 2022年12月.  [Web](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)
+* 信託協会「信託経済コンファレンス」（オンライン）, 2022年11月.
 * 金融リテラシー：現在・過去・未来（オンライン）, 名古屋市立大学, 2022年11月, 2022.  [Web](https://www.econ.nagoya-cu.ac.jp/archives/7940)
 * エンジン01 in 岐阜, 2022年10月.  [Web](https://enjin01.gifu.jp/)
 * サイエンスアゴラ2022「持続可能な未来をつくる意思決定の仕組み」（オンライン）, 2022年10月.  [Web](https://www.jst.go.jp/sis/scienceagora/2022/online/21-a16.html) [YouTube](https://www.youtube.com/watch?v=YWtav7cFIOQ)
 * 社会的共通資本寄付講座キックオフシンポジウム（東京）, 2022年10月.  [Web](https://www.carf.e.u-tokyo.ac.jp/events/scc221010/)
 * 日本経済学会サテライトイベント「経済学実践のフロントランナーに聞く キャリアとビジネスの創り方」（オンライン）, 2022年10月.  [Web](https://sites.google.com/view/jea-outrearch-2022/)
-* エコノミクスデザイン：特別ウェビナー「レーティングの経済学」（オンライン）, 2021年10月. 
+* エコノミクスデザイン：特別ウェビナー「レーティングの経済学」（オンライン）, 2022年10月. 
 * エコノミクスデザイン：緊急対談「坂井豊貴 x 安田洋祐」（オンライン）, 2022年9月. 
 * エコノミクスデザイン・日経リサーチ・日本経済社共催「先端経済学で読み解く財務／非財務連関」（オンライン登壇）, 2022年9月.  [Web](https://www.nks.co.jp/information/seminar/%e3%80%90%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%e5%8b%95%e7%94%bb%e3%81%94%e6%a1%88%e5%86%85%e3%80%91%e3%80%8c%ef%bd%9e%e5%85%88%e7%ab%af%e7%b5%8c%e6%b8%88%e5%ad%a6%e3%81%a7%e8%aa%ad%e3%81%bf/) [YouTube](https://www.youtube.com/watch?v=OpYl6CQVJTo)
 * 第9回ナレッジイノベーションアワード：最終選考会（オンライン参加）, 2022年3月.
 * エコノミクスデザイン：緊急特別ウェビナー「三浦瑠麗 x EDI」（オンライン）, 2022年3月. 
+* 信託協会「信託経済コンファレンス」（オンライン）, 2021年11月.
 * エコノミクスデザイン：特別ウェビナー「入山章栄 x EDI」（オンライン）, 2021年9月.  
 * 連合 2021サマートップセミナー（オンライン, 三浦瑠麗さんと対談）, 2021年7月. 
 * 第3回「プラチナキャリア・アワード」記念シンポジウム（オンライン）, 2021年6月. 
