@@ -37,8 +37,6 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 5. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
 6. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) 
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
-6. Moral Hazard and Target Budgets (with Shingo Ishiguro), Osaka University [DP1803](http://www2.econ.osaka-u.ac.jp/library/global/dp/1803.pdf), 2018. 
-  * New version: Moral Hazard and Subjective Evaluation [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295) is forthcoming at the **Journal of Economic Theory**
 8. On The Folk Theorem in Self-Sustained Communities (with Takako Fujiwara-Greve), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767) -- *under review*
   * Old version: The Folk Theorem in Repeated Games with Endogenous Termination, 2018.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267427)
 9. A Simple Economics of Inequality: Market Design Approach, 2017.
