@@ -31,8 +31,9 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ## Working Papers
 1. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
-2. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166) -- *R&R (Journal of Mathematical Economics)*
+2. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166) -- **2nd R&R (Journal of Mathematical Economics)**
 3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
+  * Received the **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022 conference](https://apios.org.au/apioc-2022/).
 4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
 5. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
 6. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) 
