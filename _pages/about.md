@@ -24,13 +24,16 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
-* My [twitter](https://twitter.com/yagena) account has over **32,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
+* My [twitter](https://twitter.com/yagena) account has over **33,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
-* As a speaker/paneslist/moderator, I have attended over **100** lectures and seminars.
+* As a speaker/panelist/moderator, I have attended over **100** lectures and seminars.
 * As a member, I have participated in several government and public sector committees. 
-  * Ministry of Economy, Trade and Industry, 2018 -- present. 
-  * Ministry of the Environment, 2018 -- 19, 2021 -- present.
-  * Financial Services Agency, 2014 -- 16. 
+  * Cabinet Office, 2013 -- 14, 2022 -- present.
+  * Ministry of Internal Affairs and Communications, 2021 -- present.
+  * Ministry of Economy, Trade and Industry, 2008 -- 09, 12 -- 13, 16 -- 17, 18 -- 20, 22 -- 23. 
+  * Ministry of the Environment, 2018 -- 19, 2021 -- 23.
+  * Financial Services Agency, 2014 -- 16.
+  * Ministry of Finance, 2012 -- ??. 
 
 ## What's New?
 * **February 2023** -- My paper "[Moral Hazard and Subjective Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)" (co-authored with [Shingo Ishiguro](https://sites.google.com/view/ishiguro/)) got accepted by the **Journal of Economic Theory**.  <span style="color: blue;">New!</span>
@@ -43,7 +46,7 @@ Below is the link to the courses that I have taught. By going to each page you c
   * [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 * **March 2022** -- I will present the following paper at ISEG University of Lisbon ([Lisbon Micro Gropup](https://sites.google.com/view/lisbonmicrogroup/accueil)) on March 29.
   * [Competitive Market Achieves the Greatest Happiness of the Minimum Number](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893) 
-* **March 2022** -- I just uploaded the following new paper on cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.). 
+* **March 2022** -- I just uploaded the following new paper on the cartel investigation and leniency program co-authored with Takako Fujiwara-Greve (Keio U.). 
   * [Inspecting Cartels over Time: with and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)
 * **January 2022** -- I substantially revised the following paper on repeated games co-authored with Takako Fujiwara-Greve (Keio U.).
   * [On The Folk Theorem in Self-Sustained Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
@@ -53,16 +56,22 @@ Below is the link to the courses that I have taught. By going to each page you c
   1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
   2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
-## Conference Talks in 2022 (by me or co-author)
-* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author)  
-* June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
-* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
-* July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal.  
-* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
-* August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy.  
-* August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria. 
+## Conference Talks since 2022 (by me or co-authors)
+* **2024**
+* TBA
+* **2023**
+* August 28-September 1 --- [EEA-ESEM 2023](https://eea-esem-2023.org/), Barcelona, Spain. 
+* May 31-June 2 --- The 12th UECE Lisbon Meeting, Lisbon, Portugal. 
+* **2022** 
 * December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia.　(by co-author)
+* August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria.
+* August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy. 
+* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
+* July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal. 
+* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
+* June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
+* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author) 
 
 ------
 
-<span style="color: red; ">Last update: March 2023</span>
+<span style="color: red; ">Last update: March 2024</span>
