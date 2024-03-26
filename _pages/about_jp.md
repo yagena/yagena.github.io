@@ -36,7 +36,12 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 4月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 3月27日（水）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 3月27日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 3月25日（月）にEGG（新丸ビル）で開催される「[【Deloitte/TMIP】～オフィスのコミュニケーション課題解決へ～コミュニケーション2.0](https://tmipguest240325.peatix.com/)」にゲスト登壇します。
+* 3月25日（月）に発売される『週刊東洋経済｜3月30日号』に「[Book Review『『WEIRD 「現代人」の奇妙な心理』（ジョセフ・ヘンリック 著）](https://toyokeizai.net/articles/-/742607)」が掲載されました。
+* 3月23日（土）にOISTで開催される第3回[esse-sense](https://esse-sense.com/)株主総会に出席します。
+* 3月22日（金）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 3月21日（木）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 3月21日（木）にLVMH Beauty×Sourireが主催する「[働く女性600名の声から考えるウェビナー『次世代女性のキャリア自律 #Inspire inclusion](https://www.atpress.ne.jp/news/384894)』にパネリストとして登壇します。
 * 3月20日（水・祝）にグランフロント大阪で開催される「[第11回ナレッジイノベーションアワード](https://kc-i.jp/activity/award/innovation/2023/)」最終選考会に選考委員として参加します。
 * 3月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -385,9 +390,13 @@ author_profile: true
 
 
 ### イベント登壇　
-* ミラツク年次フォーラム2023（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3366/)
+* 次世代女性のキャリア自律 #Inspire inclusion（ウェビナー）, 2024年3月.  [Web](https://www.atpress.ne.jp/news/384894)
+* 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2024年3月.
+* これから千里：第2回「千里のこれからを考える」（大阪）, 2024年2月.  [Web](https://senri-nt.com/event/korekarasenri/)
+* ミラツク年次フォーラム2023（オンライン登壇）, 2023年12月.  [Web](https://emerging-future.org/news/3366/)
 * エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
+* 第10回ナレッジイノベーションアワード：最終選考会（大阪）, 2023年3月.
 * SCS: Startup City Sapporo（札幌）, 2023年1月.  [Peatix](https://scs-startuptalk2301.peatix.com/)
 * ミラツク年次フォーラム2022（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3328/)
 * 第33回 大樹生命協賛 University of Michigan Mitsui Life Financial Research Center 国際シンポジウム（オンライン）, 2022年12月.  [Web](https://www.taiju-life.co.jp/corporate/news/pdf/20221104_1.pdf)
