@@ -14,14 +14,15 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ------
 
 ## Peer-Reviewed Journal Publications
-1. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
-2. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
-3. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
-4. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
-5. Expanding "Choice" in School Choice (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
-6. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
-7. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
-8. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
+2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
+3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
+4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
+5. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
+6. Expanding "Choice" in School Choice (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308730)
+7. Strategy-Proof Matching with Regional Minimum Quotas (with Masahiro Goto, Naoyuki Hashimoto, Atsushi Iwasaki, Yujiro Kawasaki, and Makoto Yokoo), **AAMAS2014** (Conference Proceedings, Full Paper), pp.1225-1232, 2014.
+8. Instability in the Hotelling's Non-Price Spatial Competition Model, **Theoretical Economics Letters**, Vol.3, No.3a, pp.7-10, 2013.  [Open Access](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=33207) 
+9. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ## Other Publications
 1. The Ultimate Objective of the Development Process—Pursuit of Material Wealth versus Societal Well-Being, in ***The World in 2050: Striving for a more just, prosperous, & harmonious global community***, 2016. 
@@ -31,7 +32,6 @@ My research interests are Game Theory, Industrial Organization, and Market Desig
 ## Working Papers
 1. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
-2. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166) -- **2nd R&R (Journal of Mathematical Economics)**
 3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
   * Received the **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022 conference](https://apios.org.au/apioc-2022/).
 4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
