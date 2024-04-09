@@ -127,7 +127,7 @@ author_profile: true
 ## 出版物
 
 ### 英語論文（査読付き）
-1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Economic Theory**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157),  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
 3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1756-2171.12313), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
