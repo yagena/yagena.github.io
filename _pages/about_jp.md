@@ -36,7 +36,10 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 4月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 2024年度春夏学期の講義が始まりました。担当科目は「[ミクロ経済基礎](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_grad-micro)」「[マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_matching)」（いずれも大学院）および「[研究セミナー](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_seminar)」（学部ゼミ）です。
 * 4月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 4月10日（水）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 公明新聞（4月8日）のゼブラ企業に関する特集面に「情報開示を工夫し信頼獲得を」と題するインタビュー記事が掲載されました。
