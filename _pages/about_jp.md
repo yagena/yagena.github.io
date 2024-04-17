@@ -37,6 +37,10 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月24日（水）の夜に[エッセンス特別講義シリーズ](https://essesensepato202401.peatix.com/view)（オンライン開催）に登壇します。テーマは「ゲーム理論で考える資本主義の罠」。
+  * こちらは、エッセンスの[パトロンサービス](https://esse-sense.com/researcher-patrons)で通じて我々を支えてくださっているサポーターの方たちへのお返しイベントですが、サポーター以外の方も有料で参加いただけます。[こちら](https://essesensepato202401.peatix.com/view)をご参照ください。
+* 4月23日（火）に「[ウメダの未来フォーラム－量子のまち編　第１回「量子コンピュータの現在と未来社会」](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)」にパネリストとして登壇します。
+* 4月19日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 4月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 4月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2024年度春夏学期の講義が始まりました。担当科目は「[ミクロ経済基礎](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_grad-micro)」「[マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_matching)」（いずれも大学院）および「[研究セミナー](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_seminar)」（学部ゼミ）です。
