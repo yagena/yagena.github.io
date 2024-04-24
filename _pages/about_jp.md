@@ -36,6 +36,11 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 5月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 5月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「イントロダクション」です。
+* 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月27日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第1回）にメンバー（パネリスト）として参加します。テーマは「イントロダクション」です。
 * 4月24日（水）の夜に[エッセンス特別講義シリーズ](https://essesensepato202401.peatix.com/view)（オンライン開催）に登壇します。テーマは「ゲーム理論で考える資本主義の罠」。
@@ -43,6 +48,7 @@ author_profile: true
 * 4月23日（火）に「[ウメダの未来フォーラム－量子のまち編　第１回「量子コンピュータの現在と未来社会」](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)」にパネリストとして登壇します。
 <!-- * 4月19日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。 -->
 * 4月22日（月）の21時00分～50分にTwitterスペース「[Economics Night Vol.2](https://twitter.com/i/spaces/1jMJgmdVrwOKL)」に登壇します。
+* 4月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 4月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 4月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2024年度春夏学期の講義が始まりました。担当科目は「[ミクロ経済基礎](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_grad-micro)」「[マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_matching)」（いずれも大学院）および「[研究セミナー](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_seminar)」（学部ゼミ）です。
@@ -52,22 +58,6 @@ author_profile: true
 * 公明新聞（4月8日）のゼブラ企業に関する特集面に「情報開示を工夫し信頼獲得を」と題するインタビュー記事が掲載されました。
 * 4月4日（木）に開催される金融庁「金融行政に関する意見交換会」にオンライン参加します。
 * 4月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 3月29日（金）に開催される総務省「電波政策懇談会」（第6回）に委員としてオンライン参加します。
-* 3月27日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 3月25日（月）にEGG（新丸ビル）で開催される「[【Deloitte/TMIP】～オフィスのコミュニケーション課題解決へ～コミュニケーション2.0](https://tmipguest240325.peatix.com/)」にゲスト登壇します。
-* 3月25日（月）に発売される『週刊東洋経済｜3月30日号』に「[Book Review『WEIRD 「現代人」の奇妙な心理』（ジョセフ・ヘンリック 著）](https://toyokeizai.net/articles/-/742607)」が掲載されました。
-* 3月23日（土）にOISTで開催される第3回[esse-sense](https://esse-sense.com/)株主総会に出席します。
-* 3月22日（金）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 3月21日（木）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 3月21日（木）にLVMH Beauty×Sourireが主催する「[働く女性600名の声から考えるウェビナー『次世代女性のキャリア自律 #Inspire inclusion](https://www.atpress.ne.jp/news/384894)』にパネリストとして登壇します。
-* 3月20日（水・祝）にグランフロント大阪で開催される「[第11回ナレッジイノベーションアワード](https://kc-i.jp/activity/award/innovation/2023/)」最終選考会に選考委員として参加します。
-* 3月19日（火）にアクティベーションストラテジー株式会社で行ったインタビュー記事シリーズ【実務としての経済学】（全5回）の第2回「[消費者の行動心理学を掴む価格戦略](https://www.activationstrategy.com/column/20240319)」が公開されました。
-* 3月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 3月19日（火）の12時15分～55分にTwitterスペース「[お昼の経済学 by The Night School Vol.18](https://twitter.com/i/spaces/1OyJAWAVzPzKb)」に登壇します。
-* 3月8日（金）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
-* 3月7日（木）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
-* 3月6日（水）に開催される「人の資本主義」研究プロジェクトの研究会に委員として参加します。
-* 3月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
