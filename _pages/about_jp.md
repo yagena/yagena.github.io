@@ -467,6 +467,12 @@ author_profile: true
 
 ### 研究報告
 * 国際学会報告
+  * [EEA-ESEM](https://eea-esem-2023.org/), バルセロナ, 2023年8月 
+  * [UECE Lisbon Meeting](https://www.lisbonmeetings.com/), リスボン, 2023年6月 
+  * [EARIE](https://earie2022.univie.ac.at/earie-2022-home/), ウィーン, 2022年8月 
+  * [EEA-ESEM](https://www.eea-esem-congresses.org/), ミラノ, 2022年8月
+  * [PEJ](https://pej2022.weebly.com/), アゾーレス, 2022年7月 
+  * [CED](https://sites.google.com/view/economicdesign22), パドヴァ, 2022年6月 
   * GAMES2020,　ブダペスト（ヴァーチャル開催）, 2021年7月  [SlideShare](https://www.slideshare.net/YosukeYasuda1/optimization-approach-to-nash-euilibria-with-applications-to-interchangeability)
   * ESWC2020, ミラノ（ヴァーチャル開催）, 2020年8月 
   * NASMES, シアトル, 2019年6月 
@@ -500,6 +506,8 @@ author_profile: true
   * FEMES, 台湾, 2007年7月
   * NASMES, ダーラム（デューク大学）, 2007年6月 
   * EEA-ESEM, ウィーン, 2006年8月 
+* 2024
+  * 同志社大学 -- 6月(予定)
 * 2021
   * 公立はこだて未来大学 -- 10月, 第2回「マーケットデザインの実践」コンファレンス -- 2月
 * 2019
