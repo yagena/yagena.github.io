@@ -323,8 +323,12 @@ author_profile: true
   * 第2部｜パネルディスカッション, 2019年7月25日.  [YouTube](https://www.youtube.com/watch?v=xmSoj7Z8aoQ) 
 * JPIC YOUTH, 「経済学は役に立つのか？」佐々木紀彦さん（NewsPicks） × 安田洋祐さん（経済学者）
   * YouTube （[前編](https://www.youtube.com/watch?v=-iD_wb4PCLM) 2018年9月28日 ｜ [後編](https://www.youtube.com/watch?v=p4mCKaBosXw) 2018年10月3日）
+* 日経TechLiveＸ「AIウォーズ」(松尾豊氏との共演)
+  * [#2 ヒトを超える日はくるか](https://www.youtube.com/watch?v=5YNqSzt1EIs), 2018年7月8日. 
+  * [#3 勝機は「現場」にあり](https://www.youtube.com/watch?v=l8ctPFlb7CM), 2018年7月17日.
+  * [#4 人材を生かす秘策とは](https://www.youtube.com/watch?v=8mCXOrq5ZLw), 2018年7月27日.
 * 第4回学校選択制デザイン研究会　安田洋祐氏, 2009年1月29日. 
-  * YouTube [00](https://www.youtube.com/watch?v=Rkv_xzT8LPg), [01](https://www.youtube.com/watch?v=ETWGH40sgtA), [02](https://www.youtube.com/watch?v=QmuZfG0hP1I), [03](https://www.youtube.com/watch?v=K2VGv8SJEXk), [04](https://www.youtube.com/watch?v=t-WGIeb-hns), [05](https://www.youtube.com/watch?v=DUnlwXIcCJI), [06](https://www.youtube.com/watch?v=JAdC3-v087U), [07](https://www.youtube.com/watch?v=wVpsyGuPL9s), [08](https://www.youtube.com/watch?v=hRUeRYNYe5s), [09](https://www.youtube.com/watch?v=RYf477ZjF58), [10](https://www.youtube.com/watch?v=7CVH-L5M1MA), [11](https://www.youtube.com/watch?v=W9_evYK1IJM), [12](https://www.youtube.com/watch?v=0oBgjgqWb80), [13](https://www.youtube.com/watch?v=sl-zWokr_RE), [14](https://www.youtube.com/watch?v=Mp3CqWBt934), [15](https://www.youtube.com/watch?v=MPAKPzyahRk), [16](https://www.youtube.com/watch?v=72PYKihg1KA) 
+  * YouTube: [00](https://www.youtube.com/watch?v=Rkv_xzT8LPg), [01](https://www.youtube.com/watch?v=ETWGH40sgtA), [02](https://www.youtube.com/watch?v=QmuZfG0hP1I), [03](https://www.youtube.com/watch?v=K2VGv8SJEXk), [04](https://www.youtube.com/watch?v=t-WGIeb-hns), [05](https://www.youtube.com/watch?v=DUnlwXIcCJI), [06](https://www.youtube.com/watch?v=JAdC3-v087U), [07](https://www.youtube.com/watch?v=wVpsyGuPL9s), [08](https://www.youtube.com/watch?v=hRUeRYNYe5s), [09](https://www.youtube.com/watch?v=RYf477ZjF58), [10](https://www.youtube.com/watch?v=7CVH-L5M1MA), [11](https://www.youtube.com/watch?v=W9_evYK1IJM), [12](https://www.youtube.com/watch?v=0oBgjgqWb80), [13](https://www.youtube.com/watch?v=sl-zWokr_RE), [14](https://www.youtube.com/watch?v=Mp3CqWBt934), [15](https://www.youtube.com/watch?v=MPAKPzyahRk), [16](https://www.youtube.com/watch?v=72PYKihg1KA) 
 
 ### 講演・講義スライド（の一部）
 * [社会的共通資本と資本主義](https://www.slideshare.net/YosukeYasuda1/ss-251160835) -- 2022年2月
