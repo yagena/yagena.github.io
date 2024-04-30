@@ -41,8 +41,11 @@ author_profile: true
 * 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「イントロダクション」です。
 * 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月30日（火）に発刊された関西電力の広報誌『[YOU'S](https://www.kepco.co.jp/corporate/report/yous/index.html)』（第10号）に「[対談 【村田晃嗣×安田洋祐】国際競争力を考える](https://www.kepco.co.jp/corporate/report/yous/10/dialogue/article1.html)」が掲載されました。
 * 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月30日（火）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第7回）に委員としてオンライン参加します。
 * 4月27日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第1回）にメンバー（パネリスト）として参加します。テーマは「イントロダクション」です。
+* 4月25日（木）にアクティベーションストラテジー株式会社で行ったインタビュー記事シリーズ【実務としての経済学】（全5回）の第3回「[レーティングの手法開発とその可能性](https://www.activationstrategy.com/columns/interview-economics-3/)」が公開されました。
 * 4月24日（水）の夜に[エッセンス特別講義シリーズ](https://essesensepato202401.peatix.com/view)（オンライン開催）に登壇します。テーマは「ゲーム理論で考える資本主義の罠」。
   * エッセンスの[パトロンサービス](https://esse-sense.com/researcher-patrons)で研究者を支援しているサポーター向けのお返しイベントです。サポーター以外の方も有料（2000円）で参加いただけますので、[こちら](https://peatix.com/event/3924889/view)をご確認ください。
 * 4月23日（火）に「[ウメダの未来フォーラム－量子のまち編　第１回「量子コンピュータの現在と未来社会」](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)」にパネリストとして登壇します。
