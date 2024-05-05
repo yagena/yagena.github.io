@@ -41,6 +41,8 @@ author_profile: true
 * 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「イントロダクション」です。
 * 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 昨年度に登壇した東大駒場キャンパスでの学術フロンティア講義「30年後の世界へ― 空気はいかに価値化されるべきか」の講演動画が公開されました。
+  * テーマは「[第3回 資本主義と空気の価値〜市場・国家・社会的共通資本〜](https://ocw.u-tokyo.ac.jp/lecture_2399/)」です。
 * 4月30日（火）に発刊された関西電力の広報誌『[YOU'S](https://www.kepco.co.jp/corporate/report/yous/index.html)』（第10号）に「[対談 【村田晃嗣×安田洋祐】国際競争力を考える](https://www.kepco.co.jp/corporate/report/yous/10/dialogue/article1.html)」が掲載されました。
 * 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月30日（火）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第7回）に委員としてオンライン参加します。
