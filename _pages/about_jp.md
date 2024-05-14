@@ -268,6 +268,12 @@ author_profile: true
 * メディア活動については[メディア](https://yagena.github.io/media/)をご覧ください。
 * スライド資料や寄稿記事の一部を[Slideshare](https://www.slideshare.net/YosukeYasuda1)で公開しています。
 
+### オーディオ
+
+**VOOX 「安田洋祐の戦略思考入門」**
+* 第2話. 動学ゲームによる意思決定――なぜ宿題をやるのは最終日になるのか  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep2) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC2%E8%A9%B1-%E5%8B%95%E5%AD%A6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/B0C83GYT9D)
+* 第1話. ゲーム理論による基本的な意思決定――ラーメン屋さんの出店を考える  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep1) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80-%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%EF%BD%9C%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90/B0C83L7VS6)
+
 ### 動画 
 
 **PIVOT【EXTREME ECONOMICS】**
