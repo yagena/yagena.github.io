@@ -46,6 +46,26 @@ author_profile: true
 
 ------ 
 ### 2024年
+* 4月30日（火）に発刊された関西電力の広報誌『[YOU'S](https://www.kepco.co.jp/corporate/report/yous/index.html)』（第10号）に「[対談 【村田晃嗣×安田洋祐】国際競争力を考える](https://www.kepco.co.jp/corporate/report/yous/10/dialogue/article1.html)」が掲載されました。
+* 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月30日（火）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第7回）に委員としてオンライン参加します。
+* 4月27日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第1回）にメンバー（パネリスト）として参加します。テーマは「イントロダクション」です。
+* 4月25日（木）にアクティベーションストラテジー株式会社で行ったインタビュー記事シリーズ【実務としての経済学】（全5回）の第3回「[レーティングの手法開発とその可能性](https://www.activationstrategy.com/columns/interview-economics-3/)」が公開されました。
+* 4月24日（水）の夜に[エッセンス特別講義シリーズ](https://essesensepato202401.peatix.com/view)（オンライン開催）に登壇します。テーマは「ゲーム理論で考える資本主義の罠」。
+  * エッセンスの[パトロンサービス](https://esse-sense.com/researcher-patrons)で研究者を支援しているサポーター向けのお返しイベントです。サポーター以外の方も有料（2000円）で参加いただけますので、[こちら](https://peatix.com/event/3924889/view)をご確認ください。
+* 4月23日（火）に「[ウメダの未来フォーラム－量子のまち編　第１回「量子コンピュータの現在と未来社会」](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)」にパネリストとして登壇します。
+<!-- * 4月19日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。 -->
+* 4月22日（月）の21時00分～50分にTwitterスペース「[Economics Night Vol.2](https://twitter.com/i/spaces/1jMJgmdVrwOKL)」に登壇します。
+* 4月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 4月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 4月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 2024年度春夏学期の講義が始まりました。担当科目は「[ミクロ経済基礎](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_grad-micro)」「[マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_matching)」（いずれも大学院）および「[研究セミナー](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_seminar)」（学部ゼミ）です。
+* 4月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 4月10日（水）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 4月8日（月）の21時00分～50分にTwitterスペース「[Economics Night Vol.1](https://twitter.com/i/spaces/1BRJjPyezPBKw)」に登壇します。
+* 公明新聞（4月8日）のゼブラ企業に関する特集面に「情報開示を工夫し信頼獲得を」と題するインタビュー記事が掲載されました。
+* 4月4日（木）に開催される金融庁「金融行政に関する意見交換会」にオンライン参加します。
+* 4月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月29日（金）に開催される総務省「電波政策懇談会」（第6回）に委員としてオンライン参加します。
 * 3月27日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月25日（月）にEGG（新丸ビル）で開催される「[【Deloitte/TMIP】～オフィスのコミュニケーション課題解決へ～コミュニケーション2.0](https://tmipguest240325.peatix.com/)」にゲスト登壇します。
