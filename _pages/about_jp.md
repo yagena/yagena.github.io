@@ -36,8 +36,17 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 6月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 5月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月27日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.4](https://x.com/i/spaces/1YqGoDRbRngJv)」に登壇します。
+* 5月27日（月）に読売新聞：私の3編「令和の会社は人のために」が掲載されました。
+* 5月24日（金）、25日（土）に中国（大連）の東北財形大学で開催される「2024 Experiment and Behavior Symposium for Young Scholars」に報告者として参加します。報告論文は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)（の改訂版）です。
+* 5月24日（金）にVOOX『安田洋祐の戦略思考入門』第4話「[マッチング理論の使い方――合コンでどんな組み合わせができるか？](https://www.voox.me/speaker/yosuke-yasuda-ep4)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5)
 * 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「資本主義／経済／経営」です。
 * 5月17日（金）にVOOX『安田洋祐の戦略思考入門』第3話「[情報の非対称性と私的情報――就職活動をゲーム理論で突破する？](https://www.voox.me/speaker/yosuke-yasuda-ep3)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD)
@@ -54,26 +63,6 @@ author_profile: true
   * テーマは「[第3回 資本主義と空気の価値〜市場・国家・社会的共通資本〜](https://ocw.u-tokyo.ac.jp/lecture_2399/)」です。
 * 5月3日（金）にVOOX『安田洋祐の戦略思考入門』第1話「[ゲーム理論による基本的な意思決定――ラーメン屋さんの出店を考える](https://www.voox.me/speaker/yosuke-yasuda-ep1)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80-%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%EF%BD%9C%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90/B0C83L7VS6)です。
-* 4月30日（火）に発刊された関西電力の広報誌『[YOU'S](https://www.kepco.co.jp/corporate/report/yous/index.html)』（第10号）に「[対談 【村田晃嗣×安田洋祐】国際競争力を考える](https://www.kepco.co.jp/corporate/report/yous/10/dialogue/article1.html)」が掲載されました。
-* 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 4月30日（火）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第7回）に委員としてオンライン参加します。
-* 4月27日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第1回）にメンバー（パネリスト）として参加します。テーマは「イントロダクション」です。
-* 4月25日（木）にアクティベーションストラテジー株式会社で行ったインタビュー記事シリーズ【実務としての経済学】（全5回）の第3回「[レーティングの手法開発とその可能性](https://www.activationstrategy.com/columns/interview-economics-3/)」が公開されました。
-* 4月24日（水）の夜に[エッセンス特別講義シリーズ](https://essesensepato202401.peatix.com/view)（オンライン開催）に登壇します。テーマは「ゲーム理論で考える資本主義の罠」。
-  * エッセンスの[パトロンサービス](https://esse-sense.com/researcher-patrons)で研究者を支援しているサポーター向けのお返しイベントです。サポーター以外の方も有料（2000円）で参加いただけますので、[こちら](https://peatix.com/event/3924889/view)をご確認ください。
-* 4月23日（火）に「[ウメダの未来フォーラム－量子のまち編　第１回「量子コンピュータの現在と未来社会」](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)」にパネリストとして登壇します。
-<!-- * 4月19日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。 -->
-* 4月22日（月）の21時00分～50分にTwitterスペース「[Economics Night Vol.2](https://twitter.com/i/spaces/1jMJgmdVrwOKL)」に登壇します。
-* 4月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 4月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 4月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 2024年度春夏学期の講義が始まりました。担当科目は「[ミクロ経済基礎](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_grad-micro)」「[マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_matching)」（いずれも大学院）および「[研究セミナー](https://sites.google.com/site/yosukeyasuda2/home/lectures/osaka2024_seminar)」（学部ゼミ）です。
-* 4月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 4月10日（水）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
-* 4月8日（月）の21時00分～50分にTwitterスペース「[Economics Night Vol.1](https://twitter.com/i/spaces/1BRJjPyezPBKw)」に登壇します。
-* 公明新聞（4月8日）のゼブラ企業に関する特集面に「情報開示を工夫し信頼獲得を」と題するインタビュー記事が掲載されました。
-* 4月4日（木）に開催される金融庁「金融行政に関する意見交換会」にオンライン参加します。
-* 4月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
@@ -155,6 +144,7 @@ author_profile: true
 9. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011. [Link](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ### 英語論文草稿（最近のもの）
+1. Robust Exchange (with Yuichiro Kamada), 2024.  (in progress)
 2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
 3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
@@ -187,7 +177,8 @@ author_profile: true
 17. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002.  [pdf](https://yagena.github.io/files/Senior_thesis.pdf)
 
 ### 書籍：編著・共著 
-1. 『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』, 河出書房新社, 2023.
+1. 『[日本の未来、本当に大丈夫なんですか会議 経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』, 日本実業出版社, 2024.
+2. 『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』, 河出書房新社, 2023.
   * 第2章「経済学者と「戦略」を遊ぶ『ナショナル エコノミー』 経営者になりきって経済のしくみを実感」を執筆. 
 2.  [「2030年日本」のストーリー: 武器としての社会科学・歴史・イベント](https://str.toyokeizai.net/books/9784492503416/), 東洋経済新報社, 2023. 
   * 第1章「新しい経済圏の出現は可能か── 市場・利他・社会規範」を執筆. 
@@ -274,6 +265,12 @@ author_profile: true
 ### オーディオ
 
 **VOOX 「安田洋祐の戦略思考入門」**
+* 第8話. （6月18日にアカデミーヒルズにて公開収録。詳しくは[こちら](https://www.academyhills.com/seminar/detail/20240618.html)をご覧ください）
+* 第7話. （近日公開）
+* 第6話. （近日公開）
+* 第5話. （近日公開）
+* 第4話. マッチング理論の使い方――合コンでどんな組み合わせができるか？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep4)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5?ref_pageloadid=IGXX0EOERcHth3u0&ref=f=a_podcast_E_c3_lAsin_0_0&pf_rd_p=7de0a35f-7e16-49b6-9280-a117b45405f7&pf_rd_r=13WS2FMRPGBVWSNF97XG&pageLoadId=WxORiKxRi92Xzpct&creativeId=66397b97-d5c2-4c01-9ea0-b59ad4d7d4f0)
+* 第3話. 情報の非対称性と私的情報――就職活動をゲーム理論で突破する？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep3) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD?ref_pageloadid=IGXX0EOERcHth3u0)
 * 第2話. 動学ゲームによる意思決定――なぜ宿題をやるのは最終日になるのか  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep2) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC2%E8%A9%B1-%E5%8B%95%E5%AD%A6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/B0C83GYT9D)
 * 第1話. ゲーム理論による基本的な意思決定――ラーメン屋さんの出店を考える  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep1) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80-%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%EF%BD%9C%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90/B0C83L7VS6)
 
