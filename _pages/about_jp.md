@@ -42,6 +42,8 @@ author_profile: true
 * 6月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
+* 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
 * 5月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月27日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.4](https://x.com/i/spaces/1YqGoDRbRngJv)」に登壇します。
