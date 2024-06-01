@@ -489,6 +489,7 @@ author_profile: true
 ### 研究報告
 * 国際学会報告
   * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月
+  * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 
   * [UECE Lisbon Meeting](https://www.lisbonmeetings.com/), リスボン, 2024年6月
   * 2024 Experiment and Behavior Symposium for Young Scholars, 大連, 2024年5月
   * [EEA-ESEM](https://eea-esem-2023.org/), バルセロナ, 2023年8月 
