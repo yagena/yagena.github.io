@@ -539,10 +539,11 @@ author_profile: true
 3. 【実務としての経済学】（アクティベーションストラテジー株式会社で行ったインタビュー記事、全5回）が公開されました。
   * 第3回「[レーティングの手法開発とその可能性](https://www.activationstrategy.com/columns/interview-economics-3/)」, 4月25日, 2024. 
   * 第2回「[消費者の行動心理学を掴む価格戦略](https://www.activationstrategy.com/column/20240319)」, 3月19日, 2024. 
-  * 第1回「[経済学から見たプライシング](https://www.activationstrategy.com/column/20240229)」, 2月29日, 2024. 
-2. 経済学者 安田洋祐さんに聞く。ゼブラ企業を経済学から紐解く2つの視点と、より良い社会を作るためのヒント。, 株式会社ゼブラアンドカンパニー, 2月20日, 2024.  [Web](https://www.zebrasand.co.jp/2443)」
-3. 【座談会】経済学実践のフロントランナーに聞くキャリアとビジネスの創り方, 経済セミナー731号（4・5月号）, 2023.
-4. 人文・社会科学の現在を問う アカデミアと社会をつなぐ未来への論点とは, Forbes JAPAN（[5月号](https://forbesjapan.com/magazine/detail/156)）, 2023. 
+  * 第1回「[経済学から見たプライシング](https://www.activationstrategy.com/column/20240229)」, 2月29日, 2024.
+5. 経済学者 安田洋祐さんに聞く。ゼブラ企業を経済学から紐解く2つの視点と、より良い社会を作るためのヒント。, 株式会社ゼブラアンドカンパニー, 2月20日, 2024.  [Web](https://www.zebrasand.co.jp/2443)」
+6. 大阪大学教授・安田洋祐氏がレッツノートを使い続ける理由, 日経XTech Special, 5月29日, 2023.  [Web](https://special.nikkeibp.co.jp/panasonic/businessmobile/special/20230529/)
+6. 【座談会】経済学実践のフロントランナーに聞くキャリアとビジネスの創り方, 経済セミナー731号（4・5月号）, 2023.
+4. 人文・社会科学の現在を問う アカデミアと社会をつなぐ未来への論点とは, Forbes JAPAN（[5月号](https://forbesjapan.com/magazine/detail/156)）, 2023.
  * 柳澤田実さん（哲学者）、久能祐子さん（連続起業家）、岡田弘太郎（De-Silo代表理事）さんとの座談会の書き起こし記事です。
 3. 気鋭の経済学者・安田洋祐氏が語る　オンとオフの切り替えがパフォーマンス維持の秘訣, 日経ビジネス電子版Special, 11月30日, 2022.  [Web](https://special.nikkeibp.co.jp/atclh/ONB/22/panasonic1130/index.html)
 4. ノーベル経済学賞の主役がバーナンキ氏ではなくダイアモンド氏である理由, ダイヤモンド・オンライン, 10月17日, 2022.  [Web](https://diamond.jp/articles/-/311318)
