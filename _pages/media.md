@@ -33,7 +33,7 @@ author_profile: true
 * 学研・進学情報, クーリエ・ジャポン, 経済セミナー, 月刊みんぱく, サイゾー, 自主の旗, シティリビング, 週刊朝日, 週刊エコノミスト, 週刊現代, 週刊SPA！, 週刊ダイヤモンド, 週刊現代, 週刊東洋経済, 書斎の窓, 女性セブン, 数学セミナー, 第三文明, 中学校, 日経ビジネス, 日経ビジネスAssocie, 日経プレミアPLUS, フィナンシャルジャパン, プレジデント, 丸三レポート, 躍, AERA, BizLady, Biz/Zine, DISTANCE, Dream Navi, ELLE girl, FPジャーナル, Hanako, HandaiWalker, IC（Inter Communication）, Mart, News Picks Magazine, pen, R25, YOU'S 
 
 ### ネット媒体
-* 朝日新聞デジタル&M, ジセダイ, ダイヤモンドオンライン, 日経ビジネスオンライン, ハフポスト日本版, みんなの介護「賢人論。」, 東証マネ部！, 東洋経済オンライン, ログミー, αシノドス, Amazonブログ, BLOGOS, CLUB UNISYS, Forbes JAPAN, FNN PRIME, NEO-TEKIJUKU, News Picks, RIETIコラム, SYNODOS Blog, Z-KAI 
+* 朝日新聞デジタル&M, ジセダイ, ダイヤモンドオンライン, 日経クロステック, 日経ビジネスオンライン, ハフポスト日本版, みんなの介護「賢人論。」, 東証マネ部！, 東洋経済オンライン, ログミー, αシノドス, Amazonブログ, BLOGOS, CLUB UNISYS, Forbes JAPAN, FNN PRIME, NEO-TEKIJUKU, News Picks, RIETIコラム, SYNODOS Blog, Z-KAI 
 
 ------ 
 
@@ -161,6 +161,15 @@ author_profile: true
   * 小原美紀「『働く人の健康』がみんなの生産性を高める」（世界 ６月号）
   * 宇野重規、増田寛也「人口減を止められなかった10年　外国人・寄合・デジタルは救いとなるか」（中央公論 6月号）
   * カール・ローズ、大野和基「『意識高い系企業』が覆い隠すもの」（Voice 6月号）
+
+### Book Review：週刊東洋経済
+9. 『格差の起源』（オデッド・ガロー著）, 11月19日号, 2022.  [Web](https://toyokeizai.net/articles/-/631964)
+8. 『グリーン経済学』（ウィリアム・ノードハウス著）, 2月25日号, 2023. [Web](https://toyokeizai.net/articles/-/653176) 
+5. 『なぜ男女の賃金に格差があるのか 女性の生き方の経済学』（クラウディア・ゴールディン著）, 5月27日号, 2023.  [Web](https://toyokeizai.net/articles/-/673659)
+6. 『信頼の経済学』（ベンジャミン・ホー著）, 8月12-19日号, 2023. [Web](https://toyokeizai.net/articles/-/692052)
+4. 『戦争と交渉の経済学』（クリストファー・ブラットマン著）, 10月7日号, 2023.  [Web](https://toyokeizai.net/articles/-/704905)
+2. 『WEIRD 「現代人」の奇妙な心理』（ジョセフ・ヘンリック著）, 3月30日号, 2024.  [Web](https://toyokeizai.net/articles/-/742607)
+1. 『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著）, 5月25日号, 2024.  [Web](https://toyokeizai.net/articles/-/754828)
 
 ### 朝日新聞：[論壇時評](https://www.asahi.com/rensai/list.html?id=79)
 * 論壇委員が選ぶ今月の３点, 4月25日, 2019.  
@@ -413,11 +422,7 @@ author_profile: true
 ## その他の記事
 
 ### 研究に関する記事 
-1. Book Review『『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著）, 週刊東洋経済, 5月25日号, 2024.  [Web](https://toyokeizai.net/articles/-/754828)
-2. Book Review『WEIRD 「現代人」の奇妙な心理』（ジョセフ・ヘンリック著）, 週刊東洋経済, 3月30日号, 2024.  [Web](https://toyokeizai.net/articles/-/742607)
 3. なぜ市場は不平等を生むのか　マーケットデザインから結婚格差を分析する(特集2：「男女の格差」の死角), Voice, 1月号, 2024. 
-4. Book Review『戦争と交渉の経済学』（クリストファー・ブラットマン著）, 週刊東洋経済, 10月7日号, 2023.  [Web](https://toyokeizai.net/articles/-/704905)
-5. Book Review『信頼の経済学』（ベンジャミン・ホー著）, 週刊東洋経済, 8月12-19日号, 2023. [Web](https://toyokeizai.net/articles/-/692052)
 6. FP課外ぜみなーる 一緒に学ぶ ゲーム理論入門講座
    * 第6回, 11月1日発行 『FPジャーナル』11月号
    * 第5回, 10月1日発行 『FPジャーナル』10月号
@@ -426,8 +431,6 @@ author_profile: true
    * 第2回, 7月1日発行 『FPジャーナル』7月号  
    * 第1回, 6月1日発行 『FPジャーナル』6月号  
 7. レーティングの仕組みは経済理論で創る ― エコノミクスデザインの実践, 経済セミナー731号（4・5月号）, 2023. 
-8. Book Review『グリーン経済学』（ウィリアム・ノードハウス著）, 週刊東洋経済, 2月25日号, 2023. [Web](https://toyokeizai.net/articles/-/653176) 
-9. Book Review『格差の起源』（オデッド・ガロー著）, 週刊東洋経済, 11月19日号, 2022.  [Web](https://toyokeizai.net/articles/-/631964)
 10. 値上げをすると売り上げが減る、でも利益は増えるカラクリとは？──「需要法則」からの接近（上）, 11月10日, 2022.  [Web](https://www.newsweekjapan.jp/asteion/2022/11/post-79.php)
 11. 価格を上げると需要は下がる。この需要法則はいつでも正しい法則なのか？──「需要法則」からの接近（中）, 11月10日, 2022.  [Web](https://www.newsweekjapan.jp/asteion/2022/11/post-80.php)
 12. チケットやゲーム機の高額転売は本当に悪いことなのか？──「需要法則」からの接近（下）, WEBアステイオン, 11月10日, 2022.  [Web](https://www.newsweekjapan.jp/asteion/2022/11/post-81.php)
@@ -541,7 +544,7 @@ author_profile: true
   * 第2回「[消費者の行動心理学を掴む価格戦略](https://www.activationstrategy.com/column/20240319)」, 3月19日, 2024. 
   * 第1回「[経済学から見たプライシング](https://www.activationstrategy.com/column/20240229)」, 2月29日, 2024.
 5. 経済学者 安田洋祐さんに聞く。ゼブラ企業を経済学から紐解く2つの視点と、より良い社会を作るためのヒント。, 株式会社ゼブラアンドカンパニー, 2月20日, 2024.  [Web](https://www.zebrasand.co.jp/2443)」
-6. 大阪大学教授・安田洋祐氏がレッツノートを使い続ける理由, 日経XTech Special, 5月29日, 2023.  [Web](https://special.nikkeibp.co.jp/panasonic/businessmobile/special/20230529/)
+6. 大阪大学教授・安田洋祐氏がレッツノートを使い続ける理由, 日経クロステック Special, 5月29日, 2023.  [Web](https://special.nikkeibp.co.jp/panasonic/businessmobile/special/20230529/)
 6. 【座談会】経済学実践のフロントランナーに聞くキャリアとビジネスの創り方, 経済セミナー731号（4・5月号）, 2023.
 4. 人文・社会科学の現在を問う アカデミアと社会をつなぐ未来への論点とは, Forbes JAPAN（[5月号](https://forbesjapan.com/magazine/detail/156)）, 2023.
  * 柳澤田実さん（哲学者）、久能祐子さん（連続起業家）、岡田弘太郎（De-Silo代表理事）さんとの座談会の書き起こし記事です。
@@ -721,4 +724,4 @@ author_profile: true
 
 *Go back to the [top page](https://yagena.github.io/)*
 
-<span style="color: red; ">最終更新日：2024年4月</span>
+<span style="color: red; ">最終更新日：2024年6月</span>
