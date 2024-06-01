@@ -11,10 +11,10 @@ redirect_from:
 I am a **Professor** at the [Graduate School of Economics](https://www.econ.osaka-u.ac.jp/en/), Osaka University. I have a BA from the University of Tokyo and a **Ph.D.** from Princeton University. Taking a sabbatical leave, I have been staying at the [ISEG](https://www.iseg.ulisboa.pt/) in **Lisbon** from April 2021 to August 2022.
 
 ## My Research
-I am a theoretical economist with strong interests in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
+I am a theoretical economist with a strong interest in applications. My research primarily focuses on Game Theory, Industrial Organization, and **Market Design**. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **250** articles to newspapers, economic magazines, and online media.
 
 ## Teaching 
-Below is the link to the courses that I have taught. By going to each page you can download lecture slides, homeworks, solutions, etc.
+Below is the link to the courses that I have taught. On each page, you can download lecture slides, homework, solutions, etc.
 * [2014 -- Now](https://sites.google.com/site/yosukeyasuda2/home/lectures) at Osaka University and some other places. 
 * [2007 -- 2013](https://sites.google.com/site/yosukeyasuda/home/teaching) at GRIPS. 
 * **Lecture Slides** (in English)
@@ -24,7 +24,7 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ## Beyond Academia 
 * I am a co-founder of [Economics Design Inc.](https://econ.news/) that aims to utilize economics in business.
-* My [twitter](https://twitter.com/yagena) account has over **33,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
+* My [twitter](https://twitter.com/yagena) account has over **34,000** followers; ranked 1st amoung Japanese economists who registered [IDEAS](https://ideas.repec.org/top/top.person.twitter.html). 
 * As a commentator/navigator, I have appeared on TV programs more than **500** times. 
 * As a speaker/panelist/moderator, I have attended over **100** lectures and seminars.
 * As a member, I have participated in several government and public sector committees. 
@@ -59,7 +59,10 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ## Conference Talks since 2022 (by me or co-authors)
 * **2024**
-* TBA
+* August 26-30 --- [EEA-ESEM 2024](https://www.eea-esem-congresses.org/), Rotterdam, Netherlands.
+* August 2-4 --- [2024 Asia Meeting of the Econometric Society, East & Southeast Asia](https://ames2024.sciencesconf.org/), Ho Chi Minh City, Vietnam 
+* June 5-7 --- [The 13th UECE Lisbon Meeting](https://www.lisbonmeetings.com/), Lisbon, Portugal. 
+* May 24-25, 2024 Experiment and Behavior Symposium for Young Scholars, Dalian, China.
 * **2023**
 * August 28-September 1 --- [EEA-ESEM 2023](https://eea-esem-2023.org/), Barcelona, Spain. 
 * May 31-June 2 --- The 12th UECE Lisbon Meeting, Lisbon, Portugal. 
@@ -75,4 +78,4 @@ Below is the link to the courses that I have taught. By going to each page you c
 
 ------
 
-<span style="color: red; ">Last update: March 2024</span>
+<span style="color: red; ">Last update: June 2024</span>
