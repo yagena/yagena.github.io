@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Summary (pdf)](http://yagena.github.io/files/CV_20220703.pdf)
+### [Summary (pdf)](https://yagena.github.io/files/CV_20240531.pdf)
 
 ------
 
@@ -49,12 +49,14 @@ author_profile: true
 ## Research Interests
 
 * Game Theory
-* Industrial Organization
 * Market Design
+* Industrial Organization
+* Microeconomic Theory
 
 
 ## Selected Publications
 
+* Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, forthcoming.
 * Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, 2023.
 * Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.
 * Expanding “Choice” in School Choice (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Journal: Microeconomics**, Vol.7, No.1, pp.1-42, 2015.
@@ -64,8 +66,7 @@ author_profile: true
 ## Professional Activities
 
 * Referee 
-  * English Journals: American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare, Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
-  * Japanese Journals: To be written... 
+  * American Economic Journal: Microeconomics, American Economic Review, BE Journal of Theoretical Economics, Econometrica, Economic Theory, Economics Letters, European Economic Review, Games and Economic Behavior, Hitotsubashi Journal of Economics, International Economic Review, International Journal of Economic Theory, Japan and World Economy, Japanese Economic Review, Journal of Economic Theory, Journal of European Economic Association, Journal of the Japanese and International Economies, Journal of Mathematical Economics, Journal of Public Economic Theory, Journal of Public Economics, Mathematics of Social Science, National Science Foundation (Grant, US), Quarterly Journal of Economics, Review of Economic Design,  Review of Economic Studies, Research Grants Council (Grant, Hong Kong), Singapore Economic Review, Social Choice and Welfare, Southern Economic Journal, Theoretical Economics, Theoretical Economics Letters.
 * Conference Organizor
   * 29th DC Conference, September 15, 2023.
   * 1st GRIPS Market Design Workshop, December 29, 2012.　
@@ -73,7 +74,7 @@ author_profile: true
   * 15th DC Conference, August 2, 2009.
   * GRIPS international workshop, Frontiers of Game Theory: Global Games, June 7-8, 2008.   
 * Conference Presentations
-  * 2024: TBA 
+  * 2024: EEA-ESEM (Rotterdam), AMES (Ho Chi Minh City), UECE Lisbon Meeting (Lisbon), 2024 Experiment and Behavior Symposium for Young Scholars (Dalian)
   * 2023: EEA-ESEM (Barcelona), UECE Lisbon Meeting (Lisbon) 
   * 2022: Economic Design (Padova), PEJ (Azores), EEA-ESEM (Milan), EARIE (Viena)
   * 2021: GAMES2020 (Budapest, virtual)
