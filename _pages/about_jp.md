@@ -296,6 +296,8 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+
+* 【特捜部の「取り調べ映像」独自入手】「検察ナメんなよ」怒鳴り続けた検事, 関西テレビnews, 2024年6月11日.  [YouTube](https://www.youtube.com/watch?v=EBBNbpHt4dU)
 * 【対談02】安田洋祐さん、『面識経済』ってどう思います？, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube](https://www.youtube.com/watch?v=LQ1meLVVUJY) 
 * 【対談01】安田洋祐さん、経済の基本について教えてください。, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube](https://www.youtube.com/watch?v=_nKavBldaes)
 * 【今年「値上がり」の1年でした】日本の経済、来年はどうなる？, 関西テレビnews, 2023年12月26日.  [YouTube](https://www.youtube.com/watch?v=uE1Qyr_69wE)
