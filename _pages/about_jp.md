@@ -35,7 +35,10 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 6月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月21日（金）にゲンロンカフェにて「富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念」に登壇します。詳細はお申込みは[こちら](https://peatix.com/event/3969995)まで！
 * 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月18日（火）にアカデミーヒルズで開催されるVOOX「安田洋祐の戦略思考入門 最終講義」の公開収録を兼ねた
+「[ゲーム理論で考える：貨幣なき交換経済は可能か](https://www.academyhills.com/seminar/detail/20240618.html)」というイベントに登壇します。
 * 6月14日（金）にVOOX『安田洋祐の戦略思考入門』第7話「[協力ゲーム――競合するラーメン屋はどうコラボするか](https://www.voox.me/speaker/yosuke-yasuda-ep7)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC7%E8%A9%B1-%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0/B0C83Q9H82)
 * 6月14日（金）に同志社大学にて開催される[御所北セミナー](https://sites.google.com/view/gosyokita/)で報告します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
