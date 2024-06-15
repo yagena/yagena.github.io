@@ -28,18 +28,17 @@ author_profile: true
 ## お知らせ 
 
 ### 重要なお知らせ 
-* 2024/5 --- 6月18日に日本実業出版社から『[日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』が出版されます。社会学者で同世代を代表する論客でもある西田亮介さんと日本の課題について様々な視点から語りました！ぜひお手に取っていただけると嬉しいです。
+* 2024/5 --- 6月14日に日本実業出版社から『[日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』が出版されます。社会学者で同世代を代表する論客でもある西田亮介さんと日本の課題について様々な視点から語りました！ぜひお手に取っていただけると嬉しいです。
 * 2024/4 --- 「[Folk Theorem under Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)」（Carmen Bevia氏、Luis Corchón氏との共著）が学術論文誌**Journal of Mathematical Economics**に採択されました！
-* 2023/11 --- 河出新書から『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』が出版されました。第2章「経済学者と「戦略」を遊ぶ『ナショナル エコノミー』経営者になりきって経済のしくみを実感」を執筆しています。中高同級生の與那覇潤氏とボードゲームで対戦しながら、戦略的な駆け引きや経済・ビジネスへの示唆について考察しています。他の執筆陣も非常に豪華です。
-* 2023/10 --- ビジネス映像メディアPIVOTの新番組【EXTREME ECONOMICS】にナビゲーターとしてレギュラー出演します。記念すべき初回動画「[経済学はビジネスに役立つのか？〈前編〉](https://www.youtube.com/watch?v=umhIcGxpnl8)」は10月18日（水）に公開されました。今後、だいたい週に1回のペースで更新予定です。ぜひお楽しみに！
-* 2023/9 --- 顧問を務める[株式会社エッセンス](https://esse-sense.com/)が、継続的な研究資金基盤と資金提供者ネットワークを形成する月額パトロンサービス「esse-sense」の提供を9月21日に開始しました！（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000004.000086861.html)） 支援対象者として私も参加しています（[ページ](https://esse-sense.com/researchers/51/home)）。みなさまからの温かいサポートをお待ちしておりますm(__)m
 
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
 * 6月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月14日（金）に同志社大学にて開催される[御所北セミナー](https://sites.google.com/view/gosyokita/)で報告します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 6月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月10日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.5](https://x.com/i/spaces/1RDGllgmrQmGL)」に登壇します。
 * 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
 * 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
@@ -55,12 +54,12 @@ author_profile: true
 * 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「資本主義／経済／経営」です。
 * 5月17日（金）にVOOX『安田洋祐の戦略思考入門』第3話「[情報の非対称性と私的情報――就職活動をゲーム理論で突破する？](https://www.voox.me/speaker/yosuke-yasuda-ep3)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD)
-<!-- * 5月18日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。 -->
+* 5月18日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月13日（月）の21時00分～45分にTwitterスペース「[Economics Night Vol.3](https://twitter.com/i/spaces/1PlKQDLyelMxE)」に登壇します。
 * 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-<!-- * 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。 -->
-<!-- * 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。 -->
+* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 5月10日（金）にVOOX『安田洋祐の戦略思考入門』第2話「[動学ゲームによる意思決定――なぜ宿題をやるのは最終日になるのか](https://www.voox.me/speaker/yosuke-yasuda-ep2)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC2%E8%A9%B1-%E5%8B%95%E5%AD%A6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/B0C83GYT9D)です。
 * 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
