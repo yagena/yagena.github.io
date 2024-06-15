@@ -36,9 +36,13 @@ author_profile: true
 
 * 6月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月14日（金）にVOOX『安田洋祐の戦略思考入門』第7話「[協力ゲーム――競合するラーメン屋はどうコラボするか](https://www.voox.me/speaker/yosuke-yasuda-ep7)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC7%E8%A9%B1-%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0/B0C83Q9H82)
 * 6月14日（金）に同志社大学にて開催される[御所北セミナー](https://sites.google.com/view/gosyokita/)で報告します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 6月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月10日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.5](https://x.com/i/spaces/1RDGllgmrQmGL)」に登壇します。
+* 6月7日（金）にVOOX『安田洋祐の戦略思考入門』第6話「[非協力ゲーム：繰り返し囚人のジレンマゲーム ――仕事で協力関係を築くには？](https://www.voox.me/speaker/yosuke-yasuda-ep6)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC6%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0-%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E/B0C83GDJGG)
 * 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
 * 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
@@ -270,8 +274,8 @@ author_profile: true
 
 **VOOX 「安田洋祐の戦略思考入門」**
 * 第8話. ＜6月18日にアカデミーヒルズにて公開収録＞ 詳しくは[こちら](https://www.academyhills.com/seminar/detail/20240618.html)をご覧ください）
-* 第7話. （近日公開）
-* 第6話. （近日公開）
+* 第7話. （近日公開）  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep7)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC7%E8%A9%B1-%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0/B0C83Q9H82)
+* 第6話. （近日公開）  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep6)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC6%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0-%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E/B0C83GDJGG)
 * 第5話. 非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep5)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
 * 第4話. マッチング理論の使い方――合コンでどんな組み合わせができるか？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep4)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5?ref_pageloadid=IGXX0EOERcHth3u0&ref=f=a_podcast_E_c3_lAsin_0_0&pf_rd_p=7de0a35f-7e16-49b6-9280-a117b45405f7&pf_rd_r=13WS2FMRPGBVWSNF97XG&pageLoadId=WxORiKxRi92Xzpct&creativeId=66397b97-d5c2-4c01-9ea0-b59ad4d7d4f0)
 * 第3話. 情報の非対称性と私的情報――就職活動をゲーム理論で突破する？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep3) [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD?ref_pageloadid=IGXX0EOERcHth3u0)
