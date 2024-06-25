@@ -49,6 +49,33 @@ author_profile: true
 
 ------ 
 ### 2024年
+* 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
+* 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
+* 5月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 5月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月27日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.4](https://x.com/i/spaces/1YqGoDRbRngJv)」に登壇します。
+* 5月27日（月）に読売新聞：私の3編「令和の会社は人のために」が掲載されました。
+* 5月24日（金）、25日（土）に中国（大連）の東北財形大学で開催される「2024 Experiment and Behavior Symposium for Young Scholars」に報告者として参加します。報告論文は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)（の改訂版）です。
+* 5月24日（金）にVOOX『安田洋祐の戦略思考入門』第4話「[マッチング理論の使い方――合コンでどんな組み合わせができるか？](https://www.voox.me/speaker/yosuke-yasuda-ep4)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5)
+* 5月20日（月）に発売される『週刊東洋経済｜5月25日号』に「[Book Review『『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著](https://toyokeizai.net/articles/-/754828)）」が掲載されました。
+* 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「資本主義／経済／経営」です。
+* 5月17日（金）にVOOX『安田洋祐の戦略思考入門』第3話「[情報の非対称性と私的情報――就職活動をゲーム理論で突破する？](https://www.voox.me/speaker/yosuke-yasuda-ep3)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD)
+* 5月18日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月13日（月）の21時00分～45分にTwitterスペース「[Economics Night Vol.3](https://twitter.com/i/spaces/1PlKQDLyelMxE)」に登壇します。
+* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 5月10日（金）にVOOX『安田洋祐の戦略思考入門』第2話「[動学ゲームによる意思決定――なぜ宿題をやるのは最終日になるのか](https://www.voox.me/speaker/yosuke-yasuda-ep2)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC2%E8%A9%B1-%E5%8B%95%E5%AD%A6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/B0C83GYT9D)です。
+* 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 昨年度に登壇した東大駒場キャンパスでの学術フロンティア講義「30年後の世界へ― 空気はいかに価値化されるべきか」の講演動画が公開されました。
+  * テーマは「[第3回 資本主義と空気の価値〜市場・国家・社会的共通資本〜](https://ocw.u-tokyo.ac.jp/lecture_2399/)」です。
+* 5月3日（金）にVOOX『安田洋祐の戦略思考入門』第1話「[ゲーム理論による基本的な意思決定――ラーメン屋さんの出店を考える](https://www.voox.me/speaker/yosuke-yasuda-ep1)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80-%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%EF%BD%9C%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90/B0C83L7VS6)です。
 * 4月30日（火）に発刊された関西電力の広報誌『[YOU'S](https://www.kepco.co.jp/corporate/report/yous/index.html)』（第10号）に「[対談 【村田晃嗣×安田洋祐】国際競争力を考える](https://www.kepco.co.jp/corporate/report/yous/10/dialogue/article1.html)」が掲載されました。
 * 4月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月30日（火）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第7回）に委員としてオンライン参加します。
