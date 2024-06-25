@@ -44,6 +44,7 @@ author_profile: true
 * 6月24日（月）にJBpress「[【安田洋祐が語る】中学受験で私立名門大学附属はコスパが悪いと言える理由、子供を競わせて得る「地位財」の虚しさ](https://jbpress.ismedia.jp/articles/-/81607)」が掲載されました。
 * 6月24日（月）にJBpress「[【安田洋祐が語る】なぜ、中学受験は異常なほど過熱？ ゆるくなる大学受験、もうピュアな学力を競う場は中受だけ](https://jbpress.ismedia.jp/articles/-/81606/)」が掲載されました。
 * 6月21日（金）にゲンロンカフェにて「富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念」に登壇します。詳細はお申込みは[こちら](https://peatix.com/event/3969995)まで！
+  * アーカイブ動画を[シラス](https://shirasu.io/t/genron/c/genron/p/20240621)にて視聴いただけます（有料）。
 * 6月20日（木）にJBpress「[【安田洋祐が語る】ダイハツの認証不正と政治家の裏金問題の共通点とは？政治にも「内部告発制度」が必要か](https://jbpress.ismedia.jp/articles/-/81585#google_vignette)」が掲載されました。
 * 6月20日（木）にJBpress「[【安田洋祐が語る】なぜ、裏金問題では関係者で死者が出るのか？「悪事を一切認めない」が招く最悪の結末](https://jbpress.ismedia.jp/articles/-/81586)」が掲載されました。
 * 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
@@ -57,33 +58,6 @@ author_profile: true
 * 6月7日（金）にVOOX『安田洋祐の戦略思考入門』第6話「[非協力ゲーム：繰り返し囚人のジレンマゲーム ――仕事で協力関係を築くには？](https://www.voox.me/speaker/yosuke-yasuda-ep6)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC6%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0-%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E/B0C83GDJGG)
 * 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
-* 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
-* 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
-  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
-* 5月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 5月28日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 5月27日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.4](https://x.com/i/spaces/1YqGoDRbRngJv)」に登壇します。
-* 5月27日（月）に読売新聞：私の3編「令和の会社は人のために」が掲載されました。
-* 5月24日（金）、25日（土）に中国（大連）の東北財形大学で開催される「2024 Experiment and Behavior Symposium for Young Scholars」に報告者として参加します。報告論文は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)（の改訂版）です。
-* 5月24日（金）にVOOX『安田洋祐の戦略思考入門』第4話「[マッチング理論の使い方――合コンでどんな組み合わせができるか？](https://www.voox.me/speaker/yosuke-yasuda-ep4)」が公開されました。
-  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5)
-* 5月20日（月）に発売される『週刊東洋経済｜5月25日号』に「[Book Review『『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著](https://toyokeizai.net/articles/-/754828)）」が掲載されました。
-* 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「資本主義／経済／経営」です。
-* 5月17日（金）にVOOX『安田洋祐の戦略思考入門』第3話「[情報の非対称性と私的情報――就職活動をゲーム理論で突破する？](https://www.voox.me/speaker/yosuke-yasuda-ep3)」が公開されました。
-  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC3%E8%A9%B1-%E6%83%85%E5%A0%B1%E3%81%AE%E9%9D%9E%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%A8%E7%A7%81%E7%9A%84%E6%83%85%E5%A0%B1/B0C8364YZD)
-* 5月18日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
-* 5月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 5月13日（月）の21時00分～45分にTwitterスペース「[Economics Night Vol.3](https://twitter.com/i/spaces/1PlKQDLyelMxE)」に登壇します。
-* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 5月13日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
-* 5月10日（金）にVOOX『安田洋祐の戦略思考入門』第2話「[動学ゲームによる意思決定――なぜ宿題をやるのは最終日になるのか](https://www.voox.me/speaker/yosuke-yasuda-ep2)」が公開されました。
-  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC2%E8%A9%B1-%E5%8B%95%E5%AD%A6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/B0C83GYT9D)です。
-* 5月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 昨年度に登壇した東大駒場キャンパスでの学術フロンティア講義「30年後の世界へ― 空気はいかに価値化されるべきか」の講演動画が公開されました。
-  * テーマは「[第3回 資本主義と空気の価値〜市場・国家・社会的共通資本〜](https://ocw.u-tokyo.ac.jp/lecture_2399/)」です。
-* 5月3日（金）にVOOX『安田洋祐の戦略思考入門』第1話「[ゲーム理論による基本的な意思決定――ラーメン屋さんの出店を考える](https://www.voox.me/speaker/yosuke-yasuda-ep1)」が公開されました。
-  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80-%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%EF%BD%9C%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90/B0C83L7VS6)です。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
@@ -383,6 +357,10 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2024年12月. （予定）
+* 九州・アジア経営塾（福岡）, 2024年11月. （予定）
+* 立命館西園寺塾（東京）, 2024年6月. （予定）
+* 知のエグゼクティブサロン（東京・上智大学）, 2024年5月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2024年4月. 
 * SMBC経営者研究会（東京）, 2024年2月.
 * SMBC経営者研究会（大阪）, 2024年2月. 
@@ -426,12 +404,17 @@ author_profile: true
 
 
 ### イベント登壇　
+* 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月. （予定）
+* ナレッジキャピタル「木曜サロン」（加藤雅俊さんと共演）, 2024年8月. （予定）
+* 【出版記念対談】日本の未来、本当に大丈夫なんですか会議：ジュンク堂書店池袋本店, 2024年7月.  [Web](https://online.maruzenjunkudo.co.jp/products/j70019-240705) （予定）
+* 富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念：ゲンロンカフェ, 2024年6月.  [Web](https://peatix.com/event/3969995)
 * 次世代女性のキャリア自律 #Inspire inclusion（ウェビナー）, 2024年3月.  [Web](https://www.atpress.ne.jp/news/384894)
 * 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2024年3月.
 * これから千里：第2回「千里のこれからを考える」（大阪）, 2024年2月.  [Web](https://senri-nt.com/event/korekarasenri/)
 * ミラツク年次フォーラム2023（オンライン登壇）, 2023年12月.  [Web](https://emerging-future.org/news/3366/)
 * エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
+* 牧原出×安田洋祐×西田亮介「社会科学は未来を予測できるのか──五輪とコロナと戦争を経て、改めて『2030年の日本』を考える」：ゲンロンカフェ, 2024年5月.  [Web](https://peatix.com/event/3563275/)
 * 第10回ナレッジイノベーションアワード：最終選考会（大阪）, 2023年3月.
 * SCS: Startup City Sapporo（札幌）, 2023年1月.  [Peatix](https://scs-startuptalk2301.peatix.com/)
 * ミラツク年次フォーラム2022（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3328/)
@@ -506,8 +489,9 @@ author_profile: true
 
 ### 研究報告
 * 国際学会報告
-  * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月
-  * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 
+  * TBA, マカオ, 2024年10月 （予定）
+  * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月 （予定）
+  * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 （予定）
   * [UECE Lisbon Meeting](https://www.lisbonmeetings.com/), リスボン, 2024年6月
   * 2024 Experiment and Behavior Symposium for Young Scholars, 大連, 2024年5月
   * [EEA-ESEM](https://eea-esem-2023.org/), バルセロナ, 2023年8月 
@@ -550,7 +534,7 @@ author_profile: true
   * NASMES, ダーラム（デューク大学）, 2007年6月 
   * EEA-ESEM, ウィーン, 2006年8月 
 * 2024
-  * 公立はこだて未来大学 -- 6月(予定), 同志社大学 -- 6月(予定)
+  * 公立はこだて未来大学 -- 6月, 同志社大学 -- 6月
 * 2021
   * 公立はこだて未来大学 -- 10月, 第2回「マーケットデザインの実践」コンファレンス -- 2月
 * 2019
