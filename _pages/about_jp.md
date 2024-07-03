@@ -41,6 +41,7 @@ author_profile: true
 * 7月10日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月5日（金）にジュンク堂書店池袋本店にて開催される「[【出版記念対談】日本の未来、本当に大丈夫なんですか会議](https://online.maruzenjunkudo.co.jp/products/j70019-240705)」に登壇します。
+* 7月3日（水）にReHacQ「[【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】](https://www.youtube.com/watch?v=H6v4OZL_LSs)」が公開されました。
 * 7月1日（月）の21時00分～21時40分にTwitterスペース「[Economics Night Vol.6](https://x.com/i/spaces/1djxXNVpAlVGZ)」に登壇します。
 * 6月30日（日）にReHacQ「[【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】](https://www.youtube.com/watch?v=D3UF1RCvDeQ)」が公開されました。
 * 6月29日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「戦略・規範・資本主義」、スライド資料は[ドクセル](https://www.docswell.com/s/2322473805/538PNV-2024-07-01-072327)から閲覧できます。
@@ -290,6 +291,7 @@ author_profile: true
 
 **その他の動画**
 
+* 【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】, ReHacQ, 2024年7月3日.  [YouTube](https://www.youtube.com/watch?v=H6v4OZL_LSs)
 * 【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】, ReHacQ, 2024年6月30日.  [YouTube](https://www.youtube.com/watch?v=D3UF1RCvDeQ)
 * パビリオン建設遅れる国の「敷地」強制的に返却　いまだ建設業者決まらぬ国も, 関西テレビnews, 2024年6月25日.  [YouTube](https://www.youtube.com/watch?v=yu1bj6EQOY0)
 * 【冒頭無料】富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念, ゲンロン, 2024年6月21日.  [YouTube](https://www.youtube.com/watch?v=trTftTQYRNc)  
