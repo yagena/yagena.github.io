@@ -40,6 +40,7 @@ author_profile: true
 * 7月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月10日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月5日（金）発売の『Voice』[2024年8月号](https://www.php.co.jp/magazine/voice/?unique_issue_id=12560)に、社会学者の西田亮介氏との対談記事「東京都知事選は「究極の選択」なのか」が掲載されました。7月7日投開票の東京都知事選をテーマとするちょっと異色の内容です。興味を持ってくださった方はぜひご覧ください。
 * 7月5日（金）にジュンク堂書店池袋本店にて開催される「[【出版記念対談】日本の未来、本当に大丈夫なんですか会議](https://online.maruzenjunkudo.co.jp/products/j70019-240705)」に登壇します。
 * 7月3日（水）にReHacQ「[【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】](https://www.youtube.com/watch?v=H6v4OZL_LSs)」が公開されました。
 * 7月1日（月）の21時00分～21時40分にTwitterスペース「[Economics Night Vol.6](https://x.com/i/spaces/1djxXNVpAlVGZ)」に登壇します。
@@ -291,6 +292,7 @@ author_profile: true
 
 **その他の動画**
 
+* 【知事の“パワハラ”疑惑】内部告発した元県民局長が死亡, 関西テレビnews, 2024年7月9日.  [YouTube](https://www.youtube.com/watch?v=vwb-6sNjvi0) 
 * 【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】, ReHacQ, 2024年7月3日.  [YouTube](https://www.youtube.com/watch?v=H6v4OZL_LSs)
 * 【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】, ReHacQ, 2024年6月30日.  [YouTube](https://www.youtube.com/watch?v=D3UF1RCvDeQ)
 * パビリオン建設遅れる国の「敷地」強制的に返却　いまだ建設業者決まらぬ国も, 関西テレビnews, 2024年6月25日.  [YouTube](https://www.youtube.com/watch?v=yu1bj6EQOY0)
