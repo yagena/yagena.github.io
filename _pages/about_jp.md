@@ -37,12 +37,12 @@ author_profile: true
 * 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月8日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 8月2日（金）～4日（日）にホーチミンで開催される[AMES2024](https://ames2024.sciencesconf.org/)に報告者として参加します。
+* 8月2日（金）～4日（日）にホーチミン（ベトナム）で開催される[AMES2024](https://ames2024.sciencesconf.org/)に報告者として参加します。
 * 7月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月25日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月23日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 7月22日（月）の21時00分～21時40分にTwitterスペース「[Economics Night Vol.7](https://x.com/i/spaces/1vOxwrbrnvMJB)」に登壇します。
+* 7月22日（月）の21時00分～21時50分にTwitterスペース「[Economics Night Vol.7](https://x.com/i/spaces/1vOxwrbrnvMJB)」に登壇します。
 * 7月22日（月）に信託経済研究会（第2回目）に委員としてオンライン出席します。
 * 7月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 7月19日（金）にVOOX『安田洋祐の戦略思考入門』第8話「[ゲーム理論で考える：貨幣なき交換経済は可能か](https://www.voox.me/speaker/yosuke-yasuda-ep8)」が公開されました。
