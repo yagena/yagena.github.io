@@ -37,13 +37,16 @@ author_profile: true
 * 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月8日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 8月2日（金）～4日（日）にホーチミンで開催される[AMES2024](https://ames2024.sciencesconf.org/)に報告者として参加します。
 * 7月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月25日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月23日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
-* 7月22日（月）の21時00分～21時40分にTwitterスペース「Economics Night Vol.7」に登壇します。
+* 7月22日（月）の21時00分～21時40分にTwitterスペース「[Economics Night Vol.7](https://x.com/i/spaces/1vOxwrbrnvMJB)」に登壇します。
 * 7月22日（月）に信託経済研究会（第2回目）に委員としてオンライン出席します。
 * 7月22日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 7月19日（金）にVOOX『安田洋祐の戦略思考入門』第8話「[ゲーム理論で考える：貨幣なき交換経済は可能か](https://www.voox.me/speaker/yosuke-yasuda-ep8)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC8%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%EF%BC%9A%E8%B2%A8%E5%B9%A3%E3%81%AA%E3%81%8D%E4%BA%A4%E6%8F%9B%E7%B5%8C%E6%B8%88%E3%81%AF%E5%8F%AF%E8%83%BD%E3%81%8B/B0D6YRQRW1)
 * 7月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月10日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -253,7 +256,8 @@ author_profile: true
 ### オーディオ
 
 **VOOX 「安田洋祐の戦略思考入門」**
-* 第8話. ＜6月18日にアカデミーヒルズにて公開収録＞ 詳しくは[こちら](https://www.academyhills.com/seminar/detail/20240618.html)をご覧ください）
+* 第8話. ゲーム理論で考える：貨幣なき交換経済は可能か  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep8)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC8%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%EF%BC%9A%E8%B2%A8%E5%B9%A3%E3%81%AA%E3%81%8D%E4%BA%A4%E6%8F%9B%E7%B5%8C%E6%B8%88%E3%81%AF%E5%8F%AF%E8%83%BD%E3%81%8B/B0D6YRQRW1) 
+  * 6月18日にアカデミーヒルズにて[公開収録](https://www.academyhills.com/seminar/detail/20240618.html)した内容になります。
 * 第7話. 協力ゲーム――競合するラーメン屋はどうコラボするか？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep7)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC7%E8%A9%B1-%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0/B0C83Q9H82)
 * 第6話. 非協力ゲーム：繰り返し囚人のジレンマゲーム――仕事で協力関係を築くには？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep6)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC6%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0-%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E/B0C83GDJGG)
 * 第5話. 非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep5)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
