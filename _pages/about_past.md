@@ -49,6 +49,29 @@ author_profile: true
 
 ------ 
 ### 2024年
+* 6月30日（日）にReHacQ「[【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】](https://www.youtube.com/watch?v=D3UF1RCvDeQ)」が公開されました。
+* 6月29日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「戦略・規範・資本主義」、スライド資料は[ドクセル](https://www.docswell.com/s/2322473805/538PNV-2024-07-01-072327)から閲覧できます。
+* 6月26日（水）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第9回）に委員としてオンライン参加します。
+* 6月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月24日（月）にJBpress「[【安田洋祐が語る】中学受験で私立名門大学附属はコスパが悪いと言える理由、子供を競わせて得る「地位財」の虚しさ](https://jbpress.ismedia.jp/articles/-/81607)」が掲載されました。
+* 6月24日（月）にJBpress「[【安田洋祐が語る】なぜ、中学受験は異常なほど過熱？ ゆるくなる大学受験、もうピュアな学力を競う場は中受だけ](https://jbpress.ismedia.jp/articles/-/81606/)」が掲載されました。
+* 6月24日（月）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 6月21日（金）にゲンロンカフェにて「富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念」に登壇します。詳細はお申込みは[こちら](https://peatix.com/event/3969995)まで！
+  * アーカイブ動画を[シラス](https://shirasu.io/t/genron/c/genron/p/20240621)にて視聴いただけます（有料）。
+* 6月20日（木）にJBpress「[【安田洋祐が語る】ダイハツの認証不正と政治家の裏金問題の共通点とは？政治にも「内部告発制度」が必要か](https://jbpress.ismedia.jp/articles/-/81585#google_vignette)」が掲載されました。
+* 6月20日（木）にJBpress「[【安田洋祐が語る】なぜ、裏金問題では関係者で死者が出るのか？「悪事を一切認めない」が招く最悪の結末](https://jbpress.ismedia.jp/articles/-/81586)」が掲載されました。
+* 6月19日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月18日（火）にアカデミーヒルズで開催されるVOOX「安田洋祐の戦略思考入門 最終講義」の公開収録を兼ねた
+「[ゲーム理論で考える：貨幣なき交換経済は可能か](https://www.academyhills.com/seminar/detail/20240618.html)」というイベントに登壇します。
+* 6月17日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 6月14日（金）にVOOX『安田洋祐の戦略思考入門』第7話「[協力ゲーム――競合するラーメン屋はどうコラボするか](https://www.voox.me/speaker/yosuke-yasuda-ep7)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC7%E8%A9%B1-%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0/B0C83Q9H82)
+* 6月14日（金）に同志社大学にて開催される[御所北セミナー](https://sites.google.com/view/gosyokita/)で報告します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
+* 6月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月10日（月）の21時00分～22時にTwitterスペース「[Economics Night Vol.5](https://x.com/i/spaces/1RDGllgmrQmGL)」に登壇します。
+* 6月7日（金）にVOOX『安田洋祐の戦略思考入門』第6話「[非協力ゲーム：繰り返し囚人のジレンマゲーム ――仕事で協力関係を築くには？](https://www.voox.me/speaker/yosuke-yasuda-ep6)」が公開されました。
+  * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC6%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0-%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E/B0C83GDJGG)
+* 6月5日（水）～7日（金）にポルトガルのリスボン大学で開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。報告論文はRobust Exchange (with [Yuichiro Kamada](http://ykamada.com/))です。
 * 5月31日（金）に信託経済研究会（第1回目）に委員としてオンライン出席します。
 * 5月31日（金）にVOOX『安田洋祐の戦略思考入門』第5話「[非協力ゲーム・囚人のジレンマゲーム――共有スペースはなぜ汚れやすいのか？](https://www.voox.me/speaker/yosuke-yasuda-ep5)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC5%E8%A9%B1-%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%9A%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%82%B2%E3%83%BC%E3%83%A0/B0C838GD9S)
@@ -59,6 +82,7 @@ author_profile: true
 * 5月24日（金）、25日（土）に中国（大連）の東北財形大学で開催される「2024 Experiment and Behavior Symposium for Young Scholars」に報告者として参加します。報告論文は[こちら](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)（の改訂版）です。
 * 5月24日（金）にVOOX『安田洋祐の戦略思考入門』第4話「[マッチング理論の使い方――合コンでどんな組み合わせができるか？](https://www.voox.me/speaker/yosuke-yasuda-ep4)」が公開されました。
   * オーディブルのサイトは[こちら](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC4%E8%A9%B1-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/B0C83V3QZ5)
+* 5月20日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 5月20日（月）に発売される『週刊東洋経済｜5月25日号』に「[Book Review『『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著](https://toyokeizai.net/articles/-/754828)）」が掲載されました。
 * 5月18日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第2回）にメンバー（問題提起者）として参加します。テーマは「資本主義／経済／経営」です。
 * 5月17日（金）にVOOX『安田洋祐の戦略思考入門』第3話「[情報の非対称性と私的情報――就職活動をゲーム理論で突破する？](https://www.voox.me/speaker/yosuke-yasuda-ep3)」が公開されました。
