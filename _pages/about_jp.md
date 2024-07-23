@@ -34,6 +34,7 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+* 8月26日（月）～30日（金）にロッテルダム（オランダ）で開催される[EEA-ESEM2024](https://www.eea-esem-congresses.org/)に報告者として参加します。
 * 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月8日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
