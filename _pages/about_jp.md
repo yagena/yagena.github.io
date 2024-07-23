@@ -21,8 +21,6 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) *New!* ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf)  *New!* ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<!-- スライド資料： [Docswell](https://www.docswell.com/user/2322473805) ｜ [SlideShare](https://www.slideshare.net/YosukeYasuda1) -->
-
 ------ 
 
 ## お知らせ 
@@ -35,8 +33,8 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 8月26日（月）～30日（金）にロッテルダム（オランダ）で開催される[EEA-ESEM2024](https://www.eea-esem-congresses.org/)に報告者として参加します。
-* 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+<!-- * 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
+<!-- * 8月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
 * 8月8日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月2日（金）～4日（日）にホーチミン（ベトナム）で開催される[AMES2024](https://ames2024.sciencesconf.org/)に報告者として参加します。
 * 7月30日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
