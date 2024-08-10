@@ -33,7 +33,7 @@ author_profile: true
 * 学研・進学情報, クーリエ・ジャポン, 経済セミナー, 月刊みんぱく, サイゾー, 自主の旗, シティリビング, 週刊朝日, 週刊エコノミスト, 週刊現代, 週刊SPA！, 週刊ダイヤモンド, 週刊現代, 週刊東洋経済, 書斎の窓, 女性セブン, 数学セミナー, 第三文明, 中学校, 日経ビジネス, 日経ビジネスAssocie, 日経プレミアPLUS, フィナンシャルジャパン, プレジデント, 丸三レポート, 躍, AERA, BizLady, Biz/Zine, DISTANCE, Dream Navi, ELLE girl, FPジャーナル, Hanako, HandaiWalker, IC（Inter Communication）, Mart, News Picks Magazine, pen, R25, YOU'S 
 
 ### ネット媒体
-* 朝日新聞デジタル&M, ジセダイ, ダイヤモンドオンライン, 日経クロステック, 日経ビジネスオンライン, ハフポスト日本版, みんなの介護「賢人論。」, 東証マネ部！, 東洋経済オンライン, ログミー, αシノドス, Amazonブログ, BLOGOS, CLUB UNISYS, Forbes JAPAN, FNN PRIME, NEO-TEKIJUKU, News Picks, RIETIコラム, SYNODOS Blog, Z-KAI 
+* 朝日新聞デジタル&M, ジセダイ, ダイヤモンドオンライン, 日経クロステック, 日経ビジネスオンライン, ハフポスト日本版, みんなの介護「賢人論。」, 東証マネ部！, 東洋経済オンライン, プレジデントオンライン、リアルサウンドブック、ログミー, αシノドス, Amazonブログ, BLOGOS, CLUB UNISYS, Forbes JAPAN, FNN PRIME, NEO-TEKIJUKU, News Picks, RIETIコラム, SYNODOS Blog, Z-KAI 
 
 ------ 
 
@@ -537,14 +537,10 @@ author_profile: true
 
 
 ### インタビュー記事など
-* 6月24日（月）にJBpress「[【安田洋祐が語る】中学受験で私立名門大学附属はコスパが悪いと言える理由、子供を競わせて得る「地位財」の虚しさ](https://jbpress.ismedia.jp/articles/-/81607)」が掲載されました。
-* 6月24日（月）にJBpress「[【安田洋祐が語る】なぜ、中学受験は異常なほど過熱？ ゆるくなる大学受験、もうピュアな学力を競う場は中受だけ](https://jbpress.ismedia.jp/articles/-/81606/)」が掲載されました。
-* 6月21日（金）にゲンロンカフェにて「富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念」に登壇します。詳細はお申込みは[こちら](https://peatix.com/event/3969995)まで！
-* 6月20日（木）にJBpress「[【安田洋祐が語る】ダイハツの認証不正と政治家の裏金問題の共通点とは？政治にも「内部告発制度」が必要か](https://jbpress.ismedia.jp/articles/-/81585#google_vignette)」が掲載されました。
-* 6月20日（木）にJBpress「[【安田洋祐が語る】なぜ、裏金問題では関係者で死者が出るのか？「悪事を一切認めない」が招く最悪の結末](https://jbpress.ismedia.jp/articles/-/81586)」が掲載されました。
 
-
-1. JBpressに『日本の未来、本当に大丈夫なんですか会議 経済学×社会学で社会課題を解決する』の抜粋記事が掲載されました
+1. 「日本、本当に大丈夫？」気鋭の経済学者・安田洋祐に聞く、 日本のリアルと未来への提言, リアルサウンドブック, 8月10日, 2024.  [Web](https://realsound.jp/book/2024/08/post-1734956.html)
+2. ｢理想が高くて結婚できない｣のではない…40歳未満の東大卒女性の2人に1人が未婚である本当の理由, プレジデントオンライン, 7月24日, 2024.  [Web](https://president.jp/articles/-/83911)
+3. JBpressに『日本の未来、本当に大丈夫なんですか会議 経済学×社会学で社会課題を解決する』の抜粋記事が掲載されました
   * 「[【安田洋祐が語る】中学受験で私立名門大学附属はコスパが悪いと言える理由、子供を競わせて得る「地位財」の虚しさ](https://jbpress.ismedia.jp/articles/-/81607)」, 6月24日, 2024. 
   * 「[【安田洋祐が語る】なぜ、中学受験は異常なほど過熱？ ゆるくなる大学受験、もうピュアな学力を競う場は中受だけ](https://jbpress.ismedia.jp/articles/-/81606/)」, 6月24日, 2024. 
   * 「[【安田洋祐が語る】ダイハツの認証不正と政治家の裏金問題の共通点とは？政治にも「内部告発制度」が必要か](https://jbpress.ismedia.jp/articles/-/81585#google_vignette)」, 6月20日, 2024. 
