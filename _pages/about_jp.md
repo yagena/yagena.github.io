@@ -37,7 +37,7 @@ author_profile: true
 * 9月4日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月26日（月）～30日（金）にロッテルダム（オランダ）で開催される[EEA-ESEM2024](https://www.eea-esem-congresses.org/)に報告者として参加します。
 * 8月24日（土）に学習院大学で開催される「[宇沢弘文没後10年記念シンポジウム](https://uzawa20240824.peatix.com/view)」に登壇します。小島寛之さん（帝京大学特定教授）と一緒に「宇沢弘文の数学」についてお話しします。
-* 8月23日（金）にコングレスクエア大阪中之島で開催される「[MUSIC LOVES ART - MICUSRAT (マイクスラット) - 大阪カンファレンス/ネットワーキングイベント](https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/94102301.html)」にパネリストとして登壇します。
+* 8月23日（金）にコングレスクエア大阪中之島で開催される「[MUSIC LOVES ART - MICUSRAT (マイクスラット) - 大阪カンファレンス/ネットワーキングイベント](https://micusrat.com/conference)」にパネリストとして登壇します。
 * 8月22日（木）に開催される総務省「デジタルビジネス拡大へ向けた電波政策懇談会」（第10回）に委員としてオンライン参加します。
 * 8月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 
 * 8月19日（月）に信託経済研究会（第3回目）に委員としてオンライン出席します。
@@ -339,6 +339,7 @@ author_profile: true
   * YouTube: [00](https://www.youtube.com/watch?v=Rkv_xzT8LPg), [01](https://www.youtube.com/watch?v=ETWGH40sgtA), [02](https://www.youtube.com/watch?v=QmuZfG0hP1I), [03](https://www.youtube.com/watch?v=K2VGv8SJEXk), [04](https://www.youtube.com/watch?v=t-WGIeb-hns), [05](https://www.youtube.com/watch?v=DUnlwXIcCJI), [06](https://www.youtube.com/watch?v=JAdC3-v087U), [07](https://www.youtube.com/watch?v=wVpsyGuPL9s), [08](https://www.youtube.com/watch?v=hRUeRYNYe5s), [09](https://www.youtube.com/watch?v=RYf477ZjF58), [10](https://www.youtube.com/watch?v=7CVH-L5M1MA), [11](https://www.youtube.com/watch?v=W9_evYK1IJM), [12](https://www.youtube.com/watch?v=0oBgjgqWb80), [13](https://www.youtube.com/watch?v=sl-zWokr_RE), [14](https://www.youtube.com/watch?v=Mp3CqWBt934), [15](https://www.youtube.com/watch?v=MPAKPzyahRk), [16](https://www.youtube.com/watch?v=72PYKihg1KA) 
 
 ### 講演・講義スライド（の一部）
+* [宇沢弘文の数学](https://www.docswell.com/s/2322473805/KMX12G-2024-08-24-222928) -- 2024年8月 
 * [社会的共通資本と資本主義](https://www.slideshare.net/YosukeYasuda1/ss-251160835) -- 2022年2月
 * [「戦略的思考」で読み解くビジネスと社会](https://www.slideshare.net/YosukeYasuda1/ss-250885525) -- 2021年12月 
 * [目からウロコのモラルハザード解決法](https://www.slideshare.net/YosukeYasuda1/ss-242174084) -- 2021年2月
@@ -354,8 +355,7 @@ author_profile: true
 ### 講演会（2020年以降）
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2024年12月. （予定）
 * 九州・アジア経営塾（福岡）, 2024年11月. （予定）
-* HRサミット（オンライン）, 2024年8月. （予定）
-* 宇沢弘文没後10年記念シンポジウム（東京・学習院大学）, 2024年8月.  [Web](https://uzawa20240824.peatix.com/view)
+* HRサミット（オンライン）, 2024年9月. （予定）
 * 青山社中フォーラム（東京）, 2024年8月.  [Web](https://aoyamashachu-forum61.peatix.com/view)
 * 立命館西園寺塾（東京）, 2024年6月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2024年5月. 
@@ -403,7 +403,9 @@ author_profile: true
 
 ### イベント登壇　
 * 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月. （予定）
-* ナレッジキャピタル「木曜サロン」（加藤雅俊さんと共演）, 2024年8月. （予定）
+* 宇沢弘文没後10年記念シンポジウム（東京・学習院大学）, 2024年8月.  [Web](https://uzawa20240824.peatix.com/view)
+* MUSIC LOVES ART - MICUSRAT - 大阪カンファレンス, 2024年8月.  [Web](https://micusrat.com/conference)
+* ナレッジキャピタル「木曜サロン」（加藤雅俊さんと共演）, 2024年8月. 
 * 【出版記念対談】日本の未来、本当に大丈夫なんですか会議：ジュンク堂書店池袋本店, 2024年7月.  [Web](https://online.maruzenjunkudo.co.jp/products/j70019-240705) （予定）
 * 富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念：ゲンロンカフェ, 2024年6月.  [Web](https://peatix.com/event/3969995)
 * 次世代女性のキャリア自律 #Inspire inclusion（ウェビナー）, 2024年3月.  [Web](https://www.atpress.ne.jp/news/384894)
