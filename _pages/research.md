@@ -14,7 +14,8 @@ My research interests are Game Theory, Market Design, Industrial Organization, a
 ------
 
 ## Peer-Reviewed Journal Publications
-1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, Vol.112,
+June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
 3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
