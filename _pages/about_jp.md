@@ -11,7 +11,7 @@ author_profile: true
 
 ### 経済学者 ｜ [大阪大学大学院経済学研究科](https://www.econ.osaka-u.ac.jp/) 教授
 
-1980年2月20日東京都に生まれる。2002年東京大学卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して07年Ph.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て、22年7月より現職。専門はゲーム理論、マーケットデザイン、産業組織論。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。20年6月に[株式会社エコノミクスデザイン](https://econ.news/)を共同で創業し、コンサルティング業務やオンライン教育「[ナイトスクール](https://econ.news/school/)」を行う。政府の委員やテレビのコメンテーターとしても活動。主な著書に『日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する』、『そのビジネス課題、最新の経済学で「すでに解決」しています。』（いずれも共著）、『学校選択制のデザイン　ゲーム理論アプローチ』（編著）、『ラディカル・マーケット　脱・私有財産の世紀』（監訳）など。
+1980年2月20日東京都に生まれる。2002年東京大学卒業。最優秀卒業論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学して07年Ph.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て、22年7月より現職。専門はゲーム理論、マーケットデザイン、産業組織論。American Economic Review、Journal of Economic Theoryをはじめ、国際的な経済学術誌に論文を多数発表。20年6月に[株式会社エコノミクスデザイン](https://econ.news/)を共同で創業し、コンサルティング業務やオンライン教育「[ナイトスクール](https://econ.news/school/)」を行う。政府の委員やテレビのコメンテーターとしても活動。主な著書に『日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する』、『そのビジネス課題、最新の経済学で「すでに解決」しています。』（いずれも共著）、『学校選択制のデザイン　ゲーム理論アプローチ』（編著）、『ラディカル・マーケット　脱・私有財産の世紀』（監訳）など。
 
 
 ### リンク
@@ -131,8 +131,8 @@ author_profile: true
 ## 出版物
 
 ### 英語論文（査読付き）
-1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, forthcoming.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
-2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157),  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, Vol.112, June 2024. [Link](https://www.sciencedirect.com/science/article/pii/S030440682400048X), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
+2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
 3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1756-2171.12313), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 5. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
