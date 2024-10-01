@@ -36,6 +36,7 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 * 10月29日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月9日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 10月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月30日（月）の21時00分～21時30分にTwitterスペース「[Economics Night Vol.9](https://x.com/i/spaces/1BRKjwknYBNGw)」に登壇します。
 * 9月28日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第5回）にメンバー（学識有識者）として参加します。テーマは「歴史／文明／人類」です。
