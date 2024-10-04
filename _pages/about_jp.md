@@ -303,7 +303,7 @@ author_profile: true
 * 【聞きたい】インバウンドによる強い需要　そして欧米と日本の"金利差", 関西テレビnews, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=R4HA_sJWDMs) 
 * 【特集】金価格が過去最高に！　高騰は続く？「可能性高い」　金を買うべき？「投資でなく『リスクヘッジ』なら」, 関西テレビnews, 2023年6月27日.  [YouTube](https://www.youtube.com/watch?v=4qJxlxhFxNc) 
 * 【月29万円支給】労働意欲は落ちる？財源は？｜アベヒル, 2023年6月16日.  [YouTube](https://www.youtube.com/watch?v=C-UkQ7OB89E)
-* 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=-ifJp5iw1MY)
+* 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=7c3QkPDJp-I)
 * 【日銀総裁】元教え子が語る植田和男氏の素顔「実務経験と学者のキャリア両方持つ人」｜アベヒル, 2023年2月16日.  [YouTube](https://www.youtube.com/watch?v=xNrKANhRLtw)
 * スタートアップが活用すべき経済学〜最新の知見に基づく技術の実践〜, 2023年1月24日.  [YouTube](https://www.youtube.com/watch?v=lDy_Tuh5sw4)
 * ＜2023年大展望＞【経済大展望2023】今年は賃金上昇の転換点｜PIVOT, 2023年1月8日.  [YouTube](https://www.youtube.com/watch?v=5fhNArCQAUA)
@@ -367,9 +367,11 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* 知のエグゼクティブサロン（東京・上智大学）, 2024年5月. （予定）
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2024年12月. （予定）
 * 九州・アジア経営塾（福岡）, 2024年11月. （予定）
-* HRサミット（オンライン）, 2024年9月. （予定）
+* 近未来金融研究会 勉強会（東京・東京大学）, 2024年9月.
+* HRサミット（動画配信）, 2024年9月. 
 * 青山社中フォーラム（東京）, 2024年8月.  [Web](https://aoyamashachu-forum61.peatix.com/view)
 * 立命館西園寺塾（東京）, 2024年6月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2024年5月. 
@@ -416,11 +418,15 @@ author_profile: true
 
 
 ### イベント登壇　
-* 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月. （予定）
+* 第12回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月. （予定）
+* 宇沢弘文没後10年 社会的共通資本 いままでの30年 これからの30年（東京・国連大学）, 2024年9月.  [Web](https://www.uzawa-scc.jp/)
+* エッセンスフォーラム2024（東京）, 2024年9月.  [Web](https://esse-sense.com/forum2024)
+* 京都の未来、本当に大丈夫なんどすか会議 西田亮介×安田洋祐『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント：大垣書店高野店, 2024年9月.
 * 宇沢弘文没後10年記念シンポジウム（東京・学習院大学）, 2024年8月.  [Web](https://uzawa20240824.peatix.com/view)
 * MUSIC LOVES ART - MICUSRAT - 大阪カンファレンス, 2024年8月.  [Web](https://micusrat.com/conference)
 * ナレッジキャピタル「木曜サロン」（加藤雅俊さんと共演）, 2024年8月. 
-* 【出版記念対談】日本の未来、本当に大丈夫なんですか会議：ジュンク堂書店池袋本店, 2024年7月.  [Web](https://online.maruzenjunkudo.co.jp/products/j70019-240705) （予定）
+* 日本の未来、ホンマに大丈夫なん？会議 in大阪 西田亮介×安田洋祐（清風堂書店主催）：大阪市中央公会堂, 2024年7月.  [Web](https://peatix.com/event/4017745)
+* 【出版記念対談】日本の未来、本当に大丈夫なんですか会議：ジュンク堂書店池袋本店, 2024年7月.  [Web](https://online.maruzenjunkudo.co.jp/products/j70019-240705) 
 * 富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念：ゲンロンカフェ, 2024年6月.  [Web](https://peatix.com/event/3969995)
 * 次世代女性のキャリア自律 #Inspire inclusion（ウェビナー）, 2024年3月.  [Web](https://www.atpress.ne.jp/news/384894)
 * 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2024年3月.
@@ -428,7 +434,7 @@ author_profile: true
 * ミラツク年次フォーラム2023（オンライン登壇）, 2023年12月.  [Web](https://emerging-future.org/news/3366/)
 * エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
-* 牧原出×安田洋祐×西田亮介「社会科学は未来を予測できるのか──五輪とコロナと戦争を経て、改めて『2030年の日本』を考える」：ゲンロンカフェ, 2024年5月.  [Web](https://peatix.com/event/3563275/)
+* 牧原出×安田洋祐×西田亮介「社会科学は未来を予測できるのか──五輪とコロナと戦争を経て、改めて『2030年の日本』を考える」：ゲンロンカフェ, 2023年5月.  [Web](https://peatix.com/event/3563275/)
 * 第10回ナレッジイノベーションアワード：最終選考会（大阪）, 2023年3月.
 * SCS: Startup City Sapporo（札幌）, 2023年1月.  [Peatix](https://scs-startuptalk2301.peatix.com/)
 * ミラツク年次フォーラム2022（オンライン登壇）, 2022年12月.  [Web](https://emerging-future.org/news/3328/)
