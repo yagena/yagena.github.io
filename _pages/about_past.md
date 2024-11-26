@@ -49,6 +49,21 @@ author_profile: true
 
 ------ 
 ### 2024年
+* 10月31日（木）に信託経済研究会（第6回目）に委員としてオンライン出席します。
+* 10月30日（水）にNTTドコモ「ICTビジネス研究会」（第1回）に委員としてオンライン出席します。
+* 10月29日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月25日（金）発売の『[プレジデント 11/15号](https://presidentstore.jp/category/MAGAZINE01/012421.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第2回）が掲載されます。テーマは「小学生には「中学受験」を強いるのに、「大学以降の学び」をまるで評価しないナゾ」です。
+* 10月17、18日にマカオ大学で開催される「[The Greater Bay Area Market Design Workshop 2024](https://web.inaciobo.com/workshop2024/)」に報告者として参加します。
+* 10月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月11日（金）にラジオNIKKEI「[町田徹の税金ふかぼり！](https://www.radionikkei.jp/taxfukabori/20241011.html)」にゲスト出演します。テーマは「消費税に換算するとこんなにあった負担増！経済学者が丸裸にした『岸田・増税メガネ』の実態とは」です。
+  * YouTube動画が公開されました（[リンク](https://www.youtube.com/watch?v=SZQ_NO-8VIM)）。
+* 10月9日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月8日（火）にOCA TOKYOにて開催される上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」説明会にゲスト登壇者として参加します。
+* 10月4日（金）に岩波書店のウェブサイト「[〈特集〉宇沢弘文 没後10年](https://www.iwanami.co.jp/news/n58580.html)」に寄稿したメッセージが掲載されました。
+* 10月3日（木）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
+* 10月2日（水）に信託経済研究会（第5回目）に委員としてオンライン出席します。
+* 10月2日（水）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第2回・オンライン開催）に委員として出席します。
+* 10月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月30日（月）の21時00分～21時30分にTwitterスペース「[Economics Night Vol.9](https://x.com/i/spaces/1BRKjwknYBNGw)」に登壇します。
 * 9月28日（土）に上智大学「[知のエグゼクティブサロン](https://www.sophia-professionalstudies.jp/syllabus/optional/executive/)」（第5回）にメンバー（学識有識者）として参加します。テーマは「歴史／文明／人類」です。
 * 9月27日（金）に発売された『[プレジデント 10/18号](https://presidentstore.jp/category/MAGAZINE01/012419.html)』で社会学者の西田亮介さんとの新対談連載【日本ってどうなんですか会議 】がスタートしました！初回は「なぜ自民党の新総裁に「これで日本が変わる」という期待がないのか」です。
