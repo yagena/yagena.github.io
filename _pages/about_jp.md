@@ -43,6 +43,8 @@ author_profile: true
 * 12月7日（土）に香港大学で開催される「[15 th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/)」に報告社として参加します。
 * 12月4日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月2日（月）にロフトプラスワンウエスト（大阪市）にて『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベントに登壇します。共著者で社会学者の西田亮介さんとの共演です。お申し込みは[こちら](https://www.loft-prj.co.jp/schedule/west/296053)からぜひお願いします！
+* 11月29日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【Fラン大の存在価値】](https://www.youtube.com/watch?v=38hprL4Rrws)が公開されました。
+* 11月28日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【中学受験不要論】](https://www.youtube.com/watch?v=1CTs38wH8wU)が公開されました。
 * 11月29日（金）に総務省「情報通信経済研究会」（第3回・オンライン開催）に委員として出席します。
 * 11月28日（木）にASAグループ主催によるアニュアルセミナー2024「[投資ファンド業界におけるデジタルイノベーション～人財不足対策、人財育成のために～](https://www.aoyama.ac/seminar/561)」にパネリストとして登壇します。
 * 11月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
