@@ -36,9 +36,18 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
-<!-- * 11月2日（土）に九州・アジア経営塾が主催する碧樹館プログラムに講師として登壇します。テーマは「戦略的思考とその実践」です。 -->
+* 1月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 1月15日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 1月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 1月9日（木）に東北電力総連が主催する「新春トップセミナー」に講師として登壇します。
+* 1月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月24日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月20日（金）の夜にエッセンスのパトロン向け特別講義シリーズに登壇します。テーマは「[お金がなくても市場経済は実現できる！？](https://esse-sense.com/researchers/117/course/4)」です。
+  * エッセンスのパトロンサービスで研究者を支援しているサポーター向けのお返しイベントです。サポーター以外の方も有料（2000円）で参加いただけますので、[こちら](https://essesense-patron2.peatix.com/view)をご確認ください。
+* 12月20日（金）に富士通が主催する政策研究会に講師として登壇します。
 * 12月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月11日（水）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
+* 12月11日（水）に関西経済同友会：経済財政政策委員会が主催する講演会に講師として登壇します。
 * 12月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月7日（土）に香港大学で開催される「[15 th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/)」に報告社として参加します。
 * 12月4日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
