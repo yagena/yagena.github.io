@@ -40,7 +40,7 @@ author_profile: true
 * 1月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 1月15日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 1月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 1月9日（木）に東北電力総連が主催する「新春トップセミナー」に講師として登壇します。テーマは「経済学とゲーム理論で読み解く日本経済」です。
+* 1月9日（木）に東北電力総連が主催する「新春トップセミナー」に講師として登壇します。テーマは「経済学とゲーム理論で読み解く日本経済」です。
 * 1月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月24日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月20日（金）の夜にエッセンスのパトロン向け特別講義シリーズに登壇します。テーマは「[お金がなくても市場経済は実現できる！？](https://esse-sense.com/researchers/117/course/4)」です。
@@ -51,6 +51,7 @@ author_profile: true
 * 12月16日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【タワマンのウソとホント】](https://www.youtube.com/watch?v=tBVsKZ5N7vI)が公開されました。
 * 12月11日（水）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月11日（水）に関西経済同友会：経済財政政策委員会が主催する講演会に講師として登壇します。テーマは「経済学で読み解く日本社会の未来 ～不安を希望に変えるアプローチとは～」です。
+* 12月11日（水）にYouTubeにてエンジン01 in 和歌山有田 「[経済日本沈没 どう救う？](https://www.youtube.com/watch?v=BmAswJIMUSM)」が公開されました。イク・モハメッドさん、夏野剛さん、松本大さんとのパネルになります。
 * 12月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月7日（土）に香港大学で開催される「[15 th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/)」に報告者として参加します。発表論文は「Robust Exchange」（[鎌田雄一郎さん](http://ykamada.com/)との共著）です。
 * 12月4日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
@@ -82,9 +83,7 @@ author_profile: true
 * 11月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月5日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 11月2日（土）に九州・アジア経営塾が主催する碧樹館プログラムに講師として登壇します。テーマは「戦略的思考とその実践」です。
-* 10月31日（木）にナイトスクール特別ウェビナー「2024年ノーベル経済学賞について」に、エコノミクスデザイン共同創業者＆取締役の坂井豊貴さん、日経ビジネスの広野彩子さんと一緒に登壇しました。
-
-ナイトスクールの無料フレンド会員に登録でご視聴いただけます。
+* 10月31日（木）にナイトスクール特別ウェビナー「2024年ノーベル経済学賞について」に、エコノミクスデザイン共同創業者＆取締役の坂井豊貴さん、日経ビジネスの広野彩子さんと一緒に登壇しました。[ナイトスクール](https://econ.news/school/)の無料フレンド会員に登録でご視聴いただけます。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
@@ -93,7 +92,7 @@ author_profile: true
 ## パーソナル
 
 ### 簡易プロフィール
-経済学者。1980年生まれ。2002年東京大学経済学部卒業。2007年米国プリンストン大学でPh.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て2022年7月から大阪大学大学院経済学研究科教授。専門はゲーム理論、マーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府委員活動、経済学のビジネス活用にも積極的に取り組んでいる。
+経済学者。1980年生まれ。2002年東京大学経済学部卒業。2007年米国プリンストン大学でPh.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て2022年7月から大阪大学大学院経済学研究科教授。専門はゲーム理論、マーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府委員活動、経済学のビジネス活用にも積極的に取り組んでいる。2020年に株式会社エコノミクスデザインを共同で創業。
 
 ### 略歴
 * 1980年2月    　東京都に生まれる
@@ -120,7 +119,7 @@ author_profile: true
   * Economics Design Inc.（共同創業者、プリンシパル）,　2020 -- 現在.  [Web](https://econ.news/)
 * 顧問など  
   * De-Silo アカデミックインキュベーター・プログラム, 2023 -- 現在.  [Web](https://prtimes.jp/main/html/rd/p/000000003.000109034.html)　
-  * esse-sense（戦略顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
+  * esse-sense（顧問）, 2022 -- 現在.  [Web](https://esse-sense.com/)
   * Public Meets Innovation（Big Picture Board）,　2018 -- 現在.  [Web](https://pmi.or.jp/)
   * ナレッジイノベーションアワード（選考委員）, 2017 -- 現在.
   * Finatext（顧問）,　2019 -- 2020. 
@@ -129,9 +128,10 @@ author_profile: true
 
 ### 非常勤講師など 
 * ピーチコーポレーション：[Peach Women's Business School](https://www.peach-corporation.co.jp/peach-womens-business-school/), 2021 -- 現在. 
-* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在.  
+* エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在. 
+* 九州・アジア経営塾（KAIL）：碧樹館プログラム, 2019 --- 現在. 
+* [立命館西園寺塾](https://www.ritsumei.ac.jp/saionji-juku/),　2018 -- 現在.
 * 東京大学：近未来金融システム創造プログラム, 2017 -- 現在.
-* [立命館西園寺塾](https://www.ritsumei.ac.jp/saionji-juku/),　2018 -- 現在. 
 * 神戸大学：夏期集中講義,　2015. 
   * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
 * 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
@@ -167,7 +167,8 @@ author_profile: true
 
 ### 英語論文草稿（最近のもの）
 1. Robust Exchange (with Yuichiro Kamada), 2024.  (in progress)
-2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
+2. Two-sided Matching with Common Priority (with Yuanju Fang), 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
+3. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
 3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
 4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551) 
@@ -261,7 +262,9 @@ author_profile: true
   * 監訳者解説を[note](https://note.com/yagena/n/nebe89584efee)に公開しました. 
 
 ### 書籍：監修など
-1. 恋愛結婚の終焉, 光文社, 2023.
+1. 近代経済学の再検討, 岩波書店, 1977. 
+  * 本書の復刊につながる[推薦文](https://www.iwanami.co.jp/book/b267492.html)を寄稿。
+2. 恋愛結婚の終焉, 光文社, 2023.
   * マッチング理論などについて話した内容が第4章「恋愛結婚とコスト」に掲載。
 3. 未来を実装する―テクノロジーで社会を変革する４つの原則, 英治出版, 2021.  [Web](http://www.eijipress.co.jp/book/book.php?epcode=2304)
   * 本書の土台となったプロジェクト「[社会実装](https://apinitiative.org/project/social-implementation/)」（一般財団法人API主催）にメンバーとして参加. 
@@ -299,6 +302,12 @@ author_profile: true
 
 ### 動画 
 
+**プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* タワマン住みは正解か？, 2024年12月17日.  [YouTube](https://www.youtube.com/watch?v=rsRiUwu9lkg)
+* タワマンのウソとホント, 2024年12月16日.  [YouTube](https://www.youtube.com/watch?v=tBVsKZ5N7vI)
+* Fラン大の存在価値, 2024年11月29日.  [YouTube](https://www.youtube.com/watch?v=38hprL4Rrws)
+* 中学受験不要論, 2024年11月28日.  [YouTube](https://www.youtube.com/watch?v=1CTs38wH8wU)
+
 **PIVOT【EXTREME ECONOMICS】**
 * 第8回「現役大学院生と語る経済学の魅力」, 2023年12月16日.   [YouTube](https://www.youtube.com/watch?v=_O2hWCPX-mk)
 * 第7回「現役大学院生が語るMITと研究生活」, 2023年12月15日.   [YouTube](https://www.youtube.com/watch?v=JnN3G-vpxeQ)
@@ -312,6 +321,7 @@ author_profile: true
 
 **その他の動画**
 
+* エンジン01 in 和歌山有田 「経済日本沈没 どう救う？」　イク モハメッド／夏野剛／松本大／安田洋祐, 2024年12月11日.  [YouTube](https://www.youtube.com/watch?v=BmAswJIMUSM)
 * 【知事の“パワハラ”疑惑】内部告発した元県民局長が死亡, 関西テレビnews, 2024年7月9日.  [YouTube](https://www.youtube.com/watch?v=vwb-6sNjvi0) 
 * 【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】, ReHacQ, 2024年7月3日.  [YouTube](https://www.youtube.com/watch?v=H6v4OZL_LSs)
 * 【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】, ReHacQ, 2024年6月30日.  [YouTube](https://www.youtube.com/watch?v=D3UF1RCvDeQ)
