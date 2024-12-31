@@ -41,7 +41,8 @@ author_profile: true
 * 1月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 1月9日（木）に東北電力総連が主催する「新春トップセミナー」に講師として登壇します。テーマは「経済学とゲーム理論で読み解く日本経済」です。
 * 1月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 12月30日（月）にプレジデントオンラインにて「[【動画で直撃】役職停止中の玉木雄一郎氏は何をしたいのか？　社会学者と経済学者が国民民主党の本心を問う](https://president.jp/articles/-/89901)」が公開されました。
+* 12月30日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【玉木雄一郎氏は何をしたい？】](https://www.youtube.com/watch?v=LMadSdPnrQM)が公開されました。
+  * フルバージョンは[プレジデントオンライン](https://president.jp/articles/-/89901)で（無料の会員登録をすると）視聴いただけます。
 * 12月29日（日）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【政治家に｢不倫で自粛｣は必要か】](https://www.youtube.com/watch?v=ea8PRmfeGto)が公開されました。
 * 12月27日（金）発売の『[第三文明](https://www.daisanbunmei.co.jp/3rd/) 2月号』に西田亮介さんとの対談記事「メディアとネットと政治の「今」について話しました　西田亮介×安田洋祐」が掲載されます。
 * 12月27日（金）発売の『[プレジデント 1/17号](https://presidentstore.jp/category/MAGAZINE01/012502.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第4回）が掲載されます。テーマは「日本は「人口6000万人」でやっていけるか？　出生率が下がり続ける根本原因」です。
@@ -279,6 +280,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 玉木雄一郎氏は何をしたい？, 2024年12月30日.  [YouTube（ショートver.）](https://www.youtube.com/watch?v=LMadSdPnrQM)  [プレジデントオンライン（フルver.）](https://president.jp/articles/-/89901) 
+* 政治家に｢不倫で自粛｣は必要か, 2024年12月29日.  [YouTube](https://www.youtube.com/watch?v=ea8PRmfeGto)
 * タワマン住みは正解か？, 2024年12月17日.  [YouTube](https://www.youtube.com/watch?v=rsRiUwu9lkg)
 * タワマンのウソとホント, 2024年12月16日.  [YouTube](https://www.youtube.com/watch?v=tBVsKZ5N7vI)
 * Fラン大の存在価値, 2024年11月29日.  [YouTube](https://www.youtube.com/watch?v=38hprL4Rrws)
