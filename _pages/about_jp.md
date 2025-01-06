@@ -43,7 +43,7 @@ author_profile: true
 * 1月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 1月9日（木）に東北電力総連が主催する「新春トップセミナー」に講師として登壇します。テーマは「経済学とゲーム理論で読み解く日本経済」です。
 * 1月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 1月6日（月）に聖学院大学の方元駒さんとの共同研究「[Double Stability in Two-Sided Matching: Priority and Preference in Harmony](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)」をUTMD（東京大学マーケットデザインセンター）のワーキングペーパーとして公開しました。マッチングに関する短い理論研究で、数学的にもテクニカルでないので、ご関心のある方はチラ見してみてください。
+* 1月6日（月）に聖学院大学の方元駒さんとの共同研究「[Double Stability in Two-Sided Matching: Priority and Preference in Harmony](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)」がUTMD（東京大学マーケットデザインセンター）のワーキングペーパーとして公開されました。マッチングに関する短い理論研究で、数学的にもテクニカルではありません。トピックにご関心のある方はぜひチラ見してみてください。
 * 12月30日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【玉木雄一郎氏は何をしたい？】](https://www.youtube.com/watch?v=LMadSdPnrQM)が公開されました。
   * フルバージョンは[プレジデントオンライン](https://president.jp/articles/-/89901)で（無料の会員登録をすると）視聴いただけます。
 * 12月29日（日）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【政治家に｢不倫で自粛｣は必要か】](https://www.youtube.com/watch?v=ea8PRmfeGto)が公開されました。
