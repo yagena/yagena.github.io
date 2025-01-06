@@ -31,7 +31,10 @@ June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
+1. Robust Exchange (with Yuichiro Kamada)  *Coming Soon!*
+2. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/) 
+  * Old version: Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
+2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
 3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
   * Received the **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022 conference](https://apios.org.au/apioc-2022/).
