@@ -286,6 +286,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 人口半減の日本をどう生きる？, 2025年2月1日.  [YouTube](https://www.youtube.com/watch?v=D7dd1gbMCw0)
+* 少子化はなぜ止まらないのか, 2025年1月31日.  [YouTube](https://www.youtube.com/watch?v=0mi7IxZMxnI) 
 * 玉木雄一郎氏は何をしたい？, 2024年12月30日.  [YouTube（ショートver.）](https://www.youtube.com/watch?v=LMadSdPnrQM)  [プレジデントオンライン（フルver.）](https://president.jp/articles/-/89901) 
 * 政治家に｢不倫で自粛｣は必要か, 2024年12月29日.  [YouTube](https://www.youtube.com/watch?v=ea8PRmfeGto)
 * タワマン住みは正解か？, 2024年12月17日.  [YouTube](https://www.youtube.com/watch?v=rsRiUwu9lkg)
@@ -444,7 +446,8 @@ author_profile: true
 
 
 ### イベント登壇　
-* 第12回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月. （予定）
+* 第12回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2024/)（予定）
+* 経済学で解き明かすビジネスの未来＃1　競合の一歩先を行く価格戦略, 2025年2月.  [Web](https://biz1.peatix.com/) （予定）
 * 『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント, ロフトプラスワンウエスト（大阪）, 2024年12月. 
 * エンジン01 in 和歌山県有田「未来にあつまれ！アリダーズ」, 2024年11月.  [Web](https://enjin01-wakayama-arida.jp/)
 * 信託協会「信託経済コンファレンス」（東京）, 2024年11月.
@@ -539,9 +542,10 @@ author_profile: true
 
 ### 研究報告
 * 国際学会報告
-  * TBA, マカオ, 2024年10月 （予定）
-  * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月 （予定）
-  * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 （予定）
+  * [15th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/), 香港, 2024年12月 
+  * [The Greater Bay Area Market Design Workshop 2024](https://web.inaciobo.com/workshop2024/), マカオ, 2024年10月 
+  * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月 
+  * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 
   * [UECE Lisbon Meeting](https://www.lisbonmeetings.com/), リスボン, 2024年6月
   * 2024 Experiment and Behavior Symposium for Young Scholars, 大連, 2024年5月
   * [EEA-ESEM](https://eea-esem-2023.org/), バルセロナ, 2023年8月 
@@ -624,11 +628,12 @@ author_profile: true
 
 ### 政府系の委員活動
 * 現在所属している委員・メンバー
-  * 総務省：総合通信基盤局「デジタルビジネス拡大に向けた電波政策懇談会 」, 2023 -- 現在.
+  * 総務省：総合通信基盤局「新たな周波数割当方式検討会議」, 2024 -- 現在. 
   * 総務省：情報通信政策研究所「安心・安全なメタバースの実現に関する研究会」, 2023 -- 現在.
   * 内閣府：地方創生推進事務局「国家戦略特区ワーキンググループ」, 2022 -- 現在.  
   * 総務省：情報通信政策研究所「情報通信経済研究会」, 2021 -- 現在. 
 * 過去の所属していた委員・メンバー
+  * 総務省：総合通信基盤局「デジタルビジネス拡大に向けた電波政策懇談会 」, 2023 -- 2024.
   * 環境省：中央環境審議会地球環境部会「カーボンプライシングの活用に関する小委員会」, 2018 -- 2023.
   * 経済産業省：環境経済室「GXリーグにおける排出量取引に関する学識有識者検討会」, 2022 -- 2023. 
   * 総務省：情報通信政策研究所「Web3時代に向けたメタバース等の利活用に関する研究会」, 2022 -- 2023.
