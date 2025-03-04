@@ -37,6 +37,7 @@ author_profile: true
 
 * 3月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月24日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 3月24日（月）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第3回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-econnomics-3.peatix.com/)からお願いします。
 * 3月18日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月14日（金）にSMBC経営者研究会（東京）に講師として登壇します。
 * 3月7日（金）にSMBC経営者研究会（大阪）に講師として登壇します。
