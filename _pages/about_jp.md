@@ -46,6 +46,7 @@ author_profile: true
 * 5月12日（月）に一般社団法人「九州・台湾未来研究所」設立記念シンポジウムにモデレーターとして登壇します。詳細やお申込みは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfVakJYf-LzfgVYSZi9TxzY7lL7RzR4K6HhXAqS9RAVxRhLdw/viewform)まで。
 * 5月10日（土）にPlurality Tokyo Namerakaigi #2 [「Plurality Book日本語版」](https://lu.ma/ienn4p0k)出版記念にパネリストとして登壇します。
 * 5月6日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月1日（木）発売の『[第三文明](https://daisanbunmei.co.jp/3rd/) 6月号』に「中小企業の成長が日本経済を強くする」（【特集】希望の未来を描こう）が掲載されます。
 * 4月30日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 4月30日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【３連休は大きなお世話】](https://www.youtube.com/watch?v=L03uVoqcUrE)が公開されました。
 * 4月25日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【年収が上がる休日の過ごし方】](https://www.youtube.com/watch?v=tEamZA9Z4ag)が公開されました。
@@ -289,6 +290,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* ３連休は大きなお世話, 2025年4月30日.  [YouTube](https://www.youtube.com/watch?v=L03uVoqcUrE)
+* 年収が上がる休日の過ごし方, 2025年4月25日.  [YouTube](https://www.youtube.com/watch?v=tEamZA9Z4ag)
 * 老朽化するメディアインフラ, 2025年4月11日.  [YouTube](https://www.youtube.com/watch?v=L4HxRuvtyns)
 * 日本のインフラ危機, 2025年4月10日.  [YouTube](https://www.youtube.com/watch?v=TYbaatfx2Vo)
 * ひろゆきがフランスに住むワケ, 2025年3月2日.  [YouTube](https://www.youtube.com/watch?v=NMFvs-A0_ec)
@@ -394,9 +397,10 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* 立命館西園寺塾（東京）, 2025年6月. （予定） 
 * 知のエグゼクティブサロン（東京・上智大学）, 2025年5月. （予定）
-* SMBC経営者研究会（東京）, 2025年3月. （予定）
-* SMBC経営者研究会（大阪）, 2025年3月. （予定）
+* SMBC経営者研究会（東京）, 2025年3月. 
+* SMBC経営者研究会（大阪）, 2025年3月. 
 * 東北電力総連「新春トップセミナー」（仙台）, 2025年1月. 
 * 富士通「政策研究会」（川崎）, 2024年12月. 
 * 関西経済同友会「経済財政政策委員会」（大阪）, 2024年12月. 
