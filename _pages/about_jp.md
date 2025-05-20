@@ -42,6 +42,8 @@ author_profile: true
 * 6月6日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月29日（木）に公益財団法人サントリー生命科学財団主催による「国内における研究者の研究環境改善」に関する研究会（第3回）にコアメンバーとして参加します。
+* 5月26日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 5月24日（土）に中京大学で開催される[日本経済学会春季大会](https://pub.confit.atlas.jp/ja/event/jea2025s)にて社員総会に参加します。
 * 5月22日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第4回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-econnomics-4.peatix.com/)からお願いします。
 * 5月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月20日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
@@ -58,6 +60,7 @@ author_profile: true
 * 4月30日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【３連休は大きなお世話】](https://www.youtube.com/watch?v=L03uVoqcUrE)が公開されました。
 * 4月25日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【年収が上がる休日の過ごし方】](https://www.youtube.com/watch?v=tEamZA9Z4ag)が公開されました。
 * 4月25日（金）発売の『[プレジデント 5/16号](https://presidentstore.jp/category/MAGAZINE/012510.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第8回）が掲載されます。テーマは「「大型連休にホテル宿泊」は富裕層だけ…なぜ日本人の休みは「みんな」一緒なのか」です。
+* 4月21日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
