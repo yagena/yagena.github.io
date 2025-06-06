@@ -42,7 +42,7 @@ author_profile: true
 * 7月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月27日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月18日（水）～20日（金）にリスボンで開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。
-* 6月に[ナイトスクール]（https://econ.news/school/）に講師として登壇します。テーマは「マーケットデザインのビジネス活用」（予定）です。
+* 6月に[ナイトスクール](https://econ.news/school/)に講師として登壇します。テーマは「マーケットデザインのビジネス活用」です。
   * 6月12日（第1回）：マッチングで人材をもっと活用しよう！
   * 6月26日（第2回）：市場からお金をなくすことはできるか？
 * 6月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
