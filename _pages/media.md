@@ -204,7 +204,7 @@ author_profile: true
 2. 『WEIRD 「現代人」の奇妙な心理』（ジョセフ・ヘンリック著）, 3月30日号, 2024.  [Web](https://toyokeizai.net/articles/-/742607)
 1. 『Mine（マイン）！ 私たちを支配する「所有」のルール』（マイケル・ヘラー、ジェームズ・ザルツマン 著）, 5月25日号, 2024.  [Web](https://toyokeizai.net/articles/-/754828)
 2. 『シンギュラリティはより近く 人類がAIと融合するとき』（レイ・カーツワイル 著）, 1月18日号, 2025.  [Web](https://toyokeizai.net/articles/-/851354)
-3.  Comming Soon!, 6月xx日号, 2025. 
+3. 『なぜ子どもの将来に両親が重要なのか』（メリッサ・カーニー 著）, 6月21日号, 2025.  [Web](https://toyokeizai.net/articles/-/884030) 
 
 ### 朝日新聞：[論壇時評](https://www.asahi.com/rensai/list.html?id=79)
 * 論壇委員が選ぶ今月の３点, 4月25日, 2019.  
