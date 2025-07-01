@@ -36,12 +36,19 @@ author_profile: true
 ### お知らせ
 <!-- コメントアウトの方法 -->
 
+<!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
 * 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者として参加します。5年に一度の【経済学祭】です。同業者のみなさん、ぜひ現地で盛り上がりましょう！
+* 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月28日（月）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月24日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第5回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-economics-5.peatix.com/)からお願いします。
 * 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月6日（土）に開催される日本ソーシャルデータサイエンス学会10周年記念シンポジウム（[リンク](https://www.jsdss.org/event/1338/)）に講演者としてオンライン登壇します。テーマは「「正直なデータ」を集めるには？　ゲーム理論が変える調査の仕組み」の予定です。
 * 7月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月28日（土）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【物価高への根本的な対策は減税】](https://www.youtube.com/watch?v=wwUZ_xxei04)が公開されました。
+* 6月27日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【新聞を読め！テレビを見ろ！なんて大きなお世話】](https://www.youtube.com/watch?v=oDn7NLvuWtE)が公開されました。
+* 6月27日（金）発売の『[プレジデント 7/18号](https://presidentstore.jp/category/MAGAZINE01/012514.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第10回）が掲載されます。テーマは「インフレで「得をする人」と「損をする人」の決定的な違い」です。
 * 6月27日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月18日（水）～20日（金）にリスボンで開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。
 * 6月18日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
@@ -55,9 +62,11 @@ author_profile: true
 * 6月7日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「貨幣なき市場経済は実現可能か？　感情・制度・歴史から考える」です。<!-- スライド資料はこちらから閲覧できます。 --> 
 * 6月6日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月5日（木）の朝日新聞（電子版）に「[「役に立つ転売」と「立たない転売」　経済学者が語るSwitch2](https://www.asahi.com/articles/AST6522J1T65OXIE009M.html)」が掲載されました。
+* 6月3日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【アメリカ人はなぜトランプを愛するのか】](https://www.youtube.com/watch?v=dfH5XuqRGQo)が公開されました。
 * 6月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月3日（火）にNERA主催による「スマホ新法ガイドライン案の多角的検討：イノベーション・市場競争・消費者利益の視点から」にパネリストとしてオンライン登壇します。
   * 6月5日（木）にImpressに「[施行近づく「スマホ新法」　競争促進の実際や消費者保護への指摘も](https://www.watch.impress.co.jp/docs/topic/2019566.html)」が掲載されました。 
+* 5月30日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【iPhone50万円説の真実】](https://www.youtube.com/watch?v=Hy5kZI-OgWk)が公開されました。
  <!-- * 4月30日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【３連休は大きなお世話】](https://www.youtube.com/watch?v=L03uVoqcUrE)が公開されました。 -->
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
