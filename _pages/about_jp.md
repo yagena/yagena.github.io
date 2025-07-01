@@ -292,6 +292,10 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 物価高への根本的な対策は減税, 2025年6月28日.  [YouTube](https://www.youtube.com/watch?v=wwUZ_xxei04)
+* 新聞を読め！テレビを見ろ！なんて大きなお世話, 2025年6月27日.  [YouTube](https://www.youtube.com/watch?v=oDn7NLvuWtE) 
+* アメリカ人はなぜトランプを愛するのか, 2025年6月3日.  [YouTube](https://www.youtube.com/watch?v=dfH5XuqRGQo)
+* iPhone50万円説の真実, 2025年5月30日.  [YouTube](https://www.youtube.com/watch?v=Hy5kZI-OgWk)
 * ３連休は大きなお世話, 2025年4月30日.  [YouTube](https://www.youtube.com/watch?v=L03uVoqcUrE)
 * 年収が上がる休日の過ごし方, 2025年4月25日.  [YouTube](https://www.youtube.com/watch?v=tEamZA9Z4ag)
 * 老朽化するメディアインフラ, 2025年4月11日.  [YouTube](https://www.youtube.com/watch?v=L4HxRuvtyns)
