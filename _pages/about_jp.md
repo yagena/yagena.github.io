@@ -41,6 +41,7 @@ author_profile: true
 * 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月28日（月）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月24日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第5回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-economics-5.peatix.com/)からお願いします。
+* 7月24日（木）に電通「[Do! Solutions Webinar](https://www.d-sol.jp/webinar-20250724)」に登壇します。【経済学者とクリエイティブディレクターが紐解く人的資本の活かしかた】をテーマに、小野総一さん（サステナビリティコンサルティング室）とお話しします。
 * 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
