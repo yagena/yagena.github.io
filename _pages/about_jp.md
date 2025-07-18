@@ -45,8 +45,10 @@ author_profile: true
 * 7月24日（木）に電通「[Do! Solutions Webinar](https://www.d-sol.jp/webinar-20250724)」に登壇します。【経済学者とクリエイティブディレクターが紐解く人的資本の活かしかた】をテーマに、小野総一さん（サステナビリティコンサルティング室）とお話しします。
 * 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 7月16日（水）に総務省価額競争の実施方法に関する検討作業班（第1回）に委員としてオンライン出席します。
+* 7月18日（金）に総務省「電波有効利用委員会」（第4回）に委員としてオンライン出席します。
+* 7月16日（水）に総務省「価額競争の実施方法に関する検討作業班」（第1回）に委員としてオンライン出席します。
 * 7月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月12日(土)	に上智大学「知のエグゼクティブサロン」（第4回）にメンバー（学識有識者）として参加します。テーマは「国家／政治／社会」です。
 * 7月9日（水）、10日（木）に開催される「[第68回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
 * 7月6日（土）に開催される日本ソーシャルデータサイエンス学会10周年記念シンポジウム（[リンク](https://www.jsdss.org/event/1338/)）に講演者としてオンライン登壇します。テーマは「「正直なデータ」を集めるには？　ゲーム理論が変える調査の仕組み」の予定です。
 ・7月4日（金）に配信された「[ちょいムズ本、プロが惚れたこの一冊](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-1-weird13-e353hn5)」（By 問い読）というポッドキャストに登壇しました。全3回の1回目で、取り上げた本は『WEIRD「現代人」の奇妙な心理』（ジョセフ・ヘンリック 著、白揚社、2023年）です。
@@ -264,6 +266,11 @@ author_profile: true
 
 ### オーディオ
 
+**問い読「ちょいムズ本、プロが惚れたこの一冊」**  <span style="color: red; ">New!</span>
+* 第3回.  成田悠輔『22世紀の資本主義　やがてお金は絶滅する』  
+* 第2回.  オードリー・タン, グレン・ワイル『PLURALITY　対立を創造に変える、協働テクノロジーと民主主義の未来』  [Link](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-2-plurality14-e353h8d)
+* 第1回.  ジョセフ・ヘンリック『WEIRD　｢現代人｣の奇妙な心理』  [Link](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-1-weird13-e353hn5)
+
 **VOOX 「安田洋祐の戦略思考入門」**
 * 第8話. ゲーム理論で考える：貨幣なき交換経済は可能か  [VOOX](https://www.voox.me/speaker/yosuke-yasuda-ep8)  [Audible](https://www.audible.co.jp/podcast/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90%E3%81%AE%E6%88%A6%E7%95%A5%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%EF%BD%9C%E7%AC%AC8%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%EF%BC%9A%E8%B2%A8%E5%B9%A3%E3%81%AA%E3%81%8D%E4%BA%A4%E6%8F%9B%E7%B5%8C%E6%B8%88%E3%81%AF%E5%8F%AF%E8%83%BD%E3%81%8B/B0D6YRQRW1) 
   * 6月18日にアカデミーヒルズにて[公開収録](https://www.academyhills.com/seminar/detail/20240618.html)した内容になります。
@@ -278,6 +285,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 労働生産性でOECD38カ国中32位, 2025年7月18日.  [YouTube](https://www.youtube.com/watch?v=awVWv7suu04)
+* 外国人問題が参院選の争点に, 2025年7月16日.  [YouTube](https://www.youtube.com/watch?v=3uBBhI1j25U)
 * 物価高への根本的な対策は減税, 2025年6月28日.  [YouTube](https://www.youtube.com/watch?v=wwUZ_xxei04)
 * 新聞を読め！テレビを見ろ！なんて大きなお世話, 2025年6月27日.  [YouTube](https://www.youtube.com/watch?v=oDn7NLvuWtE) 
 * アメリカ人はなぜトランプを愛するのか, 2025年6月3日.  [YouTube](https://www.youtube.com/watch?v=dfH5XuqRGQo)
@@ -389,7 +398,9 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
-* 立命館西園寺塾（東京）, 2025年6月. （予定） 
+* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2025年12月（予定）.
+* 九州・アジア経営塾（福岡）, 2025年10月（予定）. 
+* 立命館西園寺塾（東京）, 2025年6月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2025年5月. 
 * SMBC経営者研究会（東京）, 2025年3月. 
 * SMBC経営者研究会（大阪）, 2025年3月. 
@@ -448,8 +459,12 @@ author_profile: true
 
 
 ### イベント登壇　
-* 第12回ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2024/)（予定）
-* 経済学で解き明かすビジネスの未来＃1　競合の一歩先を行く価格戦略, 2025年2月.  [Web](https://biz1.peatix.com/) （予定）
+* エッセンスフォーラム2025（東京）, 2025年9月.  
+* エンジン01 in 加賀温泉「カガくしよう。」, 2025年9月.  [Web]([https://enjin01.gifu.jp/](https://kaga-city.jp/enjin01_kaga-onsen))
+* Do! Solutions Webinar, 人的資本の活かしかた（ウェビナー）, 2025年7月.  [Web](https://www.d-sol.jp/webinar-20250724)
+* 日本生産性本部, 第68回 軽井沢トップ・マネジメント・セミナー, 2025年7月.  [Web](https://www.jpc-net.jp/seminar/detail/002628.html)
+* 第12回 ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2024/) 
+* 経済学で解き明かすビジネスの未来＃1　競合の一歩先を行く価格戦略, 2025年2月.  [Web](https://biz1.peatix.com/) 
 * 『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント, ロフトプラスワンウエスト（大阪）, 2024年12月. 
 * エンジン01 in 和歌山県有田「未来にあつまれ！アリダーズ」, 2024年11月.  [Web](https://enjin01-wakayama-arida.jp/)
 * 信託協会「信託経済コンファレンス」（東京）, 2024年11月.
@@ -469,6 +484,7 @@ author_profile: true
 * 信託協会「信託経済コンファレンス」（オンライン）, 2023年11月.
 * エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
+* Do! Solutions Webinar, いまさら聞けないESGと株価の関係（ウェビナー）, 2023年6月.  [Web](https://www.d-sol.jp/webinar-20230627)
 * 牧原出×安田洋祐×西田亮介「社会科学は未来を予測できるのか──五輪とコロナと戦争を経て、改めて『2030年の日本』を考える」：ゲンロンカフェ, 2023年5月.  [Web](https://peatix.com/event/3563275/)
 * 第10回ナレッジイノベーションアワード：最終選考会（大阪）, 2023年3月.
 * SCS: Startup City Sapporo（札幌）, 2023年1月.  [Peatix](https://scs-startuptalk2301.peatix.com/)
@@ -752,4 +768,4 @@ author_profile: true
 
 *Go back to the [top page](https://yagena.github.io/).*
 
-<span style="color: red; ">最終更新日：2024年6月</span>
+<span style="color: red; ">最終更新日：2025年7月</span>
