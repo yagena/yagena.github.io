@@ -50,6 +50,7 @@ author_profile: true
 ------ 
 ### 2025年
 * 6月27日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月25日（水）に総務省「電波有効利用委員会」（第3回）に委員としてオンライン出席します。
 * 6月20日（金）の日本経済新聞（朝刊）に「[コメの転作助成金「縮小を」60%　経済学者から輸入拡大論も](https://www.nikkei.com/article/DGXZQOCD185OX0Y5A610C2000000/)」が掲載されました。
 * 6月18日（水）～20日（金）にリスボンで開催される「[The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/)」に報告者として参加します。
 * 6月18日（水）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
