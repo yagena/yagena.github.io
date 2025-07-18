@@ -320,21 +320,16 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+* 資本主義と空気の価値〜市場・国家・社会的共通資本〜, 2025年3月25日.  [YouTube](https://www.youtube.com/watch?v=24fo9lMHRn4) 
 * エンジン01 in 和歌山有田 「経済日本沈没 どう救う？」　イク モハメッド／夏野剛／松本大／安田洋祐, 2024年12月11日.  [YouTube](https://www.youtube.com/watch?v=BmAswJIMUSM)
-* 【知事の“パワハラ”疑惑】内部告発した元県民局長が死亡, 関西テレビnews, 2024年7月9日.  [YouTube](https://www.youtube.com/watch?v=vwb-6sNjvi0) 
+* ハームリダクションと孤立しない社会の構築―アカデミズム×ジャーナリズムで社会を変える―, SlowNews, 2024年12月5日.  [YouTube](https://www.youtube.com/watch?v=ET2sg7TvwHo)
 * 【大学教授vs社会課題】厳罰化はダメ？政治とカネどう解決する？【安田洋祐vs西田亮介】, ReHacQ, 2024年7月3日.  [YouTube](https://www.youtube.com/watch?v=H6v4OZL_LSs)
 * 【経済学vs社会学】東京は異常？中学受験の問題点とは【安田洋祐vs西田亮介】, ReHacQ, 2024年6月30日.  [YouTube](https://www.youtube.com/watch?v=D3UF1RCvDeQ)
-* パビリオン建設遅れる国の「敷地」強制的に返却　いまだ建設業者決まらぬ国も, 関西テレビnews, 2024年6月25日.  [YouTube](https://www.youtube.com/watch?v=yu1bj6EQOY0)
 * 【冒頭無料】富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念, ゲンロン, 2024年6月21日.  [YouTube](https://www.youtube.com/watch?v=trTftTQYRNc)  
-* 【特捜部の「取り調べ映像」独自入手】「検察ナメんなよ」怒鳴り続けた検事, 関西テレビnews, 2024年6月11日.  [YouTube](https://www.youtube.com/watch?v=EBBNbpHt4dU)
 * 【対談02】安田洋祐さん、『面識経済』ってどう思います？, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube](https://www.youtube.com/watch?v=LQ1meLVVUJY) 
 * 【対談01】安田洋祐さん、経済の基本について教えてください。, 山崎亮YouTubeチャンネル, 2024年2月14日.  [YouTube](https://www.youtube.com/watch?v=_nKavBldaes)
-* 【今年「値上がり」の1年でした】日本の経済、来年はどうなる？, 関西テレビnews, 2023年12月26日.  [YouTube](https://www.youtube.com/watch?v=uE1Qyr_69wE)
-* 【大学無償化】3人以上扶養の壁　5人兄弟の家族で試算, 関西テレビnews, 2023年12月12日.  [YouTube](https://www.youtube.com/watch?v=joArHs8BTes)
 * ゲーム理論で解く 隣り合うカフェの謎｜大阪大学経済学部公式YouTubeチャンネル, 2023年8月21日.  [YouTube](https://www.youtube.com/watch?v=88VNiXka9BM)」
 * “負け組”をつくらない、新しい市場とは？｜ナレッジキャピタル, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=_VMROJ5Pe58) 
-* 【聞きたい】インバウンドによる強い需要　そして欧米と日本の"金利差", 関西テレビnews, 2023年7月11日.  [YouTube](https://www.youtube.com/watch?v=R4HA_sJWDMs) 
-* 【特集】金価格が過去最高に！　高騰は続く？「可能性高い」　金を買うべき？「投資でなく『リスクヘッジ』なら」, 関西テレビnews, 2023年6月27日.  [YouTube](https://www.youtube.com/watch?v=4qJxlxhFxNc) 
 * 【月29万円支給】労働意欲は落ちる？財源は？｜アベヒル, 2023年6月16日.  [YouTube](https://www.youtube.com/watch?v=C-UkQ7OB89E)
 * 【理事長対談Vol.18】資本主義の未来と日本経済｜みずほリサーチ＆テクノロジーズ, 2023年3月15日.  [YouTube](https://www.youtube.com/watch?v=7c3QkPDJp-I)
 * 【日銀総裁】元教え子が語る植田和男氏の素顔「実務経験と学者のキャリア両方持つ人」｜アベヒル, 2023年2月16日.  [YouTube](https://www.youtube.com/watch?v=xNrKANhRLtw)
