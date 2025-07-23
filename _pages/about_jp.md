@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年7月19日</span>
+<span style="color: red; ">最終更新日：2025年7月24日</span>
 
 ------ 
 
@@ -34,9 +34,12 @@ author_profile: true
 * 8月15日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
+* 7月31日（木）に[The Night School](https://econ.news/school/)最終回となる特別ウェビナーにモデレーターとして参加します。
+* 7月29日（火）の夜に「西田亮介×安田洋祐 日本ってどうなんですか会議」番外編（仮）としてYouTubeでライブ配信を行う予定です。
 * 7月28日（月）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月24日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第5回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-economics-5.peatix.com/)からお願いします。
 * 7月24日（木）に電通「[Do! Solutions Webinar](https://www.d-sol.jp/webinar-20250724)」に登壇します。【経済学者とクリエイティブディレクターが紐解く人的資本の活かしかた】をテーマに、小野総一さん（サステナビリティコンサルティング室）とお話しします。
+* 7月23日（水）に総務省「安心・安全なメタバースの実現に関する研究会」（第16回）に委員としてオンライン出席します。
 * 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月18日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【労働生産性でOECD38カ国中32位】](https://www.youtube.com/watch?v=awVWv7suu04)が公開されました。
 * 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
