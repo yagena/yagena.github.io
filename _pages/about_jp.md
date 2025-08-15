@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年7月24日</span>
+<span style="color: red; ">最終更新日：2025年8月15日</span>
 
 ------ 
 
@@ -31,9 +31,10 @@ author_profile: true
 
 <!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
 * 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月18（木）～19（金）に東京ミッドタウン八重洲で開催される「esse-sense Future Forum 2025 -知の共創と未来への道程-」に登壇者として参加します。プレスリリースは[こちら](https://prtimes.jp/main/html/rd/p/000000008.000086861.html)。
 * 9月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 9月5日（金）～7日（日）に[エンジン01 in 加賀温泉「カガくしよう。」](https://kaga-city.jp/enjin01_kaga-onsen)に参加し、以下の講座に登壇します。カッコ内は、一緒に登壇予定の方のお名前（敬称略）。
+* 9月5日（金）～7日（日）に石川県にて開催される[エンジン01 in 加賀温泉「カガくしよう。」](https://kaga-city.jp/enjin01_kaga-onsen)に参加し、以下の講座に登壇します。カッコ内は、一緒に登壇予定の方のお名前（敬称略）。
   * 一般講座〈1限目〉 環日本海でやっていこう！～平和と経済協力の可能性を探る（高野孟、鈴木久泰）
   * 一般講座〈2限目〉 前田家の三代目 ～加賀百万石を守った名君（安田洋祐、井沢元彦、手塚眞）
   * 一般講座〈3限目〉 日本のメディアを カガくする。（堀江貴文、和田秀樹、亀山敬司、佐久間宣行）
@@ -62,20 +63,12 @@ author_profile: true
 * 7月24日（木）に電通「[Do! Solutions Webinar](https://www.d-sol.jp/webinar-20250724)」に登壇します。【経済学者とクリエイティブディレクターが紐解く人的資本の活かしかた】をテーマに、小野総一さん（サステナビリティコンサルティング室）とお話しします。
 * 7月23日（水）に総務省「安心・安全なメタバースの実現に関する研究会」（第16回）に委員としてオンライン出席します。
 * 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月18日（金）に配信された「[ちょいムズ本、プロが惚れたこの一冊](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-3-2215-e35anb8)」（By 問い読）というポッドキャストに登壇しました。全3回の3回目で、取り上げた本は『22世紀の資本主義　やがてお金は絶滅する』（成田悠輔 著、文春新書、2025年）です。
 * 7月18日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【労働生産性でOECD38カ国中32位】](https://www.youtube.com/watch?v=awVWv7suu04)が公開されました。
 * 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月18日（金）に総務省「電波有効利用委員会」（第4回）に委員としてオンライン出席します。
 * 7月16日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【#外国人問題 が参院選の争点に】](https://www.youtube.com/watch?v=3uBBhI1j25U)が公開されました。
 * 7月16日（水）に総務省「価額競争の実施方法に関する検討作業班」（第1回）に委員としてオンライン出席します。
-* 7月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月13日（日）に京都「未来庵」で開催された[esse-sense](https://esse-sense.com/)役員会に顧問として出席します。
-* 7月12日(土)	に上智大学「知のエグゼクティブサロン」（第4回）にメンバー（学識有識者）として参加します。テーマは「国家／政治／社会」です。
-* 7月11日（金）に配信された「[ちょいムズ本、プロが惚れたこの一冊](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-2-plurality14-e353h8d)」（By 問い読）というポッドキャストに登壇しました。全3回の2回目で、取り上げた本は『PLURALITY　対立を創造に変える、協働テクノロジーと民主主義の未来』（オードリー・タン, グレン・ワイル 著、ライツ社、2025年）です。
-* 7月9日（水）、10日（木）に開催される「[第68回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
-* 7月6日（土）に開催される日本ソーシャルデータサイエンス学会10周年記念シンポジウム（[リンク](https://www.jsdss.org/event/1338/)）に講演者としてオンライン登壇します。テーマは「「正直なデータ」を集めるには？　ゲーム理論が変える調査の仕組み」の予定です。
-* 7月4日（金）に配信された「[ちょいムズ本、プロが惚れたこの一冊](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-1-weird13-e353hn5)」（By 問い読）というポッドキャストに登壇しました。全3回の1回目で、取り上げた本は『WEIRD「現代人」の奇妙な心理』（ジョセフ・ヘンリック 著、白揚社、2023年）です。
-* 7月2日（水）に2025年日本民間放送連盟賞【報道番組部門】近畿地区審査会に審査委員として参加しました。	
-* 7月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
  <!-- 消したい内容 -->
 
 ### 重要なお知らせ 
