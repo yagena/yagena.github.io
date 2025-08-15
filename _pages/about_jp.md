@@ -30,8 +30,20 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 <!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
-* 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同執筆者として参加します。発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
-  * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
+* 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 9月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月5日（金）～7日（日）に[エンジン01 in 加賀温泉「カガくしよう。」](https://kaga-city.jp/enjin01_kaga-onsen)に参加し、以下の講座に登壇します。カッコ内は、一緒に登壇予定の方のお名前（敬称略）。
+  * 一般講座〈1限目〉 環日本海でやっていこう！～平和と経済協力の可能性を探る（高野孟、鈴木久泰）
+  * 一般講座〈2限目〉 前田家の三代目 ～加賀百万石を守った名君（安田洋祐、井沢元彦、手塚眞）
+  * 一般講座〈3限目〉 日本のメディアを カガくする。（堀江貴文、和田秀樹、亀山敬司、佐久間宣行）
+  * 一般講座〈4限目〉 外国人の労働者とのより良い共生を考える（漆紫穂子、ロドリグ・マイヨール、エナンディオ・D.アンジャヤ）
+  * 夜楽〈やがく〉：居酒屋 安平（竹山聖、浅葉克己、沢村澄子）
+  * まちなか講座：加賀フルーツランド（夏野剛、辰巳琢郎、福井康之、丸山充雄）
+* 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同研究者として参加します。僕たちが発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
+  * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency (with Takako Fujiwara-Greve) / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
   * 8月19日（火）： Tour Assignment Problems: A Theory of Two-sided Matching with Cancellation / [Matching III](https://virtual.oxfordabstracts.com/event/73643/session/165405) / Toshiji Kawagoe
   * 8月22日（金）： Robust Exchange / [Matching IV](https://virtual.oxfordabstracts.com/event/73643/session/165437) / Yuichiro Kamada
 * 8月15日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
