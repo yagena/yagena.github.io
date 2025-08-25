@@ -43,6 +43,7 @@ author_profile: true
   * まちなか講座：加賀フルーツランド（夏野剛、辰巳琢郎、福井康之、丸山充雄）
 * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 8月25日（月）の読売新聞（朝刊）に「私の3編」が掲載されました。
 * 8月22日（金）発売の『[プレジデント 9/12号](https://presidentstore.jp/category/MAGAZINE/012518.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第12回）が掲載されます。テーマは「世界一の自動車メーカーがあるのになぜ日本人の生産性は韓国より低いのか」です。
 * 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同研究者として参加します。僕たちが発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
   * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency (with Takako Fujiwara-Greve) / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
@@ -54,24 +55,7 @@ author_profile: true
 * 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
 * 8月7日（水）に小樽で開催される[SWET](https://sites.google.com/view/swetotaruhokudai/swet2025)の「マーケットデザイン」に参加します。
-* 7月31日（木）に[The Night School](https://econ.news/school/)最終回となる特別ウェビナーにモデレーターとして参加します。
-* 7月29日（火）の夜に「西田亮介×安田洋祐 日本ってどうなんですか会議」番外編（仮）として【YouTube生放送】参政躍進、自民惨敗の参院選を総括／西田亮介・安田洋祐が徹底討論 #プレジデント公式チャンネル『エモさと報道』刊行記念ライブを行います。YouTubeのリンクは[こちら](https://www.youtube.com/watch?v=uLgidmkC3Xs)です。
-* 7月29日（火）に慶應義塾大学で開催された[エコノミクスデザイン社](https://econ.news/)の株主総会に参加しました。
-* 7月28日（月）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月28日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 7月27日（日）公開の朝日新聞電子版「[デジタル分野の「脱米国」「我々は置いてけぼりなのか」欧州テックの焦燥](https://www.asahi.com/articles/DA3S16268484.html)」にインタビューの一部が掲載されました。
-* 7月25日（金）にNTT西日本「メディア融合研究会」（第4回）に委員として出席します。
-* 7月25日（金）発売の『[プレジデント 8/15号](https://presidentstore.jp/category/MAGAZINE01/012516.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第11回）が掲載されます。テーマは「「5キロ2000円」に意味はある？ 小泉農水相の切り札「備蓄米放出」の功罪」です。
-* 7月24日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第5回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-economics-5.peatix.com/)からお願いします。
-* 7月24日（木）に電通「[Do! Solutions Webinar](https://www.d-sol.jp/webinar-20250724)」に登壇します。【経済学者とクリエイティブディレクターが紐解く人的資本の活かしかた】をテーマに、小野総一さん（サステナビリティコンサルティング室）とお話しします。
-* 7月23日（水）に総務省「安心・安全なメタバースの実現に関する研究会」（第16回）に委員としてオンライン出席します。
-* 7月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月18日（金）に配信された「[ちょいムズ本、プロが惚れたこの一冊](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-3-2215-e35anb8)」（By 問い読）というポッドキャストに登壇しました。全3回の3回目で、取り上げた本は『22世紀の資本主義　やがてお金は絶滅する』（成田悠輔 著、文春新書、2025年）です。
-* 7月18日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【労働生産性でOECD38カ国中32位】](https://www.youtube.com/watch?v=awVWv7suu04)が公開されました。
-* 7月18日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 7月18日（金）に総務省「電波有効利用委員会」（第4回）に委員としてオンライン出席します。
-* 7月16日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【#外国人問題 が参院選の争点に】](https://www.youtube.com/watch?v=3uBBhI1j25U)が公開されました。
-* 7月16日（水）に総務省「価額競争の実施方法に関する検討作業班」（第1回）に委員としてオンライン出席します。
+
  <!-- 消したい内容 -->
 
 ### 重要なお知らせ 
@@ -310,6 +294,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 関空のウニ丼の価格がとんでもない, 2025年8月19日.  [YouTube](https://www.youtube.com/watch?v=R90LczLyhOA)
+* いい加減な指標にダマされるな！, 2025年8月15日.  [YouTube](https://www.youtube.com/watch?v=bXrGiTiEARs)
 * 労働生産性でOECD38カ国中32位, 2025年7月18日.  [YouTube](https://www.youtube.com/watch?v=awVWv7suu04)
 * 外国人問題が参院選の争点に, 2025年7月16日.  [YouTube](https://www.youtube.com/watch?v=3uBBhI1j25U)
 * 物価高への根本的な対策は減税, 2025年6月28日.  [YouTube](https://www.youtube.com/watch?v=wwUZ_xxei04)
