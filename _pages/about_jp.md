@@ -43,10 +43,13 @@ author_profile: true
   * まちなか講座：加賀フルーツランド（夏野剛、辰巳琢郎、福井康之、丸山充雄）
 * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 8月22日（金）発売の『[プレジデント 9/12号](https://presidentstore.jp/category/MAGAZINE/012518.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第12回）が掲載されます。テーマは「世界一の自動車メーカーがあるのになぜ日本人の生産性は韓国より低いのか」です。
 * 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同研究者として参加します。僕たちが発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
   * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency (with Takako Fujiwara-Greve) / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
   * 8月19日（火）： Tour Assignment Problems: A Theory of Two-sided Matching with Cancellation / [Matching III](https://virtual.oxfordabstracts.com/event/73643/session/165405) / Toshiji Kawagoe
   * 8月22日（金）： Robust Exchange / [Matching IV](https://virtual.oxfordabstracts.com/event/73643/session/165437) / Yuichiro Kamada
+* 8月19日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【関空のウニ丼の価格がとんでもない】](https://www.youtube.com/watch?v=R90LczLyhOA)が公開されました。
+* 8月15日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【いい加減な指標にダマされるな！】](https://www.youtube.com/watch?v=bXrGiTiEARs)が公開されました。
 * 8月15日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
