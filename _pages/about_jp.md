@@ -296,6 +296,7 @@ author_profile: true
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
 * 関空のウニ丼の価格がとんでもない, 2025年8月19日.  [YouTube](https://www.youtube.com/watch?v=R90LczLyhOA)
 * いい加減な指標にダマされるな！, 2025年8月15日.  [YouTube](https://www.youtube.com/watch?v=bXrGiTiEARs)
+* 【YouTube生放送（『エモさと報道』刊行記念ライブ）】参政躍進、自民惨敗の参院選を総括／西田亮介・安田洋祐が徹底討論, 2025年7月29日.  [YouTube](https://www.youtube.com/watch?v=uLgidmkC3Xs)
 * 労働生産性でOECD38カ国中32位, 2025年7月18日.  [YouTube](https://www.youtube.com/watch?v=awVWv7suu04)
 * 外国人問題が参院選の争点に, 2025年7月16日.  [YouTube](https://www.youtube.com/watch?v=3uBBhI1j25U)
 * 物価高への根本的な対策は減税, 2025年6月28日.  [YouTube](https://www.youtube.com/watch?v=wwUZ_xxei04)
