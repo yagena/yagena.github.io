@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年8月25日</span>
+<span style="color: red; ">最終更新日：2025年8月28日</span>
 
 ------ 
 
@@ -41,6 +41,9 @@ author_profile: true
   * 一般講座〈4限目〉 外国人の労働者とのより良い共生を考える（漆紫穂子、ロドリグ・マイヨール、エナンディオ・D.アンジャヤ）
   * 夜楽〈やがく〉：居酒屋 安平（竹山聖、浅葉克己、沢村澄子）
   * まちなか講座：加賀フルーツランド（夏野剛、辰巳琢郎、福井康之、丸山充雄）
+* 8月28日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 8月28日（木）に総務省「電波有効利用委員会」（第5回）に委員としてオンライン出席します。
+* 8月27日（水）にグランフロント大阪北館２階のSpringXにてナレッジサロン「対流ポット」にマスターとして登壇します。
 * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 8月25日（月）の読売新聞（朝刊）に「私の3編」が掲載されました。
