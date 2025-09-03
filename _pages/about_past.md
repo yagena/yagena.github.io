@@ -9,6 +9,8 @@ author_profile: true
 {% include base_path %}
 
 ### 重要なお知らせ
+* 2024/5 --- 6月14日に日本実業出版社から『[日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』が出版されます。社会学者で同世代を代表する論客でもある西田亮介さんと日本の課題について様々な視点から語りました！ぜひお手に取っていただけると嬉しいです。
+* 2024/4 --- 「[Folk Theorem under Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)」（Carmen Bevia氏、Luis Corchón氏との共著）が学術論文誌**Journal of Mathematical Economics**に採択されました！
 * 2023/11 --- 河出新書から『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』が出版されました。第2章「経済学者と「戦略」を遊ぶ『ナショナル エコノミー』経営者になりきって経済のしくみを実感」を執筆しています。中高同級生の與那覇潤氏とボードゲームで対戦しながら、戦略的な駆け引きや経済・ビジネスへの示唆について考察しています。他の執筆陣も非常に豪華です。
 * 2023/10 --- ビジネス映像メディアPIVOTの新番組【EXTREME ECONOMICS】にナビゲーターとしてレギュラー出演します。記念すべき初回動画「[経済学はビジネスに役立つのか？〈前編〉](https://www.youtube.com/watch?v=umhIcGxpnl8)」は10月18日（水）に公開されました。今後、だいたい週に1回のペースで更新予定です。ぜひお楽しみに！
 * 2023/9 --- 顧問を務める[株式会社エッセンス](https://esse-sense.com/)が、継続的な研究資金基盤と資金提供者ネットワークを形成する月額パトロンサービス「esse-sense」の提供を9月21日に開始しました！（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000004.000086861.html)） 支援対象者として私も参加しています（[ページ](https://esse-sense.com/researchers/51/home)）。みなさまからの温かいサポートをお待ちしておりますm(__)m
@@ -49,6 +51,25 @@ author_profile: true
 
 ------ 
 ### 2025年
+* 8月28日（木）に信託協会「信託経済研究会」（第4回）に委員としてオンライン出席します。
+* 8月28日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 8月28日（木）に総務省「電波有効利用委員会」（第5回）に委員としてオンライン出席します。
+* 8月27日（水）にグランフロント大阪北館２階のSpringXにてナレッジサロン「対流ポット」にマスターとして登壇します。
+* 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 8月25日（月）の読売新聞（朝刊）に「私の3編」が掲載されました。
+* 8月22日（金）発売の『[プレジデント 9/12号](https://presidentstore.jp/category/MAGAZINE/012518.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第12回）が掲載されます。テーマは「世界一の自動車メーカーがあるのになぜ日本人の生産性は韓国より低いのか」です。
+* 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同研究者として参加します。僕たちが発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
+  * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency (with Takako Fujiwara-Greve) / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
+  * 8月19日（火）： Tour Assignment Problems: A Theory of Two-sided Matching with Cancellation / [Matching III](https://virtual.oxfordabstracts.com/event/73643/session/165405) / Toshiji Kawagoe
+  * 8月22日（金）： Robust Exchange / [Matching IV](https://virtual.oxfordabstracts.com/event/73643/session/165437) / Yuichiro Kamada
+* 8月19日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【関空のウニ丼の価格がとんでもない】](https://www.youtube.com/watch?v=R90LczLyhOA)が公開されました。
+* 8月15日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【いい加減な指標にダマされるな！】](https://www.youtube.com/watch?v=bXrGiTiEARs)が公開されました。
+* 8月15日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
+* 8月7日（水）に小樽で開催される[SWET](https://sites.google.com/view/swetotaruhokudai/swet2025)の「マーケットデザイン」に参加します。
+* 8月6日（火）に総務省「価額競争の実施方法に関する検討作業班」（第2回）に委員としてオンライン出席します。
 * 7月31日（木）に[The Night School](https://econ.news/school/)最終回となる特別ウェビナーにモデレーターとして参加します。
 * 7月29日（火）の夜に「西田亮介×安田洋祐 日本ってどうなんですか会議」番外編（仮）として【YouTube生放送】参政躍進、自民惨敗の参院選を総括／西田亮介・安田洋祐が徹底討論 #プレジデント公式チャンネル『エモさと報道』刊行記念ライブを行います。YouTubeのリンクは[こちら](https://www.youtube.com/watch?v=uLgidmkC3Xs)です。
 * 7月29日（火）に慶應義塾大学で開催された[エコノミクスデザイン社](https://econ.news/)の株主総会に参加しました。
