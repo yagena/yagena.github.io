@@ -45,25 +45,6 @@ author_profile: true
 * 9月4日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月3日（水）に総務省「価額競争の実施方法に関する検討作業班」（第3回）に委員としてオンライン出席します。
 * 9月1日（月）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
-* 8月28日（木）に信託協会「信託経済研究会」（第4回）に委員としてオンライン出席します。
-* 8月28日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
-* 8月28日（木）に総務省「電波有効利用委員会」（第5回）に委員としてオンライン出席します。
-* 8月27日（水）にグランフロント大阪北館２階のSpringXにてナレッジサロン「対流ポット」にマスターとして登壇します。
-* 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月25日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 8月25日（月）の読売新聞（朝刊）に「私の3編」が掲載されました。
-* 8月22日（金）発売の『[プレジデント 9/12号](https://presidentstore.jp/category/MAGAZINE/012518.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第12回）が掲載されます。テーマは「世界一の自動車メーカーがあるのになぜ日本人の生産性は韓国より低いのか」です。
-* 8月18日（月）～22日（金）にソウルで開催される「[2025 World Congress of the Econometric Society](https://www.eswc2025.org/)」に報告者・共同研究者として参加します。僕たちが発表する論文 / セッション / 報告者は以下です（時間はいずれも午後の14:15～16:15）。5年に一度の【経済学祭】に参加される同業者のみなさん、ぜひ現地で盛り上がりましょう！
-  * 8月18日（月）： Inspecting Cartels over Time: with and without Leniency (with Takako Fujiwara-Greve) / [Dynamic Models in Industrial Organizations](https://virtual.oxfordabstracts.com/event/73643/session/165486) / Yosuke Yasuda
-  * 8月19日（火）： Tour Assignment Problems: A Theory of Two-sided Matching with Cancellation / [Matching III](https://virtual.oxfordabstracts.com/event/73643/session/165405) / Toshiji Kawagoe
-  * 8月22日（金）： Robust Exchange / [Matching IV](https://virtual.oxfordabstracts.com/event/73643/session/165437) / Yuichiro Kamada
-* 8月19日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【関空のウニ丼の価格がとんでもない】](https://www.youtube.com/watch?v=R90LczLyhOA)が公開されました。
-* 8月15日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【いい加減な指標にダマされるな！】](https://www.youtube.com/watch?v=bXrGiTiEARs)が公開されました。
-* 8月15日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
-* 8月7日（水）に小樽で開催される[SWET](https://sites.google.com/view/swetotaruhokudai/swet2025)の「マーケットデザイン」に参加します。
-* 8月6日（火）に総務省「価額競争の実施方法に関する検討作業班」（第2回）に委員としてオンライン出席します。
 
  <!-- 消したい内容 -->
 
@@ -73,8 +54,6 @@ author_profile: true
 * 2024/9 --- エコノミクスデザインの研究成果として、「増税」に関する2つのスライドを公開しました。ぜひご参考頂ければ幸いです。
   * [ステルス増税の見える化：消費税換算で測る経済的インパクト](https://www.docswell.com/s/2322473805/Z3GG9J-2024-09-09-124116)
   * [人々はどのように増税を受け入れているのか？ 増税の納得感に関するアンケート調査およびコンジョイント分析](https://www.docswell.com/s/2322473805/53GGQ2-2024-09-18-153424)
-* 2024/5 --- 6月14日に日本実業出版社から『[日本の未来、本当に大丈夫なんですか会議　経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』が出版されます。社会学者で同世代を代表する論客でもある西田亮介さんと日本の課題について様々な視点から語りました！ぜひお手に取っていただけると嬉しいです。
-* 2024/4 --- 「[Folk Theorem under Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)」（Carmen Bevia氏、Luis Corchón氏との共著）が学術論文誌**Journal of Mathematical Economics**に採択されました！
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
