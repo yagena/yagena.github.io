@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年8月28日</span>
+<span style="color: red; ">最終更新日：2025年9月3日</span>
 
 ------ 
 
@@ -30,17 +30,21 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 <!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
+* 9月29日（水）に総務省「価額競争の実施方法に関する検討作業班」（第4回）に委員として出席します。
 * 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月18（木）～19（金）に東京ミッドタウン八重洲で開催される「esse-sense Future Forum 2025 -知の共創と未来への道程-」に登壇者として参加します。プレスリリースは[こちら](https://prtimes.jp/main/html/rd/p/000000008.000086861.html)。
 * 9月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月5日（金）～7日（日）に石川県にて開催される[エンジン01 in 加賀温泉「カガくしよう。」](https://kaga-city.jp/enjin01_kaga-onsen)に参加し、以下の講座に登壇します。カッコ内は、一緒に登壇予定の方のお名前（敬称略）。
   * 一般講座〈1限目〉 環日本海でやっていこう！～平和と経済協力の可能性を探る（高野孟、鈴木久泰）
-  * 一般講座〈2限目〉 前田家の三代目 ～加賀百万石を守った名君（安田洋祐、井沢元彦、手塚眞）
+  * 一般講座〈2限目〉 前田家の三代目 ～加賀百万石を守った名君（井沢元彦、手塚眞）
   * 一般講座〈3限目〉 日本のメディアを カガくする。（堀江貴文、和田秀樹、亀山敬司、佐久間宣行）
   * 一般講座〈4限目〉 外国人の労働者とのより良い共生を考える（漆紫穂子、ロドリグ・マイヨール、エナンディオ・D.アンジャヤ）
   * 夜楽〈やがく〉：居酒屋 安平（竹山聖、浅葉克己、沢村澄子）
   * まちなか講座：加賀フルーツランド（夏野剛、辰巳琢郎、福井康之、丸山充雄）
+* 9月4日（木）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 9月3日（水）に総務省「価額競争の実施方法に関する検討作業班」（第3回）に委員としてオンライン出席します。
+* 9月1日（月）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 8月28日（木）に信託協会「信託経済研究会」（第4回）に委員としてオンライン出席します。
 * 8月28日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 8月28日（木）に総務省「電波有効利用委員会」（第5回）に委員としてオンライン出席します。
@@ -59,6 +63,7 @@ author_profile: true
 * 8月12日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月12日（火）に大阪取引所で開催される「先生のための『夏休み経済教室』」に講師として登壇します。テーマは「教育に活かす『マッチング理論』」です。詳細やお申込み方法などは[こちら](https://money-bu-jpx.com/news/article059940/)をご確認ください。
 * 8月7日（水）に小樽で開催される[SWET](https://sites.google.com/view/swetotaruhokudai/swet2025)の「マーケットデザイン」に参加します。
+* 8月6日（火）に総務省「価額競争の実施方法に関する検討作業班」（第2回）に委員としてオンライン出席します。
 
  <!-- 消したい内容 -->
 
