@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年9月3日</span>
+<span style="color: red; ">最終更新日：2025年9月11日</span>
 
 ------ 
 
@@ -32,8 +32,10 @@ author_profile: true
 <!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
 * 9月29日（水）に総務省「価額競争の実施方法に関する検討作業班」（第4回）に委員として出席します。
 * 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 9月18（木）～19（金）に東京ミッドタウン八重洲で開催される「esse-sense Future Forum 2025 -知の共創と未来への道程-」に登壇者として参加します。プレスリリースは[こちら](https://prtimes.jp/main/html/rd/p/000000008.000086861.html)。僕は以下のセッションにモデレーターとして登壇します。カッコ内は、一緒に登壇予定のパネリストの方のお名前（敬称略）。
-  * 
+* 9月18（木）～19（金）に東京ミッドタウン八重洲で開催される「[esse-sense Future Forum 2025 -知の共創と未来への道程-](https://esse-sense.com/forum2025)」に登壇者として参加します。僕は以下のセッションにモデレーターとして登壇します。カッコ内は、一緒に登壇予定のパネリストの方のお名前（敬称略）になります。
+  * 組織のwell-beingを実現する科学を問う（篠田真貴子、仲隆介、石津智大）
+  * 書とリベラルアーツ（堀内勉、篠田真貴子、仲野徹）
+  * 研究者と直接繋がれる未来ー現代社会におけるパトロンの再発明ー（仲隆介、石津智大、大黒達也、小野悠、久保田しおん）
 * 9月17日（水）発売のジョセフ・ヒース『[資本主義にとって倫理とは何か](https://www.keio-up.co.jp/np/isbn/9784766430394/)』（慶應義塾大学出版会）に次の推薦文を寄稿しました。
   * 資本主義の本質に切り込み、ビジネス倫理の新地図を描く骨太の力作
 * 9月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
