@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年9月11日</span>
+<span style="color: red; ">最終更新日：2025年9月13日</span>
 
 ------ 
 
@@ -30,7 +30,9 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 <!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
+* 10月4日（土）、5日（日）に伊豆で開催される「[RONDAN FES 2025 in IZU](https://rondanfes.jp/)」に出演予定です。
 * 9月29日（水）に総務省「価額競争の実施方法に関する検討作業班」（第4回）に委員として出席します。
+* 9月27日(土) に上智大学「知のエグゼクティブサロン」（第5回）にメンバー（学識有識者）として参加します。テーマは「歴史/文明/人類」です。
 * 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月18（木）～19（金）に東京ミッドタウン八重洲で開催される「[esse-sense Future Forum 2025 -知の共創と未来への道程-](https://esse-sense.com/forum2025)」に登壇者として参加します。僕は以下のセッションにモデレーターとして登壇します。カッコ内は、一緒に登壇予定のパネリストの方のお名前（敬称略）になります。
   * 組織のwell-beingを実現する科学を問う（篠田真貴子、仲隆介、石津智大）
@@ -39,6 +41,7 @@ author_profile: true
 * 9月17日（水）発売のジョセフ・ヒース『[資本主義にとって倫理とは何か](https://www.keio-up.co.jp/np/isbn/9784766430394/)』（慶應義塾大学出版会）に次の推薦文を寄稿しました。
   * 資本主義の本質に切り込み、ビジネス倫理の新地図を描く骨太の力作
 * 9月12日（金）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 9月11日（木）にアミタホールディング主催「[羅針盤セミナー](https://www.amita-mirai-compass.com/)」第2回「時代の羅針盤」に、佐藤優氏、渋澤健氏、熊野英介氏と一緒に登壇します。
 * 9月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月8日（月）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第1回・オンライン開催）に委員として出席します。
 * 9月5日（金）～7日（日）に石川県にて開催される[エンジン01 in 加賀温泉「カガくしよう。」](https://kaga-city.jp/enjin01_kaga-onsen)に参加し、以下の講座に登壇します。カッコ内は、一緒に登壇予定の方のお名前（敬称略）。
