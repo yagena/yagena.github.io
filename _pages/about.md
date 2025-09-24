@@ -36,6 +36,8 @@ Below is the link to the courses that I have taught. On each page, you can downl
   * Ministry of Finance, 2012 -- ??. 
 
 ## What's New?
+* **September 2025** -- I just uploaded the following new paper on market design with [Yuichiro Kamada](http://ykamada.com/) (UC Berkeley).
+  * [Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)
 * **April 2024** -- My paper "[Folk Theorem under Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)" (co-authored with [Carmen Bevia](http://fae.ua.es/FAEX/bevia-baezacarmen/) and [Luis Corchon](https://www.eco.uc3m.es/english/staff/cv/lcorchon.html)) got accepted by the **Journal of Mathematical Economics**.  <span style="color: blue;">New!</span>
 * **February 2023** -- My paper "[Moral Hazard and Subjective Evaluation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)" (co-authored with [Shingo Ishiguro](https://sites.google.com/view/ishiguro/)) got accepted by the **Journal of Economic Theory**. 
 * **December 2022** -- My paper "[Inspecting Cartels over Time: With and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)" (co-authored with [Takako Fujiwara-Greve](https://web.econ.keio.ac.jp/staff/takakofg/takakohp_e.html)) received **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022](https://apios.org.au/about/) conference.  
