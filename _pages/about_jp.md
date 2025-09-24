@@ -20,7 +20,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年9月22日</span>
+<span style="color: red; ">最終更新日：2025年9月24日</span>
 
 ------ 
 
@@ -29,11 +29,24 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
-<!-- * 8月26日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。 -->
+<!-- * 12月3日（水）に財務省「人材マネジメントワークショップ」（第3回）に委員として出席します。 -->
+<!-- * 11月13日（木）に財務省「人材マネジメントワークショップ」（第2回）に委員として出席します。 -->
+<!-- * 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。 -->
+<!-- * 11月6日（木）に財務省「日本の所得分配・再分配に関する研究会」（第2回）に委員として出席します。 -->
+* 10月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月24日（金）に慶應義塾大学経済学部にて対面開催される「[ミクロ経済学ワークショップ](https://ies.keio.ac.jp/workshops/microeconomics/)」で研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
+* 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
+* 10月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月10日（金）に財務省「日本の所得分配・再分配に関する研究会」（第1回）に委員として出席します。
 * 10月8日（水）に宇野常寛さんが主宰する「[PLANETS SCHOOL](https://community.camp-fire.jp/projects/65828/activities/746716)」にオンライン登壇します。テーマは「コモンズとゲーム理論　『公共財』を問い直す」です。
 * 10月4日（土）、5日（日）に伊豆で開催される「[RONDAN FES 2025 in IZU](https://rondanfes.jp/)」に出演予定です。
-* 9月29日（水）に総務省「価額競争の実施方法に関する検討作業班」（第4回）に委員として出席します。
-* 9月27日(土) に上智大学「知のエグゼクティブサロン」（第5回）にメンバー（学識有識者）として参加します。テーマは「歴史/文明/人類」です。
+* 10月2日（木）にNTTドコモ「テクノロジー活用によるビジネス拡大に向けた研究会」（第1回）に委員としてオンライン出席します。
+* 10月1日（水）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 9月30日（火）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 9月29日（月）に総務省「価額競争の実施方法に関する検討作業班」（第4回）に委員として出席します。
+<!-- * 9月27日(土) に上智大学「知のエグゼクティブサロン」（第5回）にメンバー（学識有識者）として参加します。テーマは「歴史/文明/人類」です。 -->
+* 9月24日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 9月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月22日（月）に日経ビジネススクール「[行動経済学で拓く新たなビジネスチャンス](https://school.nikkei.co.jp/special/iser/)」に講師としてオンライン登壇します。 テーマは第3回「戦略思考×行動変容で勝つビジネス」です。
 * 9月19日（金）に朝日新聞デジタル版にて「[イノベーションは人から生まれる 50周年の日本イーライリリーを動かす、変革の企業文化と社員の情熱 シモーネ・トムセン社長、経済学者 安田洋祐さんと語る](https://www.asahi.com/ads/tu/15974839)」が公開されました。
