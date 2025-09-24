@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research interests are Game Theory, Market Design, Industrial Organization, and Microeconomic Theory. I have published papers in top economics journals, including **American Economic Review**, **AEJ: Microeconomics**, **Journal of Economic Theory**, **Journal of Mathematical Economics**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS**, **Artificial Intelligence**, and **Scientific Reports**.
+My research interests are Game Theory, Market Design, Industrial Organization, and Microeconomic Theory. I have published papers in top economics journals, including **American Economic Review**, **AEJ: Microeconomics**, **Journal of Economic Theory**, and **RAND Journal of Economics**, as well as leading journals in other fields such as **AAMAS** and **Artificial Intelligence**.
 
 ------
 
@@ -31,9 +31,9 @@ June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Robust Exchange (with Yuichiro Kamada)  *Coming Soon!*
+1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))
 2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)
-3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/) 
+3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/) 
   * Old version: Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
 2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
