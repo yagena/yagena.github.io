@@ -57,8 +57,13 @@ Below is the link to the courses that I have taught. On each page, you can downl
   1. [Matching with Subjective and Objective Evaluations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)
   2. [Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)
 
-## Conference Talks since 2022 (by me or co-authors)
+## Conference Talks since 2022 
+* **2025**
+* August 18-22 --- [2025 World Congress of the Econometric Society](https://www.eswc2025.org/), Seoul, South Korea.
+* June 18-20 --- [The 14th UECE Lisbon Meeting](https://www.lisbonmeetings.com/), Lisbon, Portugal.
 * **2024**
+* December 7 --- [15th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/), Hong Kong, China.
+* October 17-18 --- [The Greater Bay Area Market Design Workshop 2024](https://inaciobo.com/workshop2025/program2024.pdf), Macau, China.
 * August 26-30 --- [EEA-ESEM 2024](https://www.eea-esem-congresses.org/), Rotterdam, Netherlands.
 * August 2-4 --- [2024 Asia Meeting of the Econometric Society, East & Southeast Asia](https://ames2024.sciencesconf.org/), Ho Chi Minh City, Vietnam 
 * June 5-7 --- [The 13th UECE Lisbon Meeting](https://www.lisbonmeetings.com/), Lisbon, Portugal. 
@@ -67,15 +72,11 @@ Below is the link to the courses that I have taught. On each page, you can downl
 * August 28-September 1 --- [EEA-ESEM 2023](https://eea-esem-2023.org/), Barcelona, Spain. 
 * May 31-June 2 --- The 12th UECE Lisbon Meeting, Lisbon, Portugal. 
 * **2022** 
-* December 9-11 --- [APIOC 2022](https://apios.org.au/about/), Sydney, Australia.　(by co-author)
 * August 25-27 --- [EARIE 2022](https://earie2022.univie.ac.at/home/), Vienna, Austria.
 * August 22-26 --- [EEA-ESEM 2022](https://www.eea-esem-congresses.org/), Milano, Italy. 
-* August 8-10 --- [2022 Asian Meeting of the Econometric Society in East and South-East Asia](https://ies.keio.ac.jp/ames2022/), Tokyo, Japan. (by co-author)
 * July 8-9 --- [15th Annual Meeting of the Portuguese Economic Journal](https://pej2022.weebly.com/), Azores, Portugal. 
-* June 22-24 --- [Asian Meeting of the Econometric Society in China 2022](https://ames2022.koushare.com/pcIndex), Virtual, China. (by co-author)
 * June 9-11 --- [The 12th Conference on Economic Design](https://sites.google.com/view/economicdesign22), Padova, Italy. 
-* May 28-29 --- [2022 JEA Spring Meeting](https://confit.atlas.jp/guide/event/jea2022s/top), Virtual, Japan. (by co-author) 
 
 ------
 
-<span style="color: red; ">Last update: June 2024</span>
+<span style="color: red; ">Last update: September 2025</span>
