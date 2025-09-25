@@ -16,7 +16,7 @@ My research interests are Game Theory, Market Design, Industrial Organization, a
 ## Peer-Reviewed Journal Publications
 1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, Vol.112,
 June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
-2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  <span style="color: blue;">New!</span>
+2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)  
 3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 5. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
@@ -31,9 +31,9 @@ June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))
-2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)
-3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/) 
+1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))  <span style="color: blue;">New!</span>
+2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)  <span style="color: blue;">New!</span>
+3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)  <span style="color: blue;">New!</span>
   * Old version: Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
 2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
