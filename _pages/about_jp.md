@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-### 経済学者 ｜ 政策研究大学院大学 教授
+### 経済学者 ｜ [政策研究大学院大学](https://www.grips.ac.jp/) 教授
 
 1980年東京生まれ。02年東京大学卒業。最優秀卒論文に与えられる大内兵衛賞を受賞し経済学部卒業生総代となる。米国プリンストン大学へ留学、07年にPh.D.（経済学）を取得。政策研究大学院大学助教授、大阪大学准教授、教授を経て、25年10月より現職。専門はゲーム理論およびマーケットデザイン。American Economic Reviewをはじめ、国際的な経済学術誌に論文を多数発表。政府の委員やテレビのコメンテーターとしても活動。読売テレビ「ミヤネ屋」、関西テレビ「newsランナー」、NHK「欲望の資本主義」などに出演。20年に「経済学のビジネス活用」を目指して株式会社エコノミクスデザインを共同創業。主な著書（共著）に『日本の未来、本当に大丈夫なんですか会議』（日本実業出版社, 2024年）、『そのビジネス課題、最新の経済学で「すでに解決」しています。』（日経BP, 2022年）など。
 
@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年9月26日</span>
+<span style="color: red; ">最終更新日：2025年10月1日</span>
 
 ------ 
 
