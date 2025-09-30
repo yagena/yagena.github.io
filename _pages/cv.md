@@ -14,12 +14,13 @@ author_profile: true
 
 ## Current Positions
 
-* **Professor**, Department of Economics, University of Osaka, 2022 July -- present.
+* **Professor**, National Graduate Institute for Policy Studies, 2025 October -- present.
 * Co-founder, [Economics Design Inc.](https://econ.news/), 2020 June -- present.
 
 
 ## Previous Positions
 
+* **Professor**, Department of Economics, University of Osaka, 2022 July -- 2025 September.
 * Visiting Researcher, ISEG, University of Lisbon, 2021 April -- 2022 August.
 * **Associate Professor**, Department of Economics, University of Osaka, 2014 April -- 2022 June.
 * **Assistant Professor**, National Graduate Institute for Policy Studies (GRIPS), 2007 -- 14.
