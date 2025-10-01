@@ -194,8 +194,12 @@ author_profile: true
 * [異次元緩和で財政規律「緩む」64%　経済学者の警戒強く](https://www.nikkei.com/article/DGXZQOCD1531K0V10C25A1000000/), 1月17日, 2025. 
 * [高校無償化、私立向け拡大「反対」70%　経済学者調査](https://www.nikkei.com/article/DGXZQOCD192JG0Z10C25A2000000/), 2月21日, 2025. 
 * [トランプ関税、日米のGDP「下げる」8割　経済学者調査](https://www.nikkei.com/article/DGXZQOCD181YR0Y5A310C2000000/), 3月21日, 2025. 
-* [消費税減税は「不適切」85%、インフレ止められず　経済学者調査](https://www.nikkei.com/article/DGXZQOCD1985C0Z10C25A5000000/), 5月23日, 2025. 
-* [コメの転作助成金「縮小を」60%　経済学者から輸入拡大論も](https://www.nikkei.com/article/DGXZQOCD185OX0Y5A610C2000000/), 6月20日, 2025. 
+* [消費税減税は「不適切」85%、インフレ止められず　経済学者調査](https://www.nikkei.com/article/DGXZQOCD1985C0Z10C25A5000000/), 5月24日, 2025. 
+* [コメの転作助成金「縮小を」60%　経済学者から輸入拡大論も](https://www.nikkei.com/article/DGXZQOCD185OX0Y5A610C2000000/), 6月20日, 2025.
+* [外国人の不動産購入規制、経済学者の見方割れる　データ不十分の声も](https://www.nikkei.com/article/DGXZQOCD293PM0Z20C25A7000000/), 7月31日, 2025.
+* [「在留外国人増加で財政改善」66%　経済学者、若年層の流入重視](https://www.nikkei.com/article/DGXZQOCD235MN0T20C25A7000000/), 7月31日, 2025.
+* [経済学者、物価高を警戒「26年度も2%超」45%　利上げ「適切」は3割](https://www.nikkei.com/article/DGXZQOCD256420V20C25A9000000/), 9月30日, 2025.
+* [給付付き税額控除「導入を」74%　経済学者、再分配・就労促進を期待](https://www.nikkei.com/article/DGXZQOCD248X40U5A920C2000000/), 9月30日, 2025. 
 
 ### プレジデント：日本ってどうなんですか会議（西田亮介さんとの対談記事）
 1. なぜ自民党の新総裁に「これで日本が変わる」という期待がないのか, 9月27日, 2024.
