@@ -42,6 +42,8 @@ author_profile: true
 * 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
 * 10月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【サナエノミクスでも株高は続く？】](https://www.youtube.com/watch?v=RlEIQPiFj54)が公開されました。
+* 10月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」[【なぜ高市勝利を予想できなかったのか】](https://www.youtube.com/watch?v=2WBG0yfp-Bo)が公開されました。
 * 10月10日（金）に財務省「日本の所得分配・再分配に関する研究会」（第1回）に委員として出席します。
 * 10月9日（木）に政策研究大学院大学「[ミクロ経済学のビジネス実践](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_business)」の初回講義を行います。
 * 10月8日（水）に宇野常寛さんが主宰する「[PLANETS SCHOOL](https://community.camp-fire.jp/projects/65828/activities/746716)」にオンライン登壇します。テーマは「コモンズとゲーム理論　『公共財』を問い直す」です。
