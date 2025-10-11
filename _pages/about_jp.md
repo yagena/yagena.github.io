@@ -309,6 +309,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* サナエノミクスでも株高は続く？, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=RlEIQPiFj54)
+* なぜ高市勝利を予想できなかったのか, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=2WBG0yfp-Bo)
 * 日本人の仕事はどう変わる？, 2025年9月30日.  [YouTube](https://www.youtube.com/watch?v=Df3QGsD51nk)
 * 衝撃！東大生の能力、AIで低下, 2025年9月29日.  [YouTube](https://www.youtube.com/watch?v=1rKHJixbepo)
 * 関空のウニ丼の価格がとんでもない, 2025年8月19日.  [YouTube](https://www.youtube.com/watch?v=R90LczLyhOA)
