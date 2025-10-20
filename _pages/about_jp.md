@@ -38,9 +38,9 @@ author_profile: true
 <!-- * 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。 -->
 
 * 11月18日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 11月24日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月10日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 11月6日（木）に財務省「日本の所得分配・再分配に関する研究会」（第2回）に委員として出席します。
+* 11月4日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 10月24日（金）に慶應義塾大学経済学部にて対面開催される「[ミクロ経済学ワークショップ](https://ies.keio.ac.jp/workshops/microeconomics/)」で研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 * 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
