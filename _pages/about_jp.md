@@ -41,6 +41,8 @@ author_profile: true
 * 10月24日（金）に慶應義塾大学経済学部にて対面開催される「[ミクロ経済学ワークショップ](https://ies.keio.ac.jp/workshops/microeconomics/)」で研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 * 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
 * 10月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月20日（月）発売の『週刊東洋経済｜10月25日号』に「Book Review『[GROWTH ｢脱｣でも｢親｣でもない新成長論](https://toyokeizai.net/articles/-/911774)』（ダニエル・サスキンド 著／上原裕美子 訳、みすず書房）」が掲載されました。
+* 10月17日（金）にゲスト出演したPIVOTの番組「PIVOT TALK BUSINESS」が公開されました。テーマは『[経済成長の条件 ノーベル経済学賞を徹底解説](https://pivotmedia.co.jp/movie/13522)』です。
 * 10月17日（金）に九州・アジア経営塾が主催する碧樹館プログラムに講師として登壇します。テーマは「戦略的思考とその実践」です。
 * 10月15日（水）に信託協会「信託経済研究会」（第5回）に委員としてオンライン出席します。
 * 10月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -353,6 +355,7 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+* 経済成長の条件 ノーベル経済学賞を徹底解説, PIVOT TALK BUSINESS, 2025年10月17日.  [PIVOT](https://pivotmedia.co.jp/movie/13522)  [YouTube](https://www.youtube.com/watch?v=dIzZNMS5w_s)
 * 資本主義と空気の価値〜市場・国家・社会的共通資本〜, 2025年3月25日.  [YouTube](https://www.youtube.com/watch?v=24fo9lMHRn4) 
 * エンジン01 in 和歌山有田 「経済日本沈没 どう救う？」　イク モハメッド／夏野剛／松本大／安田洋祐, 2024年12月11日.  [YouTube](https://www.youtube.com/watch?v=BmAswJIMUSM)
 * ハームリダクションと孤立しない社会の構築―アカデミズム×ジャーナリズムで社会を変える―, SlowNews, 2024年12月5日.  [YouTube](https://www.youtube.com/watch?v=ET2sg7TvwHo)
