@@ -88,7 +88,7 @@ author_profile: true
 ## パーソナル
 
 ### 簡易プロフィール
-経済学者。1980年生まれ。2002年東京大学経済学部卒業。2007年米国プリンストン大学でPh.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授を経て2022年7月から大阪大学大学院経済学研究科教授。専門はゲーム理論、マーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府委員活動、経済学のビジネス活用にも積極的に取り組んでいる。2020年に株式会社エコノミクスデザインを共同で創業。
+経済学者。1980年生まれ。2002年東京大学経済学部卒業。2007年米国プリンストン大学でPh.D.（経済学）取得。政策研究大学院大学助教授、大阪大学准教授・教授を経て2025年10月から政策研究大学院大学助教授。専門はゲーム理論、マーケットデザイン。学術研究の傍らマスメディアを通した情報発信、政府委員活動、経済学のビジネス活用にも積極的に取り組んでいる。2020年に株式会社エコノミクスデザインを共同で創業。
 
 ### 略歴
 * 1980年2月    　東京都に生まれる
@@ -124,6 +124,8 @@ author_profile: true
   * シノドス,　2009 -- 不明. 
 
 ### 非常勤講師など 
+* 財務省：財務総合政策研究所「理論研修」,　2011 -- 15, 26 -- （予定）.
+  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/advanced-microeconomics-lecture-slides)
 * ピーチコーポレーション：[Peach Women's Business School](https://www.peach-corporation.co.jp/peach-womens-business-school/), 2021 -- 現在. 
 * エコノミクスデザイン：[ナイトスクール](https://econ.news/night-school/), 2021 -- 現在. 
 * 九州・アジア経営塾（KAIL）：碧樹館プログラム, 2019 --- 現在. 
@@ -131,11 +133,9 @@ author_profile: true
 * 東京大学：近未来金融システム創造プログラム, 2017 -- 現在.
 * 神戸大学：夏期集中講義,　2015. 
   * [マッチング理論](https://sites.google.com/site/yosukeyasuda2/home/lectures/kobe2015_matching-theory)
-* 財務省：財務総合政策研究所「理論研修」,　2011 -- 15.
-  * [上級ミクロ経済学](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)  [SlideShare](https://www.slideshare.net/YosukeYasuda1/advanced-microeconomics-lecture-slides)
 * 政策研究大学院大学,　2014.
   * Advanced Microeconomic Theory I 
-  * Advanced Microeconomic Theory I 
+  * Advanced Microeconomic Theory II
   * Game Theory 
 * 早稲田大学オープンカレッジ,　2013.
   * [ゲーム理論とマーケットデザイン入門](https://sites.google.com/site/yosukeyasuda/jp/lectures/waseda2013_game)  SlideShare（[ゲーム理論](https://www.slideshare.net/YosukeYasuda1/ss-54868266) ｜ [マーケットデザイン](https://www.slideshare.net/YosukeYasuda1/ss-54868159)）
@@ -152,8 +152,8 @@ author_profile: true
 ## 出版物
 
 ### 英語論文（査読付き）
-1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, Vol.112, June 2024. [Link](https://www.sciencedirect.com/science/article/pii/S030440682400048X), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
-2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
+1. Folk Theorem under Bankruptcy (with Carmen Bevia and Luis Corchon), **Journal of Mathematical Economics**, Vol.112, June, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S030440682400048X), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
+2. Moral Hazard and Subjective Evaluation (with Shingo Ishiguro), **Journal of Economic Theory**, Vol.209, April, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0022053123000157), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839295)
 3. Oligopolistic Equilibrium and Financial Constraints (with Carmen Bevia and Luis Corchon), **RAND Journal of Economics**, Vol.51, Issue.1, pp.279-300, 2020. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1756-2171.12313), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1806055) 
 4. Bankruptcy is an Inevitable Fate of Repeated Investments with Leverage (with Momoka Nii, Takuya Okabe, Hiromu Ito, Satoru Moria, and Jin Yoshimura), **Scientific Reports**, Vol.9, #13745, 2019.  [Open Access](https://www.nature.com/articles/s41598-019-50237-6)
 5. Strategy-proof Matching with Regional Minimum and Maximum Quotas (with Masahiro Goto,  Atsushi Iwasaki, Yujiro Kawasaki, Ryoji Kurata, and Makoto Yokoo), **Artificial Intelligence**, Vol.235, pp.49-57, 2016.  [Open Access](https://www.sciencedirect.com/science/article/pii/S0004370216300133)
@@ -677,6 +677,8 @@ author_profile: true
 
 ### 政府系の委員活動
 * 現在所属している委員・メンバー
+  * 財務省：財務総合政策研究所「日本の所得分配・再分配に関する研究会」, 2025 -- 現在. 
+  * 財務省：財務総合政策研究所「人材マネジメントと組織開発に関するワークショップ」, 2025 -- 現在. 
   * 総務省：情報通信審議会「電波有効利用委員会」, 2025 -- 現在.
     * 総務省：電波有効利用委員会「価額競争の実施方法に関する検討作業班」, 2025 -- 現在.
   * 総務省：「安心・安全なメタバースの実現に関する研究会」, 2023 -- 現在.
