@@ -39,9 +39,12 @@ author_profile: true
 
 * 11月18日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月10日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 11月7日（金）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第6回・無料）をオンライン開催します。お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。
 * 11月6日（木）に財務省「日本の所得分配・再分配に関する研究会」（第2回）に委員として出席します。
 * 11月4日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月27日（月）に電通報にて「[『成長し続けるチーム』をつくるには 〜経済学・人間科学・AIで、生産性向上にどうつなげるか](https://dentsu-ho.com/people/9)」（越智道夫さん、神長伸幸さん、田中理絵さんとの座談会）が公開されました。
+* 10月27日（月）発売の『週刊東洋経済｜11月1日号』「News02　創造的破壊のプロセス解明　25年のノーベル経済学賞」（山本舞衣）にインタビュー内容が紹介されました。
 * 10月24日（金）に慶應義塾大学経済学部にて対面開催される「[ミクロ経済学ワークショップ](https://ies.keio.ac.jp/workshops/microeconomics/)」で研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 * 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
 * 10月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
