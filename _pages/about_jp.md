@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年11月4日</span>
+<span style="color: red; ">最終更新日：2025年11月11日</span>
 
 ------ 
 
@@ -66,6 +66,11 @@ author_profile: true
  <!-- 消したい内容 -->
 
 ### 重要なお知らせ 
+
+* 2025/11 --- エコノミクスデザインのウェブサイトにて、以下の3本の[ディスカッション・ペーパー](https://econ.news/papers/)を公開しました！
+  * 喫煙に起因するがんの予防が経済・財政に及ぼす影響（11月6日公開）
+  * 増税の納得感に関するアンケート調査 およびコンジョイント分析（10月29日公開）
+  * ステルス増税の可視化とその是⾮について（10月29日公開）
 * 2025/10 --- 10月1日（水）付けで[政策研究大学院大学](https://www.grips.ac.jp/)に教授として着任しました。2014年4月から11年半にわたってお世話になった大阪大学および関係者のみなさまに深くお礼申し上げます。どうもありがとうございましたm(__)m 
 * 2025/3 --- 3月27日（木）に発売された『経済セミナー』（[4・5月号](https://www.nippyo.co.jp/shop/magazine/9469.html)）に「【座談会】経済学、ビジネスの世界で使っています」という記事が掲載されました。エコノミクスデザインの頼れる若手メンバーたちと一緒に今すすめている会社のビジネスや将来の目標などについて語っております。ぜひご覧くださいm(_ _)m
 * 2024/11 --- 「プラットフォーム規制の経済学」研究会〈参加無料、Zoom開催、隔月開催を予定〉を経済学者有志で立ち上げました。研究者だけでなく、ビジネスパーソン・官公庁関係のみなさまの参加を広く歓迎します。お申込み＆詳細は[こちら](https://sites.google.com/view/platformregulation/)のウェブサイトまで。
