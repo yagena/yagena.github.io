@@ -53,6 +53,21 @@ author_profile: true
 
 ------ 
 ### 2025年
+* 10月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 10月28日（火）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第1回・オンライン開催）に委員として出席します。
+* 10月27日（月）に電通報にて「[『成長し続けるチーム』をつくるには 〜経済学・人間科学・AIで、生産性向上にどうつなげるか](https://dentsu-ho.com/articles/9465)」（越智道夫さん、神長伸幸さん、田中理絵さんとの座談会）が公開されました。
+* 10月27日（月）発売の『週刊東洋経済｜11月1日号』「[News02　創造的破壊のプロセス解明　25年のノーベル経済学賞](https://toyokeizai.net/articles/-/913552)」（山本舞衣）にインタビュー内容が紹介されました。
+* 10月24日（金）発売の『[プレジデント 11/14号](https://presidentstore.jp/category/MAGAZINE01/012522.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第14回）が掲載されます。テーマは「『デジタル赤字6兆円』に騙されるな！これからAIで『本当に消える仕事』」です。
+* 10月24日（金）に慶應義塾大学経済学部にて対面開催される「[ミクロ経済学ワークショップ](https://ies.keio.ac.jp/workshops/microeconomics/)」で研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
+* 10月22日（水）に財務省「人材マネジメントワークショップ」（第1回）に委員として出席します。
+* 10月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月20日（月）の16:40～18:10にオンライン開催される[GRIPSフォーラム](https://www.grips.ac.jp/jp/events-cat/grips_forum/)「Japan and The Global Economy」（by Noah Smith氏）に司会として登壇します。
+* 10月20日（月）に出版された『ファイナンス』（[10月号](https://www.mof.go.jp/public_relations/finance/denshi/202510/index.html#page=1)）に「財務総合政策研究所 創立40周年記念座談会 ～行政とアカデミアの協働に向けて～」（宮本弘暁氏、片野幹氏、大西宏典氏との座談会）が掲載されました。
+* 10月20日（月）発売の『週刊東洋経済｜10月25日号』に「Book Review『[GROWTH ｢脱｣でも｢親｣でもない新成長論](https://toyokeizai.net/articles/-/911774)』（ダニエル・サスキンド 著／上原裕美子 訳、みすず書房）」が掲載されました。
+* 10月20日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 10月17日（金）にアミタ代表取締役会長の熊野英介との対談「道心の中に衣食あり」（2025年7月7日対談）が公開されました。
+  * 延長戦かゲームチェンジか？ 経済学者と語る、資本主義社会の未来予想図（[前編](https://www.amita-hd.co.jp/vision/message/20251017-1.html)　[後編](https://www.amita-hd.co.jp/vision/message/20251017-2.html)）
+* 10月17日（金）にゲスト出演したPIVOTの番組「PIVOT TALK BUSINESS」が公開されました。テーマは『[経済成長の条件 ノーベル経済学賞を徹底解説](https://pivotmedia.co.jp/movie/13522)』です。
 * 10月17日（金）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「戦略的思考とその実践」です。
 * 10月15日（水）に信託協会「信託経済研究会」（第5回）に委員としてオンライン出席します。
 * 10月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
