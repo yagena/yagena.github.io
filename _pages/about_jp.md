@@ -302,6 +302,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 日本人はノーベル経済学賞を受賞できるのか, 025年11月21日.  [YouTube](https://www.youtube.com/watch?v=pFM8ggKvgqc)
+* クマ被害､自衛隊､国旗損壊罪, 2025年11月14日.  [YouTube](https://www.youtube.com/watch?v=NEPlaGwQOlM)
 * サナエノミクスでも株高は続く？, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=RlEIQPiFj54)
 * なぜ高市勝利を予想できなかったのか, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=2WBG0yfp-Bo)
 * 日本人の仕事はどう変わる？, 2025年9月30日.  [YouTube](https://www.youtube.com/watch?v=Df3QGsD51nk)
