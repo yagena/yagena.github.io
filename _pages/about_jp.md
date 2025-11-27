@@ -21,10 +21,10 @@ author_profile: true
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ，SNS： [X (Twitter)](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) 
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
 ，講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
-* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/2322473805) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
+* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年11月22日</span>
+<span style="color: red; ">最終更新日：2025年11月27日</span>
 
 ------ 
 
@@ -66,15 +66,15 @@ author_profile: true
 ### 重要なお知らせ 
 
 * 2025/11 --- エコノミクスデザインのウェブサイトにて、以下の3本の[ディスカッション・ペーパー](https://econ.news/papers/)を公開しました！
-  * 喫煙に起因するがんの予防が経済・財政に及ぼす影響（11月6日公開）
-  * 増税の納得感に関するアンケート調査 およびコンジョイント分析（10月29日公開）
-  * ステルス増税の可視化とその是⾮について（10月29日公開）
+  * [喫煙に起因するがんの予防が経済・財政に及ぼす影響](https://econ.news/wp-content/uploads/2025/11/e7bb36407a2309e0e42736d4d1efaea8.pdf)（11月6日公開） 
+  * [増税の納得感に関するアンケート調査 およびコンジョイント分析](https://econ.news/wp-content/uploads/2025/10/79bc406614ea6237485929e301893fd3.pdf)（10月29日公開）
+  * [ステルス増税の可視化とその是⾮について](https://econ.news/wp-content/uploads/2025/10/9eb757764c1b67a831104d58e38d56bb.pdf)（10月29日公開）
 * 2025/10 --- 10月1日（水）付けで[政策研究大学院大学](https://www.grips.ac.jp/)に教授として着任しました。2014年4月から11年半にわたってお世話になった大阪大学および関係者のみなさまに深くお礼申し上げます。どうもありがとうございましたm(__)m 
 * 2025/3 --- 3月27日（木）に発売された『経済セミナー』（[4・5月号](https://www.nippyo.co.jp/shop/magazine/9469.html)）に「【座談会】経済学、ビジネスの世界で使っています」という記事が掲載されました。エコノミクスデザインの頼れる若手メンバーたちと一緒に今すすめている会社のビジネスや将来の目標などについて語っております。ぜひご覧くださいm(_ _)m
 * 2024/11 --- 「プラットフォーム規制の経済学」研究会〈参加無料、Zoom開催、隔月開催を予定〉を経済学者有志で立ち上げました。研究者だけでなく、ビジネスパーソン・官公庁関係のみなさまの参加を広く歓迎します。お申込み＆詳細は[こちら](https://sites.google.com/view/platformregulation/)のウェブサイトまで。
 * 2024/9 --- エコノミクスデザインの研究成果として、「増税」に関する2つのスライドを公開しました。ぜひご参考頂ければ幸いです。
-  * [ステルス増税の見える化：消費税換算で測る経済的インパクト](https://www.docswell.com/s/2322473805/Z3GG9J-2024-09-09-124116)
-  * [人々はどのように増税を受け入れているのか？ 増税の納得感に関するアンケート調査およびコンジョイント分析](https://www.docswell.com/s/2322473805/53GGQ2-2024-09-18-153424)
+  * [ステルス増税の見える化：消費税換算で測る経済的インパクト](https://www.docswell.com/s/yagena/Z3GG9J-2024-09-09-124116)
+  * [人々はどのように増税を受け入れているのか？ 増税の納得感に関するアンケート調査およびコンジョイント分析](https://www.docswell.com/s/yagena/53GGQ2-2024-09-18-153424)
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
