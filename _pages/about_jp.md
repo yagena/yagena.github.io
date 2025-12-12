@@ -41,6 +41,9 @@ author_profile: true
 * 12月17日（水）に名古屋大学経済学研究科にて対面開催されるセミナーで研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 * 12月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月15日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 12月12日（金）に東洋経済オンラインにてノーベル経済学賞に関する以下のインタビュー記事2本（編集・山本舞衣）が公開されました。
+  * [ノーベル経済学賞はあくまで生身の人間が授賞を決めるもの。2025年は受賞者の業績に詳しい選考委員が複数いた](https://toyokeizai.net/articles/-/923593)
+  * [「放っておいたらイノベーションは枯渇する｣。ノーベル経済学賞は一貫して｢市場の失敗｣への警鐘を鳴らしてきた](https://toyokeizai.net/articles/-/923507)
 * 12月12日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月6日（土）にソウル（高麗大学）で開催されたEast Asian Theory Conferenceに参加しました。
