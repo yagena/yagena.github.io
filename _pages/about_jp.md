@@ -34,7 +34,7 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。
-* 12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
+* ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
 * 12月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月15日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
