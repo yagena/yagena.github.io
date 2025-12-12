@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年11月27日</span>
+<span style="color: red; ">最終更新日：2025年12月12日</span>
 
 ------ 
 
@@ -34,10 +34,13 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 * 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。
-* ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
+* ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~
+  * 当初予定していた「12月18日」の開催を見送ることにしました。予定を空けて参加を計画してくださっていたみなさま、大変申し訳ありません。2026年1～2月に改めて開催予定です。その際は、また改めて告知させて頂きますm(__)m<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
 * 12月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月15日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 12月12日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
 * 12月9日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月6日（土）にソウル（高麗大学）で開催されたEast Asian Theory Conferenceに参加しました。
 * 12月3日（水）に財務省「人材マネジメントワークショップ」（第3回）に委員として出席します。
 * 11月29日（土）に[金融財政事情研究会](https://www.kinzai.or.jp/)が主催する第16期「金融経営塾」に講師として登壇します。
 * 11月26日（水）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第2回・オンライン開催）に委員として出席します。
