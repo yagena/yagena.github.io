@@ -38,6 +38,7 @@ author_profile: true
 * 12月21日（日）に開催される「人の資本主義」研究プロジェクトの研究会に委員として参加します。
 * ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~
   * 当初予定していた「12月18日」の開催を見送ることにしました。予定を空けて参加を計画してくださっていたみなさま、大変申し訳ありません。2026年1～2月に改めて開催予定です。その際は、また改めて告知させて頂きますm(__)m<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
+* 12月17日（水）に名古屋大学経済学研究科にて対面開催されるセミナーで研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 * 12月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月15日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 12月12日（金）に[Peach Kokorozasi School Plus](https://www.peach-corporation.co.jp/peach-kokorozasi-school-plus/)に講師として登壇します。
@@ -45,6 +46,7 @@ author_profile: true
 * 12月6日（土）にソウル（高麗大学）で開催されたEast Asian Theory Conferenceに参加しました。
 * 12月3日（水）に財務省「人材マネジメントワークショップ」（第3回）に委員として出席します。
 * 11月29日（土）に[金融財政事情研究会](https://www.kinzai.or.jp/)が主催する第16期「金融経営塾」に講師として登壇します。
+* 11月28日（金）発売の『[プレジデント 12/19号](https://presidentstore.jp/category/MAGAZINE01/012524.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第15回）が掲載されます。テーマは「『自民党最後の総理』は不可避なのか？ 高市首相がいますぐやるべきこと」です。
 * 11月26日（水）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第2回・オンライン開催）に委員として出席します。
 * 11月25日（火）にシェアリングエコノミー協会が主催する「[SHARE SUMMIT 2025](https://sharing-economy.jp/ja/sharesummit/ss2025)」にパネリストとして登壇します。
 <!-- * 11月24日（月・祝）の読売新聞（朝刊）に「私の3編」が掲載されました。 -->
