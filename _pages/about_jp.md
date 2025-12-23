@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年12月12日</span>
+<span style="color: red; ">最終更新日：2025年12月23日</span>
 
 ------ 
 
@@ -37,8 +37,10 @@ author_profile: true
 * 2026年1月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月23日（火）に財務省「人材マネジメントワークショップ」（第4回）に委員としてオンライン出席します。
 * 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。
-* 12月21日（日）に開催される「人の資本主義」研究プロジェクトの研究会に委員として参加します。 
+* 12月21日（日）に開催される「人の資本主義」研究プロジェクトの研究会に委員として参加します。
 * 12月20日（土）に奥野（藤原）正寛先生による「自発的関係社会のゲーム理論」出版記念ライブトーク（[Peatixリンク](https://bacon1220gameriron.peatix.com/)）に参加しました。
+* 12月19日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[台湾有事で米軍は本当に動く？](https://www.youtube.com/watch?v=3qBnx_b9A90)】が公開されました。
+* 12月18日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[自民党の最終兵器](https://www.youtube.com/watch?v=WunikRVuQQs)】が公開されました。
 * ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~
   * 当初予定していた「12月18日」の開催を見送ることにしました。予定を空けて参加を計画してくださっていたみなさま、大変申し訳ありません。2026年1～2月に改めて開催予定です。その際は、また改めて告知させて頂きますm(__)m<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
 * 12月17日（水）に名古屋大学経済学研究科にて対面開催されるセミナーで研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
@@ -296,7 +298,9 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
-* 日本人はノーベル経済学賞を受賞できるのか, 025年11月21日.  [YouTube](https://www.youtube.com/watch?v=pFM8ggKvgqc)
+* 台湾有事で米軍は本当に動く？, 2025年12月19日.  [YouTube](https://www.youtube.com/watch?v=3qBnx_b9A90)
+* 自民党の最終兵器, 2025年12月18日.  [YouTube](https://www.youtube.com/watch?v=WunikRVuQQs)
+* 日本人はノーベル経済学賞を受賞できるのか, 2025年11月21日.  [YouTube](https://www.youtube.com/watch?v=pFM8ggKvgqc)
 * クマ被害､自衛隊､国旗損壊罪, 2025年11月14日.  [YouTube](https://www.youtube.com/watch?v=NEPlaGwQOlM)
 * サナエノミクスでも株高は続く？, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=RlEIQPiFj54)
 * なぜ高市勝利を予想できなかったのか, 2025年10月10日.  [YouTube](https://www.youtube.com/watch?v=2WBG0yfp-Bo)
