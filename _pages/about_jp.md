@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2025年12月28日</span>
+<span style="color: red; ">最終更新日：2026年1月12日</span>
 
 ------ 
 
@@ -200,8 +200,6 @@ author_profile: true
   * 第3章「DX推進と規制改革、エビデンスに基づく政策決定の重要性」（63--72頁）を執筆. 
 2. [そのビジネス課題、最新の経済学で「すでに解決」しています。](https://amzn.to/3rPwS2b)』, 日経BP, 2022. 
   * 第１章「ビジネスパーソンの『武器』としての経済学」 を執筆. 
-<!-- 2. 経済セミナー 2022年4・5月号, 日本評論社, 2022. 
-  * 「日本経済学会サテライトイベント2021年秋 経済学の学び方・活かし方」の司会を担当.-->
 2. 現代経済学の潮流 2021, 東洋経済新報社, 2021. 
   * 第６章「経済学を伝える」の座長・司会を担当. 
 4. 人の資本主義, 東京大学出版会, 2021. 
