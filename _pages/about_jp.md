@@ -40,9 +40,15 @@ author_profile: true
   * 【Session 01：人文・社会科学の知を起点とした「イノベーション」と「社会変革」に向けて】に参加します。
 * 2月5日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 2月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 1月31日（土）に読売テレビ「[サタデーLIVEニュース ジグザグ](https://www.ytv.co.jp/zigzag/)」にゲスト解説者として出演します。
+* 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
 * 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
+* 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
 * 1月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。
+* 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。
 * 1月22日（木）に財務省「人材マネジメントワークショップ」（第7回）に委員として出席します。
+* 1月22日（木）にGRIPSの講義「[ミクロ経済学のビジネス実践](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_business)」最終回を行います。
 * 1月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 1月19日（月）に財務省「人材マネジメントワークショップ」（第6回）に委員としてオンライン出席します。
 * 1月19日（月）に総務省「電波有効利用委員会」（第10回）に委員としてオンライン出席します。
