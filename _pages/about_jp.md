@@ -38,15 +38,17 @@ author_profile: true
 * 2月11日（水）に青山ブックセンターにて舩橋真俊・著『拡張生態系』(祥伝社) 刊行記念の[トークイベント](https://aoyamabc.jp/products/2-11-2026)にパネリストとして登壇します。
 * 2月7日（土）に知と文化のインキュベーション施設「Unknown Unknown」の[オープニング・パーティ](https://prtimes.jp/main/html/rd/p/000000018.000109034.html)にパネリストとして登壇します。
   * 【Session 01：人文・社会科学の知を起点とした「イノベーション」と「社会変革」に向けて】に参加します。
+* 2月6日（金）に財務省「人材マネジメントワークショップ」（第9回）に委員として出席します。 
 * 2月5日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 2月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 2月2日（月）に財務省「人材マネジメントワークショップ」（第8回）に委員としてオンライン出席します。
 * 1月31日（土）に読売テレビ「[サタデーLIVEニュース ジグザグ](https://www.ytv.co.jp/zigzag/)」にゲスト解説者として出演します。
 * 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
 * 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
 * 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
 * 1月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。
 * 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。
+* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。
 * 1月22日（木）に財務省「人材マネジメントワークショップ」（第7回）に委員として出席します。
 * 1月22日（木）にGRIPSの講義「[ミクロ経済学のビジネス実践](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_business)」最終回を行います。
 * 1月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -306,6 +308,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 政治家の「保険料逃れ」に国民激怒, 2026年1月27日.  [YouTube](https://www.youtube.com/watch?v=VT6HKRCWIik)
+* 各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？, 2026年1月23日.  [YouTube](https://www.youtube.com/watch?v=VLPIFK3kO3c)
 * 台湾有事で米軍は本当に動く？, 2025年12月19日.  [YouTube](https://www.youtube.com/watch?v=3qBnx_b9A90)
 * 自民党の最終兵器, 2025年12月18日.  [YouTube](https://www.youtube.com/watch?v=WunikRVuQQs)
 * 日本人はノーベル経済学賞を受賞できるのか, 2025年11月21日.  [YouTube](https://www.youtube.com/watch?v=pFM8ggKvgqc)
@@ -426,8 +430,8 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
-* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2025年12月（予定）.
-* 九州・アジア経営塾（福岡）, 2025年10月（予定）. 
+* ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2025年12月.
+* 九州・アジア経営塾（福岡）, 2025年10月. 
 * 立命館西園寺塾（東京）, 2025年6月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2025年5月. 
 * SMBC経営者研究会（東京）, 2025年3月. 
