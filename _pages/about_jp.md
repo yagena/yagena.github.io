@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年1月19日</span>
+<span style="color: red; ">最終更新日：2026年2月2日</span>
 
 ------ 
 
@@ -43,6 +43,7 @@ author_profile: true
 * 2月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2月2日（月）に財務省「人材マネジメントワークショップ」（第8回）に委員としてオンライン出席します。
 * 1月31日（土）に読売テレビ「[サタデーLIVEニュース ジグザグ](https://www.ytv.co.jp/zigzag/)」にゲスト解説者として出演します。
+* 1月30日（金）に日経BOOKプラス「[安田洋祐が解説　今の利益を底上げするための「セット販売」の価格戦略](https://bookplus.nikkei.com/atcl/column/010700638/011900003/)」が掲載されました。
 * 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
 * 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
 * 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
@@ -57,20 +58,6 @@ author_profile: true
 * 1月16日（金）に[京大みずほ証券特別講座](https://www.project.gsm.kyoto-u.ac.jp/mizuho-sc/)の第1回「成長に向けての経済・金融の論点」にゲスト講師としてオンライン登壇しました。
 * 1月14日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 1月13日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-
-＜2026年↑　2025年↓＞
-
-* 12月26日（金）発売の『[プレジデント 1/16号](https://presidentstore.jp/category/MAGAZINE01/012602.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第16回）が掲載されます。テーマは「自衛隊派遣はパフォーマンスに過ぎない… 過去最悪「クマ被害」で考えるべきこと」です。
-* 12月23日（火）に財務省「人材マネジメントワークショップ」（第4回）に委員としてオンライン出席します。
-* 12月22日（月）に財務省「日本の所得分配・再分配に関する研究会」（第3回）に委員として出席します。
-* 12月22日（月）発売の『[週刊東洋経済 12/27・1/3合併号](https://str.toyokeizai.net/magazine/toyo/20251222/)』の【第2特集】2025ベスト経済書にて、第1位に選ばれた『日本経済の死角』（河野龍太郎・著）の推薦コメントが掲載されました。
-* 12月21日（日）に開催される「人の資本主義」研究プロジェクトの研究会に委員として参加します。
-* 12月20日（土）に奥野（藤原）正寛先生による「自発的関係社会のゲーム理論」出版記念ライブトーク（[Peatixリンク](https://bacon1220gameriron.peatix.com/)）に参加しました。
-* 12月19日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[台湾有事で米軍は本当に動く？](https://www.youtube.com/watch?v=3qBnx_b9A90)】が公開されました。
-* 12月18日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[自民党の最終兵器](https://www.youtube.com/watch?v=WunikRVuQQs)】が公開されました。
-* ~~12月18日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回・無料）をオンライン開催します。~~
-  * 当初予定していた「12月18日」の開催を見送ることにしました。予定を空けて参加を計画してくださっていたみなさま、大変申し訳ありません。2026年1～2月に改めて開催予定です。その際は、また改めて告知させて頂きますm(__)m<!-- お申し込みは[こちら](https://platform-economics-6.peatix.com/)からお願いします。-->
-* 12月17日（水）に名古屋大学経済学研究科にて対面開催されるセミナーで研究報告を行います。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」(with Yuichiro Kamada)です。
 
  <!-- 消したい内容 -->
 
