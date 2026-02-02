@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年1月19日</span>
+<span style="color: red; ">最終更新日：2026年2月2日</span>
 
 ### 重要なお知らせ
 * 2025/3 --- 3月27日（木）に発売された『経済セミナー』（[4・5月号](https://www.nippyo.co.jp/shop/magazine/9469.html)）に「【座談会】経済学、ビジネスの世界で使っています」という記事が掲載されました。エコノミクスデザインの頼れる若手メンバーたちと一緒に今すすめている会社のビジネスや将来の目標などについて語っております。ぜひご覧くださいm(_ _)m
