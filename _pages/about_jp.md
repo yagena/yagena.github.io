@@ -46,6 +46,8 @@ author_profile: true
 * 2月2日（月）に財務省「人材マネジメントワークショップ」（第8回）に委員としてオンライン出席します。
 * 1月31日（土）に読売テレビ「[サタデーLIVEニュース ジグザグ](https://www.ytv.co.jp/zigzag/)」にゲスト解説者として出演します。
 * 1月30日（金）に日経BOOKプラス「[安田洋祐が解説　今の利益を底上げするための「セット販売」の価格戦略](https://bookplus.nikkei.com/atcl/column/010700638/011900003/)」が掲載されました。
+* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[円安「家の値段上がる」「人材も流出」　経済学者調査、74%が問題視](https://www.nikkei.com/article/DGXZQOCD265T60W6A120C2000000/)」が掲載されました。
+* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[食品消費税ゼロ「経済にマイナス」88%　学者調査、財政悪化を懸念](https://www.nikkei.com/article/DGXZQOCD265RF0W6A120C2000000/)」が掲載されました。
 * 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
 * 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
 * 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
