@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年2月2日</span>
+<span style="color: red; ">最終更新日：2026年2月14日</span>
 
 ------ 
 
@@ -38,8 +38,14 @@ author_profile: true
 * 2月24日（火）にJPタワーで開催される「[デジタル通貨カンファレンス](https://www.nadanews.com/digital-currency-2026/)」にパネリストとして登壇します。
 * 2月20日（金）に財務省「人材マネジメントワークショップ」（第10回）に委員としてオンライン出席します。 
 * 2月17日（火）に総務省「電波有効利用委員会」（第11回）に委員としてオンライン出席します。
+* 2月15日（日）に名古屋で開催される「[第2回日本危機管理医学会総会・学術集会](https://jscmm2026.gakkai.me/)」に講演者として登壇します。
+  * 最終日午後のセッション10「我々ホモサピエンスはなぜ科学の成果を社会実装し得ないのか」に登壇します。
 * 2月11日（水）に青山ブックセンターにて舩橋真俊・著『拡張生態系』(祥伝社) 刊行記念の[トークイベント](https://aoyamabc.jp/products/2-11-2026)にパネリストとして登壇します。
 * 2月10日（火）に財務省「日本の所得分配・再分配に関する研究会」（第5回）に委員として出席します。
+* 日経BOOKプラスに「[冨山和彦×星野崇宏×安田洋祐　インフレ時代の値付けを経済学で科学する](https://bookplus.nikkei.com/atcl/column/012600651/)」（全3回）が公開されました。
+  * 第1回 --- [冨山和彦「安く作り安く売る」はもはや悪徳である](https://bookplus.nikkei.com/atcl/column/012600651/012600001/)
+  * 第2回 --- [冨山和彦　個別最適で損している人が持てていない「積分」思考](https://bookplus.nikkei.com/atcl/column/012600651/012600002/)
+  * 第3回 --- [日本のホワイトカラーは絶滅目前？　文豪ゲーテに学べ](https://bookplus.nikkei.com/atcl/column/012600651/012600003/)
 * 2月7日（土）に知と文化のインキュベーション施設「Unknown Unknown」の[オープニング・パーティ](https://prtimes.jp/main/html/rd/p/000000018.000109034.html)にパネリストとして登壇します。
   * 【Session 01：人文・社会科学の知を起点とした「イノベーション」と「社会変革」に向けて】に参加します。
 * 2月6日（金）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
@@ -417,18 +423,30 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
+* 立命館西園寺塾（東京）, 2026年6月.  （予定） 
+* 「第2回日本危機管理医学会総会・学術集会」（名古屋）, 2026年2月.  [Web](https://jscmm2026.gakkai.me/)
+* エッセンス「パトロン向け特別講義」（東京・政策研究大学院大学）, 2026年1月.  [Web](https://esse-sense.com/researchers/51/course/15)
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2025年12月.
-* 九州・アジア経営塾（福岡）, 2025年10月. 
+* 九州・アジア経営塾（福岡）, 2025年10月.
+* 宇野常寛・主宰「PLANETS SCHOOL」（オンライン）, 2025年10月.  [Web](https://community.camp-fire.jp/projects/65828/activities/746716) 
+* 関西情報センター「先端技術・ビジネス動向研究会」（大阪）, 2025年10月.
+* 日経ビジネススクール「行動経済学で拓く新たなビジネスチャンス」（オンライン）, 2025年9月.  [Web](https://school.nikkei.co.jp/special/iser/)
+* 大阪取引所「先生のための『夏休み経済教室』」（大阪）, 2025年8月.  [Web](https://money-bu-jpx.com/news/article059940/)
+* 日本ソーシャルデータサイエンス学会10周年記念シンポジウム（オンライン）, 2025年7月.  [Web](https://www.jsdss.org/event/1338/)
+* エコノミクスデザイン「ナイトスクール」, 2025年6月. 
 * 立命館西園寺塾（東京）, 2025年6月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2025年5月. 
 * SMBC経営者研究会（東京）, 2025年3月. 
 * SMBC経営者研究会（大阪）, 2025年3月. 
-* 東北電力総連「新春トップセミナー」（仙台）, 2025年1月. 
+* 多摩大学「サステナビリティ経営セミナー」（オンライン）, 2025年1月.  [Web](https://tama-univ-csm-seminar-no6.peatix.com/view)
+* 東北電力総連「新春トップセミナー」（仙台）, 2025年1月.
+* エッセンス「パトロン向け特別講義」（東京）, 2024年12月.  [Web](https://esse-sense.com/researchers/117/course/4)
 * 富士通「政策研究会」（川崎）, 2024年12月. 
 * 関西経済同友会「経済財政政策委員会」（大阪）, 2024年12月. 
 * 経済同友会「リベラルアーツプログラム」（東京）, 2024年11月. 
 * 知のエグゼクティブサロン（東京・上智大学）, 2024年5月.
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2024年12月.
+* 日経ビジネススクール「行動経済学で拓く新たなビジネスチャンス」（オンライン）, 2024年11月.
 * 九州・アジア経営塾（福岡）, 2024年11月. 
 * 近未来金融研究会 勉強会（東京・東京大学）, 2024年9月.
 * HRサミット（動画配信）, 2024年9月. 
@@ -440,6 +458,7 @@ author_profile: true
 * SMBC経営者研究会（大阪）, 2024年2月. 
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2023年12月.
 * HRカンファレンス2023（オンライン）, 2023年11月.  [Web](https://jinjibu.jp/hr-conference/report/r202311/report.php?sid=3462)
+* 日経ビジネススクール「行動経済学で拓く新たなビジネスチャンス」（オンライン）, 2023年11月.
 * 東京都立大学経済学プログラムMEc（東京）, 2023年11月. 
 * 日本生産性本部「経済情勢懇話会」（東京）, 2023年10月.
 * 京都府不動産コンサルティング協会（京都）, 2023年8月. 
@@ -478,17 +497,35 @@ author_profile: true
 
 
 ### イベント登壇　
-* エッセンスフォーラム2025（東京）, 2025年9月.  
-* エンジン01 in 加賀温泉「カガくしよう。」, 2025年9月.  [Web]([https://enjin01.gifu.jp/](https://kaga-city.jp/enjin01_kaga-onsen))
+* 第13回 ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2025/) 　（予定）
+* デジタル通貨カンファレンス（東京）, 2026年2月.  [Web](https://www.nadanews.com/digital-currency-2026/)　（予定）
+* 舩橋真俊著『拡張生態系』刊行記念イベント（東京・青山ブックセンター）, 2026年2月. 
+* Unkown Unkown（東京・神保町）, 2026年2月.
+* 京大みずほ証券特別講座（オンライン）, 2026年1月.
+* 信託協会「信託経済コンファレンス」（東京）, 2025年11月.
+* RONDAN FES 2025 in IZU（伊豆）, 2025年10月.  [Web](https://rondanfes.jp/)
+* エッセンス「フューチャー・フォーラム2025」（東京）, 2025年9月.  [Web](https://esse-sense.com/forum2025)
+* アミタ「第2回 羅針盤セミナー」（東京）, 2025年9月.  [レポート](https://www.amita-mirai-compass.com/post/251015-vol02-report)
+* エンジン01 in 加賀温泉「カガくしよう。」（石川・加賀）, 2025年9月.  [Web]([https://enjin01.gifu.jp/](https://kaga-city.jp/enjin01_kaga-onsen))
+* ナレッジサロン「対流ポット」（大阪）, 2025年8月.
 * Do! Solutions Webinar, 人的資本の活かしかた（ウェビナー）, 2025年7月.  [Web](https://www.d-sol.jp/webinar-20250724)
 * 日本生産性本部, 第68回 軽井沢トップ・マネジメント・セミナー, 2025年7月.  [Web](https://www.jpc-net.jp/seminar/detail/002628.html)
-* 第12回 ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2024/) 
-* 経済学で解き明かすビジネスの未来＃1　競合の一歩先を行く価格戦略, 2025年2月.  [Web](https://biz1.peatix.com/) 
-* 『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント, ロフトプラスワンウエスト（大阪）, 2024年12月. 
+* NERA「スマホ新法ガイドライン案の多角的検討」, 2025年7月.  [関連記事](https://www.watch.impress.co.jp/docs/topic/2019566.html)
+* 九州・台湾未来研究所「設立記念シンポジウム」, 2025年5月.
+* Plurality Tokyo Namerakaigi #2 「Plurality Book日本語版」出版記念, 2025年5月. 
+* 第12回 ナレッジイノベーションアワード：最終選考会（大阪）, 2025年3月.  [Web](https://kc-i.jp/activity/award/innovation/2024/)
+* 大阪大学国際医工情報センター「設立20周年記念シンポジウム」（大阪）, 2025年3月.  [Web](https://www.osaka-u.ac.jp/ja/event/2025/03/11047)
+* サイバーエージェント・エコノミクスデザイン共催セミナー（東京）, 2025年2月.  [Web](https://biz1.peatix.com/)
+* 台湾日本研究院「九州支部設立記念シンポジウム」（台北）, 2025年2月.
+* 『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント, ロフトプラスワンウエスト（大阪）, 2024年12月.
+* ASAグループ「アニュアルセミナー2024」, 2024年11月.  [Web](https://www.aoyama.ac/seminar/561)
 * エンジン01 in 和歌山県有田「未来にあつまれ！アリダーズ」, 2024年11月.  [Web](https://enjin01-wakayama-arida.jp/)
+* スローニュース「ハーム・リダクションと孤立しない社会の構築」(東京), 2024年11月.  [Web](https://slownewsforum.peatix.com/)
 * 信託協会「信託経済コンファレンス」（東京）, 2024年11月.
+* エコノミクスデザイン「ナイトスクール特別ウェビナー」（オンライン）, 2024年10月. 
 * 宇沢弘文没後10年 社会的共通資本 いままでの30年 これからの30年（東京・国連大学）, 2024年9月.  [Web](https://www.uzawa-scc.jp/)
 * エッセンスフォーラム2024（東京）, 2024年9月.  [Web](https://esse-sense.com/forum2024)
+* 近未来金融研究会勉強会（東京）, 2024年9月.
 * 京都の未来、本当に大丈夫なんどすか会議 西田亮介×安田洋祐『日本の未来、本当に大丈夫なんですか会議』刊行記念トークイベント：大垣書店高野店, 2024年9月.
 * 宇沢弘文没後10年記念シンポジウム（東京・学習院大学）, 2024年8月.  [Web](https://uzawa20240824.peatix.com/view)
 * MUSIC LOVES ART - MICUSRAT - 大阪カンファレンス, 2024年8月.  [Web](https://micusrat.com/conference)
@@ -496,10 +533,17 @@ author_profile: true
 * 日本の未来、ホンマに大丈夫なん？会議 in大阪 西田亮介×安田洋祐（清風堂書店主催）：大阪市中央公会堂, 2024年7月.  [Web](https://peatix.com/event/4017745)
 * 【出版記念対談】日本の未来、本当に大丈夫なんですか会議：ジュンク堂書店池袋本店, 2024年7月.  [Web](https://online.maruzenjunkudo.co.jp/products/j70019-240705) 
 * 富永京子×安田洋祐×西田亮介　社会学と経済学は観察する──『日本の未来、本当に大丈夫なんですか会議』刊行記念：ゲンロンカフェ, 2024年6月.  [Web](https://peatix.com/event/3969995)
+* アカデミーヒルズ「VOOX × academyhills ＜公開収録＞」（東京）, 2024年6月.  [Web](https://www.academyhills.com/seminar/detail/20240618.html)
+* エッセンス「特別講義シリーズ」（オンライン）, 2024年4月.  [Web](https://essesensepato202401.peatix.com/view)
+* ウメダの未来フォーラム　量子のまち編（大阪）, 2024年4月.  [Web](https://www.ccb.osaka-u.ac.jp/news/%e3%82%a6%e3%83%a1%e3%83%80%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0%ef%bc%8d%e9%87%8f%e5%ad%90%e3%81%ae%e3%81%be%e3%81%a1%e7%b7%a8%e3%80%80%e7%ac%ac%ef%bc%91%e5%9b%9e/)
+* Deloitte/TMIP共済セミナー（東京）, 2024年3月.  [Web](https://tmipguest240325.peatix.com/)
 * 次世代女性のキャリア自律 #Inspire inclusion（ウェビナー）, 2024年3月.  [Web](https://www.atpress.ne.jp/news/384894)
 * 第11回ナレッジイノベーションアワード：最終選考会（大阪）, 2024年3月.
+* 関西経済同友会「経済財政政策委員会」（大阪）, 2024年2月. 
 * これから千里：第2回「千里のこれからを考える」（大阪）, 2024年2月.  [Web](https://senri-nt.com/event/korekarasenri/)
+* academist主催「Xスペース座談会」（オンライン）, 2024年1月.  [X](https://x.com/i/spaces/1YqGoDOMqBZJv/peek?s=20)
 * ミラツク年次フォーラム2023（オンライン登壇）, 2023年12月.  [Web](https://emerging-future.org/news/3366/)
+* エッセンス「パトロン交流会：ダイアログBAR八重洲」（東京）, 2023年12月. 
 * 信託協会「信託経済コンファレンス」（オンライン）, 2023年11月.
 * エッセンスフォーラム2023（東京）, 2023年9月.  [Web](https://esse-sense.com/forum2023)
 * FNNプライムオンライン×エコノミクスデザイン社「お昼の経済学 in お台場冒険王 2023」, 2023年7月.  [Web](https://www.fujitv-view.jp/article/post-929673/)
@@ -627,7 +671,7 @@ author_profile: true
   * NASMES, ダーラム（デューク大学）, 2007年6月 
   * EEA-ESEM, ウィーン, 2006年8月 
 * 2025
-  * 公立はこだて未来大学 -- 6月
+  * 公立はこだて未来大学 -- 6月, 慶應義塾大学 -- 10月, 名古屋大学 -- 12月
 * 2024
   * 公立はこだて未来大学 -- 6月, 同志社大学 -- 6月, 政策研究大学院大学 -- 6月 
 * 2021
