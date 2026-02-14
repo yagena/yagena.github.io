@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年2月2日</span>
+<span style="color: red; ">最終更新日：2026年2月14日</span>
 
 ### 重要なお知らせ
 * 2025/3 --- 3月27日（木）に発売された『経済セミナー』（[4・5月号](https://www.nippyo.co.jp/shop/magazine/9469.html)）に「【座談会】経済学、ビジネスの世界で使っています」という記事が掲載されました。エコノミクスデザインの頼れる若手メンバーたちと一緒に今すすめている会社のビジネスや将来の目標などについて語っております。ぜひご覧くださいm(_ _)m
@@ -58,6 +58,14 @@ author_profile: true
 
 ------ 
 ### 2026年
+* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[円安「家の値段上がる」「人材も流出」　経済学者調査、74%が問題視](https://www.nikkei.com/article/DGXZQOCD265T60W6A120C2000000/)」が掲載されました。
+* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[食品消費税ゼロ「経済にマイナス」88%　学者調査、財政悪化を懸念](https://www.nikkei.com/article/DGXZQOCD265RF0W6A120C2000000/)」が掲載されました。
+* 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
+* 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
+* 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
+* 1月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。
+* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。
 * 1月22日（木）に財務省「人材マネジメントワークショップ」（第7回）に委員として出席します。
 * 1月22日（木）にGRIPSの講義「[ミクロ経済学のビジネス実践](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_business)」最終回を行います。
 * 1月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
