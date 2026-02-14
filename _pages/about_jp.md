@@ -21,7 +21,7 @@ author_profile: true
 * ブログ：  [note](https://note.com/yagena/) ｜ [Livedoor Blog](http://blog.livedoor.jp/yagena/) ｜ [Blogspot](http://yyasuda.blogspot.com/) ，SNS： [X (Twitter)](https://twitter.com/yagena) ｜ [Facebook](https://www.facebook.com/yosuke.yasuda.7) ｜ [Linkedin](https://www.linkedin.com/in/yosuke-yasuda-87bb891/) 
 * 旧ウェブサイト：  [日本語](https://sites.google.com/site/yosukeyasuda/jp) ｜ [英語](https://sites.google.com/site/yosukeyasuda)
 ，講義ページ： [2014 -- 現在](https://sites.google.com/site/yosukeyasuda2/home/lectures) ｜ [2007 -- 2014](https://sites.google.com/site/yosukeyasuda/home/teaching) 
-* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf) *New!*,  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
+* 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
 <span style="color: red; ">最終更新日：2026年2月14日</span>
@@ -33,7 +33,6 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
-<!-- * 2月5日（木）にテレビ東京「[ワールドビジネスサテライト](https://txbiz.tv-tokyo.co.jp/wbs)」にコメンテーターとして出演します。 -->
 * 2月25日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 2月24日（火）にJPタワーで開催される「[デジタル通貨カンファレンス](https://www.nadanews.com/digital-currency-2026/)」にパネリストとして登壇します。
 * 2月20日（金）に財務省「人材マネジメントワークショップ」（第10回）に委員としてオンライン出席します。 
@@ -56,16 +55,9 @@ author_profile: true
 * 2月2日（月）に財務省「人材マネジメントワークショップ」（第8回）に委員としてオンライン出席します。
 * 1月31日（土）に読売テレビ「[サタデーLIVEニュース ジグザグ](https://www.ytv.co.jp/zigzag/)」にゲスト解説者として出演します。
 * 1月30日（金）に日経BOOKプラス「[安田洋祐が解説　今の利益を底上げするための「セット販売」の価格戦略](https://bookplus.nikkei.com/atcl/column/010700638/011900003/)」が掲載されました。
-* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[円安「家の値段上がる」「人材も流出」　経済学者調査、74%が問題視](https://www.nikkei.com/article/DGXZQOCD265T60W6A120C2000000/)」が掲載されました。
-* 1月30日（金）の日本経済新聞（朝刊）に、パネリストとして参加している日経エコノミクスパネルに関する記事「[食品消費税ゼロ「経済にマイナス」88%　学者調査、財政悪化を懸念](https://www.nikkei.com/article/DGXZQOCD265RF0W6A120C2000000/)」が掲載されました。
-* 1月29日（木）にGRIPSの講義「[Advanced Microeconomics 2](https://sites.google.com/site/yosukeyasuda2/home/lectures/grips2025_advancedmicro2)」最終回を行います。
-* 1月28日（水）に財務省「日本の所得分配・再分配に関する研究会」（第4回）に委員として出席します。
-* 1月27日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[政治家の「保険料逃れ」に国民激怒](https://www.youtube.com/watch?v=VT6HKRCWIik)】が公開されました。
-* 1月27日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。
-* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。
 
- <!-- 消したい内容 -->
+ <!-- * 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。
+* 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。 -->
 
 ### 重要なお知らせ 
 
@@ -282,7 +274,7 @@ author_profile: true
 
 ### オーディオ
 
-**問い読「ちょいムズ本、プロが惚れたこの一冊」**  <span style="color: red; ">New!</span>
+**問い読「ちょいムズ本、プロが惚れたこの一冊」**  
 * 第3回.  成田悠輔『22世紀の資本主義　やがてお金は絶滅する』  
 * 第2回.  オードリー・タン, グレン・ワイル『PLURALITY　対立を創造に変える、協働テクノロジーと民主主義の未来』  [Link](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-2-plurality14-e353h8d)
 * 第1回.  ジョセフ・ヘンリック『WEIRD　｢現代人｣の奇妙な心理』  [Link](https://creators.spotify.com/pod/profile/choimuzubon/episodes/-1-weird13-e353hn5)
@@ -791,7 +783,7 @@ author_profile: true
 
 ### 所属学会
 * 海外
-  * American Economics Association
+  * American Economic Association
   * Econometric Society
   * European Association for Research in Industrial Economics (EARIE)
 * 国内
@@ -815,7 +807,7 @@ author_profile: true
   * 若手研究（A）, オークションを通じた市場競争のミクロ経済理論分析, 平成23-25年度（728万円）.
   * 若手研究（スタートアップ）, 望ましい学校選択制度設計：マッチング理論によるアプローチ, 平成20-21年度（334万円）.
 * 科学研究費補助金：研究分担者
-  * 挑戦的研究（萌芽）, 定員下限と募集キャンセルがあるマッチング市場の分析（研究代表者：川越敏司）, 令和6-8年度.  <span style="color: red; ">New!</span>
+  * 挑戦的研究（萌芽）, 定員下限と募集キャンセルがあるマッチング市場の分析（研究代表者：川越敏司）, 令和6-8年度. 
   * 基盤研究（A）, 持続可能性、品質維持、競争適正化のための公共調達制度設計（研究代表者：花薗誠）, 令和5-9年度. 
   * 基盤研究（A）, 近未来デジタル経済学のための制度設計（研究代表者：松島斉）, 令和2年度-5年度. 
   * 基盤研究（A）, マーケットデザインの実践的理論の構築（研究代表者：横尾真）, 平成29-31年度.
