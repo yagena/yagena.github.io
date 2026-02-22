@@ -294,6 +294,7 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* なぜ私たちは｢高市圧勝｣を予測できなかった？, 2026年2月20日.  [YouTube](https://www.youtube.com/watch?v=xgnqmsEI0ms)
 * 政治家の「保険料逃れ」に国民激怒, 2026年1月27日.  [YouTube](https://www.youtube.com/watch?v=VT6HKRCWIik)
 * 各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？, 2026年1月23日.  [YouTube](https://www.youtube.com/watch?v=VLPIFK3kO3c)
 * 台湾有事で米軍は本当に動く？, 2025年12月19日.  [YouTube](https://www.youtube.com/watch?v=3qBnx_b9A90)
@@ -416,7 +417,7 @@ author_profile: true
   * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
-* 立命館西園寺塾（東京）, 2026年6月.  （予定） 
+* 立命館西園寺塾（東京）, 2026年6月. （予定） 
 * 「第2回日本危機管理医学会総会・学術集会」（名古屋）, 2026年2月.  [Web](https://jscmm2026.gakkai.me/)
 * エッセンス「パトロン向け特別講義」（東京・政策研究大学院大学）, 2026年1月.  [Web](https://esse-sense.com/researchers/51/course/15)
 * ピーチコーポレーション「Peach Kokorozasi School Plus」（大阪）, 2025年12月.
