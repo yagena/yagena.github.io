@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年2月22日</span>
+<span style="color: red; ">最終更新日：2026年2月25日</span>
 
 ------ 
 
@@ -36,12 +36,13 @@ author_profile: true
 * 3月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月11日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-<!-- * 3月6日（金）にスカパーJSAT株式会社「番組審議会」に委員として出席します。 --> 
+* 3月6日（金）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
 * 3月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2月27日（金）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第3回・オンライン開催）に委員として出席します。
+* 2月25日（水）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
 * 2月25日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 2月24日（火）にJPタワーで開催される「[デジタル通貨カンファレンス](https://www.nadanews.com/digital-currency-2026/)」にパネリストとして登壇します。
-<!-- * 2月23日（月・祝）の読売新聞（朝刊）に「私の3編」が掲載されました。 -->
+* 2月23日（月・祝）の読売新聞（朝刊）に「私の3編」が掲載されました。
 * 2月20日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[なぜ私たちは｢高市圧勝｣を予測できなかった？](https://www.youtube.com/watch?v=xgnqmsEI0ms)】が公開されました。
 * 2月20日（金）に日経BOOKプラス「[安田洋祐が解説　「学割」で利益が増える？　価格差別の基本](https://bookplus.nikkei.com/atcl/column/010700638/020900006/)」が掲載されました。
 * 2月20日（金）に財務省「人材マネジメントワークショップ」（第10回）に委員としてオンライン出席します。 
