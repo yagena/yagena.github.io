@@ -38,6 +38,8 @@ author_profile: true
 * 3月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月6日（金）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
 * 3月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 2月27日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[玉木雄一郎｢消費減税｣はやるべきではない](https://www.youtube.com/watch?v=NBA6rNwVnxw)】が公開されました。
+* 2月27日（金）発売の『[プレジデント 3/20号](https://presidentstore.jp/category/MAGAZINE01/012606.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第18回）が掲載されます。テーマは「維新議員の保険料は、なぜ「月数千円」に？ 「国保逃れ」の裏にある健保の赤字3782億円」です。
 * 2月27日（金）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第3回・オンライン開催）に委員として出席します。
 * 2月25日（水）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
 * 2月25日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
@@ -295,6 +297,7 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 玉木雄一郎｢消費減税｣はやるべきではない, 2026年2月27日.  [YouTube](https://www.youtube.com/watch?v=NBA6rNwVnxw)
 * なぜ私たちは｢高市圧勝｣を予測できなかった？, 2026年2月20日.  [YouTube](https://www.youtube.com/watch?v=xgnqmsEI0ms)
 * 政治家の「保険料逃れ」に国民激怒, 2026年1月27日.  [YouTube](https://www.youtube.com/watch?v=VT6HKRCWIik)
 * 各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？, 2026年1月23日.  [YouTube](https://www.youtube.com/watch?v=VLPIFK3kO3c)
