@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年3月10日</span>
+<span style="color: red; ">最終更新日：2026年3月15日</span>
 
 ------ 
 
@@ -33,25 +33,24 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
+* 4月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月8日（水）に財務省「日本の所得分配・再分配に関する研究会」（第7回）に委員として出席します。
+* 4月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月6日（月）から財務省にて財政経済理論研修の講師を務めます。担当科目は「上級ミクロ経済学」です。過去に同講義を担当していた時のウェブサイトは[こちら](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)になります。
+* 3月21日（土）にOISTで開催される第5回[esse-sense](https://esse-sense.com/)株主総会に出席します。
+* 3月19日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 3月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月11日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月10日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月9日（月）に財務省「人材マネジメントワークショップ」（第11回）に委員としてオンライン出席します。
+* 3月8日（日）に松島斉・東京大学教授の[最終講義](https://sites.google.com/g.ecc.u-tokyo.ac.jp/matsushima-final-lecture/)に参加しました。
+* 3月7日（土）に「近未来金融研究会」勉強会に講師として登壇します。テーマは「ウェルビーイングと金融」です。
 * 3月6日（金）にスカパーJSAT株式会社「番組審議会」に委員として出席します。
 * 3月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 2月に発行された信託協会の機関誌『信託』[305号](https://www.shintaku-kyokai.or.jp/archives/008/202603/kaihou305.pdf)（100周年特集）に、「信認関係と忠実義務を経済学から捉え直す ――信託協会100周年に寄せて――」が掲載されました。
 * 2月27日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[玉木雄一郎｢消費減税｣はやるべきではない](https://www.youtube.com/watch?v=NBA6rNwVnxw)】が公開されました。
 * 2月27日（金）発売の『[プレジデント 3/20号](https://presidentstore.jp/category/MAGAZINE01/012606.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第18回）が掲載されます。テーマは「維新議員の保険料は、なぜ「月数千円」に？ 「国保逃れ」の裏にある健保の赤字3782億円」です。
 * 2月27日（金）に日経BOOKプラス「[安田洋祐が解説　クーポンは低リスクで効果的な利益拡大の手段](https://bookplus.nikkei.com/atcl/column/010700638/021600007/)」が掲載されました。
-* 2月27日（金）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第3回・オンライン開催）に委員として出席します。
-* 2月27日（金）に[CEAPP](https://prtimes.jp/main/html/rd/p/000000013.000086025.html)「研究と対話プログラム」にゲスト講師として登壇しました。テーマは「社会的共通資本とコモンズから学ぶ、平和の資源的価値」です。
-* 2月26日（木）にesse-senseで「[文豪ゲーテも悩んだ「値段の決め方」。人の本音をあぶり出す、経済学という名の魔法](https://esse-sense.com/news/79)」という記事が公開されました。興味を持たれた方は、ぜひ[こちら](https://esse-sense.com/researchers/51/home)の研究者ページからフォローして頂けるとありがたいです！
-* 2月25日（水）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
-* 2月25日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 2月24日（火）にJPタワーで開催される「[デジタル通貨カンファレンス](https://www.nadanews.com/digital-currency-2026/)」にパネリストとして登壇します。
-* 2月23日（月・祝）の読売新聞（朝刊）に「私の3編」が掲載されました。
-* 2月20日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[なぜ私たちは｢高市圧勝｣を予測できなかった？](https://www.youtube.com/watch?v=xgnqmsEI0ms)】が公開されました。
-* 2月20日（金）に日経BOOKプラス「[安田洋祐が解説　「学割」で利益が増える？　価格差別の基本](https://bookplus.nikkei.com/atcl/column/010700638/020900006/)」が掲載されました。
 
 <!-- * 1月23日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[各党が叫ぶ｢消費減税｣の正体｡一度下げたら二度と戻せない恐怖とは？](https://www.youtube.com/watch?v=VLPIFK3kO3c)】が公開されました。 -->
  <!-- * 1月23日（金）発売の『[プレジデント 2/13号](https://presidentstore.jp/category/MAGAZINE01/012604.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第17回）が掲載されます。テーマは「中国の「嫌がらせ」を止める方法はあるか？ 日中関係で知っておくべき残酷な事実」です。 -->
