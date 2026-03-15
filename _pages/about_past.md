@@ -11,7 +11,7 @@ author_profile: true
 <span style="color: red; ">最終更新日：2026年3月15日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
-
+ 
 ------ 
 ### 2026年
 * 2月27日（金）にNTT東日本「データ主導経済における通信事業戦略に関する研究会」（第3回・オンライン開催）に委員として出席します。
