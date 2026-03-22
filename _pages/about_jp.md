@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年3月15日</span>
+<span style="color: red; ">最終更新日：2026年3月23日</span>
 
 ------ 
 
@@ -33,11 +33,16 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
+* 4月23日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 4月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月8日（水）に財務省「日本の所得分配・再分配に関する研究会」（第7回）に委員として出席します。
 * 4月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月6日（月）から財務省にて財政経済理論研修の講師を務めます。担当科目は「上級ミクロ経済学」です。過去に同講義を担当していた時のウェブサイトは[こちら](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)になります。
+* 4月1日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月21日（土）にOISTで開催される第5回[esse-sense](https://esse-sense.com/)株主総会に出席します。
+* 3月21日（土）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[原油100ドル突破、ホルムズ海峡と半導体の危機](https://www.youtube.com/watch?v=zNj-M0ZSI-A)】が公開されました。
+  * （前日に公開された動画に未収録のシーンがあったため、21日に再アップロードされたものになります）
+* 3月20日（金・祝）にグランフロント大阪で開催される「[第13回ナレッジイノベーションアワード](https://kc-i.jp/activity/award/innovation/2025/)」最終選考会に選考委員として参加します。
 * 3月19日（木）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 3月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 3月11日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
