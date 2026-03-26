@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Professor** at the [National Institute for Graduate Studies (GRIPS)](https://www.grips.ac.jp/en/). I have a BA from the University of Tokyo and a **Ph.D.** from Princeton University.
+I am **Professor** at the [National Graduate Institute for Policy Studies (GRIPS)](https://www.grips.ac.jp/en/). I received my B.A. from the University of Tokyo and my **Ph.D.** from Princeton University.
 
 ## My Research
-I am a theoretical economist with a strong interest in applications. My research primarily focuses on Game Theory, Market Design, Industrial Organization, and Microeconomic Theory. I have published papers in top economics journals, including [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). As an editor/co-author/supervisor, I have published over **30** books. I have also contributed around **300** articles to newspapers, economic magazines, and online media.
+I am a theoretical economist with a strong interest in applied economic problems. My research primarily focuses on game theory, market design, and industrial organization. I have published in leading economics journals, including the [American Economic Review](https://www.aeaweb.org/journals/aer), [AEJ: Microeconomics](https://www.aeaweb.org/journals/mic), the [Journal of Economic Theory](https://www.sciencedirect.com/journal/journal-of-economic-theory), and the [RAND Journal of Economics](https://www.rje.org/), as well as leading journals in other fields such as [AAMAS](https://dl.acm.org/conference/aamas), [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), and [Scientific Reports](https://www.nature.com/srep/). I have contributed to over **30** books as an editor and co-author.
+I have also written around **300** articles for newspapers, economic magazines, and online media.
 
 ## Teaching 
 Below is the link to the courses that I have taught. On each page, you can download lecture slides, homework, solutions, etc.
@@ -82,4 +83,4 @@ Below is the link to the courses that I have taught. On each page, you can downl
 
 ------
 
-<span style="color: red; ">Last update: October 2025</span>
+<span style="color: red; ">Last update: March 2026</span>
