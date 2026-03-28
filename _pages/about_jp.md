@@ -300,6 +300,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 中学受験の過熱は止められるのか, 2026年3月24日.  [YouTube](https://www.youtube.com/watch?v=aKQyAEPD3Cs)
+* 原油100ドル突破、ホルムズ海峡と半導体の危機, 2026年3月21日.  [YouTube](https://www.youtube.com/watch?v=zNj-M0ZSI-A)
 * 玉木雄一郎｢消費減税｣はやるべきではない, 2026年2月27日.  [YouTube](https://www.youtube.com/watch?v=NBA6rNwVnxw)
 * なぜ私たちは｢高市圧勝｣を予測できなかった？, 2026年2月20日.  [YouTube](https://www.youtube.com/watch?v=xgnqmsEI0ms)
 * 政治家の「保険料逃れ」に国民激怒, 2026年1月27日.  [YouTube](https://www.youtube.com/watch?v=VT6HKRCWIik)
