@@ -154,9 +154,10 @@ author_profile: true
 9. Resolving Conflicting Preferences in School Choice: The "Boston Mechanism" Reconsidered (with Atila Abdulkadiroglu and Yeon-Koo Che), **American Economic Review**, Vol.101, No.1, pp.399-410, 2011. [Link](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399), [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465293) 
 
 ### 英語論文草稿（最近のもの）
-1. Robust Exchange (with Yuichiro Kamada)  *Coming Soon!*
-2. Tour Assignment Problems: Large A Theory of Two-sided Matching with Cancellations (with Toshiji Kawagoe)  *Coming Soon!*
-3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)
+1. Tour Assignment Problems: Large A Theory of Two-sided Matching with Cancellations (with Toshiji Kawagoe)  *Coming Soon!*
+2. Robust Exchange (with Yuichiro Kamada), 2025. [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)
+3. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025. [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)
+4. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)
   * Old version: Two-sided Matching with Common Priority (with Yuanju Fang), 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
 4. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
