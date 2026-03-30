@@ -41,6 +41,7 @@ author_profile: true
 * 4月1日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月27日（金）に日経BOOKプラス「[「この商品、いくらまで支払える？」本音を聞き出す最新テクニック](https://bookplus.nikkei.com/atcl/column/010700638/031600010/)」が掲載されました。
 * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。
+* 3月26日に「[Inspecting Cartels over Time: with and without Leniency Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)」（グレーヴァ香子さんとの共著）の改訂版をSSRNに公開しました。
 * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。
 * 3月21日（土）にOISTで開催される第5回[esse-sense](https://esse-sense.com/)株主総会に出席します。
 * 3月21日（土）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[原油100ドル突破、ホルムズ海峡と半導体の危機](https://www.youtube.com/watch?v=zNj-M0ZSI-A)】が公開されました。
