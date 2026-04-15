@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年3月30日</span>
+<span style="color: red; ">最終更新日：2026年4月15日</span>
 
 ------ 
 
@@ -33,11 +33,18 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
+* 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月23日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 4月17日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 4月15日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 4月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月10日（金）に日経BOOKプラス「[「ノーベル賞級の価格戦略」を裏側から読み解くと？](https://bookplus.nikkei.com/atcl/column/010700638/040100012/)」が掲載されました。
 * 4月8日（水）に財務省「日本の所得分配・再分配に関する研究会」（第7回）に委員として出席します。
 * 4月7日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月6日（月）から財務省にて財政経済理論研修の講師を務めます。担当科目は「上級ミクロ経済学」です。過去に同講義を担当していた時のウェブサイトは[こちら](https://sites.google.com/site/yosukeyasuda2/home/lectures/mof2015_grad-micro)になります。
+* 4月3日（金）に日経BOOKプラス「[「正直に答えないと損する」仕組みで最大価格を実現する](https://bookplus.nikkei.com/atcl/column/010700638/032500011/)」が掲載されました。
 * 4月1日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 3月31日（火）に総務省「電波有効利用委員会」（第12回）に委員としてオンライン出席します。
 * 3月27日（金）に日経BOOKプラス「[「この商品、いくらまで支払える？」本音を聞き出す最新テクニック](https://bookplus.nikkei.com/atcl/column/010700638/031600010/)」が掲載されました。
