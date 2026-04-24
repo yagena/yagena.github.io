@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年4月15日</span>
+<span style="color: red; ">最終更新日：2026年4月24日</span>
 
 ------ 
 
@@ -38,6 +38,7 @@ author_profile: true
 * 5月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月27日（月）に総務省「電波有効利用委員会」（第12回）に委員としてオンライン出席します。
 * 4月23日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 4月21日（火）に東京大学「近未来金融システム創造プログラム」 第2回講義に講師として登壇します。テーマは「資本主義と金融 2026」です。
 * 4月17日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 4月15日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 4月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
