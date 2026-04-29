@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年4月25日</span>
+<span style="color: red; ">最終更新日：2026年4月29日</span>
 
 ------ 
 
@@ -36,9 +36,12 @@ author_profile: true
 * 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 4月28日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「独身税」は独身者への罰なのか](https://www.youtube.com/watch?v=c9xDOneSAXA)】が公開されました。
+* 4月27日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[子どもを海外に出すべきか 東大→香港の衝撃](https://www.youtube.com/watch?v=_1OWA1Q3iDw)】が公開されました。
 * 4月27日（月）に総務省「電波有効利用委員会」（第12回）に委員としてオンライン出席します。
 * 4月25日（土）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[原油高「消費抑制策を」66%、経済学者調査　在宅勤務など供給減に備え](https://www.nikkei.com/article/DGXZQOCD220700S6A420C2000000/)」が掲載されました。
   * 記事の元になったパネル調査は日本経済研究センターの[こちらのページ](https://www.jcer.or.jp/policy-proposals/20260424-2.html)から閲覧することができます。
+* 4月24日（金）発売の『[プレジデント 5/15号](https://presidentstore.jp/category/MAGAZINE01/012610.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第20回）が掲載されます。テーマは「ガソリン200円時代でも補助金は逆効果…原油高騰で問われる高市政権の経済センス」です。
 * 4月24日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の通常総会およびエンジン塾に参加します。
 * 4月23日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 4月22日（水）に『[人の資本主義から読みとく現代社会: 生命と政治](https://www.utp.or.jp/book/b10159394.html)』（東京大学出版会、共著）が出版されました。第2章「感染症と経済学」担当および各章末の討議に貢献しています。
