@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年5月1日</span>
+<span style="color: red; ">最終更新日：2026年5月2日</span>
 
 ------ 
 
@@ -39,6 +39,7 @@ author_profile: true
 * 4月28日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「独身税」は独身者への罰なのか](https://www.youtube.com/watch?v=c9xDOneSAXA)】が公開されました。
 * 4月27日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[子どもを海外に出すべきか 東大→香港の衝撃](https://www.youtube.com/watch?v=_1OWA1Q3iDw)】が公開されました。
 * 4月27日（月）に総務省「電波有効利用委員会」（第12回）に委員としてオンライン出席します。
+* 4月25日（土）の生産性新聞に、エコノミクスデザイン社の共同創業者である星野、坂井との鼎談記事「学術的知見を企業の現場に」（【経済学×生産性の最前線】第1回）が掲載されました。[オンライン](https://jpc.jpc-net.jp/productivitynavi/productivityfrontline1_20260425/)（紙面の拡張版）でも公開されております。
 * 4月25日（土）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[原油高「消費抑制策を」66%、経済学者調査　在宅勤務など供給減に備え](https://www.nikkei.com/article/DGXZQOCD220700S6A420C2000000/)」が掲載されました。
   * 記事の元になったパネル調査は日本経済研究センターの[こちらのページ](https://www.jcer.or.jp/policy-proposals/20260424-2.html)から閲覧することができます。
 * 4月24日（金）発売の『[プレジデント 5/15号](https://presidentstore.jp/category/MAGAZINE01/012610.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第20回）が掲載されます。テーマは「ガソリン200円時代でも補助金は逆効果…原油高騰で問われる高市政権の経済センス」です。
