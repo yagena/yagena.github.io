@@ -637,9 +637,10 @@ author_profile: true
 
 ### インタビュー記事など
 
-1. 「クリエイティブファースト」が導く日本企業の新たなDX戦略, NEC, 2026年2月.  [Web](https://wisdom.nec.com/ja/feature/dxmanagement/2026042001/index.html)
-2. 文豪ゲーテも悩んだ「値段の決め方」。人の本音をあぶり出す、経済学という名の魔法, esse-sense, 2026年2月.  [Web](https://esse-sense.com/news/79)
-3. インフレ時代の値付けを経済学で科学する（冨山和彦氏、星野崇宏氏との鼎談・全3回）, 日経BOOKプラス, 2026年2月.  [Web](https://bookplus.nikkei.com/atcl/column/012600651/)」
+1. 学術的知見を企業の現場に, 「経済学×生産性の最前線」第1回, 生産性新聞, 4月25日, 2026年.  [Web](https://jpc.jpc-net.jp/productivitynavi/productivityfrontline1_20260425/)
+2. 「クリエイティブファースト」が導く日本企業の新たなDX戦略, NEC, 2026年4月.  [Web](https://wisdom.nec.com/ja/feature/dxmanagement/2026042001/index.html)
+3. 文豪ゲーテも悩んだ「値段の決め方」。人の本音をあぶり出す、経済学という名の魔法, esse-sense, 2026年2月.  [Web](https://esse-sense.com/news/79)
+4. インフレ時代の値付けを経済学で科学する（冨山和彦氏、星野崇宏氏との鼎談・全3回）, 日経BOOKプラス, 2026年2月.  [Web](https://bookplus.nikkei.com/atcl/column/012600651/)」
   * 第1回 (2/9) --- [冨山和彦「安く作り安く売る」はもはや悪徳である](https://bookplus.nikkei.com/atcl/column/012600651/012600001/)
   * 第2回 (2/10) --- [冨山和彦　個別最適で損している人が持てていない「積分」思考](https://bookplus.nikkei.com/atcl/column/012600651/012600002/)
   * 第3回 (2/12) --- [日本のホワイトカラーは絶滅目前？　文豪ゲーテに学べ](https://bookplus.nikkei.com/atcl/column/012600651/012600003/)
