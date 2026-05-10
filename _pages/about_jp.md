@@ -35,6 +35,8 @@ author_profile: true
 
 * 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月12日（火）に東京大学の「[ミクロ理論ワークショップ](https://www.mdc.e.u-tokyo.ac.jp/the-microeconomic-theory-workshop/)」に報告者として登壇します。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」（鎌田雄一郎さんとの共著）です。
+* 5月11日（月）に金融庁「第8回 金融行政に関する意見交換会」に対面参加します。
 * 5月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月28日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「独身税」は独身者への罰なのか](https://www.youtube.com/watch?v=c9xDOneSAXA)】が公開されました。
 * 4月27日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[子どもを海外に出すべきか 東大→香港の衝撃](https://www.youtube.com/watch?v=_1OWA1Q3iDw)】が公開されました。
