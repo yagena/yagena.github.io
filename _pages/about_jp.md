@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年5月11日</span>
+<span style="color: red; ">最終更新日：2026年5月26日</span>
 
 ------ 
 
@@ -33,6 +33,16 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
+* 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月4日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会（5月分）に参加します。
+* 6月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月22日（金）発売の『[プレジデント 6/12号](https://presidentstore.jp/category/MAGAZINE01/012612.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第21回）が掲載されます。テーマは「気鋭の東大准教授は「年収3倍」で香港へ移籍　研究費でPC1台すら買えない日本の大学の苦しさ」です。
+* 5月28日（木）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 5月26日（火）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
+* 5月25日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 5月23日（土）、24日（日）に大阪公立大学で開催された2026年度日本経済学会春季大会に参加しました。
 * 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月12日（火）に東京大学の「[ミクロ理論ワークショップ](https://www.mdc.e.u-tokyo.ac.jp/the-microeconomic-theory-workshop/)」に報告者として登壇します。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」（鎌田雄一郎さんとの共著）です。
@@ -49,6 +59,7 @@ author_profile: true
 * 4月23日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 4月22日（水）に『[人の資本主義から読みとく現代社会: 生命と政治](https://www.utp.or.jp/book/b10159394.html)』（東京大学出版会、共著）が出版されました。第2章「感染症と経済学」担当および各章末の討議に貢献しています。
 * 4月21日（火）に東京大学「近未来金融システム創造プログラム」 第2回講義に講師として登壇します。テーマは「資本主義と金融 2026」です。
+* 4月20日（月）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 4月20日（月）にNECから[「クリエイティブファースト」が導く日本企業の新たなDX戦略](https://wisdom.nec.com/ja/feature/dxmanagement/2026042001/index.html)というインタビュー記事が公開されました。
 * 4月17日（金）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
 * 4月15日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
