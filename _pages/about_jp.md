@@ -46,6 +46,7 @@ author_profile: true
 * 5月23日（土）、24日（日）に大阪公立大学で開催された2026年度日本経済学会[春季大会](https://pub.confit.atlas.jp/ja/event/jea2026s)に参加しました。
 * 5月22日（金）発売の『[プレジデント 6/12号](https://presidentstore.jp/category/MAGAZINE01/012612.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第21回）が掲載されます。テーマは「気鋭の東大准教授は「年収3倍」で香港へ移籍　研究費でPC1台すら買えない日本の大学の苦しさ」です。
 * 5月20日（水）にGRIPSランチタイムセミナー（[5月開催分](https://www.grips.ac.jp/en/seminars/20260511-00537/)）にオーガナイザー兼モデレーターとして参加しました。
+  * 収録動画が[YouTube](https://www.youtube.com/watch?v=2KkPdZY1fDg)に公開されました！
 * 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月12日（火）に東京大学の「[ミクロ理論ワークショップ](https://www.mdc.e.u-tokyo.ac.jp/the-microeconomic-theory-workshop/)」に報告者として登壇します。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」（鎌田雄一郎さんとの共著）です。
