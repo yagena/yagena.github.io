@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年5月26日</span>
+<span style="color: red; ">最終更新日：2026年6月9日</span>
 
 ------ 
 
@@ -295,6 +295,10 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* AI失業／「ギュラれる時代」に何を学ぶべきか, 2026年6月4日.  [YouTube](https://www.youtube.com/watch?v=SJg4oWg_rmE)
+* 公立高校が消える日／高校「完全無償化」の副作用, 2026年6月3日.  [YouTube](https://www.youtube.com/watch?v=igozdQSIwjo)
+* 「独身税」は独身者への罰なのか, 2026年4月28日.  [YouTube](https://www.youtube.com/watch?v=c9xDOneSAXA) 
+* 子どもを海外に出すべきか 東大→香港の衝撃, 2026年4月27.  [YouTube](https://www.youtube.com/watch?v=_1OWA1Q3iDw)
 * 中学受験の過熱は止められるのか, 2026年3月24日.  [YouTube](https://www.youtube.com/watch?v=aKQyAEPD3Cs)
 * 原油100ドル突破、ホルムズ海峡と半導体の危機, 2026年3月21日.  [YouTube](https://www.youtube.com/watch?v=zNj-M0ZSI-A)
 * 玉木雄一郎｢消費減税｣はやるべきではない, 2026年2月27日.  [YouTube](https://www.youtube.com/watch?v=NBA6rNwVnxw)
