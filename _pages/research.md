@@ -34,16 +34,16 @@ June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))  <span style="color: blue;">New!</span>
 2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)  <span style="color: blue;">New!</span>
 3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)  <span style="color: blue;">New!</span>
-  * Old version: Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
+  * Old version (2): Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
+  * Old version (1): Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551) 
 2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
   * Old version: Squid Voting Game: Rational Indecisiveness in Sequential Voting (with Yuichiro Kamada), 2022.
-3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062) 
+3. Inspecting Cartels over Time: with and without Leniency Program (with Takako Fujiwara-Greve), 2022.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4063062)  -- *under review*
   * Received the **Graeme Woodbridge Prize** (the best antitrust paper) from the [APIOC 2022 conference](https://apios.org.au/apioc-2022/).
-4. Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551)   
 5. Misalignment between Test Scores and Colleges' Preferences: Chinese College Admission Reconsidered (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914742)  
 6. A Lattice-Theoretical Optimization Approach to Nash Equilibria in Two-Person Games, 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620861) 
   * Old version: Reformulation of Nash Equilibrium with an Application to Interchangeability, 2015.
-8. On The Folk Theorem in Self-Sustained Communities (with Takako Fujiwara-Greve), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767) -- *under review*
+8. On The Folk Theorem in Self-Sustained Communities (with Takako Fujiwara-Greve), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3879767)
   * Old version: The Folk Theorem in Repeated Games with Endogenous Termination, 2018.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267427)
 9. A Simple Economics of Inequality: Market Design Approach, 2017.
   * Old version: Competitive Market Achieves the Greatest Happiness of the Minimum Number, 2016.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2755893) 
