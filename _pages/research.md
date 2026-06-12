@@ -31,9 +31,9 @@ June, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4592166)
 3. Essays in Theoretical Industrial Organization, Ph.D. Thesis, ***Princeton University***, September, 2007.
 
 ## Working Papers
-1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))  <span style="color: blue;">New!</span>
-2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)  <span style="color: blue;">New!</span>
-3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)  <span style="color: blue;">New!</span>
+1. Robust Exchange (with Yuichiro Kamada), 2025.  WP ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459); [UTMD](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/7630/))  <span style="color: blue;">
+2. Robust Exchange under Single-Peaked Preferences (with Yuichiro Kamada), 2025.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124793)  <span style="color: blue;">
+3. Double Stability in Two-Sided Matching: Priority and Preference in Harmony (with Yuanju Fang), 2025.  [WP (UTMD)](https://www.mdc.e.u-tokyo.ac.jp/en/news-en/5409/)  <span style="color: blue;">
   * Old version (2): Two-sided Matching with Common Priority, 2024.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950179)
   * Old version (1): Matching with Subjective and Objective Evaluations (with Yuanju Fang), 2021.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3914551) 
 2. Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters (with Yuichiro Kamada), 2023.  [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238134) 
