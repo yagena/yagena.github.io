@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年6月9日</span>
+<span style="color: red; ">最終更新日：2026年6月13日</span>
 
 ------ 
 
@@ -37,6 +37,7 @@ author_profile: true
 * 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月17日（水）にGRIPSランチタイムセミナー（[6月開催分](https://www.grips.ac.jp/en/seminars/20260603-00551/)）にオーガナイザー兼モデレーターとして参加します。
 * 6月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 6月13日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「経済学で考える複雑化する社会〜戦略・成長・多元性」です。
 * 6月4日（木）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会（5月分）に参加します。
 * 6月4日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[AI失業／「ギュラれる時代」に何を学ぶべきか](https://www.youtube.com/watch?v=SJg4oWg_rmE)】が公開されました。
 * 6月3日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[公立高校が消える日／高校「完全無償化」の副作用](https://www.youtube.com/watch?v=igozdQSIwjo)】が公開されました。
