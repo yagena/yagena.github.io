@@ -35,8 +35,10 @@ author_profile: true
 
 * 7月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 7月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月15日（水）にGRIPSランチタイムセミナー（7月開催分）にオーガナイザー兼モデレーターとして参加します。
 * 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
+* 7月1日（水）～3日（金）にパリのNYUパリ校で開催される「MATCH-UP 2026 – 8th International Workshop on Matching」に報告者として参加します。報告論文は[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459) (with Yuichiro Kamada)です。
 * 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月24日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。
 * 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
