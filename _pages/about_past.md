@@ -8,12 +8,26 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年4月15日</span>
+<span style="color: red; ">最終更新日：2026年6月18日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
  
 ------ 
 ### 2026年
+* 5月29日（金）にNTT西日本「メディア融合研究会」（第1回）に委員として出席します
+* 5月28日（木）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 5月27日（水）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
+* 5月26日（火）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
+* 5月25日（月）に内閣府「国家戦略特区ワーキンググループ」ヒアリングに委員としてオンライン出席します。
+* 5月23日（土）、24日（日）に大阪公立大学で開催された2026年度日本経済学会[春季大会](https://pub.confit.atlas.jp/ja/event/jea2026s)に参加しました。
+* 5月22日（金）発売の『[プレジデント 6/12号](https://presidentstore.jp/category/MAGAZINE01/012612.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第21回）が掲載されます。テーマは「気鋭の東大准教授は「年収3倍」で香港へ移籍　研究費でPC1台すら買えない日本の大学の苦しさ」です。
+* 5月20日（水）にGRIPSランチタイムセミナー（[5月開催分](https://www.grips.ac.jp/en/seminars/20260511-00537/)）にオーガナイザー兼モデレーターとして参加しました。
+  * 収録動画が[YouTube](https://www.youtube.com/watch?v=2KkPdZY1fDg)に公開されました！
+* 5月19日（火）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 5月19日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 5月12日（火）に東京大学の「[ミクロ理論ワークショップ](https://www.mdc.e.u-tokyo.ac.jp/the-microeconomic-theory-workshop/)」に報告者として登壇します。報告論文は「[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459)」（鎌田雄一郎さんとの共著）です。
+* 5月11日（月）に金融庁「第8回 金融行政に関する意見交換会」に対面参加します。
+* 5月5日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 4月28日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「独身税」は独身者への罰なのか](https://www.youtube.com/watch?v=c9xDOneSAXA)】が公開されました。
 * 4月27日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[子どもを海外に出すべきか 東大→香港の衝撃](https://www.youtube.com/watch?v=_1OWA1Q3iDw)】が公開されました。
 * 4月27日（月）に総務省「電波有効利用委員会」（第12回）に委員としてオンライン出席します。
