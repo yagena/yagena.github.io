@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年6月13日</span>
+<span style="color: red; ">最終更新日：2026年6月18日</span>
 
 ------ 
 
@@ -33,7 +33,9 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
-
+* 7月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
 * 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
