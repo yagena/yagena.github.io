@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年6月22日</span>
+<span style="color: red; ">最終更新日：2026年6月28日</span>
 
 ------ 
 
@@ -43,7 +43,11 @@ author_profile: true
 * 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
 * 7月1日（水）～3日（金）にパリのNYUパリ校で開催される「MATCH-UP 2026 – 8th International Workshop on Matching」に報告者として参加します。報告論文は[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459) (with Yuichiro Kamada)です。
 * 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 6月27日（土）に毎日新聞（オンライン）に、「[最難関・筑駒中→東大卒の学者が息子に中学受験をさせなかった訳](https://mainichi.jp/articles/20260624/k00/00m/100/116000c)」というインタビュー記事が公開されました。
+* 6月27日（土）に[日本ソーシャルデータサイエンス学会](https://www.jsdss.org/)の総会に理事として参加します。
 * 6月26日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。
+* 6月26日（金）発売の『[プレジデント 7/17号](https://presidentstore.jp/category/MAGAZINE01/012614.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第22回）が掲載されます。テーマは「「完全無償化」で公立高校が消滅する…兵庫・愛知・福岡で始まった定員割れの連鎖」です。
+* 「完全無償化」で公立高校が消滅する…兵庫・愛知・福岡で始まった定員割れの連鎖
 * 6月24日（木）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月20日（土）に多摩大学「[知のエグゼクティブサロン](https://www.tama-csm.org/executive/)」（第3回）にリソースパーソンとして参加します。テーマは「資本主義／経済／経営」です。
