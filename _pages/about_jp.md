@@ -59,14 +59,6 @@ author_profile: true
 * 6月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 6月17日（水）にGRIPSランチタイムセミナー（[6月開催分](https://www.grips.ac.jp/en/seminars/20260603-00551/)）にオーガナイザー兼モデレーターとして参加します。
   * 収録動画「Japan's Maritime Assistance to ASEAN and the Practice of Maritime Economic Diplomacy」が[YouTube](https://www.youtube.com/watch?v=js4Cd_PsrU0)に公開されました！
-* 6月16日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 6月13日（土）に「立命館西園寺塾」に講師として登壇します！テーマは「経済学で考える複雑化する社会〜戦略・成長・多元性」です。
-* 6月13日（土）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[出生率は上げられるか、経済学者50人の見方　現金支給への支持薄く](https://www.nikkei.com/article/DGXZQOCD0962G0Z00C26A6000000/)」が掲載されました。
-  * 記事の元になったパネル調査は日本経済研究センターの[こちら](https://www.jcer.or.jp/policy-proposals/20260612.html)のページから閲覧することができます。
-* 6月4日（木）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会（5月分）に参加します。
-* 6月4日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[AI失業／「ギュラれる時代」に何を学ぶべきか](https://www.youtube.com/watch?v=SJg4oWg_rmE)】が公開されました。
-* 6月3日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[公立高校が消える日／高校「完全無償化」の副作用](https://www.youtube.com/watch?v=igozdQSIwjo)】が公開されました。
-* 6月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
@@ -311,6 +303,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 「生涯現役」は幸せか、働かされているだけなのか, 2026年7月1日.  [YouTube](https://www.youtube.com/watch?v=1nRRF_XRkZo)
+* 「106万円の壁」が消える日／本当に怖い「年収の壁」, 2026年6月30日.  [YouTube](https://www.youtube.com/watch?v=zhChnSTdIAQ)
 * AI失業／「ギュラれる時代」に何を学ぶべきか, 2026年6月4日.  [YouTube](https://www.youtube.com/watch?v=SJg4oWg_rmE)
 * 公立高校が消える日／高校「完全無償化」の副作用, 2026年6月3日.  [YouTube](https://www.youtube.com/watch?v=igozdQSIwjo)
 * 「独身税」は独身者への罰なのか, 2026年4月28日.  [YouTube](https://www.youtube.com/watch?v=c9xDOneSAXA) 
@@ -365,6 +359,7 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+* 今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛, 楽天大学ラボ, 2026年7月3日.  [YouTube](https://www.youtube.com/watch?v=SPqIGS8A_xU)
 * 経済成長の条件 ノーベル経済学賞を徹底解説, PIVOT TALK BUSINESS, 2025年10月17日.  [PIVOT](https://pivotmedia.co.jp/movie/13522)  [YouTube](https://www.youtube.com/watch?v=dIzZNMS5w_s)
 * 資本主義と空気の価値〜市場・国家・社会的共通資本〜, 2025年3月25日.  [YouTube](https://www.youtube.com/watch?v=24fo9lMHRn4) 
 * エンジン01 in 和歌山有田 「経済日本沈没 どう救う？」　イク モハメッド／夏野剛／松本大／安田洋祐, 2024年12月11日.  [YouTube](https://www.youtube.com/watch?v=BmAswJIMUSM)
