@@ -38,7 +38,7 @@ author_profile: true
 * 7月22日（水）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
 * 7月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月18日（土）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「「経済学的知見を活用し、社会を洞察する」」です。
-* 7月15日（水）にGRIPSランチタイムセミナー（7月開催分）にオーガナイザー兼モデレーターとして参加します。
+* 7月15日（水）にGRIPSランチタイムセミナー（[7月開催分](https://www.grips.ac.jp/jp/seminars/20260630-00563/)）にオーガナイザー兼モデレーターとして参加します。
 * 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］円安はもう止まらないのか？／円の実力は1970年代にまで落ちた](https://www.youtube.com/watch?v=-CWjXFsuoew)】が公開されました。
 * 7月9日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？](https://www.youtube.com/watch?v=XeUdMZhC03Q)】が公開されました。
@@ -46,22 +46,8 @@ author_profile: true
 * 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、特別ランチセッション「経営幹部の『武器』としての経済学」をテーマに講師として登壇します。
 * 7月3日（金）にYouTubeにて楽天大学ラボ「[今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛](https://www.youtube.com/watch?v=SPqIGS8A_xU)」が公開されました。
 * 7月1日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「生涯現役」は幸せか、働かされているだけなのか](https://www.youtube.com/watch?v=1nRRF_XRkZo)】が公開されました。
-* 6月30日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「106万円の壁」が消える日／本当に怖い「年収の壁」とは](https://www.youtube.com/watch?v=zhChnSTdIAQ)】が公開されました。
 * 7月1日（水）～3日（金）にパリのNYUパリ校で開催される「MATCH-UP 2026 – 8th International Workshop on Matching」に報告者として参加します。報告論文は[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459) (with Yuichiro Kamada)です。
-* 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 6月27日（土）に毎日新聞（オンライン）に、「[最難関・筑駒中→東大卒の学者が息子に中学受験をさせなかった訳](https://mainichi.jp/articles/20260624/k00/00m/100/116000c)」というインタビュー記事が公開されました。
-* 6月27日（土）に[日本ソーシャルデータサイエンス学会](https://www.jsdss.org/)の総会に理事として参加します。
-* 6月26日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。
-* 6月26日（金）発売の『[プレジデント 7/17号](https://presidentstore.jp/category/MAGAZINE01/012614.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第22回）が掲載されます。テーマは「「完全無償化」で公立高校が消滅する…兵庫・愛知・福岡で始まった定員割れの連鎖」です。
-* 6月25日（金）の生産性新聞に、「社会的価値を可視化」（【経済学×生産性の最前線】第3回、野際大介氏との共著）が掲載されました。
-  * 7月1日に[オンライン版](https://jpc.jpc-net.jp/productivitynavi/productivityfrontline3_20260625/)の記事も公開されました！
-* 6月24日（木）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 6月20日（土）に多摩大学「[知のエグゼクティブサロン](https://www.tama-csm.org/executive/)」（第3回）にリソースパーソンとして参加します。テーマは「資本主義／経済／経営」です。
-* 6月19日（金）に総務省「電波有効利用委員会」（第14回）に委員としてオンライン出席します。
-* 6月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
-* 6月17日（水）にGRIPSランチタイムセミナー（[6月開催分](https://www.grips.ac.jp/en/seminars/20260603-00551/)）にオーガナイザー兼モデレーターとして参加します。
-  * 収録動画「Japan's Maritime Assistance to ASEAN and the Practice of Maritime Economic Diplomacy」が[YouTube](https://www.youtube.com/watch?v=js4Cd_PsrU0)に公開されました！
+* 6月30日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「106万円の壁」が消える日／本当に怖い「年収の壁」とは](https://www.youtube.com/watch?v=zhChnSTdIAQ)】が公開されました。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
