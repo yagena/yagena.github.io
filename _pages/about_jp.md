@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年7月4日</span>
+<span style="color: red; ">最終更新日：2026年7月11日</span>
 
 ------ 
 
@@ -40,7 +40,10 @@ author_profile: true
 * 7月18日（土）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「「経済学的知見を活用し、社会を洞察する」」です。
 * 7月15日（水）にGRIPSランチタイムセミナー（7月開催分）にオーガナイザー兼モデレーターとして参加します。
 * 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、分科会B「付加価値創出の実現」のモデレーターとして登壇します。
+* 7月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］円安はもう止まらないのか？／円の実力は1970年代にまで落ちた](https://www.youtube.com/watch?v=-CWjXFsuoew)】が公開されました。
+* 7月9日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？](https://www.youtube.com/watch?v=XeUdMZhC03Q)】が公開されました。
+* 7月9日（木）にYouTubeにてacademist【[人文知で社会は変わるのか？（第7回：株式会社エコノミクスデザイン 安田洋祐さん](https://www.youtube.com/watch?v=uOCCe9yjMlI)】が公開されました。
+* 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、特別ランチセッション「経営幹部の『武器』としての経済学」をテーマに講師として登壇します。
 * 7月3日（金）にYouTubeにて楽天大学ラボ「[今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛](https://www.youtube.com/watch?v=SPqIGS8A_xU)」が公開されました。
 * 7月1日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「生涯現役」は幸せか、働かされているだけなのか](https://www.youtube.com/watch?v=1nRRF_XRkZo)】が公開されました。
 * 6月30日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「106万円の壁」が消える日／本当に怖い「年収の壁」とは](https://www.youtube.com/watch?v=zhChnSTdIAQ)】が公開されました。
