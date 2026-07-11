@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年7月4日</span>
+<span style="color: red; ">最終更新日：2026年7月11日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
  
