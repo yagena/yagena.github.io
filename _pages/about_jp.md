@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年7月11日</span>
+<span style="color: red; ">最終更新日：2026年7月13日</span>
 
 ------ 
 
@@ -40,6 +40,7 @@ author_profile: true
 * 7月18日（土）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「「経済学的知見を活用し、社会を洞察する」」です。
 * 7月15日（水）にGRIPSランチタイムセミナー（[7月開催分](https://www.grips.ac.jp/jp/seminars/20260630-00563/)）にオーガナイザー兼モデレーターとして参加します。
 * 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月13日（月）にテレ東BIZ「月曜マネーLIVE」にコメンテーターとして出演します。
 * 7月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］円安はもう止まらないのか？／円の実力は1970年代にまで落ちた](https://www.youtube.com/watch?v=-CWjXFsuoew)】が公開されました。
 * 7月9日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？](https://www.youtube.com/watch?v=XeUdMZhC03Q)】が公開されました。
 * 7月9日（木）にYouTubeにてacademist【[人文知で社会は変わるのか？（第7回：株式会社エコノミクスデザイン 安田洋祐さん](https://www.youtube.com/watch?v=uOCCe9yjMlI)】が公開されました。
