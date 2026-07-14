@@ -67,6 +67,32 @@ author_profile: true
 
 ### 過去のお知らせは[こちら](https://yagena.github.io/past/)をご覧ください。
 
+### 活動報告（X）
+
+* 2026年
+  * [その1](https://x.com/yagena/status/2013174157068931316) -- 1-2月.
+  * [その2](https://x.com/yagena/status/2028838701934248101) -- 3-4月.
+  * [その3](https://x.com/yagena/status/2050049717846110589) -- 5-6月.
+  * [その4](https://x.com/yagena/status/2073575844224930050) -- 7-8月.
+* 2025年
+  * [その1](https://x.com/yagena/status/1875371071123419416) -- 1-2月. 
+  * [その2](https://x.com/yagena/status/1896807607970734100) -- 3-4月.
+  * [その3](https://x.com/yagena/status/1918935903625412728) -- 5-6月.
+  * [その4](https://x.com/yagena/status/1940054740324557195) -- 7-8月.
+  * [その5](https://x.com/yagena/status/1970308401403174992) -- 9-10月. 
+  * [その6](https://x.com/yagena/status/1982978458289586650) -- 11-12月.
+* 2024年
+  * [その1](https://x.com/yagena/status/1745566354357526999) -- 1-2月.
+  * [その2](https://x.com/yagena/status/1777322632280727669) -- 3-4月.
+  * [その3](https://x.com/yagena/status/1801874811662254335) -- 5-6月.
+  * [その4](https://x.com/yagena/status/1820976217509745108) -- 7-8月.
+  * [その5](https://x.com/yagena/status/1840742237337956443) -- 9-10月.
+  * [その6](https://x.com/yagena/status/1863194485712384233) -- 11-12月.
+* 2023年
+  * [その1](https://x.com/yagena/status/1612228085008699392) -- 1-4月.
+  * [その2](https://x.com/yagena/status/1653219426983108610) -- 5-8月.
+  * [その3](https://x.com/yagena/status/1700861435650482468) -- 9-12月.  
+
 ------ 
 
 ## パーソナル
