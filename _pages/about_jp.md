@@ -41,7 +41,7 @@ author_profile: true
 * ~7月15日（水）にGRIPSランチタイムセミナー（[7月開催分](https://www.grips.ac.jp/jp/seminars/20260630-00563/)）にオーガナイザー兼モデレーターとして参加します。~
   * 講師のやむを得ない事情により延期させていただくことになりました。
 * 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 7月13日（月）にテレ東BIZ「月曜マネーLIVE」にコメンテーターとして出演します。
+* 7月13日（月）にテレ東BIZ「月曜マネーLIVE」にコメンテーターとして出演します。YouTube動画は[こちら](https://www.youtube.com/watch?v=l0ZAEjNkKho)。
 * 7月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］円安はもう止まらないのか？／円の実力は1970年代にまで落ちた](https://www.youtube.com/watch?v=-CWjXFsuoew)】が公開されました。
 * 7月9日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？](https://www.youtube.com/watch?v=XeUdMZhC03Q)】が公開されました。
 * 7月9日（木）にYouTubeにてacademist【[人文知で社会は変わるのか？（第7回：株式会社エコノミクスデザイン 安田洋祐さん](https://www.youtube.com/watch?v=uOCCe9yjMlI)】が公開されました。
@@ -320,6 +320,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 【河野龍太郎】円安はもう止まらないのか？／円の実力は1970年代にまで落ちた, 2026年7月10日.  [YouTube](https://www.youtube.com/watch?v=-CWjXFsuoew)
+* 【河野龍太郎】生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？, 2026年7月9日.  [YouTube](https://www.youtube.com/watch?v=XeUdMZhC03Q)
 * 「生涯現役」は幸せか、働かされているだけなのか, 2026年7月1日.  [YouTube](https://www.youtube.com/watch?v=1nRRF_XRkZo)
 * 「106万円の壁」が消える日／本当に怖い「年収の壁」, 2026年6月30日.  [YouTube](https://www.youtube.com/watch?v=zhChnSTdIAQ)
 * AI失業／「ギュラれる時代」に何を学ぶべきか, 2026年6月4日.  [YouTube](https://www.youtube.com/watch?v=SJg4oWg_rmE)
@@ -376,6 +378,7 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+* 株価5割減も…オリエンタルランドの「高コスト体質」を救う次の一手は？, 月曜マネーLIVE, 2026年7月13日.  [YouTube](https://www.youtube.com/watch?v=l0ZAEjNkKho)
 * 今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛, 楽天大学ラボ, 2026年7月3日.  [YouTube](https://www.youtube.com/watch?v=SPqIGS8A_xU)
 * 経済成長の条件 ノーベル経済学賞を徹底解説, PIVOT TALK BUSINESS, 2025年10月17日.  [PIVOT](https://pivotmedia.co.jp/movie/13522)  [YouTube](https://www.youtube.com/watch?v=dIzZNMS5w_s)
 * 資本主義と空気の価値〜市場・国家・社会的共通資本〜, 2025年3月25日.  [YouTube](https://www.youtube.com/watch?v=24fo9lMHRn4) 
