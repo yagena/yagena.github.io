@@ -8,12 +8,28 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年7月11日</span>
+<span style="color: red; ">最終更新日：2026年7月26日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
  
 ------ 
 ### 2026年
+* 7月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月20日（月）に出版された『ファイナンス』（7月号）に「[「人材マネジメントと組織開発に関するワークショップ」座談会1
+～変わる働き方、変わる組織～](https://www.mof.go.jp/public_relations/finance/202607/202607q.html#article)」（宮本弘暁氏、大内伸哉氏、上田淳二氏との座談会）が掲載されました。
+* 7月18日（土）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「「経済学的知見を活用し、社会を洞察する」」です。
+* ~~7月15日（水）にGRIPSランチタイムセミナー（[7月開催分](https://www.grips.ac.jp/jp/seminars/20260630-00563/)）にオーガナイザー兼モデレーターとして参加します。~~
+  * 講師のやむを得ない事情により延期させていただくことになりました。
+* 7月14日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月13日（月）にテレ東BIZ「月曜マネーLIVE」にコメンテーターとして出演します。YouTube動画は[こちら](https://www.youtube.com/watch?v=l0ZAEjNkKho)。
+* 7月10日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］円安はもう止まらないのか？／円の実力は1970年代にまで落ちた](https://www.youtube.com/watch?v=-CWjXFsuoew)】が公開されました。
+* 7月9日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[［河野龍太郎］生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？](https://www.youtube.com/watch?v=XeUdMZhC03Q)】が公開されました。
+* 7月9日（木）にYouTubeにてacademist【[人文知で社会は変わるのか？（第7回：株式会社エコノミクスデザイン 安田洋祐さん](https://www.youtube.com/watch?v=uOCCe9yjMlI)】が公開されました。
+* 7月8日（水）、9日（木）に開催される「[第69回　軽井沢トップ・マネジメント・セミナー](https://www.jpc-net.jp/seminar/detail/002628.html)」に、特別ランチセッション「経営幹部の『武器』としての経済学」をテーマに講師として登壇します。
+* 7月3日（金）にYouTubeにて楽天大学ラボ「[今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛](https://www.youtube.com/watch?v=SPqIGS8A_xU)」が公開されました。
+* 7月1日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「生涯現役」は幸せか、働かされているだけなのか](https://www.youtube.com/watch?v=1nRRF_XRkZo)】が公開されました。
+* 7月1日（水）～3日（金）にパリのNYUパリ校で開催される「MATCH-UP 2026 – 8th International Workshop on Matching」に報告者として参加します。報告論文は[Robust Exchange](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500459) (with Yuichiro Kamada)です。
+* 6月30日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[「106万円の壁」が消える日／本当に怖い「年収の壁」とは](https://www.youtube.com/watch?v=zhChnSTdIAQ)】が公開されました。
 * 6月29日（月）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 6月27日（土）に毎日新聞（オンライン）に、「[最難関・筑駒中→東大卒の学者が息子に中学受験をさせなかった訳](https://mainichi.jp/articles/20260624/k00/00m/100/116000c)」というインタビュー記事が公開されました。
 * 6月27日（土）に[日本ソーシャルデータサイエンス学会](https://www.jsdss.org/)の総会に理事として参加します。
