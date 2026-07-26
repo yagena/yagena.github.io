@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年7月17日</span>
+<span style="color: red; ">最終更新日：2026年7月26日</span>
 
 ------ 
 
@@ -33,9 +33,21 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
+<!-- * 9月25日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。 -->
+* 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 7月31日（金）～8月2日（日）にハノイ（ベトナム）で開催される[AMES2026](https://ames2026.sciencesconf.org/)に参加します。
+* 7月30日（木）に[esse-sense](https://esse-sense.com/)臨時株主総会に出席します。
 * 7月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 7月24日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。
+* 7月24日（金）発売の『[プレジデント 8/14号](https://presidentstore.jp/category/MAGAZINE01/012616.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第23回）が掲載されます。テーマは「「専業主婦は優遇されすぎ」という誤解…“主婦年金”の縮小論が見落とす残酷な現実」です。
+* 7月24日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会にオンライン参加します。
+* 7月22日（水）に虎ノ門ヒルズにてGlass Rock Partners Program（第7回）にパネリストとして登壇しました。テーマは「[ゼブラ企業を経済学から紐解く](https://www.glass-rock.com/news-detail-260722-1500.html)」です。
 * 7月22日（水）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
+* 7月21日（火）の毎日新聞（夕刊）に「中学受験『本人の意思』次第」というインタビュー記事が掲載されました。
+  * 6月27日に公開された毎日新聞デジタルの[記事](https://mainichi.jp/articles/20260624/k00/00m/100/116000c)の転載になります。
 * 7月21日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 7月18日（土）に[九州・アジア経営塾](https://kail.jp/)が主催する碧樹館プログラムに講師として登壇します。テーマは「「経済学的知見を活用し、社会を洞察する」」です。
 * ~~7月15日（水）にGRIPSランチタイムセミナー（[7月開催分](https://www.grips.ac.jp/jp/seminars/20260630-00563/)）にオーガナイザー兼モデレーターとして参加します。~~
