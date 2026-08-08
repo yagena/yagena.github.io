@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年7月26日</span>
+<span style="color: red; ">最終更新日：2026年8月8日</span>
 
 ------ 
 
@@ -34,14 +34,19 @@ author_profile: true
 <!-- コメントアウトの方法 -->
 
 <!-- * 9月25日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。 -->
+
+* 9月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月26日（水）〜28日（金）に沖縄大学で開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
 * 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月23日（日）になんぷろ主催の特別講演会「[難関大学で求められる“考える力”とは？ ゲーム理論で学ぶ、未来を選ぶための思考法](https://www.nam-pro.com/event/post-422/)」に講師として登壇します。
+* 8月20日（木）-22日（土）に開催される[高野山会議2026](https://www.brain.rcast.u-tokyo.ac.jp/koyasan/koyasan2026/)に参加します。
+  * 2日目のセッション3「Why war? ひとはなぜ戦争をするのか？」（高野山大学黎明館）にパネリストとして登壇します。
 * 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月7日（金）に長野県信連主催「長野県ＪＡバンク信用事業トップセミナー」に講師として登壇します。テーマは「日本経済の問題とチャンス －今こそゲーム理論を活用せよ－」です。
+* 8月7日（金）に[長野県信連](https://www.naganoken-jabank.or.jp/kenshinren/)主催「長野県ＪＡバンク信用事業トップセミナー」に講師として登壇します。テーマは「日本経済の問題とチャンス －今こそゲーム理論を活用せよ－」です。
 * 7月31日（金）～8月2日（日）にハノイ（ベトナム）で開催される[AMES2026](https://ames2026.sciencesconf.org/)に参加します。
 * 7月30日（木）に[esse-sense](https://esse-sense.com/)臨時株主総会に出席します。
 * 7月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
