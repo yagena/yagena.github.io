@@ -667,7 +667,7 @@ author_profile: true
   * [ESWC2025](https://www.eswc2025.org/), ソウル, 2025年8月 
   * [UECE Lisbon Meeting](https://www.lisbonmeetings.com/), リスボン, 2025年6月
   * [15th East Asia Theory Conference](https://www.hkubs.hku.hk/eventsite/2024-east-asia-theory-conference/), 香港, 2024年12月 
-  * [The Greater Bay Area Market Design Workshop 2024](https://web.inaciobo.com/workshop2024/), マカオ, 2024年10月 
+  * [The Greater Bay Area Market Design Workshop 2024](https://fss.um.edu.mo/greater-bay-area-market-design-workshop-2024/), マカオ, 2024年10月 
   * [EEA-ESEM](https://www.eea-esem-congresses.org/), ロッテルダム, 2024年8月 
   * [AMES](https://ames2024.sciencesconf.org/), ホーチミン, 2024年8月 
   * [UECE Lisbon Meetings](https://www.lisbonmeetings.com/), リスボン, 2024年6月
@@ -711,6 +711,8 @@ author_profile: true
   * FEMES, 台湾, 2007年7月
   * NASMES, ダーラム（デューク大学）, 2007年6月 
   * EEA-ESEM, ウィーン, 2006年8月 
+* 2026
+  * [CTW夏季集中研究会（沖縄大学）](https://sites.google.com/site/ctwcamp) -- 8月 
 * 2025
   * 公立はこだて未来大学 -- 6月, 慶應義塾大学 -- 10月, 名古屋大学 -- 12月
 * 2024
