@@ -37,6 +37,10 @@ author_profile: true
 
 * 9月23日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月16日（水）、17日（木）に東京ミッドタウン八重洲にて開催される[esse-sence Future Forum 2026](https://forum.esse-sense.com/)の以下のセッションに登壇します。
+  * 9/16　14:30〜：科学と金融は接続するのか？（モデレーター）
+  * 9/17　16:00〜：経済の美学：善き経済の描き（パネリスト）
+* 9月16日（水）にGRIPSランチタイムセミナー（[9月開催分](https://www.grips.ac.jp/en/seminars/20260806-00583/)）にオーガナイザー兼モデレーターとして参加します。
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月26日（水）〜28日（金）に沖縄大学で開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
