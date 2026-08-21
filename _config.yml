@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yosuke YASUDA"
   avatar           : "DSC_7209_SQ1.JPG"
-  bio              : "Osaka Univ. | Professor  Economics Design Inc. | Co-founder"
-  location         : "Osaka - JAPAN"
+  bio              : "GRIPS | Professor  Economics Design Inc. | Co-founder"
+  location         : "Tokyo - JAPAN"
   # location         : "Lisbon - ISEG"
   # employer         : "Osaka University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          : 
-  wikipedia        : 
+  wikipedia        : "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E6%B4%8B%E7%A5%90"
 
 
 # Reading Files
