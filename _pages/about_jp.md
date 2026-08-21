@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年8月19日</span>
+<span style="color: red; ">最終更新日：2026年8月21日</span>
 
 ------ 
 
@@ -454,6 +454,7 @@ author_profile: true
   * YouTube: [00](https://www.youtube.com/watch?v=Rkv_xzT8LPg), [01](https://www.youtube.com/watch?v=ETWGH40sgtA), [02](https://www.youtube.com/watch?v=QmuZfG0hP1I), [03](https://www.youtube.com/watch?v=K2VGv8SJEXk), [04](https://www.youtube.com/watch?v=t-WGIeb-hns), [05](https://www.youtube.com/watch?v=DUnlwXIcCJI), [06](https://www.youtube.com/watch?v=JAdC3-v087U), [07](https://www.youtube.com/watch?v=wVpsyGuPL9s), [08](https://www.youtube.com/watch?v=hRUeRYNYe5s), [09](https://www.youtube.com/watch?v=RYf477ZjF58), [10](https://www.youtube.com/watch?v=7CVH-L5M1MA), [11](https://www.youtube.com/watch?v=W9_evYK1IJM), [12](https://www.youtube.com/watch?v=0oBgjgqWb80), [13](https://www.youtube.com/watch?v=sl-zWokr_RE), [14](https://www.youtube.com/watch?v=Mp3CqWBt934), [15](https://www.youtube.com/watch?v=MPAKPzyahRk), [16](https://www.youtube.com/watch?v=72PYKihg1KA) 
 
 ### 講演・講義スライド（の一部）
+* [ゲーム理論で考える「ひとはなぜ戦争をするのか？」](https://www.docswell.com/s/yagena/51Q7G4-2026-08-21-165807) -- 2026年8月
 * [宇沢弘文の数学](https://www.docswell.com/s/2322473805/KMX12G-2024-08-24-222928) -- 2024年8月 
 * [社会的共通資本と資本主義](https://www.slideshare.net/YosukeYasuda1/ss-251160835) -- 2022年2月
 * [「戦略的思考」で読み解くビジネスと社会](https://www.slideshare.net/YosukeYasuda1/ss-250885525) -- 2021年12月 
@@ -465,7 +466,7 @@ author_profile: true
 * [資本主義と金融 2018](https://www.slideshare.net/YosukeYasuda1/2018-96052661) -- 2018年5月 
 * [契約理論って何だろう？](https://www.slideshare.net/YosukeYasuda1/ss-71773522) -- 2017年2月 
 * [スポーツに潜む戦略的思考](https://www.slideshare.net/YosukeYasuda1/ss-64774780) -- 2016年8月 
-  * この他のスライドも[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
+  * この他のスライドも[Docswell](https://www.docswell.com/user/yagena)や[SlideShare](https://www.slideshare.net/YosukeYasuda1/presentations)にて公開しています。
 
 ### 講演会（2020年以降）
 * 立命館西園寺塾（東京）, 2026年6月. （予定） 
