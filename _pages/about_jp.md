@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年8月21日</span>
+<span style="color: red; ">最終更新日：2026年8月23日</span>
 
 ------ 
 
@@ -46,6 +46,8 @@ author_profile: true
 * 8月26日（水）〜28日（金）に沖縄大学で開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
 * 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月23日（日）になんぷろ主催の特別講演会「[難関大学で求められる“考える力”とは？ ゲーム理論で学ぶ、未来を選ぶための思考法](https://www.nam-pro.com/event/post-422/)」に講師として登壇します。
+* 8月22日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『【斎藤幸平】「暗黒社会主義」とは何か(https://www.youtube.com/watch?v=9Bmq6_I39o8)』が公開されました。
+* 8月21日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『【斎藤幸平】AIで会社員はさらに忙しくなる(https://www.youtube.com/watch?v=kqOiPfF0yOo)』が公開されました。
 * 8月20日（木）-22日（土）に開催される[高野山会議2026](https://www.brain.rcast.u-tokyo.ac.jp/koyasan/koyasan2026/)に参加します。
   * 2日目のセッション3「Why war? ひとはなぜ戦争をするのか？」（高野山大学黎明館）にパネリストとして登壇します。報告用のスライド資料は[こちら](https://www.docswell.com/s/yagena/51Q7G4-2026-08-21-165807)です。
 * 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
