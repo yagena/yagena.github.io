@@ -334,6 +334,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 【斎藤幸平】「暗黒社会主義」とは何か, 2026年8月22日.  [YouTube](https://www.youtube.com/watch?v=9Bmq6_I39o8)
+* 【斎藤幸平】AIで会社員はさらに忙しくなる, 2026年8月21日.  [YouTube](https://www.youtube.com/watch?v=kqOiPfF0yOo)
 * 【河野龍太郎】円安はもう止まらないのか？／円の実力は1970年代にまで落ちた, 2026年7月10日.  [YouTube](https://www.youtube.com/watch?v=-CWjXFsuoew)
 * 【河野龍太郎】生産性3割増なのに賃上げはゼロ／「儲け」はどこへ消えた？, 2026年7月9日.  [YouTube](https://www.youtube.com/watch?v=XeUdMZhC03Q)
 * 「生涯現役」は幸せか、働かされているだけなのか, 2026年7月1日.  [YouTube](https://www.youtube.com/watch?v=1nRRF_XRkZo)
