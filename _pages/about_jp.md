@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年8月24日</span>
+<span style="color: red; ">最終更新日：2026年8月26日</span>
 
 ------ 
 
@@ -41,7 +41,11 @@ author_profile: true
   * 9/16　14:30〜：科学と金融は接続するのか？（モデレーター）
   * 9/17　16:00〜：経済の美学：善き経済の描き（パネリスト）
 * 9月16日（水）にGRIPSランチタイムセミナー（[9月開催分](https://www.grips.ac.jp/en/seminars/20260806-00583/)）にオーガナイザー兼モデレーターとして参加します。
+* 9月12日（土）、13日（日）に大東文化大学（東京板橋キャンパス）で開催される[日本経済学会秋季大会](https://pub.confit.atlas.jp/ja/event/jeaf2026)に参加します。
+  * 12日の10時〜12時 「男女共同参画セッション「研究者が担う、多様な役割とキャリア」」にパネリストとして登壇します。
 * 9月10日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回目・オンライン）を開催します。無料でお申込みいただけますので、ご関心のある方はぜひ！
+* 9月9日（水）の19時〜20時半にエンジン01セミナー「経済学を武器にする ～ビジネスへの活かし方～」（オンライン開催）に講師として登壇します。[こちら](https://www.youtube.com/channel/UCDtXwgcfvhMvNdnrxh-3uhw)のYouTubeチャネルにて配信（もちろん＜無料＞です）されます。
+  * 司会はエッセイスト／アナウンサーの南美希子さん、経済評論家の勝間和代さんとの対談もあります。お楽しみに！
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月26日（水）〜28日（金）に沖縄大学で開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
@@ -55,16 +59,6 @@ author_profile: true
 * 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月7日（金）に[長野県信連](https://www.naganoken-jabank.or.jp/kenshinren/)主催「長野県ＪＡバンク信用事業トップセミナー」に講師として登壇します。テーマは「日本経済の問題とチャンス －今こそゲーム理論を活用せよ－」です。
-* 7月31日（金）～8月2日（日）にハノイ（ベトナム）で開催される[AMES2026](https://ames2026.sciencesconf.org/)に参加します。
-* 7月30日（木）に[esse-sense](https://esse-sense.com/)臨時株主総会に出席します。
-* 7月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 7月24日（金）発売の『[プレジデント 8/14号](https://presidentstore.jp/category/MAGAZINE01/012616.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第23回）が掲載されます。テーマは「「専業主婦は優遇されすぎ」という誤解…“主婦年金”の縮小論が見落とす残酷な現実」です。
-* 7月24日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会にオンライン参加します。
-* 7月24日（金）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[財政目標「達成できない」70%　骨太巡り経済学者、高成長頼みに警鐘](https://www.nikkei.com/article/DGXZQOCD222RC0S6A720C2000000/)」および「[370兆円投資、民間促進「できない」44%　政府の目利きを疑問視](https://www.nikkei.com/article/DGXZQOCD2211M0S6A720C2000000/)」が掲載されました。
-* 7月22日（水）に虎ノ門ヒルズにてGlass Rock Partners Program（第7回）にパネリストとして登壇しました。テーマは「[ゼブラ企業を経済学から紐解く](https://www.glass-rock.com/news-detail-260722-1500.html)」です。
-* 7月22日（水）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
-* 7月21日（火）の毎日新聞（夕刊）に「中学受験『本人の意思』次第」というインタビュー記事が掲載されました。
-  * 6月27日に公開された毎日新聞デジタルの[記事](https://mainichi.jp/articles/20260624/k00/00m/100/116000c)の転載になります。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
