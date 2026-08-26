@@ -48,7 +48,7 @@ author_profile: true
   * 司会はエッセイスト／アナウンサーの南美希子さん、経済評論家の勝間和代さんとの対談もあります。お楽しみに！
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
-* 8月26日（水）〜28日（金）に沖縄大学で開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
+* 8月26日（水）〜28日（金）に ~~沖縄大学で~~ ハイブリット開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
 * 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月23日（日）になんぷろ主催の特別講演会「[難関大学で求められる“考える力”とは？ ゲーム理論で学ぶ、未来を選ぶための思考法](https://www.nam-pro.com/event/post-422/)」に講師として登壇します。
 * 8月22日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[【斎藤幸平】「暗黒社会主義」とは何か](https://www.youtube.com/watch?v=9Bmq6_I39o8)』が公開されました。
