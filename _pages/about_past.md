@@ -14,6 +14,10 @@ author_profile: true
  
 ------ 
 ### 2026年
+* 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
+* 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月7日（金）に[長野県信連](https://www.naganoken-jabank.or.jp/kenshinren/)主催「長野県ＪＡバンク信用事業トップセミナー」に講師として登壇します。テーマは「日本経済の問題とチャンス －今こそゲーム理論を活用せよ－」です。
 * 7月31日（金）～8月2日（日）にハノイ（ベトナム）で開催される[AMES2026](https://ames2026.sciencesconf.org/)に参加します。
 * 7月30日（木）に[esse-sense](https://esse-sense.com/)臨時株主総会に出席します。
 * 7月29日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
