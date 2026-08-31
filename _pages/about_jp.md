@@ -48,6 +48,7 @@ author_profile: true
 * 9月9日（水）の19時〜20時半にエンジン01セミナー「経済学を武器にする ～ビジネスへの活かし方～」（オンライン開催）に講師として登壇します。[こちら](https://www.youtube.com/channel/UCDtXwgcfvhMvNdnrxh-3uhw)のYouTubeチャネルにて配信（もちろん＜無料＞です）されます。
   * 司会はエッセイスト／アナウンサーの南美希子さん、経済評論家の勝間和代さんとの対談もあります。お楽しみに！
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 8月29日（土）にPIVOTにてEDUCATION SKILL SET「[【中学受験うちはやめた】賢い親たちの受験戦略](https://pivotmedia.co.jp/app/movie/14841)」が公開されました。YouTube動画は[こちら](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)です。
 * 『[金融・資本市場リサーチ](https://iiri.co.jp/research/)』第26号（2026年9月）に座談会「新たな世界秩序をどう考えるか　―インフレ・AI・資産バブル」の記事が掲載されました。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月28日（金）発売の『[プレジデント 9/18号](https://presidentstore.jp/category/MAGAZINE01/012618.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第24回）が掲載されます。テーマは「生産性「3割アップ」なのに給料が上がらない… 日本人が騙された「株主至上主義」の落とし穴」です。
