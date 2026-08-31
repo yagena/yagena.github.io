@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年8月28日</span>
+<span style="color: red; ">最終更新日：2026年月1日</span>
 
 ------ 
 
@@ -59,10 +59,6 @@ author_profile: true
 * 8月21日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[【斎藤幸平】AIで会社員はさらに忙しくなる](https://www.youtube.com/watch?v=kqOiPfF0yOo)』が公開されました。
 * 8月20日（木）-22日（土）に開催される[高野山会議2026](https://www.brain.rcast.u-tokyo.ac.jp/koyasan/koyasan2026/)に参加します。
   * 2日目のセッション3「Why war? ひとはなぜ戦争をするのか？」（高野山大学黎明館）にパネリストとして登壇します。報告用のスライド資料は[こちら](https://www.docswell.com/s/yagena/51Q7G4-2026-08-21-165807)です。
-* 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
-* 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
-* 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月7日（金）に[長野県信連](https://www.naganoken-jabank.or.jp/kenshinren/)主催「長野県ＪＡバンク信用事業トップセミナー」に講師として登壇します。テーマは「日本経済の問題とチャンス －今こそゲーム理論を活用せよ－」です。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
