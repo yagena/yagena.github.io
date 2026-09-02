@@ -8,12 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年8月26日</span>
+<span style="color: red; ">最終更新日：2026年9月2日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
  
 ------ 
 ### 2026年
+* 8月14日（金）に信託協会「信託経済研究会」（第4回）に委員としてオンライン出席します。
 * 8月13日（木）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月12日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 8月11日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -55,6 +56,7 @@ author_profile: true
 * 6月23日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 6月20日（土）に多摩大学「[知のエグゼクティブサロン](https://www.tama-csm.org/executive/)」（第3回）にリソースパーソンとして参加します。テーマは「資本主義／経済／経営」です。
 * 6月19日（金）に総務省「電波有効利用委員会」（第14回）に委員としてオンライン出席します。
+* 6月17日（水）に信託協会「信託経済研究会」（第2回）に委員としてオンライン出席します。
 * 6月17日（水）に内閣府「国家戦略特区ワーキンググループ」定例会に委員としてオンライン出席します。
 * 6月17日（水）にGRIPSランチタイムセミナー（[6月開催分](https://www.grips.ac.jp/en/seminars/20260603-00551/)）にオーガナイザー兼モデレーターとして参加します。
   * 収録動画「Japan's Maritime Assistance to ASEAN and the Practice of Maritime Economic Diplomacy」が[YouTube](https://www.youtube.com/watch?v=js4Cd_PsrU0)に公開されました！
@@ -65,6 +67,7 @@ author_profile: true
 * 6月4日（木）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会（5月分）に参加します。
 * 6月4日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[AI失業／「ギュラれる時代」に何を学ぶべきか](https://www.youtube.com/watch?v=SJg4oWg_rmE)】が公開されました。
 * 6月3日（水）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[公立高校が消える日／高校「完全無償化」の副作用](https://www.youtube.com/watch?v=igozdQSIwjo)】が公開されました。
+* 6月3日（水）に信託協会「信託経済研究会」（第1回）に委員としてオンライン出席します。
 * 6月2日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 5月29日（金）にNTT西日本「メディア融合研究会」（第1回）に委員として出席します
 * 5月28日（木）に[esse-sense](https://esse-sense.com/)役員会に顧問としてオンライン出席します。
