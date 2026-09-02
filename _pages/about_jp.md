@@ -43,15 +43,15 @@ author_profile: true
 * 9月16日（水）にGRIPSランチタイムセミナー（[9月開催分](https://www.grips.ac.jp/en/seminars/20260806-00583/)）にオーガナイザー兼モデレーターとして参加します。
 * 9月12日（土）、13日（日）に大東文化大学（東京板橋キャンパス）で開催される[日本経済学会秋季大会](https://pub.confit.atlas.jp/ja/event/jeaf2026)に参加します。
   * 12日の10時〜12時 「[男女共同参画セッション『研究者が担う、多様な役割とキャリア』](https://pub.confit.atlas.jp/ja/event/jeaf2026/presentation/1R1201)」にパネリストとして登壇します。
-* 9月10日（木）にエッセンスのパトロン向け特別講義に登壇します。テーマは「[ゲーム理論で考える　『ひとはなぜ戦争をするのか』](https://esse-sense.com/researchers/51/course/26)」です。
+* 9月10日（木）にエッセンスのパトロン向け特別講義に登壇します。テーマは「[ゲーム理論で考える　『ひとはなぜ戦争をするのか？』](https://esse-sense.com/researchers/51/course/26)」です。
 * 9月10日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回目・オンライン）を開催します。無料でお申込みいただけますので、ご関心のある方はぜひ！
 * 9月9日（水）の19時〜20時半にエンジン01セミナー「経済学を武器にする ～ビジネスへの活かし方～」（オンライン開催）に講師として登壇します。[こちら](https://www.youtube.com/channel/UCDtXwgcfvhMvNdnrxh-3uhw)のYouTubeチャネルにて配信（もちろん＜無料＞です）されます。
   * 司会はエッセイスト／アナウンサーの南美希子さん、経済評論家の勝間和代さんとの対談もあります。お楽しみに！
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月29日（土）にPIVOTにてEDUCATION SKILL SET「[【中学受験うちはやめた】賢い親たちの受験戦略](https://pivotmedia.co.jp/app/movie/14841)」が公開されました。YouTube動画は[こちら](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)です。
 * 『[金融・資本市場リサーチ](https://iiri.co.jp/research/)』第26号（2026年9月）に座談会「新たな世界秩序をどう考えるか　―インフレ・AI・資産バブル」の記事が掲載されました。
-* 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月28日（金）発売の『[プレジデント 9/18号](https://presidentstore.jp/category/MAGAZINE01/012618.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第24回）が掲載されます。テーマは「生産性「3割アップ」なのに給料が上がらない… 日本人が騙された「株主至上主義」の落とし穴」です。
+* 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 8月26日（水）〜28日（金）に ~~沖縄大学で~~ ハイブリット開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
 * 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 8月23日（日）になんぷろ主催の特別講演会「[難関大学で求められる“考える力”とは？ ゲーム理論で学ぶ、未来を選ぶための思考法](https://www.nam-pro.com/event/post-422/)」に講師として登壇します。
@@ -390,6 +390,8 @@ author_profile: true
 * 番外編「経済学者が解説＆大予測　ノーベル経済学賞」, 2023年10月9日.  [YouTube](https://www.youtube.com/watch?v=jf7E-RtDSYw&t=3s) 
 
 **その他の動画**
+
+* 【中学受験うちはやめた】賢い親たちの受験戦略, PIVOT, 2026年8月29日. [PIVOT](https://pivotmedia.co.jp/app/movie/14841), [YouTube](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)
 * 株価5割減も…オリエンタルランドの「高コスト体質」を救う次の一手は？, 月曜マネーLIVE, 2026年7月13日.  [YouTube](https://www.youtube.com/watch?v=l0ZAEjNkKho)
 * 今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛, 楽天大学ラボ, 2026年7月3日.  [YouTube](https://www.youtube.com/watch?v=SPqIGS8A_xU)
 * 経済成長の条件 ノーベル経済学賞を徹底解説, PIVOT TALK BUSINESS, 2025年10月17日.  [PIVOT](https://pivotmedia.co.jp/movie/13522)  [YouTube](https://www.youtube.com/watch?v=dIzZNMS5w_s)
