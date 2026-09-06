@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年9月2日</span>
+<span style="color: red; ">最終更新日：2026年9月6日</span>
 
 ------ 
 
@@ -224,8 +224,10 @@ author_profile: true
 17. オークションによる最適参入規制：最適参入オークションの理論, **卒業論文（大内兵衛賞）**, 2002.  [pdf](https://yagena.github.io/files/Senior_thesis.pdf)
 
 ### 書籍：編著・共著 
-1. 『[日本の未来、本当に大丈夫なんですか会議 経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137)』, 日本実業出版社, 2024.
-2. 『[ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711)』, 河出書房新社, 2023.
+1. [人の資本主義から読みとく現代社会: 生命と政治](https://www.amazon.co.jp/dp/4130131710), 東京大学出版会, 2026. 
+  * 第三章「感染症と経済学」を執筆. 
+2. [日本の未来、本当に大丈夫なんですか会議 経済学×社会学で社会課題を解決する](https://www.amazon.co.jp/dp/4534061137), 日本実業出版社, 2024.
+3. [ボードゲームで社会が変わる：遊戯するケアへ](https://www.amazon.co.jp/gp/product/4309631711), 河出書房新社, 2023.
   * 第2章「経済学者と「戦略」を遊ぶ『ナショナル エコノミー』 経営者になりきって経済のしくみを実感」を執筆. 
 2.  [「2030年日本」のストーリー: 武器としての社会科学・歴史・イベント](https://str.toyokeizai.net/books/9784492503416/), 東洋経済新報社, 2023. 
   * 第1章「新しい経済圏の出現は可能か── 市場・利他・社会規範」を執筆. 
