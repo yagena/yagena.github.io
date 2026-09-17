@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年9月6日</span>
+<span style="color: red; ">最終更新日：2026年9月17日</span>
 
 ------ 
 
@@ -39,14 +39,17 @@ author_profile: true
 * 9月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月16日（水）、17日（木）に東京ミッドタウン八重洲にて開催される「[esse-sence Future Forum 2026](https://forum.esse-sense.com/)」の以下のセッションに登壇します。
   * 9/16　14:30〜：科学と金融は接続するのか？（モデレーター）
+  * 9/16　17:30〜：宇宙産業からスペース産業へ ― 産業創造の未来（モデレーター）
   * 9/17　16:00〜：経済の美学：善き経済の描き（パネリスト）
 * 9月16日（水）にGRIPSランチタイムセミナー（[9月開催分](https://www.grips.ac.jp/en/seminars/20260806-00583/)）にオーガナイザー兼モデレーターとして参加します。
+* 9月15日（火）に信託協会「信託経済研究会」（第6回）に委員としてオンライン出席します。
 * 9月12日（土）、13日（日）に大東文化大学（東京板橋キャンパス）で開催される[日本経済学会秋季大会](https://pub.confit.atlas.jp/ja/event/jeaf2026)に参加します。
   * 12日の10時〜12時 「[男女共同参画セッション『研究者が担う、多様な役割とキャリア』](https://pub.confit.atlas.jp/ja/event/jeaf2026/presentation/1R1201)」にパネリストとして登壇します。
 * 9月10日（木）にエッセンスのパトロン向け特別講義に登壇します。テーマは「[ゲーム理論で考える　『ひとはなぜ戦争をするのか？』](https://esse-sense.com/researchers/51/course/26)」です。
 * 9月10日（木）に[「プラットフォーム規制の経済学」研究会](https://sites.google.com/view/platformregulation/)（第7回目・オンライン）を開催します。無料でお申込みいただけますので、ご関心のある方はぜひ！
 * 9月9日（水）の19時〜20時半にエンジン01セミナー「経済学を武器にする ～ビジネスへの活かし方～」（オンライン開催）に講師として登壇します。[こちら](https://www.youtube.com/channel/UCDtXwgcfvhMvNdnrxh-3uhw)のYouTubeチャネルにて配信（もちろん＜無料＞です）されます。
   * 司会はエッセイスト／アナウンサーの南美希子さん、経済評論家の勝間和代さんとの対談もあります。お楽しみに！
+  * 配信動画のアーカイブが[YouTube](https://www.youtube.com/watch?v=CE3ZvfqKUbA)にて公開されました。
 * 9月8日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月2日（水）に信託協会「信託経済研究会」（第6回）に委員としてオンライン出席します。
 * 8月31日（月）に信託協会「信託経済研究会」（第5回）に委員としてオンライン出席します。
