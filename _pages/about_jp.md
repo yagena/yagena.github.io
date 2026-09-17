@@ -57,13 +57,6 @@ author_profile: true
 * 『[金融・資本市場リサーチ](https://iiri.co.jp/research/)』第26号（2026年9月）に座談会「新たな世界秩序をどう考えるか　―インフレ・AI・資産バブル」の記事が掲載されました。
 * 8月28日（金）発売の『[プレジデント 9/18号](https://presidentstore.jp/category/MAGAZINE01/012618.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第24回）が掲載されます。テーマは「生産性「3割アップ」なのに給料が上がらない… 日本人が騙された「株主至上主義」の落とし穴」です。
 * 8月28日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
-* 8月26日（水）〜28日（金）に ~~沖縄大学で~~ ハイブリット開催される[CTW Summer Camp](https://sites.google.com/site/ctwcamp/program-2026?authuser=0)に報告者として参加します。報告論文は「Anything Goes in Squid Game: Sequential Voting with Informed and Uninformed Voters」（鎌田雄一郎さんとの共著）になります。
-* 8月25日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 8月23日（日）になんぷろ主催の特別講演会「[難関大学で求められる“考える力”とは？ ゲーム理論で学ぶ、未来を選ぶための思考法](https://www.nam-pro.com/event/post-422/)」に講師として登壇します。
-* 8月22日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[【斎藤幸平】「暗黒社会主義」とは何か](https://www.youtube.com/watch?v=9Bmq6_I39o8)』が公開されました。
-* 8月21日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[【斎藤幸平】AIで会社員はさらに忙しくなる](https://www.youtube.com/watch?v=kqOiPfF0yOo)』が公開されました。
-* 8月20日（木）-22日（土）に開催される[高野山会議2026](https://www.brain.rcast.u-tokyo.ac.jp/koyasan/koyasan2026/)に参加します。
-  * 2日目のセッション3「Why war? ひとはなぜ戦争をするのか？」（高野山大学黎明館）にパネリストとして登壇します。報告用のスライド資料は[こちら](https://www.docswell.com/s/yagena/51Q7G4-2026-08-21-165807)です。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
