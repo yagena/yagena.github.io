@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年9月17日</span>
+<span style="color: red; ">最終更新日：2026年9月18日</span>
 
 ------ 
 
@@ -37,6 +37,8 @@ author_profile: true
 
 * 9月23日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 9月18日（金）に総務省「電波有効利用委員会」（第15回）に委員としてオンライン出席します。
+* 9月17日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[なぜ日本人は「偏差値」を捨てられないのか](https://www.youtube.com/watch?v=7LP2KONHhfA)】が公開されました。
 * 9月16日（水）、17日（木）に東京ミッドタウン八重洲にて開催される「[esse-sence Future Forum 2026](https://forum.esse-sense.com/)」の以下のセッションに登壇します。
   * 9/16　14:30〜：科学と金融は接続するのか？（モデレーター）
   * 9/16　17:30〜：宇宙産業からスペース産業へ ― 産業創造の未来（モデレーター）
