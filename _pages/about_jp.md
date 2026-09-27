@@ -42,7 +42,7 @@ author_profile: true
 * 9月23日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
 * 9月22日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月18日（金）に総務省「電波有効利用委員会」（第15回）に委員としてオンライン出席します。
-* 9月17日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[アベノミクスで本当に効いたのは何か](https://www.youtube.com/watch?v=5tDTfxfMtfw)】が公開されました。
+* 9月18日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[アベノミクスで本当に効いたのは何か](https://www.youtube.com/watch?v=5tDTfxfMtfw)】が公開されました。
 * 9月17日（木）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[なぜ日本人は「偏差値」を捨てられないのか](https://www.youtube.com/watch?v=7LP2KONHhfA)】が公開されました。
 * 9月16日（水）、17日（木）に東京ミッドタウン八重洲にて開催される「[esse-sence Future Forum 2026](https://forum.esse-sense.com/)」の以下のセッションに登壇します。
   * 9/16　14:30〜：科学と金融は接続するのか？（モデレーター）
@@ -337,6 +337,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* アベノミクスで本当に効いたのは何か, 2026年9月18日.  [YouTube](https://www.youtube.com/watch?v=5tDTfxfMtfw)
+* なぜ日本人は「偏差値」を捨てられないのか, 2026年9月17日.  [YouTube](https://www.youtube.com/watch?v=7LP2KONHhfA)
 * 【斎藤幸平】「暗黒社会主義」とは何か, 2026年8月22日.  [YouTube](https://www.youtube.com/watch?v=9Bmq6_I39o8)
 * 【斎藤幸平】AIで会社員はさらに忙しくなる, 2026年8月21日.  [YouTube](https://www.youtube.com/watch?v=kqOiPfF0yOo)
 * 【河野龍太郎】円安はもう止まらないのか？／円の実力は1970年代にまで落ちた, 2026年7月10日.  [YouTube](https://www.youtube.com/watch?v=-CWjXFsuoew)
