@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年10月21日</span>
+<span style="color: red; ">最終更新日：2026年10月26日</span>
 
 ------ 
 
@@ -52,6 +52,7 @@ author_profile: true
   * オンエア動画が[YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)にて公開されました。
 * 10月14日（水）にPIVOTにて[【速報解説：ノーベル経済学賞2026】](https://www.youtube.com/watch?v=J7uZDVVY3io)が公開されました。
 * 10月8日（木）にacademistさんのnote記事【[人文知で社会は変わるのか？⑦](https://note.com/academist/n/ne97f3802e947)】が公開されました。
+  * 7月9日に公開された[YouTube](https://www.youtube.com/watch?v=uOCCe9yjMlI)動画の内容をベースとしております。合わせてご参照ください。
 * 10月6日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
