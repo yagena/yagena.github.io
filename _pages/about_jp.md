@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年10月26日</span>
+<span style="color: red; ">最終更新日：2026年10月28日</span>
 
 ------ 
 
@@ -44,6 +44,7 @@ author_profile: true
 * 11月9日（月）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
 * 11月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 10月26日（月）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
+* 10月25日（日）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[医療費の負担「支払い能力は資産も勘案を」54%　経済学者、反対論も](https://www.nikkei.com/article/DGXZQOCD223000S6A021C2000000/)」が掲載されました。
 * 10月23日（金）発売の『[プレジデント 11/13号](https://presidentstore.jp/category/MAGAZINE01/012622.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第26回）が掲載されます。テーマは「『円安ホクホク』の時代は終わったのか…米財務長官『リフレをやめろ』発言のウラ側」です。
 * 10月21日（水）にGRIPSランチタイムセミナー（[10月開催分](https://www.grips.ac.jp/en/seminars/20260924-00605/)）にオーガナイザー兼モデレーターとして参加します。
 * 10月20日（火）にNECから [「クリエイティブファースト」で切り拓く、AI時代の未来型組織論](https://wisdom.nec.com/ja/special/blustellar-thoughtleadership/2026102005/index.html) というインタビュー記事が公開されました。
@@ -715,7 +716,7 @@ author_profile: true
   * NASMES, ダーラム（デューク大学）, 2007年6月 
   * EEA-ESEM, ウィーン, 2006年8月 
 * 2026
-  * [CTW夏季集中研究会（沖縄大学）](https://sites.google.com/site/ctwcamp) -- 8月 
+  * [CTW夏季集中研究会（ハイブリッド）](https://sites.google.com/site/ctwcamp) -- 8月 
 * 2025
   * 公立はこだて未来大学 -- 6月, 慶應義塾大学 -- 10月, 名古屋大学 -- 12月
 * 2024
