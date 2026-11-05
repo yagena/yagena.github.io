@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年10月28日</span>
+<span style="color: red; ">最終更新日：2026年11月5日</span>
 
 ------ 
 
@@ -37,12 +37,16 @@ author_profile: true
 
 * 12月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 11月18日（水）にGRIPSランチタイムセミナー（11月開催分）にオーガナイザー兼モデレーターとして参加します。
+* 11月18日（水）にGRIPSランチタイムセミナー（[11月開催分](https://www.grips.ac.jp/en/seminars/20261102-00628/)）にオーガナイザー兼モデレーターとして参加します。
 * 11月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月14日（土）に信託協会「信託経済コンファレンス」に委員として出席します。
 * 11月14日（土）に[金融財政事情研究会](https://www.kinzai.or.jp/)が主催する第17期「金融経営塾」に講師として登壇します。
 * 11月9日（月）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
+* 11月4日（水）に総務省「電波有効利用委員会」（第15回）に委員としてオンライン出席します。
 * 11月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 11月2日（月）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[
+【岡本三成】なぜ会社の利益が給料に回らないのか](https://www.youtube.com/watch?v=b0i_sOREPHE)』が公開されました。
+* 10月30日（金）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」『[【岡本三成】公明党は誰のための政党なのか](https://www.youtube.com/watch?v=zOwtlR1ZmP4)』が公開されました。
 * 10月26日（月）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
 * 10月25日（日）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[医療費の負担「支払い能力は資産も勘案を」54%　経済学者、反対論も](https://www.nikkei.com/article/DGXZQOCD223000S6A021C2000000/)」が掲載されました。
 * 10月23日（金）発売の『[プレジデント 11/13号](https://presidentstore.jp/category/MAGAZINE01/012622.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第26回）が掲載されます。テーマは「『円安ホクホク』の時代は終わったのか…米財務長官『リフレをやめろ』発言のウラ側」です。
@@ -324,6 +328,8 @@ author_profile: true
 ### 動画 
 
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
+* 【岡本三成】なぜ会社の利益が給料に回らないのか, 2026年11月2日.  [YouTube](https://www.youtube.com/watch?v=b0i_sOREPHE) 
+* 【岡本三成】公明党は誰のための政党なのか, 2026年10月30日.  [YouTube](](https://www.youtube.com/watch?v=zOwtlR1ZmP4)) 
 * アベノミクスで本当に効いたのは何か, 2026年9月18日.  [YouTube](https://www.youtube.com/watch?v=5tDTfxfMtfw)
 * なぜ日本人は「偏差値」を捨てられないのか, 2026年9月17日.  [YouTube](https://www.youtube.com/watch?v=7LP2KONHhfA)
 * 【斎藤幸平】「暗黒社会主義」とは何か, 2026年8月22日.  [YouTube](https://www.youtube.com/watch?v=9Bmq6_I39o8)
@@ -335,7 +341,7 @@ author_profile: true
 * AI失業／「ギュラれる時代」に何を学ぶべきか, 2026年6月4日.  [YouTube](https://www.youtube.com/watch?v=SJg4oWg_rmE)
 * 公立高校が消える日／高校「完全無償化」の副作用, 2026年6月3日.  [YouTube](https://www.youtube.com/watch?v=igozdQSIwjo)
 * 「独身税」は独身者への罰なのか, 2026年4月28日.  [YouTube](https://www.youtube.com/watch?v=c9xDOneSAXA) 
-* 子どもを海外に出すべきか 東大→香港の衝撃, 2026年4月27.  [YouTube](https://www.youtube.com/watch?v=_1OWA1Q3iDw)
+* 子どもを海外に出すべきか 東大→香港の衝撃, 2026年4月27日.  [YouTube](https://www.youtube.com/watch?v=_1OWA1Q3iDw)
 * 中学受験の過熱は止められるのか, 2026年3月24日.  [YouTube](https://www.youtube.com/watch?v=aKQyAEPD3Cs)
 * 原油100ドル突破、ホルムズ海峡と半導体の危機, 2026年3月21日.  [YouTube](https://www.youtube.com/watch?v=zNj-M0ZSI-A)
 * 玉木雄一郎｢消費減税｣はやるべきではない, 2026年2月27日.  [YouTube](https://www.youtube.com/watch?v=NBA6rNwVnxw)
