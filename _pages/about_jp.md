@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年11月5日</span>
+<span style="color: red; ">最終更新日：2026年11月15日</span>
 
 ------ 
 
@@ -33,14 +33,18 @@ author_profile: true
 ### 最近のお知らせ
 <!-- コメントアウトの方法 -->
 
-<!-- * 9月25日（金）に[エンジン01文化戦略会議](https://www.enjin01.org/)の幹事会に参加します。 -->
+<!-- * 1月15日（金）にBS11「[報道ライブ インサイドOUT](https://www.bs11.jp/news/houdou-live-insideout/)」にコメンテーターとして出演します。
+ -->
 
 * 12月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月8日（火）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
 * 12月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 11月19日（木）に総務省「電波有効利用委員会」（第16回）に委員としてオンライン出席します。
 * 11月18日（水）にGRIPSランチタイムセミナー（[11月開催分](https://www.grips.ac.jp/en/seminars/20261102-00628/)）にオーガナイザー兼モデレーターとして参加します。
 * 11月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月14日（土）に信託協会「信託経済コンファレンス」に委員として出席します。
 * 11月14日（土）に[金融財政事情研究会](https://www.kinzai.or.jp/)が主催する第17期「金融経営塾」に講師として登壇します。
+* 11月12日（木）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第2回・オンライン開催）に委員として出席します。
 * 11月9日（月）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
 * 11月4日（水）に総務省「電波有効利用委員会」（第15回）に委員としてオンライン出席します。
 * 11月3日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
@@ -81,6 +85,7 @@ author_profile: true
   * [その3](https://x.com/yagena/status/2050049717846110589) -- 5-6月.
   * [その4](https://x.com/yagena/status/2073575844224930050) -- 7-8月.
   * [その5](https://x.com/yagena/status/2094557162601349571) -- 9-10月.
+  * [その6](https://x.com/yagena/status/2119658340091666919) -- 11-12月. 
 * 2025年
   * [その1](https://x.com/yagena/status/1875371071123419416) -- 1-2月. 
   * [その2](https://x.com/yagena/status/1896807607970734100) -- 3-4月.
