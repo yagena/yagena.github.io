@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年11月15日</span>
+<span style="color: red; ">最終更新日：2026年11月16日</span>
 
 ------ 
 
@@ -37,6 +37,7 @@ author_profile: true
  -->
 
 * 12月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 12月8日（火）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 12月8日（火）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
 * 12月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 11月19日（木）に総務省「電波有効利用委員会」（第16回）に委員としてオンライン出席します。
@@ -54,16 +55,6 @@ author_profile: true
 * 10月26日（月）に総務省「情報通信経済研究会」（第1回・オンライン開催）に委員として出席します。
 * 10月25日（日）の日本経済新聞（朝刊）に、私もパネリストとして参加している日経エコノミクスパネルに関する記事「[医療費の負担「支払い能力は資産も勘案を」54%　経済学者、反対論も](https://www.nikkei.com/article/DGXZQOCD223000S6A021C2000000/)」が掲載されました。
 * 10月23日（金）発売の『[プレジデント 11/13号](https://presidentstore.jp/category/MAGAZINE01/012622.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第26回）が掲載されます。テーマは「『円安ホクホク』の時代は終わったのか…米財務長官『リフレをやめろ』発言のウラ側」です。
-* 10月21日（水）にGRIPSランチタイムセミナー（[10月開催分](https://www.grips.ac.jp/en/seminars/20260924-00605/)）にオーガナイザー兼モデレーターとして参加します。
-* 10月20日（火）にNECから [「クリエイティブファースト」で切り拓く、AI時代の未来型組織論](https://wisdom.nec.com/ja/special/blustellar-thoughtleadership/2026102005/index.html) というインタビュー記事が公開されました。
-* 10月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
-* 10月16日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
-* 10月16日（金）にBS11「[報道ライブ インサイドOUT](https://www.bs11.jp/news/houdou-live-insideout/)」にコメンテーターとして出演します。
-  * オンエア動画が[YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)にて公開されました。
-* 10月14日（水）にPIVOTにて[【速報解説：ノーベル経済学賞2026】](https://www.youtube.com/watch?v=J7uZDVVY3io)が公開されました。
-* 10月8日（木）にacademistさんのnote記事【[人文知で社会は変わるのか？⑦](https://note.com/academist/n/ne97f3802e947)】が公開されました。
-  * 7月9日に公開された[YouTube](https://www.youtube.com/watch?v=uOCCe9yjMlI)動画の内容をベースとしております。合わせてご参照ください。
-* 10月6日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 
  <!-- * 3月24日（火）にYouTubeにてプレジデント公式チャンネル「西田亮介×安田洋祐 日本ってどうなんですか会議」【[中学受験の過熱は止められるのか](https://www.youtube.com/watch?v=aKQyAEPD3Cs)】が公開されました。 -->
  <!-- * 3月27日（金）発売の『[プレジデント 4/17号](https://presidentstore.jp/item/012608.html)』に西田亮介さんとの対談記事【日本ってどうなんですか会議 】（第19回）が掲載されます。テーマは「玉木雄一郎「消費税減税はやるべきでない」 低所得層にも届く「もっと確実な方法」とは」です。 -->
@@ -332,6 +323,12 @@ author_profile: true
 
 ### 動画 
 
+**GRIPS ランチタイムセミナー など**
+* 【Prof. Ayano HIROSE】 Can AI Create Knowledge? - How Humans and AI Come Together to Drive Innovation, 2026年9月.  [YouTube](https://www.youtube.com/watch?v=SFLZCUqvuWg)
+* 【Prof. Saidatul Nadia Abd AZIZ (with Prof. Kentaro FURUYA)】 Japan's Maritime Assistance to ASEAN and the Practice of Maritime Economic Diplomacy, 2026年6月.  [YouTube](https://www.youtube.com/watch?v=js4Cd_PsrU0)
+* 【Prof. Yuqing XING (with Prof. Patarapong INTARAKUMNERD)】Domestic Value-added and Technological independence in Chinese EVs, 2026年5月.  [YouTube](https://www.youtube.com/watch?v=2KkPdZY1fDg)
+* GRIPS Forum 【Dr. Noah SMITH】 Japan and the Global Economy, 2025年10月.  [YouTube](https://www.youtube.com/watch?v=5OezBgKY6zA)
+
 **プレジデント【西田亮介×安田洋祐 日本ってどうなんですか会議】**
 * 【岡本三成】なぜ会社の利益が給料に回らないのか, 2026年11月2日.  [YouTube](https://www.youtube.com/watch?v=b0i_sOREPHE) 
 * 【岡本三成】公明党は誰のための政党なのか, 2026年10月30日.  [YouTube](](https://www.youtube.com/watch?v=zOwtlR1ZmP4)) 
@@ -398,6 +395,8 @@ author_profile: true
 
 **その他の動画**
 
+* BS11「報道ライブ インサイドOUT」, 2026年10月16日. [YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)
+* 速報解説：ノーベル経済学賞2026, PIVOT, 2026年10月14日. [YouTube](https://www.youtube.com/watch?v=J7uZDVVY3io)
 * 【中学受験うちはやめた】賢い親たちの受験戦略, PIVOT, 2026年8月29日. [PIVOT](https://pivotmedia.co.jp/app/movie/14841), [YouTube](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)
 * 株価5割減も…オリエンタルランドの「高コスト体質」を救う次の一手は？, 月曜マネーLIVE, 2026年7月13日.  [YouTube](https://www.youtube.com/watch?v=l0ZAEjNkKho)
 * 今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛, 楽天大学ラボ, 2026年7月3日.  [YouTube](https://www.youtube.com/watch?v=SPqIGS8A_xU)
