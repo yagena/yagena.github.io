@@ -8,12 +8,22 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color: red; ">最終更新日：2026年10月26日</span>
+<span style="color: red; ">最終更新日：2026年11月16日</span>
 
 **過去の重要なお知らせ**は[こちら](https://yagena.github.io/past_important/)です。
  
 ------ 
 ### 2026年
+* 10月21日（水）にGRIPSランチタイムセミナー（[10月開催分](https://www.grips.ac.jp/en/seminars/20260924-00605/)）にオーガナイザー兼モデレーターとして参加します。
+* 10月20日（火）にNECから [「クリエイティブファースト」で切り拓く、AI時代の未来型組織論](https://wisdom.nec.com/ja/special/blustellar-thoughtleadership/2026102005/index.html) というインタビュー記事が公開されました。
+* 10月20日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 10月16日（金）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
+* 10月16日（金）にBS11「[報道ライブ インサイドOUT](https://www.bs11.jp/news/houdou-live-insideout/)」にコメンテーターとして出演します。
+  * オンエア動画が[YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)にて公開されました。
+* 10月14日（水）にPIVOTにて[【速報解説：ノーベル経済学賞2026】](https://www.youtube.com/watch?v=J7uZDVVY3io)が公開されました。
+* 10月8日（木）にacademistさんのnote記事【[人文知で社会は変わるのか？⑦](https://note.com/academist/n/ne97f3802e947)】が公開されました。
+  * 7月9日に公開された[YouTube](https://www.youtube.com/watch?v=uOCCe9yjMlI)動画の内容をベースとしております。合わせてご参照ください。
+* 10月6日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 9月28日（月）にPIVOTにてEQT社による提供動画[【滅多に表に出ないPEファンドのリアル】](https://www.youtube.com/watch?v=NZfDWQjbyxw)が公開されました。
 * 9月25日（金）発売の『[プレジデント 10/16号](https://presidentstore.jp/category/MAGAZINE01/012620.html)』に西田亮介さんとの対談記事（ゲスト：斎藤幸平氏）【日本ってどうなんですか会議 】（第25回）が掲載されます。テーマは「なぜアメリカのテック企業は儲かるのか？ マルクスが見抜いた富を吸い上げる仕組み」です。
 * 9月23日（水）に読売テレビ「[情報ライブ ミヤネ屋](https://www.ytv.co.jp/miyaneya/)」にコメンテーターとして出演します。
