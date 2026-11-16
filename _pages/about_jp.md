@@ -395,9 +395,10 @@ author_profile: true
 
 **その他の動画**
 
-* BS11「報道ライブ インサイドOUT」, 2026年10月16日. [YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)
-* 速報解説：ノーベル経済学賞2026, PIVOT, 2026年10月14日. [YouTube](https://www.youtube.com/watch?v=J7uZDVVY3io)
-* 【中学受験うちはやめた】賢い親たちの受験戦略, PIVOT, 2026年8月29日. [PIVOT](https://pivotmedia.co.jp/app/movie/14841), [YouTube](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)
+* BS11「報道ライブ インサイドOUT」, 2026年10月16日.  [YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)
+* 速報解説：ノーベル経済学賞2026, PIVOT, 2026年10月14日.  [YouTube](https://www.youtube.com/watch?v=J7uZDVVY3io)
+* 滅多に表に出ないPEファンドのリアル（EQT社提供）, PIVOT, 2026年9月28日.  [YouTube](https://www.youtube.com/watch?v=NZfDWQjbyxw)
+* 【中学受験うちはやめた】賢い親たちの受験戦略, PIVOT, 2026年8月29日.  [PIVOT](https://pivotmedia.co.jp/app/movie/14841), [YouTube](https://www.youtube.com/watch?v=0ZeWlm4K4Ew)
 * 株価5割減も…オリエンタルランドの「高コスト体質」を救う次の一手は？, 月曜マネーLIVE, 2026年7月13日.  [YouTube](https://www.youtube.com/watch?v=l0ZAEjNkKho)
 * 今こそ「コモンズ」の話をしよう―国家でも市場でもない第三の領域｜占部まり×安田洋祐×宇野常寛, 楽天大学ラボ, 2026年7月3日.  [YouTube](https://www.youtube.com/watch?v=SPqIGS8A_xU)
 * 経済成長の条件 ノーベル経済学賞を徹底解説, PIVOT TALK BUSINESS, 2025年10月17日.  [PIVOT](https://pivotmedia.co.jp/movie/13522)  [YouTube](https://www.youtube.com/watch?v=dIzZNMS5w_s)
