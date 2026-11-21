@@ -24,7 +24,7 @@ author_profile: true
 * 主要研究業績一覧： [日本語](https://yagena.github.io/files/CV-Long_JP_20240531.pdf) ｜ [英語](https://yagena.github.io/files/CV_20240531.pdf),  履歴書： [日本語](https://yagena.github.io/files/CV-Short_JP_20240531.pdf) ｜ [ビジネス向け](https://docs.google.com/document/d/1q8xFEXXEj02RyQE9tY4rDwyEc1td0gCtSJA1ZEkoxUQ/edit?usp=sharing)，スライド：[Docswell](https://www.docswell.com/user/yagena) ｜ [slideshare](https://www.slideshare.net/YosukeYasuda1/presentations) 
 * 経済学者リスト -- 通称「安田リスト」：  [国内版](https://sites.google.com/site/economistsjapan/list2)｜[海外版](https://sites.google.com/site/economistsjapan/list) （更新を一時停止中）
 
-<span style="color: red; ">最終更新日：2026年11月16日</span>
+<span style="color: red; ">最終更新日：2026年11月21日</span>
 
 ------ 
 
@@ -36,13 +36,17 @@ author_profile: true
 <!-- * 1月15日（金）にBS11「[報道ライブ インサイドOUT](https://www.bs11.jp/news/houdou-live-insideout/)」にコメンテーターとして出演します。
  -->
 
+* 12月23日（水）にGRIPSランチタイムセミナー（12月開催分）にオーガナイザー兼モデレーターとして参加します。
 * 12月15日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
 * 12月8日（火）にテレビ東京「[ワールドビジネスサテライト](https://www.tv-tokyo.co.jp/wbs/)」にコメンテーターとして出演します。
 * 12月8日（火）にTBS「[Nスタ](https://www.tbs.co.jp/n-st/)」にコメンテーターとして出演します。
 * 12月1日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 11月20日（金）にPIVOTにてEDUCATION SKILL SET「[【詰め込み式教育の価値が暴落】賢い親たちの結論](https://pivotmedia.co.jp/movie/15264)」が公開されました。YouTube動画は[こちら](https://www.youtube.com/watch?v=Sq3CfYudcOg)です。
+* 11月20日（金）に内閣府「国家戦略特区ワーキンググループ」区域会議に委員としてオンライン出席します。
 * 11月19日（木）に総務省「電波有効利用委員会」（第16回）に委員としてオンライン出席します。
 * 11月18日（水）にGRIPSランチタイムセミナー（[11月開催分](https://www.grips.ac.jp/en/seminars/20261102-00628/)）にオーガナイザー兼モデレーターとして参加します。
 * 11月17日（火）に関西テレビ「[newsランナー](https://www.ktv.jp/runner/)」にコメンテーターとして出演します。
+* 11月17日（火）に内閣府「国家戦略特区ワーキンググループ」定例会議に委員としてオンライン出席します。
 * 11月14日（土）に信託協会「信託経済コンファレンス」に委員として出席します。
 * 11月14日（土）に[金融財政事情研究会](https://www.kinzai.or.jp/)が主催する第17期「金融経営塾」に講師として登壇します。
 * 11月12日（木）にNTT持株会社「各産業分野における競争戦略の在り方に関する研究会」（第2回・オンライン開催）に委員として出席します。
@@ -395,6 +399,7 @@ author_profile: true
 
 **その他の動画**
 
+* 【詰め込み式教育の価値が暴落】賢い親たちの結論, PIVOT, 2026年11月20日.  [PIVOT](https://pivotmedia.co.jp/movie/15264), [YouTube](https://www.youtube.com/watch?v=Sq3CfYudcOg)
 * BS11「報道ライブ インサイドOUT」, 2026年10月16日.  [YouTube](https://www.youtube.com/watch?v=tlAY40_QcdU)
 * 速報解説：ノーベル経済学賞2026, PIVOT, 2026年10月14日.  [YouTube](https://www.youtube.com/watch?v=J7uZDVVY3io)
 * 滅多に表に出ないPEファンドのリアル（EQT社提供）, PIVOT, 2026年9月28日.  [YouTube](https://www.youtube.com/watch?v=NZfDWQjbyxw)
